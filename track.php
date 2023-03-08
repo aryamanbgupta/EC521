@@ -3,9 +3,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
   // Get the data from the form
-  $key = $_POST["payload"];
-  echo "$key"
-
+  $key = $_POST["data"];
 
   // Create a new file with a unique name
   $filename =  "details.txt";
