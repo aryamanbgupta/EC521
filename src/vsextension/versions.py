@@ -2,6 +2,7 @@ from typing import AnyStr
 
 
 class Version:
+    """Represents a version of an extension"""
     VERSION = "version"
     LAST_UPDATED = "lastUpdated"
 

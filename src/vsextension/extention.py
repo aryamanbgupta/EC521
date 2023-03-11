@@ -5,6 +5,7 @@ from src.vsextension.versions import Version
 
 
 class Extension:
+    """Represents an extension"""
     def __init__(
         self,
         publisher: Publisher,
@@ -27,9 +28,11 @@ class Extension:
         ]
 
     def get_vsix_download_url(self):
+        """Returns the download url for the vsix file"""
         return f"https://marketplace.visualstudio.com/_apis/public/gallery/publishers/{self.publisher.publisher_name}/vsextensions/{self.extension_name}/{self.version}/vspackage"
 
     def download(self):
+        """Downloads the vsix file"""
         # TODO: (Shubham) Download the vsix file and save it at some location
         pass
 

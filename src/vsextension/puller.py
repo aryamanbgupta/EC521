@@ -7,6 +7,7 @@ from src.vsextension.publisher import Publisher
 
 
 class VSExtensionPuller:
+    """Pulls extensions from the marketplace"""
     url = "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
     payload = json.dumps(
         {
@@ -36,6 +37,7 @@ class VSExtensionPuller:
     }
 
     def pull(self, keyword) -> List[Extension]:
+        """Pulls extensions from the marketplace"""
         payload = self.payload % keyword
         response = requests.request(
             "POST", self.url, headers=self.headers, data=payload
@@ -43,6 +45,7 @@ class VSExtensionPuller:
         return self.__parse(json.loads(response.text))
 
     def __parse(self, response: Dict) -> List[Extension]:
+        """Parses the response from the marketplace"""
         if "results" not in response:
             return []
 
