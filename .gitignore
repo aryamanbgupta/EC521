@@ -1,0 +1,14 @@
+# .idea
+*/.idea/*
+
+# .vscode
+*/.vscode/*
+
+# .vs
+*/.vs/*
+
+# venv and env
+*/venv/*
+
+# __pycache__
+*/__pycache__/*
