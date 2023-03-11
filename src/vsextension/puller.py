@@ -1,6 +1,6 @@
-from typing import List, Dict
+from typing import List, Dict, AnyStr
 import json
-import requests
+from httpx import AsyncClient
 
 from src.vsextension.extention import Extension
 from src.vsextension.publisher import Publisher
@@ -9,6 +9,7 @@ from src.vsextension.publisher import Publisher
 class VSExtensionPuller:
     """Pulls extensions from the marketplace"""
 
+    client = AsyncClient()
     url = "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
     payload = json.dumps(
         {
@@ -37,15 +38,18 @@ class VSExtensionPuller:
         "Content-Type": "application/json",
     }
 
-    def pull(self, keyword) -> List[Extension]:
+    async def pull(self, keywords: List[AnyStr]) -> List[Extension]:
         """Pulls extensions from the marketplace"""
-        payload = self.payload % keyword
-        response = requests.request(
-            "POST", self.url, headers=self.headers, data=payload
-        )
-        return self.__parse(json.loads(response.text))
+        extensions: List[Extension] = list()
 
-    def __parse(self, response: Dict) -> List[Extension]:
+        for keyword in (keyword for keyword in keywords):
+            payload = self.payload % keyword
+            response = await self.client.post(self.url, headers=self.headers, data=payload)
+            extensions.extend(await self.__parse(json.loads(response.text)))
+
+        return extensions
+
+    async def __parse(self, response: Dict) -> List[Extension]:
         """Parses the response from the marketplace"""
         if "results" not in response:
             return []
