@@ -6,3 +6,5 @@ if __name__ == "__main__":
 
     for extension in extensions:
         print(str(extension))
+        if extension.extension_name == "hq-live-server":
+            extension.download()

@@ -8,6 +8,7 @@ from src.vsextension.publisher import Publisher
 
 class VSExtensionPuller:
     """Pulls extensions from the marketplace"""
+
     url = "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
     payload = json.dumps(
         {
