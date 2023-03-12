@@ -12,3 +12,24 @@
 
 # __pycache__
 */__pycache__/*
+
+# .pytest_cache
+*/.pytest_cache/*
+
+# .mypy_cache
+*/.mypy_cache/*
+
+# .coverage
+*/.coverage
+
+# .cache
+*/.cache/*
+
+# .DS_Store
+*/.DS_Store
+
+# .ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# .pickle
+*/.pickle

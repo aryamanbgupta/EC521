@@ -44,7 +44,9 @@ class VSExtensionPuller:
 
         for keyword in (keyword for keyword in keywords):
             payload = self.payload % keyword
-            response = await self.client.post(self.url, headers=self.headers, data=payload)
+            response = await self.client.post(
+                self.url, headers=self.headers, data=payload
+            )
             extensions.extend(await self.__parse(json.loads(response.text)))
 
         return extensions
