@@ -21,11 +21,13 @@ async def download_extensions(all_extensions: List[Extension]):
 
 async def debug_extension(vscode_process: VSProcess, extension: Extension):
     """Install extension in vscode and run tests on it"""
-    # await extension.install()
+    await extension.install()
+    await extension.unzip()
     # TODO: Run tests on extension
 
-    # await asyncio.wait([asyncio.sleep(5)])
+    await asyncio.wait([asyncio.sleep(15)])
     await extension.uninstall()
+    await extension.cleanup()
 
 
 async def debug_extensions(all_extensions: List[Extension]):
@@ -34,8 +36,10 @@ async def debug_extensions(all_extensions: List[Extension]):
 
     try:
         # await vscode_process.start()
+        tasks = list()
         for extension in all_extensions:
-            await debug_extension(vscode_process, extension)
+            tasks.append(debug_extension(vscode_process, extension))
+        await asyncio.gather(*tasks)
     finally:
         # await asyncio.wait([asyncio.sleep(5)])
         # await vscode_process.kill()

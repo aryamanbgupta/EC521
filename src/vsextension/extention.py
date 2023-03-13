@@ -1,8 +1,9 @@
-import json
+import shutil
 import traceback
 from pathlib import Path
 from typing import AnyStr
 import asyncio
+from zipfile import ZipFile
 
 import aiofiles
 from httpx import AsyncClient
@@ -15,6 +16,7 @@ class Extension:
     """Represents an extension"""
 
     DOWNLOAD_LOCATION = Path(__file__).parent.parent.joinpath("downloads")
+    UNZIP_LOCATION = Path(__file__).parent.parent.joinpath("unzipped")
     TIMEOUT = 160
     client = AsyncClient()
 
@@ -45,7 +47,7 @@ class Extension:
         return self.versions[0].version if len(self.versions) > 0 else ""
 
     @property
-    def full_path(self):
+    def __path(self):
         return Path.joinpath(
             self.DOWNLOAD_LOCATION,
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}.vsix",
@@ -109,7 +111,7 @@ class Extension:
             f"Installing extension {self.extension_name} by {self.publisher.publisher_name}"
         )
         subp = await asyncio.create_subprocess_shell(
-            f"code --install-extension {self.full_path}",
+            f"code --install-extension {self.__path}",
             stdout=asyncio.subprocess.PIPE,
             stderr=asyncio.subprocess.PIPE,
             stdin=asyncio.subprocess.PIPE,
@@ -152,6 +154,33 @@ class Extension:
         except Exception as e:
             print("Exception uninstalling extension")
             print(traceback.print_exc())
+
+    async def unzip(self):
+        """Unzips the vsix file"""
+        print(f"Unzipping extension... {self.extension_name}")
+        extension_dir = Path.joinpath(
+            self.UNZIP_LOCATION,
+            f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
+        )
+
+        if not extension_dir.exists():
+            extension_dir.mkdir(parents=True, exist_ok=True)
+
+        with ZipFile(self.__path, "r") as zip_ref:
+            zip_ref.extractall(extension_dir)
+
+        print(f"Unzipped extension... {self.extension_name} into {extension_dir}")
+        return extension_dir
+
+    async def cleanup(self):
+        """Cleans up the unzipped directory"""
+        print(f"Cleaning up... {self.extension_name}")
+        extension_dir = Path.joinpath(
+            self.UNZIP_LOCATION,
+            f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
+        )
+        shutil.rmtree(extension_dir)
+        print(f"Cleaned up... {self.extension_name}")
 
     def __str__(self):
         return f"Extension: {self.extension_name} by {self.publisher.publisher_name}"
