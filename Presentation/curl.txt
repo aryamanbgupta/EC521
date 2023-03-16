@@ -1,0 +1,11 @@
+curl --path-as-is 'http://10.0.0.152:8080/../index1.html' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: np_userId=6823ba17cb403ce9f1ed29880e738fc; _gcl_au=1.1.2049404514.1678303426; _fbp=fb.3.1678303425960.1052651813; _ga=GA1.1.251076546.1678303426; amplitude_id_878f4709123a5451aff838c1f870b84910.0.0.152=eyJkZXZpY2VJZCI6IjA3ZWQyOTQ2LWU3ZjUtNDBjMC05N2FmLTQ4MzBmZTUwZjY4NFIiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY3ODMxMzA3NDE5MiwibGFzdEV2ZW50VGltZSI6MTY3ODMxMzA3NDE5MiwiZXZlbnRJZCI6MCwiaWRlbnRpZnlJZCI6MCwic2VxdWVuY2VOdW1iZXIiOjB9' \
+  -H 'Pragma: no-cache' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36' \
+  --compressed \
+  --insecure
