@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="28" tests="28" time="0.0">
+	<testsuite disabled="0" errors="0" failures="28" name="semgrep results" skipped="0" tests="28" time="0">
+		<testcase name="javascript.lang.security.audit.spawn-shell-true.spawn-shell-true" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/builder.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/builder.js" line="239">
+			<failure type="ERROR" message="Found '$SPAWN' with '{shell: true}'. This is dangerous because this call will spawn the command using a shell process. Doing so propagates current shell settings and variables, which makes it much easier for a malicious actor to execute commands. Use '{shell: false}' instead.">                this.process = cs.spawn(`${step.command} ${args[0]}`, [], { cwd, env, shell: true });
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/snippetview.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/snippetview.js" line="30">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">        document.querySelector('#Symbols .header select').innerHTML = mathSymbolCategories
+            .map(category =&gt; `&lt;option&gt;${category}&lt;/option&gt;`)
+            .join('\n');
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/snippetview.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/snippetview.js" line="38">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    symbolDiv.innerHTML = mathSymbol.svg;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/viewer/latexworkshop.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/viewer/latexworkshop.js" line="600">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">        window.addEventListener('message', (e) =&gt; {
+            const data = e.data;
+            if (!data.type) {
+                console.log('LateXWorkshopPdfViewer received a message of unknown type: ' + JSON.stringify(data));
+                return;
+            }
+            switch (data.type) {
+                case 'restore_state': {
+                    if (data.state.kind !== 'not_stored') {
+                        __classPrivateFieldGet(this, _LateXWorkshopPdfViewer_restoredState, &quot;f&quot;).resolve(data.state);
+                    }
+                    else {
+                        __classPrivateFieldGet(this, _LateXWorkshopPdfViewer_restoredState, &quot;f&quot;).resolve(undefined);
+                    }
+                    break;
+                }
+                default: {
+                    break;
+                }
+            }
+        });
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/mathpreviewpanel/mathpreview.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/mathpreviewpanel/mathpreview.js" line="3">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">window.addEventListener('message', event =&gt; {
+  const message = event.data;
+  switch (message.type) {
+    case &quot;mathImage&quot;: {
+      img.src = message.src;
+      break;
+    }
+    default: {
+      break;
+    }
+  }
+});
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/pdfrenderer.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/resources/snippetview/pdfrenderer.js" line="1">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">window.addEventListener('message', async (event) =&gt; {
+    const message = event.data;
+    if (message.type !== 'pdf') {
+        return
+    }
+    try {
+        const canvas = await renderPdfFile(message.uri, message.opts);
+        vscodeApi.postMessage({
+            type: 'png',
+            uri: message.uri,
+            data: canvas.toDataURL()
+        })
+    } catch (e) {
+        vscodeApi.postMessage({
+            type: 'png',
+            uri: message.uri,
+            data: undefined
+        })
+        throw(e)
+    }
+})
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.wildcard-postmessage-configuration.wildcard-postmessage-configuration" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/viewer/latexworkshop.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/viewer/latexworkshop.js" line="547">
+			<failure type="WARNING" message="The target origin of the window.postMessage() API is set to &quot;*&quot;. This could allow for information disclosure due to the possibility of any origin allowed to receive the message.">        window.parent?.postMessage(msg, '*');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.insecure-object-assign.insecure-object-assign" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/completion.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/completion.js" line="74">
+			<failure type="WARNING" message="Depending on the context, user control data in `Object.assign` can cause web response to include data that it should not have or can lead to a mass assignment vulnerability.">        Object.assign(maths, cmds);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/envpair.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/envpair.js" line="50">
+			<failure type="WARNING" message="RegExp() called with a `beginOrEnd` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const re = new RegExp('^' + beginOrEnd + '\\{([^\\{\\}]*)\\}');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/envpair.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/envpair.js" line="92">
+			<failure type="WARNING" message="RegExp() called with a `pattern` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const patRegexp = new RegExp(pattern, 'g');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/parser/biblogparser.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/parser/biblogparser.js" line="51">
+			<failure type="WARNING" message="RegExp() called with a `regexp` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">            excludeRegexp = configuration.get('message.bibtexlog.exclude').map(regexp =&gt; RegExp(regexp));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/parser/latexlog.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/parser/latexlog.js" line="87">
+			<failure type="WARNING" message="RegExp() called with a `regexp` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">            excludeRegexp = configuration.get('message.latexlog.exclude').map(regexp =&gt; RegExp(regexp));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/section.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/section.js" line="115">
+			<failure type="WARNING" message="RegExp() called with a `levels` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const regex = new RegExp(pattern);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/section.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/section.js" line="136">
+			<failure type="WARNING" message="RegExp() called with a `levels` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const regex = new RegExp(pattern);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/texdoc.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/components/texdoc.js" line="58">
+			<failure type="WARNING" message="RegExp() called with a `pkg` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">                const regex = new RegExp(`(no documentation found)|(Documentation for ${pkg} could not be found)`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" line="39">
+			<failure type="WARNING" message="RegExp() called with a `token` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const regexInput = new RegExp(`\\\\(?:include|input|subfile)\\{${escapedToken}\\}`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" line="40">
+			<failure type="WARNING" message="RegExp() called with a `token` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const regexImport = new RegExp(`\\\\(?:sub)?(?:import|includefrom|inputfrom)\\*?\\{([^\\}]*)\\}\\{${escapedToken}\\}`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/definition.js" line="41">
+			<failure type="WARNING" message="RegExp() called with a `token` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const regexDocumentclass = new RegExp(`\\\\(?:documentclass)(?:\\[[^[]]*\\])?\\{${escapedToken}\\}`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/folding.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/folding.js" line="33">
+			<failure type="WARNING" message="RegExp() called with a `section` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        this.sectionRegex = sections.map(section =&gt; RegExp(`\\\\(?:${section})(?:\\*)?(?:\\[[^\\[\\]\\{\\}]*\\])?{(.*)}`, 'm'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/preview/mathpreviewlib/texmathenvfinder.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/preview/mathpreviewlib/texmathenvfinder.js" line="51">
+			<failure type="WARNING" message="RegExp() called with a `token` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const pat = new RegExp('\\\\label\\{' + utils.escapeRegExp(token) + '\\}');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/preview/mathpreviewlib/texmathenvfinder.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/preview/mathpreviewlib/texmathenvfinder.js" line="145">
+			<failure type="WARNING" message="RegExp() called with a `envname` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">        const pattern = new RegExp('\\\\end\\{' + utils.escapeRegExp(envname) + '\\}');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/tokenizer.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/providers/tokenizer.js" line="108">
+			<failure type="WARNING" message="RegExp() called with a `token` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">    const regex = new RegExp(`\\\\usepackage(?:\\[[^\\[\\]\\{\\}]*\\])?\\{[\\w,]*${escapedToken}[\\w,]*\\}`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/utils/utils.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/utils/utils.js" line="105">
+			<failure type="WARNING" message="RegExp() called with a `envs` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">    const reg = RegExp(pattern, 'gms');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/utils/utils.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/out/src/utils/utils.js" line="182">
+			<failure type="WARNING" message="RegExp() called with a `command` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">    const regex = new RegExp('\\' + command + '{', 'g');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" line="5121">
+			<failure type="WARNING" message="RegExp() called with a `pageIndex` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">      query = new RegExp(query, flags);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" line="5158">
+			<failure type="INFO" message="Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.">            console.error(`Unable to get text content for page ${i + 1}`, reason);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.js" line="8577">
+			<failure type="INFO" message="Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.">              console.error(`Unable to get page ${pageNum} to initialize viewer`, reason);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-insecure-websocket.detect-insecure-websocket" classname="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.html" file="/Users/zta/Documents/EC521/src/unzipped/manhen-latex-workshop-2-9.0.1/extension/viewer/viewer.html" line="28">
+			<failure type="ERROR" message="Insecure WebSocket Detected. WebSocket Secure (wss) should be used for all WebSocket connections.">    &lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src 'self'; base-uri 'none'; connect-src 'self' ws://127.0.0.1:*; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:;&quot;&gt;
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

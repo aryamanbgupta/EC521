@@ -1,0 +1,138 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/tberman-json-schema-validator-0.1.0...
+
+Tested 87 dependencies for known issues, found 35 issues, 38 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade ajv@4.7.0 to ajv@6.12.3 to fix
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@4.7.0
+    introduced by ajv@4.7.0
+
+  Upgrade json-schema-ref-parser@3.1.2 to json-schema-ref-parser@4.0.2 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-VALIDATOR-1090599] in validator@5.6.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > validator@5.6.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-VALIDATOR-1090600] in validator@5.6.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > validator@5.6.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-VALIDATOR-1090601] in validator@5.6.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > validator@5.6.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-VALIDATOR-1090602] in validator@5.6.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > validator@5.6.0
+
+
+Patchable issues:
+
+  Patch available for debug@2.2.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:debug:20170905] in debug@2.2.0
+    introduced by json-schema-ref-parser@3.1.2 > debug@2.2.0
+
+  Patch available for extend@3.0.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/npm:extend:20180424] in extend@3.0.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > extend@3.0.0
+
+  Patch available for hoek@2.16.3
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/npm:hoek:20180212] in hoek@2.16.3
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > hawk@3.1.3 > hoek@2.16.3 and 3 other path(s)
+
+  Patch available for lodash@4.15.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+
+  Patch available for ms@0.7.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:ms:20170412] in ms@0.7.1
+    introduced by json-schema-ref-parser@3.1.2 > debug@2.2.0 > ms@0.7.1
+
+  Patch available for qs@6.2.1
+  ✗ Prototype Override Protection Bypass [High Severity][https://security.snyk.io/vuln/npm:qs:20170213] in qs@6.2.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > qs@6.2.1
+
+  Patch available for stringstream@0.0.5
+  ✗ Uninitialized Memory Exposure [Medium Severity][https://security.snyk.io/vuln/npm:stringstream:20180511] in stringstream@0.0.5
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > stringstream@0.0.5
+
+  Patch available for tough-cookie@2.3.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/npm:tough-cookie:20170905] in tough-cookie@2.3.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > tough-cookie@2.3.1
+
+  Patch available for tunnel-agent@0.4.3
+  ✗ Uninitialized Memory Exposure [Medium Severity][https://security.snyk.io/vuln/npm:tunnel-agent:20170305] in tunnel-agent@0.4.3
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > tunnel-agent@0.4.3
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-ASYNC-2441827] in async@2.0.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1
+  This issue was fixed in versions: 2.6.4, 3.2.2
+  ✗ Remote Memory Exposure [High Severity][https://security.snyk.io/vuln/SNYK-JS-BL-608877] in bl@1.1.2
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > bl@1.1.2
+  This issue was fixed in versions: 2.2.1, 3.0.1, 4.0.3, 1.2.3
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-HAWK-2808852] in hawk@3.1.3
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > hawk@3.1.3
+  This issue was fixed in versions: 9.0.1
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ISMYJSONVALID-597165] in is-my-json-valid@2.13.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > har-validator@2.0.6 > is-my-json-valid@2.13.1
+  This issue was fixed in versions: 2.20.2
+  ✗ Arbitrary Code Execution [High Severity][https://security.snyk.io/vuln/SNYK-JS-ISMYJSONVALID-597167] in is-my-json-valid@2.13.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > har-validator@2.0.6 > is-my-json-valid@2.13.1
+  This issue was fixed in versions: 2.20.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:is-my-json-valid:20180214] in is-my-json-valid@2.13.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > har-validator@2.0.6 > is-my-json-valid@2.13.1
+  This issue was fixed in versions: 1.4.1, 2.17.2
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-1577288] in jsonpointer@2.0.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > har-validator@2.0.6 > is-my-json-valid@2.13.1 > jsonpointer@2.0.0
+  This issue was fixed in versions: 5.0.0
+  ✗ Prototype Pollution [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-598804] in jsonpointer@2.0.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > har-validator@2.0.6 > is-my-json-valid@2.13.1 > jsonpointer@2.0.0
+  This issue was fixed in versions: 4.1.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSONSCHEMA-1920922] in json-schema@0.2.2
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > http-signature@1.1.1 > jsprim@1.3.0 > json-schema@0.2.2
+  This issue was fixed in versions: 0.4.0
+  ✗ Denial of Service (DoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSYAML-173999] in js-yaml@3.6.1
+    introduced by json-schema-ref-parser@3.1.2 > js-yaml@3.6.1
+  This issue was fixed in versions: 3.13.0
+  ✗ Arbitrary Code Execution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSYAML-174129] in js-yaml@3.6.1
+    introduced by json-schema-ref-parser@3.1.2 > js-yaml@3.6.1
+  This issue was fixed in versions: 3.13.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-450202] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.12
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.17
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73638] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.11
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73639] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.11
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/npm:lodash:20180130] in lodash@4.15.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > form-data@1.0.1 > async@2.0.1 > lodash@4.15.0
+  This issue was fixed in versions: 4.17.5
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.2.1
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > qs@6.2.1
+  This issue was fixed in versions: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:validator:20180218] in validator@5.6.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > validator@5.6.0
+  This issue was fixed in versions: 9.4.1
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:sshpk:20180409] in sshpk@1.10.0
+    introduced by json-schema-ref-parser@3.1.2 > z-schema@3.17.0 > request@2.74.0 > http-signature@1.1.1 > sshpk@1.10.0
+  This issue was fixed in versions: 1.14.1
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      json-schema-validator
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/tberman-json-schema-validator-0.1.0
+Licenses:          enabled
+
+

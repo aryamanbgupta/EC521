@@ -1,0 +1,48 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/ziyasal-vscode-open-in-github-1.3.6...
+
+Tested 13 dependencies for known issues, found 10 issues, 10 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade git-url-parse@6.2.2 to git-url-parse@13.0.0 to fix
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-3023021] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+  ✗ Improper Input Validation [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-3024398] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+  ✗ Cross-site Scripting (XSS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-2935944] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-2935947] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+  ✗ Cross-site Scripting (XSS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-2942134] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+  ✗ Server-side Request Forgery (SSRF) [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-PARSEURL-2936249] in parse-url@1.3.7
+    introduced by git-url-parse@6.2.2 > git-up@2.0.8 > parse-url@1.3.7
+
+  Upgrade open@0.0.5 to open@6.0.0 to fix
+  ✗ Arbitrary Command Injection [High Severity][https://security.snyk.io/vuln/npm:open:20180512] in open@0.0.5
+    introduced by open@0.0.5
+  ✗ Arbitrary Code Injection [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-OPEN-174041] in open@0.0.5
+    introduced by open@0.0.5
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-INI-1048974] in ini@1.3.4
+    introduced by parse-git-config@0.3.2 > ini@1.3.4
+  This issue was fixed in versions: 1.3.6
+  ✗ Insecure use of Tmp files [Medium Severity][https://security.snyk.io/vuln/npm:sync-exec:20160124] in sync-exec@0.6.2
+    introduced by copy-paste@1.3.0 > sync-exec@0.6.2
+  No upgrade or patch available
+
+
+
+Organization:      timzhun
+Package manager:   yarn
+Target file:       extension/yarn.lock
+Project name:      vscode-open-in-github
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/ziyasal-vscode-open-in-github-1.3.6
+Licenses:          enabled
+
+

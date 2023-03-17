@@ -1,0 +1,18 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/hoonoh-vscode-slonik-live-server-1.0.14...
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      vscode-slonik-live-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/hoonoh-vscode-slonik-live-server-1.0.14
+Licenses:          enabled
+
+✔ Tested 93 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+

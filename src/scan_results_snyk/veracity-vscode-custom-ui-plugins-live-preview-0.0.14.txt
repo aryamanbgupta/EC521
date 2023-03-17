@@ -1,0 +1,31 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/veracity-vscode-custom-ui-plugins-live-preview-0.0.14...
+
+Tested 376 dependencies for known issues, found 4 issues, 6 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.2.1
+    introduced by @babel/core@7.18.10 > json5@2.2.1 and 2 other path(s)
+  This issue was fixed in versions: 1.0.2, 2.2.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3042992] in loader-utils@2.0.2
+    introduced by babel-loader@8.2.5 > loader-utils@2.0.2
+  This issue was fixed in versions: 1.4.2, 2.0.4, 3.2.1
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3043105] in loader-utils@2.0.2
+    introduced by babel-loader@8.2.5 > loader-utils@2.0.2
+  This issue was fixed in versions: 1.4.1, 2.0.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3105943] in loader-utils@2.0.2
+    introduced by babel-loader@8.2.5 > loader-utils@2.0.2
+  This issue was fixed in versions: 1.4.2, 2.0.4, 3.2.1
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/emulator/package-lock.json
+Project name:      emulator
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/veracity-vscode-custom-ui-plugins-live-preview-0.0.14
+Licenses:          enabled
+
+

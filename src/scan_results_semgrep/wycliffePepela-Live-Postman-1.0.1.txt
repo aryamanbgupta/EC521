@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="11" tests="11" time="0.0">
+	<testsuite disabled="0" errors="0" failures="11" name="semgrep results" skipped="0" tests="11" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" line="221">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">				mw = require(path.join(__dirname, &quot;middleware&quot;, mw + &quot;.js&quot;));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" line="245">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">		var mountPath = path.resolve(process.cwd(), mountRule[1]);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" line="270">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">			httpsConfig = require(path.resolve(process.cwd(), https));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" line="26">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const testPath = path.join(workSpacePath, Config.getRoot);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" line="91">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                ignoreFiles.push(path.join(workspacePath, ignoredPath));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" line="91">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                ignoreFiles.push(path.join(workspacePath, ignoredPath));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" line="104">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                mountRule[1] = path.resolve(workspacePath, mountRule[1]);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/src/Helper.ts" line="104">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                mountRule[1] = path.resolve(workspacePath, mountRule[1]);
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" line="275">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">		server = http.createServer(app);
+</failure>
+		</testcase>
+		<testcase name="javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/index.js" line="260">
+			<failure type="WARNING" message="Directory listing/indexing is enabled, which may lead to disclosure of sensitive directories and files. It is recommended to disable directory listing unless it is a public resource. If you need directory listing, ensure that sensitive files are inaccessible when querying the resource.">	app.use(staticServerHandler) // Custom static server
+		.use(entryPoint(staticServerHandler, file))
+		.use(serveIndex(root, {
+			icons: true
+		}));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-insecure-websocket.detect-insecure-websocket" classname="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/injected.html" file="/Users/zta/Documents/EC521/src/unzipped/wycliffePepela-Live-Postman-1.0.1/extension/lib/live-server/injected.html" line="21">
+			<failure type="ERROR" message="Insecure WebSocket Detected. WebSocket Secure (wss) should be used for all WebSocket connections.">			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

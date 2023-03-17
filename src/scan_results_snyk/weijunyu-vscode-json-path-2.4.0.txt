@@ -1,0 +1,23 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/weijunyu-vscode-json-path-2.4.0...
+
+Tested 19 dependencies for known issues, found 1 issue, 1 vulnerable path.
+
+
+Issues to fix by upgrading:
+
+  Upgrade jsonpath@1.0.2 to jsonpath@1.1.1 to fix
+  ✗ Arbitrary Code Injection [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-UNDERSCORE-1080984] in underscore@1.7.0
+    introduced by jsonpath@1.0.2 > underscore@1.7.0
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      vscode-json-path
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/weijunyu-vscode-json-path-2.4.0
+Licenses:          enabled
+
+

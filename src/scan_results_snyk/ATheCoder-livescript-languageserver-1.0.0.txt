@@ -1,0 +1,58 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0...
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      livescript-languageserver
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0
+Licenses:          enabled
+
+✔ Tested /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0 for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0...
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      lsp-sample-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0
+Licenses:          enabled
+
+✔ Tested 5 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0...
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/server/package-lock.json
+Project name:      ls-language-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/ATheCoder-livescript-languageserver-1.0.0
+Licenses:          enabled
+
+✔ Tested 17 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+
+Tested 3 projects, no vulnerable paths were found.
+
+
+

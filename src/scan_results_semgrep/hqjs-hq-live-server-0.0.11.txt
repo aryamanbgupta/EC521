@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="4" tests="4" time="0.0">
+	<testsuite disabled="0" errors="0" failures="4" name="semgrep results" skipped="0" tests="4" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" file="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" line="46">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                .map(relative =&gt; new FileItem(Uri.file(cwd), Uri.file(path.join(cwd, relative)))));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" file="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" line="46">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                .map(relative =&gt; new FileItem(Uri.file(cwd), Uri.file(path.join(cwd, relative)))));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" file="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" line="54">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            resolve(path.resolve(item.description, item.label).slice(1));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" file="/Users/zta/Documents/EC521/src/unzipped/hqjs-hq-live-server-0.0.11/extension/file-picker.js" line="54">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            resolve(path.resolve(item.description, item.label).slice(1));
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

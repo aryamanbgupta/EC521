@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="6" tests="6" time="0.0">
+	<testsuite disabled="0" errors="0" failures="6" name="semgrep results" skipped="0" tests="6" time="0">
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/jsoneditor/main.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/jsoneditor/main.js" line="20">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">window.addEventListener('message', event =&gt; {
+    const message = event.data; // The JSON data our extension sent
+    const json = JSON.parse(message.json);
+    editor.update(json);
+});
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" line="14">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                vscode.Uri.file(path.join(this._extensionPath, 'jsoneditor'))
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" line="72">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const mainScriptPathOnDisk = vscode.Uri.file(path.join(extensionPath, 'jsoneditor', 'main.js'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" line="74">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const scriptPathOnDisk = vscode.Uri.file(path.join(extensionPath, 'jsoneditor', 'jsoneditor.min.js'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" line="76">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const cssPathOnDisk = vscode.Uri.file(path.join(extensionPath, 'jsoneditor', 'jsoneditor.min.css'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" file="/Users/zta/Documents/EC521/src/unzipped/nickdemayo-vscode-json-editor-0.3.0/extension/out/src/JsonEditorPanel.js" line="78">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const cssDarkPathOnDisk = vscode.Uri.file(path.join(extensionPath, 'jsoneditor', 'jsoneditor.dark.min.css'));
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

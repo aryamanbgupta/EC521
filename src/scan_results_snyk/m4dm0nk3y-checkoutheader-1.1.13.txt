@@ -1,0 +1,25 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/m4dm0nk3y-checkoutheader-1.1.13...
+
+Tested 1 dependencies for known issues, found 2 issues, 2 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade moment@2.24.0 to moment@2.29.4 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-MOMENT-2944238] in moment@2.24.0
+    introduced by moment@2.24.0
+  ✗ Directory Traversal [High Severity][https://security.snyk.io/vuln/SNYK-JS-MOMENT-2440688] in moment@2.24.0
+    introduced by moment@2.24.0
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      checkoutheader
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/m4dm0nk3y-checkoutheader-1.1.13
+Licenses:          enabled
+
+

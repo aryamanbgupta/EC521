@@ -1,0 +1,60 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/gaogeek-proxy-0.1.4...
+
+Tested 167 dependencies for known issues, found 11 issues, 24 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade express@4.17.1 to express@4.17.3 to fix
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.7.0
+    introduced by express@4.17.1 > qs@6.7.0 and 1 other path(s)
+
+
+Patchable issues:
+
+  Patch available for lodash@4.17.15
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@4.17.15
+    introduced by http-proxy-middleware@0.19.2 > lodash@4.17.15 and 1 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-ASYNC-2441827] in async@2.6.3
+    introduced by portfinder@1.0.26 > async@2.6.3
+  This issue was fixed in versions: 2.6.4, 3.2.2
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-DECODEURICOMPONENT-3149970] in decode-uri-component@0.2.0
+    introduced by http-proxy-middleware@0.19.2 > micromatch@3.1.10 > snapdragon@0.8.2 > source-map-resolve@0.5.3 > decode-uri-component@0.2.0 and 4 other path(s)
+  This issue was fixed in versions: 0.2.2
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-2332181] in follow-redirects@1.11.0
+    introduced by http-proxy-middleware@0.19.2 > http-proxy@1.18.1 > follow-redirects@1.11.0
+  This issue was fixed in versions: 1.14.7
+  ✗ Information Exposure [Low Severity][https://security.snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-2396346] in follow-redirects@1.11.0
+    introduced by http-proxy-middleware@0.19.2 > http-proxy@1.18.1 > follow-redirects@1.11.0
+  This issue was fixed in versions: 1.14.8
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.17.15
+    introduced by http-proxy-middleware@0.19.2 > lodash@4.17.15 and 1 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.17.15
+    introduced by http-proxy-middleware@0.19.2 > lodash@4.17.15 and 1 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.17.15
+    introduced by http-proxy-middleware@0.19.2 > lodash@4.17.15 and 1 other path(s)
+  This issue was fixed in versions: 4.17.17
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by portfinder@1.0.26 > mkdirp@0.5.5 > minimist@1.2.5
+  This issue was fixed in versions: 1.2.6
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-UNSETVALUE-2400660] in unset-value@1.0.0
+    introduced by http-proxy-middleware@0.19.2 > micromatch@3.1.10 > snapdragon@0.8.2 > base@0.11.2 > cache-base@1.0.1 > unset-value@1.0.0 and 4 other path(s)
+  This issue was fixed in versions: 2.0.1
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      proxy
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/gaogeek-proxy-0.1.4
+Licenses:          enabled
+
+

@@ -1,0 +1,41 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/jeffalo-lived-0.4.5...
+
+Tested 161 dependencies for known issues, found 6 issues, 9 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade express@4.17.1 to express@4.17.3 to fix
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.7.0
+    introduced by express@4.17.1 > qs@6.7.0 and 2 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSONSCHEMA-1920922] in json-schema@0.2.3
+    introduced by jsdom@16.4.0 > request@2.88.2 > http-signature@1.2.0 > jsprim@1.4.1 > json-schema@0.2.3
+  This issue was fixed in versions: 0.4.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.17.20
+    introduced by jsdom@16.4.0 > request-promise-native@1.0.9 > request-promise-core@1.1.4 > lodash@4.17.20
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.17.20
+    introduced by jsdom@16.4.0 > request-promise-native@1.0.9 > request-promise-core@1.1.4 > lodash@4.17.20
+  This issue was fixed in versions: 4.17.21
+  ✗ Denial of Service (DoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NWSAPI-2841516] in nwsapi@2.2.0
+    introduced by jsdom@16.4.0 > nwsapi@2.2.0
+  This issue was fixed in versions: 2.2.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-WS-1296835] in ws@7.4.2
+    introduced by express-ws@4.0.0 > ws@5.2.2 and 1 other path(s)
+  This issue was fixed in versions: 7.4.6, 6.2.2, 5.2.3
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      lived
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/jeffalo-lived-0.4.5
+Licenses:          enabled
+
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/rioj7-vscode-json-validate-1.4.3/extension/vscode-json-validate.js" file="/Users/zta/Documents/EC521/src/unzipped/rioj7-vscode-json-validate-1.4.3/extension/vscode-json-validate.js" line="359">
+			<failure type="WARNING" message="RegExp() called with a `block` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">    return new RegExp(prop, 'i').test(propGet(document));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Documents/EC521/src/unzipped/rioj7-vscode-json-validate-1.4.3/extension/vscode-json-validate.js" file="/Users/zta/Documents/EC521/src/unzipped/rioj7-vscode-json-validate-1.4.3/extension/vscode-json-validate.js" line="359">
+			<failure type="WARNING" message="RegExp() called with a `propId` function argument, this might  allow an attacker to cause a Denial of Service (DoS)  within your application as RegExP which blocks the main thread.">    return new RegExp(prop, 'i').test(propGet(document));
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

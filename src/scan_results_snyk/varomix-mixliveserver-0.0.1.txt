@@ -1,0 +1,90 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/varomix-mixliveserver-0.0.1...
+
+Tested 95 dependencies for known issues, found 18 issues, 27 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade live-server@1.0.0 to live-server@1.2.1 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:debug:20170905] in debug@2.2.0
+    introduced by live-server@1.0.0 > connect@3.4.1 > debug@2.2.0 and 4 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:ms:20170412] in ms@0.7.1
+    introduced by live-server@1.0.0 > send@0.13.2 > ms@0.7.1 and 5 other path(s)
+  ✗ Insecure Randomness [Medium Severity][https://security.snyk.io/vuln/npm:node-uuid:20160328] in node-uuid@1.4.1
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > node-uuid@1.4.1
+
+
+Patchable issues:
+
+  Patch available for debug@2.2.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:debug:20170905] in debug@2.2.0
+    introduced by live-server@1.0.0 > connect@3.4.1 > debug@2.2.0 and 4 other path(s)
+
+  Patch available for mime@1.3.4
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:mime:20170907] in mime@1.3.4
+    introduced by live-server@1.0.0 > send@0.13.2 > mime@1.3.4
+
+  Patch available for minimatch@3.0.0
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:minimatch:20160620] in minimatch@3.0.0
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > rimraf@2.5.2 > glob@7.0.3 > minimatch@3.0.0
+
+  Patch available for ms@0.7.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:ms:20170412] in ms@0.7.1
+    introduced by live-server@1.0.0 > send@0.13.2 > ms@0.7.1 and 5 other path(s)
+
+  Patch available for negotiator@0.5.3
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:negotiator:20160616] in negotiator@0.5.3
+    introduced by live-server@1.0.0 > serve-index@1.7.3 > accepts@1.2.13 > negotiator@0.5.3
+
+  Patch available for request@2.9.203
+  ✗ Remote Memory Exposure [Medium Severity][https://security.snyk.io/vuln/npm:request:20160119] in request@2.9.203
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > winston@0.6.2 > request@2.9.203
+
+
+Issues with no direct upgrade or patch:
+  ✗ Authentication Bypass [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-HTTPAUTH-471683] in http-auth@2.2.9
+    introduced by live-server@1.0.0 > http-auth@2.2.9
+  This issue was fixed in versions: 3.2.4
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-I-1726768] in i@0.3.4
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > i@0.3.4
+  This issue was fixed in versions: 0.3.7
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-1019388] in minimatch@3.0.0
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > rimraf@2.5.2 > glob@7.0.3 > minimatch@3.0.0
+  This issue was fixed in versions: 3.0.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.0
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > rimraf@2.5.2 > glob@7.0.3 > minimatch@3.0.0
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@0.0.8
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > mkdirp@0.5.1 > minimist@0.0.8
+  This issue was fixed in versions: 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@0.0.8
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > mkdirp@0.5.1 > minimist@0.0.8
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Arbitrary Code Injection [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MORGAN-72579] in morgan@1.7.0
+    introduced by live-server@1.0.0 > morgan@1.7.0
+  This issue was fixed in versions: 1.9.1
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-WEBSOCKETEXTENSIONS-570623] in websocket-extensions@0.1.1
+    introduced by live-server@1.0.0 > faye-websocket@0.10.0 > websocket-driver@0.6.4 > websocket-extensions@0.1.1
+  This issue was fixed in versions: 0.1.4
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/npm:brace-expansion:20170302] in brace-expansion@1.1.4
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1 > rimraf@2.5.2 > glob@7.0.3 > minimatch@3.0.0 > brace-expansion@1.1.4
+  This issue was fixed in versions: 1.1.7
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:fresh:20170908] in fresh@0.3.0
+    introduced by live-server@1.0.0 > send@0.13.2 > fresh@0.3.0
+  This issue was fixed in versions: 0.5.2
+  ✗ Uninitialized Memory Exposure [Low Severity][https://security.snyk.io/vuln/npm:utile:20180614] in utile@0.2.1
+    introduced by live-server@1.0.0 > http-auth@2.2.9 > htpasswd@2.2.2 > prompt@0.2.11 > utile@0.2.1
+  No upgrade or patch available
+
+
+
+Organization:      timzhun
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      mixliveserver
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/varomix-mixliveserver-0.0.1
+Licenses:          enabled
+
+

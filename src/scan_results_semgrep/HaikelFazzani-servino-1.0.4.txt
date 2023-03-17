@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js" file="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js" line="60">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">  const server = isSSlEnabled ? https.createServer(sslCert, onRequest) : http.createServer(onRequest);
+</failure>
+		</testcase>
+		<testcase name="javascript.express.security.audit.express-check-directory-listing.express-check-directory-listing" classname="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js" file="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js" line="42">
+			<failure type="WARNING" message="Directory listing/indexing is enabled, which may lead to disclosure of sensitive directories and files. It is recommended to disable directory listing unless it is a public resource. If you need directory listing, ensure that sensitive files are inaccessible when querying the resource.">        index(req, res, done)
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-insecure-websocket.detect-insecure-websocket" classname="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html" file="/Users/zta/Documents/EC521/src/unzipped/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html" line="17">
+			<failure type="ERROR" message="Insecure WebSocket Detected. WebSocket Secure (wss) should be used for all WebSocket connections.">  const protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>

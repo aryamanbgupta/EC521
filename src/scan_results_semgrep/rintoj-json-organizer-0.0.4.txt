@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.browser.security.eval-detected.eval-detected" classname="/Users/zta/Documents/EC521/src/unzipped/rintoj-json-organizer-0.0.4/extension/out/src/json-organizer.js" file="/Users/zta/Documents/EC521/src/unzipped/rintoj-json-organizer-0.0.4/extension/out/src/json-organizer.js" line="41">
+			<failure type="WARNING" message="Detected the use of eval(). eval() can be dangerous if used to evaluate dynamic content. If this content can be input from outside the program, this may be a code injection vulnerability. Ensure evaluated content is not definable by external sources.">            var target = eval('(' + text + ')');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
