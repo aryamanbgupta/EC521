@@ -33,6 +33,7 @@
 
 # .pickle
 */.pickle
-
+.idea
+.DS_Store
 /hq_live_server/*
 /Presentation/Misc/*
