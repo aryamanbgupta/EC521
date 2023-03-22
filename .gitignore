@@ -33,3 +33,6 @@
 
 # .pickle
 */.pickle
+
+*/hq_live_server/*
+*/Presentation/Misc/*
