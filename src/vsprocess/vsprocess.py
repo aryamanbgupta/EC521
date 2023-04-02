@@ -4,10 +4,12 @@ import asyncio
 VSCODE_PATH = (
     "/Users/shubham/Downloads/Visual\ Studio\ Code.app/Contents/MacOS/Electron"
 )
+WORKSPACE = "~/Desktop/classes/Cybersecurity/project/EC521/"
 
 
 class VSProcess:
     vscode_path = VSCODE_PATH
+    workspace = WORKSPACE
 
     def __init__(self):
         self.__process = None
@@ -26,7 +28,7 @@ class VSProcess:
         if self.__process is None:
             print(f"Starting VSCode at '{self.vscode_path}'")
             self.__process = await asyncio.create_subprocess_shell(
-                self.vscode_path,
+                f"{self.vscode_path} {self.workspace}",
                 stdout=asyncio.subprocess.PIPE,
                 stderr=asyncio.subprocess.PIPE,
                 stdin=asyncio.subprocess.PIPE,
@@ -39,7 +41,7 @@ class VSProcess:
     async def __stop(self):
         if self.__process is not None:
             print(f"Stopping VSCode with PID {self.__process.pid}")
-            await self.__process.kill()
+            self.__process.kill()
             self.__process = None
             print("VSCode stopped")
         else:

@@ -1,3 +1,4 @@
+import json
 import shutil
 import traceback
 from pathlib import Path
@@ -41,6 +42,7 @@ class Extension:
             for version in versions
         ]
         self.downloaded = False
+        self.all_commands = list()
 
     @property
     def version(self):
@@ -52,6 +54,10 @@ class Extension:
             self.DOWNLOAD_LOCATION,
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}.vsix",
         )
+
+    @property
+    def commands(self):
+        return self.all_commands
 
     def get_vsix_download_url(self):
         """Returns the download url for the vsix file"""
@@ -104,6 +110,29 @@ class Extension:
             # TODO: (shubham) store in a ledger json file that this extension failed to download
             print(f"Failed to download {self.extension_name}")
         return self
+
+    async def pull_commands(self):
+        """Pulls the commands from the extension package.json"""
+        print(f"Pulling commands for {self.extension_name}")
+        extension_dir = Path.joinpath(
+            self.UNZIP_LOCATION,
+            f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
+        )
+        package_json = Path.joinpath(extension_dir, "extension", "package.json")
+        if not package_json.exists():
+            print(
+                f"Package.json does not exist for {self.extension_name}, skipping..."
+            )
+            return self
+
+        async with aiofiles.open(package_json, "r") as file:
+            data = json.loads(await file.read())
+            if "contributes" in data:
+                contributes = data["contributes"]
+                if "commands" in contributes:
+                    commands = contributes["commands"]
+                    for command in commands:
+                        self.all_commands.append(command)
 
     async def install(self):
         """Installs the extension"""
