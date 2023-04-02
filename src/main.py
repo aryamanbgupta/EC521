@@ -66,9 +66,6 @@ async def debug_extensions(all_extensions: List[Extension]):
     vscode_process = VSProcess()
 
     try:
-        # start vscode
-        await asyncio.gather(vscode_process.start())
-
         # install all extensions
         tasks = list()
         for extension in all_extensions:
@@ -80,6 +77,9 @@ async def debug_extensions(all_extensions: List[Extension]):
         for extension in all_extensions:
             tasks.append(pull_commands(extension))
         await asyncio.gather(*tasks)
+
+        # start vscode
+        await asyncio.gather(vscode_process.start())
 
         # debug all extensions
         for extension in all_extensions:
@@ -112,4 +112,4 @@ if __name__ == "__main__":
         downloaded_extensions = pickle.load(f)
 
     # Start Vscode sub process and install extensions from downloads folder
-    asyncio.run(debug_extensions(downloaded_extensions[:1]))
+    asyncio.run(debug_extensions(downloaded_extensions[5:10]))
