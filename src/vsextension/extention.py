@@ -11,6 +11,7 @@ from httpx import AsyncClient
 
 from src.vsextension.publisher import Publisher
 from src.vsextension.versions import Version
+from src.utils.logman import logger
 
 
 class Extension:
@@ -65,8 +66,11 @@ class Extension:
 
     async def download(self):
         """Downloads the vsix file"""
-        print(
-            f"Downloading {self.extension_name} by {self.publisher.publisher_name}... into {self.DOWNLOAD_LOCATION}"
+        logger.info(
+            "Downloading %s by %s ... into %s",
+            self.extension_name,
+            self.publisher.publisher_name,
+            self.DOWNLOAD_LOCATION,
         )
         version = f"-{self.version}" if self.version else ""
         extension_file = Path.joinpath(
@@ -85,9 +89,10 @@ class Extension:
         )
 
         if response.status_code != 200:
-            print(
-                f"Failed to download {self.extension_name}, retrying... after 10 seconds"
+            logger.error(
+                "Failed to download %s, will retry after 10 sec", self.extension_name
             )
+
             # sleep for 10 seconds and try again
             await asyncio.sleep(10)
             try:
@@ -98,8 +103,11 @@ class Extension:
                     },
                 )
             except Exception as e:
-                print(f"Failed to download {self.extension_name} after retrying")
-                print(f"Skipping... extension {self.extension_name}")
+                logger.error(
+                    "Failed to download %s after retrying", self.extension_name
+                )
+                logger.error("skipping... extension %s", self.extension_name)
+                logger.error(e, exc_info=True)
                 return self
 
         if response.status_code == 200:
@@ -108,19 +116,19 @@ class Extension:
             self.downloaded = True
         else:
             # TODO: (shubham) store in a ledger json file that this extension failed to download
-            print(f"Failed to download {self.extension_name}")
+            logger.error("Failed to download %s", self.extension_name)
         return self
 
     async def pull_commands(self):
         """Pulls the commands from the extension package.json"""
-        print(f"Pulling commands for {self.extension_name}")
+        logger.info("Pulling commands for %s", self.extension_name)
         extension_dir = Path.joinpath(
             self.UNZIP_LOCATION,
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
         )
         package_json = Path.joinpath(extension_dir, "extension", "package.json")
         if not package_json.exists():
-            print(
+            logger.warn(
                 f"Package.json does not exist for {self.extension_name}, skipping..."
             )
             return self
@@ -136,8 +144,10 @@ class Extension:
 
     async def install(self):
         """Installs the extension"""
-        print(
-            f"Installing extension {self.extension_name} by {self.publisher.publisher_name}"
+        logger.info(
+            "Installing extension %s by %s",
+            self.extension_name,
+            self.publisher.publisher_name,
         )
         subp = await asyncio.create_subprocess_shell(
             f"code --install-extension {self.__path}",
@@ -150,19 +160,21 @@ class Extension:
                 subp.communicate(), timeout=self.TIMEOUT
             )
             if stderr is None:
-                print("Extension installed successfully")
-                print("Output: ", stdout)
+                logger.info("Extension installed successfully")
+                logger.info("Output: %s", stdout)
             else:
-                print("Error installing extension")
-                print("Error: ", stderr)
+                logger.error("Error installing extension")
+                logger.error(stderr)
         except Exception as e:
-            print("Exception installing extension")
-            print(traceback.print_exc())
+            logger.error("Exception installing extension")
+            logger.error(e, exc_info=True)
 
     async def uninstall(self):
         """Uninstalls the extension"""
-        print(
-            f"Uninstalling extension {self.extension_name} by {self.publisher.publisher_name}"
+        logger.info(
+            "Uninstalling extension %s by %s",
+            self.extension_name,
+            self.publisher.publisher_name,
         )
         subp = await asyncio.create_subprocess_shell(
             f"code --uninstall-extension {self.publisher.publisher_name}.{self.extension_name}",
@@ -175,18 +187,18 @@ class Extension:
                 subp.communicate(), timeout=self.TIMEOUT
             )
             if stderr is None:
-                print("Extension uninstalled successfully")
-                print("Output: ", stdout)
+                logger.info("Extension uninstalled successfully")
+                logger.info("Output: %s", stdout)
             else:
-                print("Error uninstalling extension")
-                print("Error: ", stderr)
+                logger.error("Error uninstalling extension")
+                logger.error(stderr)
         except Exception as e:
-            print("Exception uninstalling extension")
-            print(traceback.print_exc())
+            logger.error("Exception uninstalling extension")
+            logger.error(e, exc_info=True)
 
     async def unzip(self):
         """Unzips the vsix file"""
-        print(f"Unzipping extension... {self.extension_name}")
+        logger.info("Unzipping extension... %s", self.extension_name)
         extension_dir = Path.joinpath(
             self.UNZIP_LOCATION,
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
@@ -195,21 +207,27 @@ class Extension:
         if not extension_dir.exists():
             extension_dir.mkdir(parents=True, exist_ok=True)
 
-        with ZipFile(self.__path, "r") as zip_ref:
-            zip_ref.extractall(extension_dir)
+        try:
+            with ZipFile(self.__path, "r") as zip_ref:
+                zip_ref.extractall(extension_dir)
+        except Exception as e:
+            logger.error("Failed to unzip %s", self.extension_name)
+            logger.error(e, exc_info=True)
 
-        print(f"Unzipped extension... {self.extension_name} into {extension_dir}")
+        logger.info(
+            "Unzipped extension... %s into %s", self.extension_name, extension_dir
+        )
         return extension_dir
 
     async def cleanup(self):
         """Cleans up the unzipped directory"""
-        print(f"Cleaning up... {self.extension_name}")
+        logger.info("Cleaning up... %s", self.extension_name)
         extension_dir = Path.joinpath(
             self.UNZIP_LOCATION,
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
         )
         shutil.rmtree(extension_dir)
-        print(f"Cleaned up... {self.extension_name}")
+        logger.info("Cleaned up... %s", self.extension_name)
 
     def __str__(self):
         return f"Extension: {self.extension_name} by {self.publisher.publisher_name}"

@@ -1,10 +1,12 @@
 import asyncio
 
+from src.utils.logman import logger
+
 
 VSCODE_PATH = (
     "/Users/shubham/Downloads/Visual\ Studio\ Code.app/Contents/MacOS/Electron"
 )
-WORKSPACE = "~/Desktop/classes/Cybersecurity/project/EC521/"
+WORKSPACE = "~/Desktop/classes/Cybersecurity/project/EC521/src/"
 
 
 class VSProcess:
@@ -26,23 +28,23 @@ class VSProcess:
 
     async def __start(self):
         if self.__process is None:
-            print(f"Starting VSCode at '{self.vscode_path}'")
+            logger.info(f"Starting VSCode at '{self.vscode_path}'")
             self.__process = await asyncio.create_subprocess_shell(
                 f"{self.vscode_path} {self.workspace}",
                 stdout=asyncio.subprocess.PIPE,
                 stderr=asyncio.subprocess.PIPE,
                 stdin=asyncio.subprocess.PIPE,
             )
-            print(f"VSCode started with PID {self.__process.pid}")
+            logger.info(f"VSCode started with PID {self.__process.pid}")
         else:
-            print("VSCode is already running")
-            print(f"VSCode PID {self.__process.pid}")
+            logger.info("VSCode is already running")
+            logger.info(f"VSCode PID {self.__process.pid}")
 
     async def __stop(self):
         if self.__process is not None:
-            print(f"Stopping VSCode with PID {self.__process.pid}")
+            logger.info(f"Stopping VSCode with PID {self.__process.pid}")
             self.__process.kill()
             self.__process = None
-            print("VSCode stopped")
+            logger.info("VSCode stopped")
         else:
-            print("VSCode is not running")
+            logger.info("VSCode is not running")
