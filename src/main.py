@@ -9,6 +9,7 @@ import pickle
 import time
 import json
 import requests
+import socket
 
 from networkmapper.nmap import Nmap
 from src.utils.utils import async_for
@@ -22,6 +23,7 @@ from vsextension.vsepuller import VSExtensionPuller
 KEYWORDS_TO_SEARCH = ["live server", "Latex", "Json", "Open in"]
 nest_asyncio.apply()
 loop = asyncio.get_event_loop()
+IP = None
 
 
 def create_key(extension_name: AnyStr) -> AnyStr:
@@ -88,9 +90,20 @@ def get_ports():
     return nmap.open_ports
 
 
+def get_ip():
+    """Get current IP assigned to machine"""
+    global IP
+    if IP is None:
+        hostname = socket.gethostname()
+        IP = socket.gethostbyname(hostname)
+        logger.info("Running on IP: " + IP)
+    return IP
+
+
 def test_path_traversal_attack(extension: Extension):
     """Test path traversal attack"""
     ports = get_ports()
+    ip = get_ip()
     logger.info(
         "Open ports for extension " + extension.extension_name + " are: " + str(ports)
     )
@@ -98,7 +111,7 @@ def test_path_traversal_attack(extension: Extension):
     # Use requests to send a request with different path and check the response
     # If the response is 200 and contain You are under attack by a pizzaman! then the attack is successful
     for port in ports:
-        url = f"http://192.168.1.47:{port}/..%2fpizzaman.html"
+        url = f"http://{ip}:{port}/..%2fpizzaman.html"
 
         payload = {}
         headers = {
@@ -279,4 +292,6 @@ if __name__ == "__main__":
         downloaded_extensions: List[Extension] = pickle.load(f)
 
     # Start Vscode sub process and install extensions from downloads folder
-    asyncio.run(start(downloaded_extensions[20:40]))  # TODO: Test slow to deal with errors
+    asyncio.run(
+        start(downloaded_extensions[100:130])
+    )  # TODO: Test slow to deal with errors
