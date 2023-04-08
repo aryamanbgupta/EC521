@@ -1,6 +1,5 @@
 import json
 import shutil
-import traceback
 from pathlib import Path
 from typing import AnyStr
 import asyncio
@@ -9,6 +8,7 @@ from zipfile import ZipFile
 import aiofiles
 from httpx import AsyncClient
 
+from src.utils.utils import get_random_user_agents
 from src.vsextension.publisher import Publisher
 from src.vsextension.versions import Version
 from src.utils.logman import logger
@@ -49,6 +49,10 @@ class Extension:
     def version(self):
         return self.versions[0].version if len(self.versions) > 0 else ""
 
+    @version.setter
+    def version(self, value):
+        self.versions = Version(value, "")
+
     @property
     def __path(self):
         return Path.joinpath(
@@ -81,36 +85,41 @@ class Extension:
         if not extension_file.parent.exists():
             extension_file.parent.mkdir(parents=True, exist_ok=True)
 
-        response = await self.client.get(
-            self.get_vsix_download_url(),
-            headers={
-                "Accept": "application/octet-stream",
-            },
-        )
-
-        if response.status_code != 200:
-            logger.error(
-                "Failed to download %s, will retry after 10 sec", self.extension_name
+        response = None
+        try:
+            response = await self.client.get(
+                self.get_vsix_download_url(),
+                headers={
+                    "User-Agent": get_random_user_agents(),
+                    "Accept": "application/octet-stream",
+                },
             )
 
-            # sleep for 10 seconds and try again
-            await asyncio.sleep(10)
-            try:
-                response = await self.client.get(
-                    self.get_vsix_download_url(),
-                    headers={
-                        "Accept": "application/octet-stream",
-                    },
-                )
-            except Exception as e:
+        except Exception as e:
+            if response and response.status_code != 200:
                 logger.error(
-                    "Failed to download %s after retrying", self.extension_name
+                    "Failed to download %s, will retry after 10 sec", self.extension_name
                 )
-                logger.error("skipping... extension %s", self.extension_name)
-                logger.error(e, exc_info=True)
-                return self
 
-        if response.status_code == 200:
+                # sleep for 10 seconds and try again
+                await asyncio.sleep(10)
+                try:
+                    response = await self.client.get(
+                        self.get_vsix_download_url(),
+                        headers={
+                            "User-Agent": get_random_user_agents(),
+                            "Accept": "application/octet-stream",
+                        },
+                    )
+                except Exception as e:
+                    logger.error(
+                        "Failed to download %s after retrying", self.extension_name
+                    )
+                    logger.error("skipping... extension %s", self.extension_name)
+                    logger.error(e, exc_info=True)
+                    return self
+
+        if response and response.status_code == 200:
             async with aiofiles.open(extension_file, "wb") as file:
                 await file.write(response.content)
             self.downloaded = True
@@ -231,3 +240,32 @@ class Extension:
 
     def __str__(self):
         return f"Extension: {self.extension_name} by {self.publisher.publisher_name}"
+
+    def to_json(self):
+        """Get the json representation of the extension objects"""
+        return {
+            "extensionId": self.extension_id,
+            "extensionName": self.extension_name,
+            "publisherName": self.publisher.publisher_name,
+            "publisherId": self.publisher.publisher_id,
+            "publishedDate": self.published_date,
+            "lastUpdated": self.last_updated,
+            "shortDescription": self.short_description,
+            "versions": [version.to_json() for version in self.versions],
+            "downloaded": self.downloaded,
+        }
+
+    @classmethod
+    def from_json(cls, data):
+        """Create an extension object from json"""
+        new_object = cls(
+            Publisher(data["publisherId"], data["publisherName"]),
+            data["extensionId"],
+            data["extensionName"],
+            data["publishedDate"],
+            data["lastUpdated"],
+            data["shortDescription"],
+            data["versions"]
+        )
+        new_object.downloaded = data["downloaded"]
+        return new_object

@@ -1,5 +1,4 @@
 import asyncio
-import traceback
 from pathlib import Path
 from typing import List, AnyStr
 
@@ -12,7 +11,6 @@ import requests
 import socket
 
 from networkmapper.nmap import Nmap
-from src.utils.utils import async_for
 from src.utils.logman import logger
 
 from src.vsextension.extention import Extension
@@ -20,7 +18,8 @@ from src.vsprocess.vsprocess import VSProcess
 from vsextension.vsepuller import VSExtensionPuller
 
 
-KEYWORDS_TO_SEARCH = ["live server", "Latex", "Json", "Open in"]
+KEYWORDS_TO_SEARCH = ["live", "live server", "open", "preview"]
+library_file_path = Path(__file__).parent.joinpath("library.json")
 nest_asyncio.apply()
 loop = asyncio.get_event_loop()
 IP = None
@@ -31,7 +30,7 @@ def create_key(extension_name: AnyStr) -> AnyStr:
     return extension_name.replace(" ", "---").lower()
 
 
-def save_vulnerable_extension(extension: Extension):
+def save_vulnerable_extension(_extension: Extension):
     """Save vulnerable extension in a json file including Key value pairs of publisher,
     extension name, version, short description, published date, last updated, versions
     """
@@ -43,27 +42,47 @@ def save_vulnerable_extension(extension: Extension):
         Path(vuln_path).unlink()
     else:
         data = dict()
-    new_key = create_key(extension.extension_name)
+    new_key = create_key(_extension.extension_name)
     if new_key not in data:
         data[new_key] = {
-            "publisherName": extension.publisher.publisher_name,
-            "extensionName": extension.extension_name,
-            "version": extension.version,
-            "shortDescription": extension.short_description,
-            "publishedDate": extension.published_date,
-            "lastUpdated": extension.last_updated,
+            "publisherName": _extension.publisher.publisher_name,
+            "extensionName": _extension.extension_name,
+            "version": _extension.version,
+            "shortDescription": _extension.short_description,
+            "publishedDate": _extension.published_date,
+            "lastUpdated": _extension.last_updated,
         }
     file = open("vulnerable_extensions.json", mode="w")
     json.dump(data, file, indent=4)
 
 
+def refresh_library(_extensions: List[Extension]):
+    """Save extensions json to library.json"""
+    data = dict()
+
+    if library_file_path.exists():
+        library_file = open(library_file_path, mode="r")
+        data = json.load(library_file)
+        library_file.close()
+
+    for _extension in _extensions:
+        data[_extension.extension_name] = _extension.to_json()
+
+    with open("library.json", "w") as file:
+        json.dump(data, file, indent=4)
+
+    return [Extension.from_json(extension) for extension in data.values()]
+
+
 async def download_extensions(all_extensions: List[Extension]):
     """Download all extensions"""
     tasks = list()
-    for extension in all_extensions:
-        print(str(extension))
-        tasks.append(extension.download())
-    await asyncio.gather(*tasks)
+    asyncio_semaphore = asyncio.BoundedSemaphore(50)
+    async with asyncio_semaphore:
+        for extension in all_extensions:
+            if not extension.downloaded:
+                tasks.append(extension.download())
+        await asyncio.gather(*tasks)
 
 
 async def install_and_unzip_extension(extension: Extension):
@@ -111,7 +130,9 @@ def test_path_traversal_attack(extension: Extension):
     # Use requests to send a request with different path and check the response
     # If the response is 200 and contain You are under attack by a pizzaman! then the attack is successful
     for port in ports:
-        url = f"http://{ip}:{port}/..%2fpizzaman.html"
+        url = f"http://{ip}:{port}/..%2fpizzaman.html"  # %252f is / and %2f is / and %25%32%66 is /
+        url252f = f"http://{ip}:{port}/..%252fpizzaman.html"
+        url253266 = f"http://{ip}:{port}/..%25%32%66pizzaman.html"
 
         payload = {}
         headers = {
@@ -275,23 +296,39 @@ async def start(_downloaded_extensions: List[Extension]):
         await vscode_process.kill()
 
 
+def load_from_library():
+    """Load extensions from library.json file"""
+    _extensions = list()
+    with open(library_file_path, "r") as f:
+        _extensions = json.load(f)
+    return _extensions
+
+
 if __name__ == "__main__":
-    # # Pull extensions from marketplace
+    # Pull extensions from marketplace
+    extensions = list()
+
+    ###########################################
+    # NOTE uncomment to pull from marketplace #
+    ###########################################
     # puller = VSExtensionPuller()
     # extensions = asyncio.run(puller.pull(KEYWORDS_TO_SEARCH))
-    # asyncio.run(download_extensions(extensions))
-    #
+
+    extensions = refresh_library(extensions)
+    asyncio.run(download_extensions(extensions))
+    extensions = refresh_library(extensions)
+
     # extension = [ext for ext in extensions if ext.downloaded]
     #
-    # # Save extensions to file
-    # with open("extensions.pickle", "wb") as f:
-    #     pickle.dump(extensions, f)
-
-    # Load extensions from file
-    with open("extensions.pickle", "rb") as f:
-        downloaded_extensions: List[Extension] = pickle.load(f)
-
-    # Start Vscode sub process and install extensions from downloads folder
-    asyncio.run(
-        start(downloaded_extensions[100:130])
-    )  # TODO: Test slow to deal with errors
+    # # # Save extensions to file
+    # # with open("extensions.pickle", "wb") as f:
+    # #     pickle.dump(extensions, f)
+    #
+    # # Load extensions from file
+    # with open("extensions.pickle", "rb") as f:
+    #     downloaded_extensions: List[Extension] = pickle.load(f)
+    #
+    # # Start Vscode sub process and install extensions from downloads folder
+    # asyncio.run(
+    #     start(downloaded_extensions[100:130])
+    # )  # TODO: Test slow to deal with errors

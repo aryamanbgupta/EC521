@@ -13,3 +13,9 @@ class Version:
 
     def __str__(self):
         return f"Version: {self.version}"
+
+    def to_json(self):
+        return {
+            'version': self.version,
+            'lastUpdated': self.last_updated
+        }

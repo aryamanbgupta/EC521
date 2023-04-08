@@ -2,6 +2,7 @@ from typing import List, Dict, AnyStr
 import json
 from httpx import AsyncClient
 
+from src.utils.utils import get_random_user_agents
 from src.vsextension.extention import Extension
 from src.vsextension.publisher import Publisher
 
@@ -21,7 +22,7 @@ class VSExtensionPuller:
                         {"filterType": 12, "value": "37888"},
                     ],
                     "direction": 2,
-                    "pageSize": 54,
+                    "pageSize": 1000,
                     "pageNumber": 1,
                     "sortBy": 0,
                     "sortOrder": 0,
@@ -31,7 +32,7 @@ class VSExtensionPuller:
         }
     )
     headers = {
-        "User-Agent": "",  # TODO: (Shubham) Add user agents randomly
+        "User-Agent": get_random_user_agents(),
         "Accept": "application/json;api-version=7.1-preview.1;excludeUrls=true",
         "Accept-Language": "en-US,en;q=0.5",
         "Accept-Encoding": "gzip, deflate, br",
