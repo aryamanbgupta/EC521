@@ -4,7 +4,6 @@ from typing import List, AnyStr
 
 import nest_asyncio
 import pyautogui
-import pickle
 import time
 import json
 import requests
@@ -79,9 +78,9 @@ async def download_extensions(all_extensions: List[Extension]):
     tasks = list()
     asyncio_semaphore = asyncio.BoundedSemaphore(50)
     async with asyncio_semaphore:
-        for extension in all_extensions:
-            if not extension.downloaded:
-                tasks.append(extension.download())
+        for _extension in all_extensions:
+            if not _extension.downloaded:
+                tasks.append(_extension.download())
         await asyncio.gather(*tasks)
 
 
@@ -318,17 +317,9 @@ if __name__ == "__main__":
     asyncio.run(download_extensions(extensions))
     extensions = refresh_library(extensions)
 
-    # extension = [ext for ext in extensions if ext.downloaded]
-    #
-    # # # Save extensions to file
-    # # with open("extensions.pickle", "wb") as f:
-    # #     pickle.dump(extensions, f)
-    #
-    # # Load extensions from file
-    # with open("extensions.pickle", "rb") as f:
-    #     downloaded_extensions: List[Extension] = pickle.load(f)
-    #
+    extensions = [ext for ext in extensions if ext.downloaded]
+
     # # Start Vscode sub process and install extensions from downloads folder
     # asyncio.run(
-    #     start(downloaded_extensions[100:130])
+    #     start(extensions[100:130])
     # )  # TODO: Test slow to deal with errors
