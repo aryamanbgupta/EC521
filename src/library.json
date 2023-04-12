@@ -413,7 +413,7 @@
                 "lastUpdated": "2022-06-08T12:34:38.46Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "GSLiveCoder": {
         "extensionId": "e945ed00-35dd-48e3-b419-36bacadf1b67",
@@ -829,7 +829,7 @@
                 "lastUpdated": "2022-07-13T13:40:12.85Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "live-redux-template": {
         "extensionId": "3c572846-9a59-4001-a655-0ee8def893eb",
@@ -893,7 +893,7 @@
                 "lastUpdated": "2022-07-26T19:23:41.33Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "FS-Live-Viewer": {
         "extensionId": "76e390b0-a93e-4eb4-9f4c-c07d40671834",
@@ -989,7 +989,7 @@
                 "lastUpdated": "2022-12-05T17:55:45.293Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "nba-ticker": {
         "extensionId": "888106a5-8ad4-493d-aef9-7b7e9a194c5a",
@@ -1261,7 +1261,7 @@
                 "lastUpdated": "2020-06-14T00:56:58.073Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "liveride-color-theme": {
         "extensionId": "d8bc5256-adb5-4b9e-8e9d-e750a556535e",
@@ -1437,7 +1437,7 @@
                 "lastUpdated": "2019-04-09T13:41:22.663Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "lively-reload": {
         "extensionId": "353b905d-c6bd-4a8a-b57e-a0d25c4cf7fd",
@@ -1613,7 +1613,7 @@
                 "lastUpdated": "2023-02-04T07:41:18.147Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-livescript-eval": {
         "extensionId": "aff44cb1-bfac-4362-b918-a1b429b5f02c",
@@ -1629,7 +1629,7 @@
                 "lastUpdated": "2019-04-09T14:28:48.963Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "livereload-server": {
         "extensionId": "5a3ee224-3c8c-48d7-9f3b-823fdc5ad05d",
@@ -2221,7 +2221,7 @@
                 "lastUpdated": "2021-12-15T08:08:54.4Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "json-schema-validator": {
         "extensionId": "de056427-d058-4b9c-8408-54d6bfe742bf",
@@ -2285,7 +2285,7 @@
                 "lastUpdated": "2023-01-16T06:27:56.383Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "tickit-preview": {
         "extensionId": "fb897f79-8291-4183-a146-511a4cf02712",
@@ -2413,7 +2413,7 @@
                 "lastUpdated": "2022-11-08T12:18:49.737Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "cc-cosmic": {
         "extensionId": "a929ddd3-0a08-45b3-b900-aa7105c9b725",
@@ -2541,7 +2541,7 @@
                 "lastUpdated": "2021-11-16T09:53:32.26Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "html-preview": {
         "extensionId": "f6a12bee-e342-4053-983e-5166b9672794",
@@ -2637,7 +2637,7 @@
                 "lastUpdated": "2023-03-30T23:16:09.497Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-essentials": {
         "extensionId": "e267776c-05ff-4fa1-8b85-408ec41f96dc",
@@ -2957,7 +2957,7 @@
                 "lastUpdated": "2020-02-24T00:39:08.87Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "b-theme": {
         "extensionId": "881b66c9-1ceb-4da7-a5a5-46486093c94c",
@@ -3149,7 +3149,7 @@
                 "lastUpdated": "2018-11-01T00:50:20.23Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "sidekick-debugger": {
         "extensionId": "245dfda8-d343-4a52-aa0c-63c26ebd0efb",
@@ -3277,7 +3277,7 @@
                 "lastUpdated": "2022-12-05T02:51:31.147Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "package-plus-plus": {
         "extensionId": "aba3aa33-483d-452e-836d-8a9a4af4376d",
@@ -3517,7 +3517,7 @@
                 "lastUpdated": "2022-10-25T14:36:42.83Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-hacker-typer-fork": {
         "extensionId": "35e49dcf-daa7-4dd0-96f2-67cb01e2d518",
@@ -3549,7 +3549,7 @@
                 "lastUpdated": "2021-11-02T09:38:37.64Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "prestashop-snippets": {
         "extensionId": "0e3e7e51-2996-4d44-92ca-39b5a4f41f72",
@@ -3565,7 +3565,7 @@
                 "lastUpdated": "2022-12-25T12:48:40.373Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "all-in-one-snippets": {
         "extensionId": "0c3eb1f5-a674-47f9-b23d-d270bfc3ecd9",
@@ -3581,7 +3581,7 @@
                 "lastUpdated": "2023-01-04T20:59:38.65Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-typescript-ast-outline": {
         "extensionId": "724e171c-7833-4f78-af5e-268bc9ade762",
@@ -4249,7 +4249,7 @@
                 "lastUpdated": "2021-12-01T08:50:45.06Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "rwxml-language-server-insider": {
         "extensionId": "dad1d69c-e378-4169-9ef4-c956ec0854aa",
@@ -4345,7 +4345,7 @@
                 "lastUpdated": "2021-01-22T03:21:29.553Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-java-server-pack": {
         "extensionId": "f1e277fe-9cb5-44a6-ae11-09b5b0705ce4",
@@ -4489,7 +4489,7 @@
                 "lastUpdated": "2022-10-18T19:41:24.737Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-ember-experimental": {
         "extensionId": "17e3c839-28ab-4edf-9c41-123f8672be36",
@@ -4521,7 +4521,7 @@
                 "lastUpdated": "2022-12-09T21:02:40.06Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "pls": {
         "extensionId": "4211a960-8cb4-47c4-9ea7-693d854b09a8",
@@ -4553,7 +4553,7 @@
                 "lastUpdated": "2022-04-05T08:28:45.6Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "static-server": {
         "extensionId": "e84a7d1e-bd90-4ccd-abac-5c432352e249",
@@ -4569,7 +4569,7 @@
                 "lastUpdated": "2021-02-04T07:28:43.01Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "preview-server": {
         "extensionId": "b76a0364-7a61-4df4-81a4-069535b59931",
@@ -4585,7 +4585,7 @@
                 "lastUpdated": "2022-01-16T14:48:37.813Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "lsp-wl-client": {
         "extensionId": "2302f0a2-1440-4e1e-854b-455655216a55",
@@ -4809,7 +4809,7 @@
                 "lastUpdated": "2023-01-30T09:54:06.607Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "webpack-dev-server": {
         "extensionId": "09d77069-dc2c-4e0d-b479-87842df8622e",
@@ -5113,7 +5113,7 @@
                 "lastUpdated": "2021-04-20T16:14:15.797Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "redis-lsp": {
         "extensionId": "5c816ea4-61f8-469a-9aee-8839bd3fdf60",
@@ -5161,7 +5161,7 @@
                 "lastUpdated": "2020-05-12T20:05:56.497Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "sol-language-server-mac": {
         "extensionId": "43f098bb-a41b-4be1-9dd2-0921d6578d0d",
@@ -5405,7 +5405,7 @@
                 "lastUpdated": "2023-01-09T12:58:24.473Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "spl-language-server": {
         "extensionId": "ebdfb1d1-c8d3-4fe8-b14a-c47b180111e9",
@@ -5469,7 +5469,7 @@
                 "lastUpdated": "2022-11-24T10:21:44.893Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "rosebox-language-server-extension": {
         "extensionId": "d9f79b51-2b16-47a2-a7c6-ecaf444aba75",
@@ -5705,7 +5705,7 @@
                 "lastUpdated": "2020-03-07T07:52:56.783Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "post-to-server": {
         "extensionId": "97ce739c-8cb1-4cc7-9573-8883fe07e187",
@@ -6013,7 +6013,7 @@
                 "lastUpdated": "2020-12-23T20:26:17.93Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "cotton-language-server": {
         "extensionId": "ab8ffd96-b406-4df4-b10e-7dbb63c51b90",
@@ -6061,7 +6061,7 @@
                 "lastUpdated": "2023-02-01T21:32:57.84Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-intelephense-client": {
         "extensionId": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
@@ -6093,7 +6093,7 @@
                 "lastUpdated": "2018-07-05T16:02:34.907Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "processing-language-server-vscode": {
         "extensionId": "a79bf2b6-b5be-479d-b794-1cb9925def63",
@@ -6109,7 +6109,7 @@
                 "lastUpdated": "2022-11-28T14:56:00.74Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ask-vscode-sever": {
         "extensionId": "1d81f06d-bc1f-4fc3-ab5c-ea5b0c98564a",
@@ -6353,7 +6353,7 @@
                 "lastUpdated": "2019-07-17T19:37:43.86Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "loretta-lua": {
         "extensionId": "831ac6fc-b446-449e-81e2-0e5d5cbf3703",
@@ -6513,7 +6513,7 @@
                 "lastUpdated": "2023-03-24T06:41:26.64Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-langserver-sparql": {
         "extensionId": "39f83281-7cc9-4861-b6db-d6ac9fb545ed",
@@ -6593,7 +6593,7 @@
                 "lastUpdated": "2020-06-15T07:57:01.647Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-pylance": {
         "extensionId": "364d2426-116a-433a-a5d8-a5098dc3afbd",
@@ -6609,7 +6609,7 @@
                 "lastUpdated": "2023-04-05T23:11:16.43Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "sol-language-server-ubt-pre": {
         "extensionId": "ae86dec1-6814-4d12-8ca3-2790f9c9153f",
@@ -6753,7 +6753,7 @@
                 "lastUpdated": "2022-09-30T12:24:38.893Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "sqltools": {
         "extensionId": "6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b",
@@ -7001,7 +7001,7 @@
                 "lastUpdated": "2023-02-16T20:41:10.033Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "tencent-cloud-vscode-toolkit": {
         "extensionId": "0254ed1d-e260-4f46-b466-58e7947c8416",
@@ -7285,7 +7285,7 @@
                 "lastUpdated": "2020-01-06T22:50:53.173Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "serverless-devs": {
         "extensionId": "18321529-c2b9-469a-aae0-a10a11fcd566",
@@ -7317,7 +7317,7 @@
                 "lastUpdated": "2016-05-30T19:33:39.8Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "haskell": {
         "extensionId": "aead9e6c-3483-4ce4-a09f-843e25ce696f",
@@ -7477,7 +7477,7 @@
                 "lastUpdated": "2023-03-29T01:51:57.957Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "code-groovy": {
         "extensionId": "9b9cdd4e-2a48-4ef1-b104-284fa5bcdb55",
@@ -7525,7 +7525,7 @@
                 "lastUpdated": "2022-11-29T23:48:19.763Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "serverless-vscode": {
         "extensionId": "82bb9678-01c3-42a7-b354-44c727ce5788",
@@ -7621,7 +7621,7 @@
                 "lastUpdated": "2023-01-11T10:45:48.847Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-tfs": {
         "extensionId": "8679983c-4358-4b22-b72b-f1c1d0006b83",
@@ -7637,7 +7637,7 @@
                 "lastUpdated": "2020-06-07T09:03:13.733Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "fortran-ls": {
         "extensionId": "9d9039cc-ea73-4083-9727-90d4342444a6",
@@ -7669,7 +7669,7 @@
                 "lastUpdated": "2017-05-20T21:00:53.38Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "staticserver": {
         "extensionId": "588e883a-d396-4926-ad1c-57166182ecc5",
@@ -7893,7 +7893,7 @@
                 "lastUpdated": "2022-05-30T15:36:08.65Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "hdl-checker-client": {
         "extensionId": "11373603-8ab0-47de-9947-5b5a2e57b341",
@@ -7973,7 +7973,7 @@
                 "lastUpdated": "2021-07-06T20:47:18.93Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-healthcheck": {
         "extensionId": "1d0260df-5faa-4903-aa0c-93bdfd14ecde",
@@ -8053,7 +8053,7 @@
                 "lastUpdated": "2023-03-07T09:03:26.88Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "har-to-api-doc": {
         "extensionId": "bed41ddc-2eca-4431-b76e-c5fe684fdac5",
@@ -8277,7 +8277,7 @@
                 "lastUpdated": "2016-10-14T00:58:02.92Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "zotonic-ls": {
         "extensionId": "b4f79a5b-e9b7-49f5-9f89-8a4aebfc15ed",
@@ -8549,7 +8549,7 @@
                 "lastUpdated": "2022-11-15T07:10:01.967Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ruby-typeprof": {
         "extensionId": "0fe7d5d3-069b-4fa7-82cc-a3d6325b36bb",
@@ -8677,7 +8677,7 @@
                 "lastUpdated": "2022-11-03T15:51:35.95Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "gatsbyhub": {
         "extensionId": "71a8307f-387d-4ed8-aeb2-174cb2fc2336",
@@ -8965,7 +8965,7 @@
                 "lastUpdated": "2022-11-08T08:36:42.487Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ada": {
         "extensionId": "8a300a45-fe7b-48d0-acda-ac044226abe9",
@@ -9061,7 +9061,7 @@
                 "lastUpdated": "2019-06-06T17:47:47.94Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "hera": {
         "extensionId": "320b620c-5118-40d5-a078-924941997990",
@@ -9205,7 +9205,7 @@
                 "lastUpdated": "2018-10-18T15:47:25.39Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "mssql-scripts": {
         "extensionId": "cc207462-49f9-4912-be27-d241b72f2ba5",
@@ -9637,7 +9637,7 @@
                 "lastUpdated": "2023-02-08T20:48:47.797Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "flix": {
         "extensionId": "c4d7ecf4-526c-46c2-b11e-6ff7f4a3b59d",
@@ -9813,7 +9813,7 @@
                 "lastUpdated": "2023-01-22T04:05:30.14Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "jaruvsc": {
         "extensionId": "9633e53e-b937-42af-a219-062a27d01b48",
@@ -9861,7 +9861,7 @@
                 "lastUpdated": "2023-03-19T23:06:30.347Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "kos-vscode": {
         "extensionId": "6110a824-2fdc-4366-8d5f-d00ff052dd99",
@@ -10005,7 +10005,7 @@
                 "lastUpdated": "2021-05-24T19:14:06.89Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "evergreen-ci": {
         "extensionId": "8c604181-ec59-4167-b886-e75bc48ac289",
@@ -10021,7 +10021,7 @@
                 "lastUpdated": "2019-07-19T13:39:43.723Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "moonls": {
         "extensionId": "9096f25f-2ad4-40e7-8b90-c98ae1782fb9",
@@ -10125,7 +10125,7 @@
                 "lastUpdated": "2022-08-21T12:27:25.397Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-knative": {
         "extensionId": "afd30819-15f7-4d5c-a0d7-b8ba822f6bf1",
@@ -10189,7 +10189,7 @@
                 "lastUpdated": "2022-01-25T05:53:15.24Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "fauxpilot": {
         "extensionId": "87d3b030-e880-4448-b043-942df28991f7",
@@ -10285,7 +10285,7 @@
                 "lastUpdated": "2022-06-13T14:37:58.053Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "zation": {
         "extensionId": "a9afc72f-0eda-4c0c-9455-b10844e19642",
@@ -10461,7 +10461,7 @@
                 "lastUpdated": "2023-04-02T10:08:13.987Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "linuxc-check": {
         "extensionId": "189a4640-45ef-4296-9341-c7100d885684",
@@ -10653,7 +10653,7 @@
                 "lastUpdated": "2022-12-09T15:56:18.433Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "cool-language-support": {
         "extensionId": "a325e52f-b73c-4502-915a-7f8ff2672626",
@@ -10717,7 +10717,7 @@
                 "lastUpdated": "2019-11-20T10:26:21.127Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "gdscript-lsp-extension": {
         "extensionId": "d69a4422-48e0-413e-b9c3-3ef61d915ba8",
@@ -10749,7 +10749,7 @@
                 "lastUpdated": "2023-04-05T20:37:04.983Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "polscript": {
         "extensionId": "a1c94ad5-84b7-4b4f-92cc-69e5b642b6e3",
@@ -10813,7 +10813,7 @@
                 "lastUpdated": "2022-08-28T18:00:21.09Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ef-language-service": {
         "extensionId": "792e888e-6706-44e0-a281-21301daba432",
@@ -10941,7 +10941,7 @@
                 "lastUpdated": "2022-05-12T04:49:11.65Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "futhark-vscode": {
         "extensionId": "1570befd-e3b0-47aa-a0d3-e052903ab95b",
@@ -11117,7 +11117,7 @@
                 "lastUpdated": "2023-03-24T06:31:14.413Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "yapi-mock-helper": {
         "extensionId": "4f3d675e-4429-4e07-9df9-4eab9b2184a6",
@@ -11213,7 +11213,7 @@
                 "lastUpdated": "2022-02-24T03:25:04.6Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "poe-filter-code-complete": {
         "extensionId": "9e5130a0-9e77-4d07-9c59-4af06d65eba2",
@@ -11229,7 +11229,7 @@
                 "lastUpdated": "2020-06-08T00:58:47.22Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "wiktionaryhelp": {
         "extensionId": "558c347d-3578-4bab-ad2d-c1db1e676cb4",
@@ -11293,7 +11293,7 @@
                 "lastUpdated": "2022-06-10T16:04:38.62Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "p4-language": {
         "extensionId": "73f3361a-a437-47d2-bf90-fa048d7e02a1",
@@ -11421,7 +11421,7 @@
                 "lastUpdated": "2023-04-06T22:29:49.823Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "papyrus-language-support": {
         "extensionId": "a6fae4b5-b0e5-4eb6-a802-7ee05f7b278a",
@@ -11597,7 +11597,7 @@
                 "lastUpdated": "2022-12-22T08:04:56.607Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "medford-vscode": {
         "extensionId": "769f48e1-aab5-45a5-8cb9-f4f4e5a4bf00",
@@ -11889,7 +11889,7 @@
                 "lastUpdated": "2023-01-04T21:27:07.653Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-viewfile-intellisense": {
         "extensionId": "ab4fe298-a5c2-49c3-a023-af96f68f905c",
@@ -12429,7 +12429,7 @@
                 "lastUpdated": "2023-01-31T02:55:36.393Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "rap-lang-multi-server": {
         "extensionId": "64cffd21-d27f-49a9-b367-b1af7dc052b3",
@@ -12925,7 +12925,7 @@
                 "lastUpdated": "2023-01-16T12:51:06.067Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "clean-vs-code": {
         "extensionId": "b1259d07-7fbf-4bc9-9286-4c46728b21f3",
@@ -12941,7 +12941,7 @@
                 "lastUpdated": "2022-11-02T09:53:43.167Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "minimal-cpp-syntax": {
         "extensionId": "f1141bf0-55e8-4356-b825-1b880591cf5a",
@@ -12989,7 +12989,7 @@
                 "lastUpdated": "2022-05-23T09:37:36.717Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "bg-snippets": {
         "extensionId": "95b4507c-018c-4efb-8c14-510a92195f28",
@@ -13085,7 +13085,7 @@
                 "lastUpdated": "2020-01-08T23:07:39.58Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "template-library": {
         "extensionId": "83c6ad9d-3ba7-4c71-9462-5b1ef30d9e92",
@@ -13117,7 +13117,7 @@
                 "lastUpdated": "2022-01-21T22:44:19.79Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "microjam": {
         "extensionId": "34fa3da6-f0e9-45c4-badd-3de753adcbb6",
@@ -13693,7 +13693,7 @@
                 "lastUpdated": "2017-09-06T05:42:42.357Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "jenkins-pipeline-linter-connector": {
         "extensionId": "ee551ede-893b-40fa-b96c-99fed0e7dff2",
@@ -13709,7 +13709,7 @@
                 "lastUpdated": "2019-10-01T07:58:34.773Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-hie-server": {
         "extensionId": "93e5704a-a536-44f3-b5de-6c914cb6ac91",
@@ -13725,7 +13725,7 @@
                 "lastUpdated": "2020-08-03T17:40:04.953Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "publicodes-language-server": {
         "extensionId": "0044c826-6ed5-4eee-a6fe-18fddecaceff",
@@ -13789,7 +13789,7 @@
                 "lastUpdated": "2019-06-13T12:50:37.217Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "php-project": {
         "extensionId": "8e854f5e-5cb7-46c7-b9f6-178f697c473d",
@@ -14077,7 +14077,7 @@
                 "lastUpdated": "2023-03-21T14:15:41.337Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "drone-ci": {
         "extensionId": "666d59fd-ae1d-41b5-9a0e-eba8d4c8bc42",
@@ -14237,7 +14237,7 @@
                 "lastUpdated": "2021-03-31T20:24:29.82Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "structurizr-dsl-abacus-extension": {
         "extensionId": "1457e4fd-caaa-4617-8355-21306522a1ec",
@@ -14817,7 +14817,7 @@
                 "lastUpdated": "2023-03-28T09:18:39.07Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-open-iterm2": {
         "extensionId": "027fdf55-575b-407a-ade6-f32a8923c23c",
@@ -15105,7 +15105,7 @@
                 "lastUpdated": "2017-11-30T03:19:40.363Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "msiot-vscode-openenclave": {
         "extensionId": "4405ed85-3f03-4280-b4d4-dc4b6cd82b7e",
@@ -15153,7 +15153,7 @@
                 "lastUpdated": "2022-07-18T22:42:46.403Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-in-web": {
         "extensionId": "d41b8712-0e78-4b8f-8e5a-205212e1fb15",
@@ -15361,7 +15361,7 @@
                 "lastUpdated": "2021-07-27T08:08:12.183Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-url": {
         "extensionId": "ae723fe3-8cb6-4949-91f7-4bbab33a9859",
@@ -15409,7 +15409,7 @@
                 "lastUpdated": "2018-06-14T12:59:50.027Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-open-wsl": {
         "extensionId": "bee284c4-b34c-487d-a8a5-b3f4b612f503",
@@ -15425,7 +15425,7 @@
                 "lastUpdated": "2021-06-04T20:54:18.977Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "flasho": {
         "extensionId": "b325136c-d18d-4ea0-86a1-115c94bfe2ff",
@@ -15601,7 +15601,7 @@
                 "lastUpdated": "2022-08-09T22:14:58.733Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-open-in-marketplace": {
         "extensionId": "a07b90a5-f39d-4968-8666-5c02c8758bc8",
@@ -15713,7 +15713,7 @@
                 "lastUpdated": "2022-06-16T19:09:19.113Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-link": {
         "extensionId": "17f3e1e3-60f4-4140-9f37-f2a9d2aa3c5e",
@@ -15873,7 +15873,7 @@
                 "lastUpdated": "2017-01-03T22:13:28.153Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "blade-runner": {
         "extensionId": "31abb3b5-15d5-4268-b1ec-a2845131acf2",
@@ -15905,7 +15905,7 @@
                 "lastUpdated": "2021-07-20T09:13:34.01Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscrof": {
         "extensionId": "3e0cc5fb-1cd3-4aa7-b1b3-f4ee926a0553",
@@ -16321,7 +16321,7 @@
                 "lastUpdated": "2023-03-29T11:33:54.327Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "quick-open-rails": {
         "extensionId": "235306df-542d-4efb-8747-a42efd3831a1",
@@ -16449,7 +16449,7 @@
                 "lastUpdated": "2018-05-29T10:21:56.21Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-in-other-group": {
         "extensionId": "a10bd468-583c-4952-9f05-2b177d534602",
@@ -16625,7 +16625,7 @@
                 "lastUpdated": "2018-11-05T14:58:26.667Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-single-sibling": {
         "extensionId": "39b13423-12a8-475d-91b5-f448dd16d9bd",
@@ -16673,7 +16673,7 @@
                 "lastUpdated": "2020-12-12T10:42:11.833Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-iterm2-root": {
         "extensionId": "12a2b9a8-086d-4813-af21-06abd56c544c",
@@ -16753,7 +16753,7 @@
                 "lastUpdated": "2019-07-28T12:17:37.823Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-in-vs": {
         "extensionId": "07ca230a-2446-4a3f-bda8-d70c0abb8308",
@@ -16801,7 +16801,7 @@
                 "lastUpdated": "2017-12-07T11:45:04.347Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "openrelatedjsts": {
         "extensionId": "502e6f4a-e91d-45c5-b0e2-1a4f690d78ab",
@@ -16865,7 +16865,7 @@
                 "lastUpdated": "2022-10-05T06:15:17.51Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-doc-in-web": {
         "extensionId": "576108b5-5872-4a84-b8a6-67c4b64fd66a",
@@ -17241,7 +17241,7 @@
                 "lastUpdated": "2019-12-18T18:50:30.487Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "onw": {
         "extensionId": "74dc3e07-1949-4dec-82ec-16bf6908d5e1",
@@ -17417,7 +17417,7 @@
                 "lastUpdated": "2016-11-29T04:43:18.567Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-in-ghe": {
         "extensionId": "b589a2db-69a5-475e-bded-4fc6ca146c57",
@@ -17561,7 +17561,7 @@
                 "lastUpdated": "2022-09-27T09:29:01.263Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-coverage-file": {
         "extensionId": "a746db8f-b74e-4128-a81a-5e0d74d8c070",
@@ -17673,7 +17673,7 @@
                 "lastUpdated": "2020-06-01T22:39:54.927Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-file-command": {
         "extensionId": "ef87818a-188c-4108-9a76-97e95d4c8fab",
@@ -18681,7 +18681,7 @@
                 "lastUpdated": "2023-03-27T07:28:44.653Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-auto-open--markdown-preview": {
         "extensionId": "0e3cdff9-2c7f-41a0-8ad2-f64aa358a4bf",
@@ -18697,7 +18697,7 @@
                 "lastUpdated": "2017-08-26T16:52:30.307Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "remote-ssh": {
         "extensionId": "607fd052-be03-4363-b657-2bd62b83d28a",
@@ -18873,7 +18873,7 @@
                 "lastUpdated": "2019-10-05T17:06:15.71Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-remote-extensionpack": {
         "extensionId": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
@@ -19389,7 +19389,7 @@
                 "lastUpdated": "2020-09-01T08:46:13.773Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "OpenUrlDemo": {
         "extensionId": "7fad4f18-de4b-48b0-b57a-c3e8757f68b2",
@@ -19405,7 +19405,7 @@
                 "lastUpdated": "2022-02-14T06:58:26.58Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "openthisvuepresspage": {
         "extensionId": "820786c9-6b5f-4902-9603-e1148055d037",
@@ -19837,7 +19837,7 @@
                 "lastUpdated": "2022-11-24T11:58:22.347Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-language-opensees": {
         "extensionId": "6418cc08-046b-476e-a91f-9069ef0a6556",
@@ -19869,7 +19869,7 @@
                 "lastUpdated": "2022-07-17T15:11:24.043Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "openscad-language-support": {
         "extensionId": "dbabede4-f915-48c2-9c41-7e5d2cb12310",
@@ -20045,7 +20045,7 @@
                 "lastUpdated": "2020-02-12T20:35:01.273Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "rankedcodehelper": {
         "extensionId": "b538f72c-aff6-411f-b557-f06e78815a01",
@@ -20189,7 +20189,7 @@
                 "lastUpdated": "2021-10-06T19:37:36.483Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "apopenaiassistant": {
         "extensionId": "1ffe4ad5-835e-48be-8bdd-0861836b6a52",
@@ -20365,7 +20365,7 @@
                 "lastUpdated": "2020-03-16T08:35:24.9Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "opensmile-config-files": {
         "extensionId": "c842286c-4f6a-4af7-b658-b9795f8f4c68",
@@ -20461,7 +20461,7 @@
                 "lastUpdated": "2020-05-28T18:02:12.923Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "openwhisk-vscode-extension": {
         "extensionId": "1bc8467e-38e5-4fb6-8f6a-91ec00c6b250",
@@ -20605,7 +20605,7 @@
                 "lastUpdated": "2022-02-10T19:29:06.58Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ui5-ts": {
         "extensionId": "f7e5001a-4c9a-41d6-aa30-c9b178fb3f87",
@@ -20733,7 +20733,7 @@
                 "lastUpdated": "2022-06-06T15:00:52.097Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "opentest-language-support": {
         "extensionId": "23cf4a54-09ac-4531-a131-88366008f52f",
@@ -20813,7 +20813,7 @@
                 "lastUpdated": "2022-09-20T06:20:02.107Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "open-html-files-in-the-default-browser": {
         "extensionId": "bafd46a0-c81a-4ad6-b717-2bd16ca537b4",
@@ -21325,7 +21325,7 @@
                 "lastUpdated": "2023-03-27T10:30:19.45Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "openfile-in-palette": {
         "extensionId": "4e987352-ab35-4f4c-95b5-6d0de9386210",
@@ -22105,7 +22105,7 @@
                 "lastUpdated": "2020-12-05T11:13:54.527Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "xscode-vscode-extension": {
         "extensionId": "af65a3fd-ca10-459f-ba8f-7d333d924d87",
@@ -22233,7 +22233,7 @@
                 "lastUpdated": "2019-07-19T10:18:27.73Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "external-pdf": {
         "extensionId": "61e5015b-33a0-4423-9945-855726987187",
@@ -22313,7 +22313,7 @@
                 "lastUpdated": "2022-12-14T12:17:00.443Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-swaggerhub": {
         "extensionId": "a31d3401-eb98-4422-9872-56f3ce175bd3",
@@ -22329,7 +22329,7 @@
                 "lastUpdated": "2021-11-03T10:56:03.673Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "conda-cheatsheet": {
         "extensionId": "5c4d9bff-d3aa-4c46-953e-fbc1e2928fe2",
@@ -22489,7 +22489,7 @@
                 "lastUpdated": "2021-08-15T17:00:21.41Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "tabsort": {
         "extensionId": "7e0b389e-0a4e-41ad-b5dc-d078398859c8",
@@ -22505,7 +22505,7 @@
                 "lastUpdated": "2022-08-18T10:46:08.797Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "find-related": {
         "extensionId": "4a36830e-5212-456c-a563-d1835e780e02",
@@ -23129,7 +23129,7 @@
                 "lastUpdated": "2023-04-07T03:25:19.793Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vs-treeview": {
         "extensionId": "e1737db5-84af-4ca9-9e53-f5655bf5ff18",
@@ -23385,7 +23385,7 @@
                 "lastUpdated": "2023-03-28T15:40:12.017Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "svg-icons": {
         "extensionId": "c711b8dd-0bea-449f-8e50-cbc91672da26",
@@ -23553,7 +23553,7 @@
                 "lastUpdated": "2016-01-24T23:39:41.25Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "indent-to-bracket": {
         "extensionId": "2543c1a3-3615-4427-a1c9-a9e7b23c82fb",
@@ -23585,7 +23585,7 @@
                 "lastUpdated": "2023-01-15T04:41:12.6Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "build-gn": {
         "extensionId": "ca43639b-d551-471a-a598-194771675fe2",
@@ -23681,7 +23681,7 @@
                 "lastUpdated": "2022-06-07T12:49:54.677Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "test-file-finder": {
         "extensionId": "12cc0e34-917f-4d77-bf12-1a31767819f1",
@@ -23713,7 +23713,7 @@
                 "lastUpdated": "2023-02-19T19:47:42.36Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "codegptbymomia7": {
         "extensionId": "b3222b72-e8e5-458e-8af3-5e746600ea57",
@@ -23921,7 +23921,7 @@
                 "lastUpdated": "2022-09-10T15:33:03.013Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "chatgpt-ai": {
         "extensionId": "51d15b1e-0ef1-41e6-80c0-14346371e97a",
@@ -24177,7 +24177,7 @@
                 "lastUpdated": "2018-05-15T12:45:15.817Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-glsllint-hezuikn-fork": {
         "extensionId": "f4a09935-f484-4b9b-a175-4d1983641908",
@@ -24433,7 +24433,7 @@
                 "lastUpdated": "2019-07-09T16:30:31.127Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "quick-browse": {
         "extensionId": "b4c52ffb-e949-44e6-a171-b82f1d1da483",
@@ -24449,7 +24449,7 @@
                 "lastUpdated": "2021-03-13T06:02:27.45Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ask-gpt": {
         "extensionId": "6e6778ed-26e0-48df-96da-23a354e7173f",
@@ -24513,7 +24513,7 @@
                 "lastUpdated": "2022-06-23T20:28:04.523Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-anyfx": {
         "extensionId": "565afd1e-c0c8-40cd-92e4-3a70bf315dd8",
@@ -24529,7 +24529,7 @@
                 "lastUpdated": "2020-11-28T20:24:02.147Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "fzf-vscode": {
         "extensionId": "76ce1f0f-cfd6-437c-94d5-172e86ec75c3",
@@ -24545,7 +24545,7 @@
                 "lastUpdated": "2021-10-18T14:51:16.623Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "clara-copilot": {
         "extensionId": "556642b6-b577-4f4c-bb2d-1b8f5dbfe963",
@@ -24625,7 +24625,7 @@
                 "lastUpdated": "2022-04-26T18:45:55.74Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "speckle": {
         "extensionId": "946903d0-a4f5-4c6b-98c3-bf6aad4d862b",
@@ -25153,7 +25153,7 @@
                 "lastUpdated": "2021-11-28T23:51:32.537Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "crumbs": {
         "extensionId": "a29c643d-6c57-42a0-8cdd-8f5320e8996a",
@@ -25169,7 +25169,7 @@
                 "lastUpdated": "2022-02-03T18:53:37.833Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "chadcommit": {
         "extensionId": "0e5145ae-3154-49c1-83df-b24f1200f258",
@@ -25233,7 +25233,7 @@
                 "lastUpdated": "2021-07-30T11:21:42.813Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vsc-workspace-sidebar": {
         "extensionId": "a7f293f2-fec9-4226-9987-7520ebe9cc01",
@@ -25537,7 +25537,7 @@
                 "lastUpdated": "2019-01-02T23:05:38.487Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "dlt-logs": {
         "extensionId": "ed571ed6-c34f-444a-bf6e-22415895c92b",
@@ -25613,7 +25613,7 @@
                 "lastUpdated": "2021-10-26T06:50:05.373Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "nml-language": {
         "extensionId": "4bc52eb9-4f3c-45f2-bdf1-3f340b25617c",
@@ -25901,7 +25901,7 @@
                 "lastUpdated": "2023-03-20T17:40:39.98Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "codechat-felvin": {
         "extensionId": "5762cb66-e02f-496e-9ff9-c520aba336a6",
@@ -26589,7 +26589,7 @@
                 "lastUpdated": "2020-09-30T17:49:13.65Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-bible-passages": {
         "extensionId": "ac857bed-9b5c-4205-88d0-75ceb49a7d9d",
@@ -26605,7 +26605,7 @@
                 "lastUpdated": "2023-01-04T00:58:10.137Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "blog-search": {
         "extensionId": "a8ee09bc-7a51-427d-90e6-c365ef11f648",
@@ -26701,7 +26701,7 @@
                 "lastUpdated": "2018-07-20T23:12:49.353Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-VirtualRepos": {
         "extensionId": "16702784-6db9-4d7e-99a4-35d87b4f853a",
@@ -27045,7 +27045,7 @@
                 "lastUpdated": "2023-01-17T05:45:39.173Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "theneo-vscode-extension": {
         "extensionId": "97edb994-545e-4f44-b807-d993feb59e86",
@@ -27189,7 +27189,7 @@
                 "lastUpdated": "2020-02-27T20:20:34.323Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "whisper-of-the-worm": {
         "extensionId": "2c31f7fb-1d9c-4e74-8686-967180c014f0",
@@ -27493,7 +27493,7 @@
                 "lastUpdated": "2020-06-11T04:13:08.763Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "flexigpt": {
         "extensionId": "28dc7272-dbdd-437d-92bb-77cf952869ff",
@@ -27573,7 +27573,7 @@
                 "lastUpdated": "2019-11-07T16:07:53.53Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "gocodeo": {
         "extensionId": "f1734b97-a984-4067-96dc-72a91e412d97",
@@ -27621,7 +27621,7 @@
                 "lastUpdated": "2018-02-05T14:53:56.15Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "midjourney-ai-art": {
         "extensionId": "23ffc886-8800-40a9-86fd-43a3b4e3ef06",
@@ -27685,7 +27685,7 @@
                 "lastUpdated": "2023-02-27T14:56:27.883Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "pkgnav": {
         "extensionId": "4ea136c3-7942-47dc-b22d-5881ebc735ab",
@@ -27989,7 +27989,7 @@
                 "lastUpdated": "2023-04-05T22:00:32.12Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-color-them-top-bars": {
         "extensionId": "70f4378e-78ea-4c4d-b108-a35df503901f",
@@ -28117,7 +28117,7 @@
                 "lastUpdated": "2023-03-22T08:11:17.45Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "understated-theme-vscode": {
         "extensionId": "7243fa27-a95b-49da-bac0-d30fa8ad3eb0",
@@ -28181,7 +28181,7 @@
                 "lastUpdated": "2023-01-15T13:06:18.453Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "search-the-web": {
         "extensionId": "1e4d4c5a-79f7-4df5-8ab4-24f38886e604",
@@ -28309,7 +28309,7 @@
                 "lastUpdated": "2023-03-09T10:48:32.617Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "filepath": {
         "extensionId": "4e08e362-44d5-4a97-9ec9-0798b3959982",
@@ -28469,7 +28469,7 @@
                 "lastUpdated": "2023-03-28T13:50:02.3Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "codewiz": {
         "extensionId": "9713294b-96e2-4909-9eb4-d832093ae027",
@@ -28597,7 +28597,7 @@
                 "lastUpdated": "2023-02-19T09:13:29.483Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "chatgpt-theme": {
         "extensionId": "70c04760-746f-4f1c-bf60-7dc0f397ec8d",
@@ -28613,7 +28613,7 @@
                 "lastUpdated": "2023-03-27T06:41:02.47Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "chatgpt-Android-2023": {
         "extensionId": "9314c93d-fb89-404a-8c22-bcb3ea5147fb",
@@ -28717,7 +28717,7 @@
                 "lastUpdated": "2019-10-09T20:49:24.48Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscotion": {
         "extensionId": "2167c9f2-2cd0-4407-b528-16a1ca93c31e",
@@ -29005,7 +29005,7 @@
                 "lastUpdated": "2019-05-06T13:52:57.4Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "todo-finder": {
         "extensionId": "9f0ba011-1ce4-44bb-abc0-afd9d5c5dc90",
@@ -29501,7 +29501,7 @@
                 "lastUpdated": "2018-03-22T22:25:18.647Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "rails-latest-migration": {
         "extensionId": "20a9cbac-8d83-4f96-9dea-2f8fae0565b4",
@@ -29581,7 +29581,7 @@
                 "lastUpdated": "2018-07-25T15:57:01.95Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "git-file-viewer-button": {
         "extensionId": "f2fb6919-1bcd-4a9f-8bc6-31662a8b5e64",
@@ -30141,7 +30141,7 @@
                 "lastUpdated": "2021-08-17T22:02:05.68Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "preview-html": {
         "extensionId": "bf03d96d-d7cc-405c-b9ab-133a7cc419eb",
@@ -30173,7 +30173,7 @@
                 "lastUpdated": "2022-04-02T03:10:53.653Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "graphviz-markdown-preview": {
         "extensionId": "d34d0d41-c483-44a2-b26b-53354f4b0647",
@@ -30285,7 +30285,7 @@
                 "lastUpdated": "2021-06-26T15:28:39.997Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-coffeescript-preview": {
         "extensionId": "c2c6cc15-8f19-4bb7-82de-67824296d12d",
@@ -30445,7 +30445,7 @@
                 "lastUpdated": "2018-07-16T08:14:36.947Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "terraform-preview": {
         "extensionId": "db7c567f-34c6-491d-86be-fa096615c116",
@@ -30657,7 +30657,7 @@
                 "lastUpdated": "2022-01-05T15:38:14.62Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "tellraw-preview": {
         "extensionId": "7d51cbaf-2a61-4394-a3b3-d6e1624a00a3",
@@ -30913,7 +30913,7 @@
                 "lastUpdated": "2022-04-10T22:26:04.56Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "svga-preview": {
         "extensionId": "8bf1a0d5-ee00-4a9d-ab0a-8dc8b03b45cb",
@@ -31073,7 +31073,7 @@
                 "lastUpdated": "2022-07-15T01:22:31.623Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "latex-js-preview": {
         "extensionId": "83e053dd-4360-43af-81d6-a6f728f47e0d",
@@ -31185,7 +31185,7 @@
                 "lastUpdated": "2022-02-18T23:31:05.297Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-marketplace-preview": {
         "extensionId": "8d5604ff-377e-4dcd-a035-5427ae8c0c46",
@@ -31601,7 +31601,7 @@
                 "lastUpdated": "2021-11-26T10:08:52.68Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "blp-preview": {
         "extensionId": "957fff0b-387c-43f6-a0e3-6de007f9c63d",
@@ -31809,7 +31809,7 @@
                 "lastUpdated": "2019-05-03T00:14:31.93Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "markdown-preview-fuji-styles": {
         "extensionId": "45d6df0c-fe01-4efa-8871-fb1e9dd75f2a",
@@ -31905,7 +31905,7 @@
                 "lastUpdated": "2022-06-17T13:56:32.09Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ultra-math-preview": {
         "extensionId": "9ec46437-766b-44f9-947f-979a8b02477f",
@@ -31985,7 +31985,7 @@
                 "lastUpdated": "2022-11-01T12:05:19.217Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "date-hover-preview": {
         "extensionId": "9f05bbca-5501-4047-8988-49528e201e79",
@@ -32033,7 +32033,7 @@
                 "lastUpdated": "2020-03-23T17:32:21.467Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "pluto-vscode": {
         "extensionId": "38f11d55-4f9c-4bd9-b395-b808b73e45c9",
@@ -32273,7 +32273,7 @@
                 "lastUpdated": "2021-12-03T08:39:09.707Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "homebrewery-vscode": {
         "extensionId": "2365e002-a3ac-4781-b798-33813880965e",
@@ -32545,7 +32545,7 @@
                 "lastUpdated": "2023-04-07T12:03:57.413Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-iced-coffeescript-preview": {
         "extensionId": "c043e29e-5e02-43c9-999e-b65d264e62ea",
@@ -32577,7 +32577,7 @@
                 "lastUpdated": "2022-12-06T20:51:50.383Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-my-markdown-preview-styles": {
         "extensionId": "20a03c47-f3e9-4363-a8ff-b4762e3dbf69",
@@ -32657,7 +32657,7 @@
                 "lastUpdated": "2021-05-10T09:55:14.09Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "ihub-preview-cloud": {
         "extensionId": "4219e30d-f862-4dd9-815a-cc2803fadfea",
@@ -32961,7 +32961,7 @@
                 "lastUpdated": "2019-02-18T23:29:02.19Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "preview-jsdoc": {
         "extensionId": "177b93ff-d2aa-4487-b4ec-64e699c67f00",
@@ -33201,7 +33201,7 @@
                 "lastUpdated": "2023-01-30T04:01:28.887Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "mdpreview-non-space-character-count": {
         "extensionId": "0db4d39f-6edf-4629-90a3-d293b342ed0d",
@@ -33217,7 +33217,7 @@
                 "lastUpdated": "2019-03-09T01:21:26.5Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-svg-previewer": {
         "extensionId": "27d96499-52df-4f8e-8905-275284e25ace",
@@ -33313,7 +33313,7 @@
                 "lastUpdated": "2019-09-08T08:22:23.833Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "my-nbpreviewer": {
         "extensionId": "18efdf4b-6b1a-4341-b7f7-42cfdc2d8cc1",
@@ -33425,7 +33425,7 @@
                 "lastUpdated": "2022-02-06T00:42:55.513Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "latex-previewer": {
         "extensionId": "83f64417-0b8d-4111-9bb1-8ac93111927f",
@@ -34129,7 +34129,7 @@
                 "lastUpdated": "2023-03-22T15:02:39.437Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "asbrowser": {
         "extensionId": "b069123b-e1f4-4023-944c-303cd5b1f933",
@@ -34369,7 +34369,7 @@
                 "lastUpdated": "2021-06-18T00:43:05.24Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "zip-viewer": {
         "extensionId": "51bca40f-a124-4202-9612-cb459f8c9690",
@@ -34401,7 +34401,7 @@
                 "lastUpdated": "2021-07-29T13:51:54Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-geojsonviewer": {
         "extensionId": "cf51f2af-5a47-4fa0-8e08-43dacdca6383",
@@ -34513,7 +34513,7 @@
                 "lastUpdated": "2021-05-30T04:49:52.877Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "babel-ast-explorer": {
         "extensionId": "6a32553f-95f6-4420-8d2c-d268049176f0",
@@ -34529,7 +34529,7 @@
                 "lastUpdated": "2023-03-16T02:57:43.35Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-displayfile": {
         "extensionId": "351acfda-a2e0-4b07-84af-4453dc851e08",
@@ -34641,7 +34641,7 @@
                 "lastUpdated": "2021-03-25T08:05:20.647Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "markless-sean10": {
         "extensionId": "ab9e427c-0651-4bbf-9888-014427412331",
@@ -34865,7 +34865,7 @@
                 "lastUpdated": "2023-03-21T03:49:10.703Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "timing": {
         "extensionId": "52e8af69-4ed3-4810-b2f3-32c4c2bd7a6c",
@@ -34961,7 +34961,7 @@
                 "lastUpdated": "2021-04-03T23:55:14.537Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "npm-readme-helper": {
         "extensionId": "a3e40a18-bfbe-469c-98c6-28a6297c061e",
@@ -35233,7 +35233,7 @@
                 "lastUpdated": "2022-06-03T09:14:26.527Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "jsonresume": {
         "extensionId": "504733d7-db79-4469-8cea-d0a2fc4facb0",
@@ -35345,7 +35345,7 @@
                 "lastUpdated": "2023-03-14T08:27:51.54Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "secret-reader": {
         "extensionId": "27091d29-24f4-4fe6-b796-714fb7d329d0",
@@ -35537,7 +35537,7 @@
                 "lastUpdated": "2021-09-27T22:23:14.143Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "grida-vscode": {
         "extensionId": "16246cb3-5fad-44b8-b05e-97a2bb49fe57",
@@ -35825,7 +35825,7 @@
                 "lastUpdated": "2020-09-24T09:36:59.79Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "naruto": {
         "extensionId": "adbbda99-5953-427c-8475-01c9a5309c47",
@@ -36113,7 +36113,7 @@
                 "lastUpdated": "2020-11-17T13:42:36.327Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "readmegen": {
         "extensionId": "14b10ae5-2a4a-4e3d-94d2-a2fedcadbee4",
@@ -36481,7 +36481,7 @@
                 "lastUpdated": "2020-09-12T23:41:36.48Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-sbm-preview": {
         "extensionId": "b2212bc1-92c0-4f0d-a167-aeea024398d7",
@@ -36705,7 +36705,7 @@
                 "lastUpdated": "2021-05-11T09:52:46.74Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "vscode-pigments": {
         "extensionId": "157fb3af-9e8d-4a25-ada3-ef6d4b8c7818",
@@ -36993,7 +36993,7 @@
                 "lastUpdated": "2021-04-30T22:17:48.913Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "light-dark-toggle": {
         "extensionId": "784e51cc-2681-45a0-bd71-b6999d041903",
@@ -37009,7 +37009,7 @@
                 "lastUpdated": "2020-02-12T14:07:56.017Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "adobe-markdown-authoring": {
         "extensionId": "a00e3b49-7bb1-4dbb-bab2-046dee30b6a0",
@@ -37153,7 +37153,7 @@
                 "lastUpdated": "2020-10-19T08:34:42.163Z"
             }
         ],
-        "downloaded": false
+        "downloaded": true
     },
     "mjlog-preview": {
         "extensionId": "27efa18b-38ec-4618-93f6-cfff81ddb989",
