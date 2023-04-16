@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'Home.js' (path: /Users/prateek/Downloads/extensions/zcxiaobao-vscode-cats-0.1.1/extension/out/Home.js) at line 11.
+Keyword 'ws' found in file 'uninstall.js' (path: /Users/prateek/Downloads/extensions/zcxiaobao-vscode-cats-0.1.1/extension/out/uninstall.js) at line 7.
+Could not read file: /Users/prateek/Downloads/extensions/zcxiaobao-vscode-cats-0.1.1/extension/assets/fix.png
+Could not read file: /Users/prateek/Downloads/extensions/zcxiaobao-vscode-cats-0.1.1/extension/assets/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/zcxiaobao-vscode-cats-0.1.1/extension/assets/demo.gif

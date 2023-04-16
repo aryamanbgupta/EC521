@@ -1,0 +1,43 @@
+Could not read file: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/blop.png
+Could not read file: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/blop-linter.png
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/chalk/readme.md) at line 27.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/chalk/readme.md) at line 266.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/chalk/readme.md) at line 268.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/chalk/node_modules/color-convert/README.md) at line 59.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/supports-color/index.js) at line 70.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/supports-color/index.js) at line 71.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/supports-color/package.json) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/supports-color/package.json) at line 52.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/CHANGELOG.md) at line 69.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/CHANGELOG.md) at line 212.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/CHANGELOG.md) at line 253.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/CHANGELOG.md) at line 279.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/README.md) at line 43.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/README.md) at line 189.
+Keyword 'ws' found in file 'source-map.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/dist/source-map.js) at line 582.
+Keyword 'ws' found in file 'source-map.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/dist/source-map.js) at line 1058.
+Keyword 'ws' found in file 'source-map.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/dist/source-map.js) at line 2953.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/lib/util.js) at line 503.
+Keyword 'ws' found in file 'base64-vlq.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/lib/base64-vlq.js) at line 8.
+Could not read file: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/lib/mappings.wasm
+Keyword 'ws' found in file 'source-node.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/node_modules/source-map/lib/source-node.js) at line 11.
+Keyword 'ws' found in file 'files.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/server/node_modules/vscode-languageserver/lib/files.js) at line 37.
+Keyword 'ws' found in file 'files.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/server/node_modules/vscode-languageserver/lib/files.js) at line 126.
+Keyword 'ws' found in file 'files.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/server/node_modules/vscode-languageserver/lib/files.js) at line 145.
+Keyword 'ws' found in file 'files.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/server/node_modules/vscode-languageserver/lib/files.js) at line 173.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageserver-types/lib/esm/main.d.ts) at line 1574.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageserver-types/lib/umd/main.d.ts) at line 1574.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/README.md) at line 7.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/CHANGELOG.md) at line 68.
+Keyword 'ws' found in file 'semver.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/semver.js) at line 124.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 223.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 224.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 240.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 241.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 251.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/node_modules/semver/README.md) at line 357.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/lib/main.js) at line 143.
+Keyword 'ws' found in file 'client.d.ts' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/lib/client.d.ts) at line 78.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/lib/utils/processes.js) at line 9.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/node_modules/vscode-languageclient/lib/utils/processes.js) at line 13.
+Keyword 'ws' found in file 'diagnostics.txt' (path: /Users/prateek/Downloads/extensions/batistebieler-blop-linter-1.0.34/extension/client/testFixture/diagnostics.txt) at line 1.

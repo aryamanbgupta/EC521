@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/kevin-felichko-open-under-0.3.1/extension/images/single-file-cursor.gif
+Could not read file: /Users/prateek/Downloads/extensions/kevin-felichko-open-under-0.3.1/extension/images/multi-file-selection.gif
+Could not read file: /Users/prateek/Downloads/extensions/kevin-felichko-open-under-0.3.1/extension/images/single-file-selection.gif
+Could not read file: /Users/prateek/Downloads/extensions/kevin-felichko-open-under-0.3.1/extension/images/single-file-palette.gif

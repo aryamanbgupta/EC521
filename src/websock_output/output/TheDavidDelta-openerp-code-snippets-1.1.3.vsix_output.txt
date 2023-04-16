@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'python.json' (path: /Users/prateek/Downloads/extensions/TheDavidDelta-openerp-code-snippets-1.1.3/extension/snippets/python.json) at line 165.
+Could not read file: /Users/prateek/Downloads/extensions/TheDavidDelta-openerp-code-snippets-1.1.3/extension/images/logo.png

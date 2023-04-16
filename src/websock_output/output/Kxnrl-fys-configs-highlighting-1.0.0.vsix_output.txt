@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/Kxnrl-fys-configs-highlighting-1.0.0/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/Kxnrl-fys-configs-highlighting-1.0.0/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/Kxnrl-fys-configs-highlighting-1.0.0/extension/LICENSE.txt) at line 467.
+Could not read file: /Users/prateek/Downloads/extensions/Kxnrl-fys-configs-highlighting-1.0.0/extension/images/csgo-logo.png
+Keyword 'ws' found in file 'fys.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/Kxnrl-fys-configs-highlighting-1.0.0/extension/syntaxes/fys.tmLanguage.json) at line 117.

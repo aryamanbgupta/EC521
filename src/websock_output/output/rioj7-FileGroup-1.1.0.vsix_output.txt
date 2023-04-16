@@ -1,0 +1,12 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/README.md) at line 119.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/README.md) at line 143.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/README.md) at line 163.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/package.json) at line 194.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 25.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 26.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 30.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/extension.js) at line 35.
+Could not read file: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/rioj7-FileGroup-1.1.0/extension/images/view.png

@@ -1,0 +1,15 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/CHANGELOG.md) at line 13.
+Could not read file: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/logo.png
+Keyword 'ws' found in file 'boot.js' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/boot.js) at line 1.
+Keyword 'ws' found in file 'boot.js' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/boot.js) at line 52.
+Keyword 'ws' found in file 'boot.js' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/boot.js) at line 53.
+Keyword 'ws' found in file 'boot.js' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/boot.js) at line 980.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 194.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 240.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 282.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 363.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 540.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 553.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 557.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 610.
+Keyword 'ws' found in file 'build-manifest.json' (path: /Users/prateek/Downloads/extensions/pawijs-vscode-pawi-1.1.0/extension/view/build-manifest.json) at line 1116.

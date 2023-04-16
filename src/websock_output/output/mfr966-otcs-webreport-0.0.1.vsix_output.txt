@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/mfr966-otcs-webreport-0.0.1/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/mfr966-otcs-webreport-0.0.1/extension/package.json) at line 4.

@@ -1,0 +1,26 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/LICENSE.txt) at line 84.
+Could not read file: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/v8-logo.png
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageserver-types/lib/esm/main.d.ts) at line 1513.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageserver-types/lib/umd/main.d.ts) at line 1513.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/README.md) at line 7.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 95.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 97.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 99.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 101.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 134.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 136.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 811.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 1021.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/yarn.lock) at line 1022.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/lib/main.js) at line 139.
+Keyword 'ws' found in file 'client.d.ts' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/lib/client.d.ts) at line 67.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 9.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 13.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/CHANGELOG.md) at line 37.
+Keyword 'ws' found in file 'semver.js' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/semver.js) at line 118.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 217.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 218.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 234.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 235.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 245.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/v8-torque-vscode-torque-1.0.3/extension/node_modules/semver/README.md) at line 351.

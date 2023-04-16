@@ -1,0 +1,29 @@
+Could not read file: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/icon.png
+Keyword 'ws' found in file 'ui.schema.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/ui.schema.json) at line 14.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 26.
+Keyword 'wss' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 26.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 27.
+Keyword 'wss' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 27.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 34.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 38.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 76.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 77.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 99.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 101.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 103.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 107.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 108.
+Keyword 'wss' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 108.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 109.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 111.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 114.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 119.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 120.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 123.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 237.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 239.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 241.
+Keyword 'ws' found in file 'plugin.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/out/ls/plugin.js) at line 396.
+Could not read file: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/icons/inactive.png
+Could not read file: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/icons/default.png
+Could not read file: /Users/prateek/Downloads/extensions/mtxr-sqltools-driver-mssql-0.4.1/extension/icons/active.png

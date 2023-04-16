@@ -1,0 +1,20 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 10.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 17.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 18.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 19.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 25.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 28.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 31.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 34.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 38.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/README.md) at line 41.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/package.json) at line 102.
+Could not read file: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/favicon.ico
+Could not read file: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/logo_2.png
+Keyword 'ws' found in file 'main.b421703d.css.map' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/static/css/main.b421703d.css.map) at line 1.
+Keyword 'ws' found in file 'main.4ceeb557.js' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/static/js/main.4ceeb557.js) at line 2.
+Keyword 'ws' found in file 'main.4ceeb557.js.map' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/static/js/main.4ceeb557.js.map) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/GoCodeo-gocodeo-0.1.7/extension/build/ext-src/extension.js) at line 73.

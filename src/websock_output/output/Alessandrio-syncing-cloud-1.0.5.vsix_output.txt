@@ -1,0 +1,6 @@
+Could not read file: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/syncing-blue.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/README.md) at line 72.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/package.json) at line 58.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/package.json) at line 63.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/LICENSE.txt) at line 84.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Alessandrio-syncing-cloud-1.0.5/extension/extension.js) at line 150.

@@ -1,0 +1,46 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/package.json) at line 73.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/package.json) at line 89.
+Could not read file: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/732389ded34cb9c52dd88271f1345af9.ttf
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 78.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 99.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 178.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 185.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 275.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 405.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 418.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 425.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 431.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 438.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 452.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 459.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 466.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 472.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 484.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 559.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 578.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 597.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 623.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 630.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 636.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 678.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 684.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 691.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 698.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 711.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 717.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 730.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 748.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 754.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 767.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 773.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 780.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 787.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 950.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 1151.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 1157.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 1163.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/build.js) at line 1175.
+Could not read file: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/535877f50039c0cb49a6196a5b7517cd.woff
+Could not read file: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/res/prefetch/dist/logo.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/out/extension.js) at line 1.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/live-hybrid-toolkit-latch-0.5.3/extension/out/extension.js) at line 1.

@@ -1,0 +1,24 @@
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 296.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 472.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 924.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1026.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1346.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1355.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1364.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1373.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1382.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1391.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1423.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1424.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1425.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1452.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1453.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 1454.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 2101.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 2281.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 2465.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 3222.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 3735.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/pnpm-lock.yaml) at line 3743.
+Could not read file: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/fe92star-yapi-mock-server-0.0.2/extension/yapi-mock-server-0.0.2.tgz

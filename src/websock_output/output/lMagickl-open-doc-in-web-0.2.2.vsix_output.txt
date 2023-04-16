@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lMagickl-open-doc-in-web-0.2.2/extension/README.md) at line 13.
+Could not read file: /Users/prateek/Downloads/extensions/lMagickl-open-doc-in-web-0.2.2/extension/preview.gif
+Could not read file: /Users/prateek/Downloads/extensions/lMagickl-open-doc-in-web-0.2.2/extension/logo.png
+Keyword 'openExternal' found in file 'extension.cjs' (path: /Users/prateek/Downloads/extensions/lMagickl-open-doc-in-web-0.2.2/extension/dist/extension.cjs) at line 2.

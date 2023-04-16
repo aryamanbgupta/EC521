@@ -1,0 +1,26 @@
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 261.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 423.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 877.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 994.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1431.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1440.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1441.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1449.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1457.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1466.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1475.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1483.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1492.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1501.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1531.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1532.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1533.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1559.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1560.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1561.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1583.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1584.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 1585.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 2189.
+Keyword 'ws' found in file 'pnpm-lock.yaml' (path: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/pnpm-lock.yaml) at line 2565.
+Could not read file: /Users/prateek/Downloads/extensions/blairyue-open-git-0.0.3/extension/res/icon.png

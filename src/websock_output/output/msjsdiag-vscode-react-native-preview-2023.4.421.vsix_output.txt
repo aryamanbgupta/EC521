@@ -1,0 +1,159 @@
+Keyword 'ws' found in file 'package.nls.fr.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.fr.json) at line 31.
+Keyword 'ws' found in file 'package.nls.ko.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.ko.json) at line 31.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 106.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 316.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 558.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 884.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 1095.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 1306.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 1614.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 3506.
+Keyword 'ws' found in file 'ThirdPartyNotices.txt' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/ThirdPartyNotices.txt) at line 3507.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 55.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 95.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 115.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 130.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 148.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 185.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 215.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 225.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 285.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 354.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 417.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/CHANGELOG.md) at line 441.
+Keyword 'ws' found in file 'package.nls.cs.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.cs.json) at line 31.
+Keyword 'ws' found in file 'package.nls.pt-br.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.pt-br.json) at line 31.
+Keyword 'ws' found in file 'package.nls.zh-tw.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.zh-tw.json) at line 31.
+Keyword 'ws' found in file 'package.nls.es.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.es.json) at line 31.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 45.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 46.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 102.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 149.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 167.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 202.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 204.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 325.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 344.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 358.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 402.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 404.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 406.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 408.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 412.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 416.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 420.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 435.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 439.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 441.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 443.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 445.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 449.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 453.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 482.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 486.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 560.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 565.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 580.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 586.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 590.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 625.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 636.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 889.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 898.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/README.md) at line 980.
+Keyword 'ws' found in file 'package.nls.tr.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.tr.json) at line 31.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 75.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 76.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 77.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 78.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 81.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 87.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 166.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 167.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 169.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 288.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 289.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 337.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 338.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 402.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 403.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 430.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 431.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 480.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 508.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 654.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 844.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 902.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 1276.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.json) at line 1301.
+Keyword 'ws' found in file 'package.nls.ja.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.ja.json) at line 31.
+Keyword 'ws' found in file 'package.nls.zh-cn.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.zh-cn.json) at line 31.
+Keyword 'ws' found in file 'package.nls.pl.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.pl.json) at line 24.
+Keyword 'ws' found in file 'package.nls.pl.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.pl.json) at line 31.
+Keyword 'ws' found in file 'package.nls.pl.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.pl.json) at line 38.
+Keyword 'ws' found in file 'package.nls.pl.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.pl.json) at line 45.
+Keyword 'ws' found in file 'package.nls.ru.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.ru.json) at line 31.
+Keyword 'ws' found in file 'package.nls.de.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.de.json) at line 31.
+Keyword 'ws' found in file 'package.nls.it.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.it.json) at line 31.
+Keyword 'ws' found in file 'package.nls.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.json) at line 14.
+Keyword 'ws' found in file 'package.nls.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.json) at line 35.
+Keyword 'ws' found in file 'package.nls.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/package.nls.json) at line 61.
+Keyword 'ws' found in file 'nls.bundle.ja.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.ja.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.tr.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.tr.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.it.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.it.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.pl.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.pl.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.ru.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.ru.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.de.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.de.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.zh-tw.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.zh-tw.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.pt-br.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.pt-br.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.zh-cn.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.zh-cn.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.ko.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.ko.json) at line 1.
+Keyword 'ws' found in file 'nls.metadata.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.metadata.json) at line 1.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 1.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 13.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 21.
+Keyword 'wss' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 21.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 53.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 106.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 111.
+Keyword 'ws' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 284.
+Keyword 'wss' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 284.
+Keyword 'openExternal' found in file 'rn-extension.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/rn-extension.js) at line 284.
+Keyword 'ws' found in file 'nls.bundle.fr.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.fr.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.es.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.es.json) at line 1.
+Keyword 'ws' found in file 'nls.bundle.cs.json' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/dist/nls.bundle.cs.json) at line 1.
+Keyword 'ws' found in file 'features-tutor.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/walkthougths/features-tutor.md) at line 5.
+Keyword 'ws' found in file 'debug-tutor.md' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/walkthougths/debug-tutor.md) at line 9.
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/rnw-set-up.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/dev-menu-setup-custom-host.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/add-debug-configuration.gif
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/element-inspector-with-ui.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/configure-gear-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/choose-debugger.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/launch-config.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/command-palette.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/intellisense-prompt.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/dynamic-debugging-configuration.gif
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/rnm-set-up.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/react-features.gif
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/enable-remote-debug.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/select-dev-menu.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/debug-view-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/debug-commands-button.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/command-palette-preview.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/debug-targets.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/intellisense.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/custom-keybindings.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/debug-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/custom-host-and-port.png
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/element-inspector-usage.gif
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/resources/images/network-inspector.png
+Keyword 'ws' found in file 'builder.js' (path: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/gulp_scripts/builder.js) at line 112.
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/MacOS/PortForwardingMacApp
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/peertalkMac.framework/peertalkMac
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/peertalkMac.framework/Versions/A/peertalkMac
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/CocoaAsyncSocketMac.framework/CocoaAsyncSocketMac
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/CocoaAsyncSocketMac.framework/Versions/A/CocoaAsyncSocketMac
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/FBPortForwarding-Mac.framework/FBPortForwarding-Mac
+Could not read file: /Users/prateek/Downloads/extensions/msjsdiag-vscode-react-native-preview-2023.4.421/extension/static/PortForwardingMacApp.app/Contents/Frameworks/FBPortForwarding-Mac.framework/Versions/A/FBPortForwarding-Mac

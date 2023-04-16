@@ -1,0 +1,24 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/README.md) at line 63.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/README.md) at line 363.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/README.md) at line 364.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/README.md) at line 368.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/package.json) at line 171.
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/dist/bundle.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/resources/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/resources/run-build.png
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/index.xlsb
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/access/index.accdb
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/ribbons/images/home.png
+Keyword 'ws' found in file 'pageView.bas' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/vba/Views/pageView.bas) at line 3.
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/Xdebug/images/immediate.gif
+Keyword 'ws' found in file 'range.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/range.d.vb) at line 424.
+Keyword 'ws' found in file 'range.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/range.d.vb) at line 500.
+Keyword 'ws' found in file 'range.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/range.d.vb) at line 572.
+Keyword 'ws' found in file 'worksheet.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/worksheet.d.vb) at line 67.
+Keyword 'ws' found in file 'worksheet.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/worksheet.d.vb) at line 71.
+Keyword 'ws' found in file 'worksheet.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/worksheet.d.vb) at line 80.
+Keyword 'ws' found in file 'application.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/application.d.vb) at line 19.
+Keyword 'ws' found in file 'application.d.vb' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/samples/packages/excel-types/application.d.vb) at line 128.
+Keyword 'ws' found in file 'vbscript.json' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/syntaxes/vbscript.json) at line 6.
+Keyword 'ws' found in file 'vbscript.json' (path: /Users/prateek/Downloads/extensions/local-smart-excel-live-server-4.0.26/extension/syntaxes/vbscript.json) at line 7.

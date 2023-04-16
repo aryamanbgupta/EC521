@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/hosseinagha-vscode-livescript-snippets-0.1.0/extension/LSS.png

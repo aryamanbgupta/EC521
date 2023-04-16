@@ -1,0 +1,13 @@
+Could not read file: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/groovy.png
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 158.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 160.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 164.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 166.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 241.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 243.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 1111.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 1455.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 1789.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 1792.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/package-lock.json) at line 1793.
+Could not read file: /Users/prateek/Downloads/extensions/marlon407-code-groovy-0.1.2/extension/code-groovy-0.0.5.gif

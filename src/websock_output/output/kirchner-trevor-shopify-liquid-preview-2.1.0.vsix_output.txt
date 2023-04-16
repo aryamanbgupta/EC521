@@ -1,0 +1,25 @@
+Could not read file: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/demo.gif
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 13.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 18.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 24.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 64.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 72.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 73.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 114.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 115.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 116.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 117.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 123.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/extension.js) at line 130.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/CHANGELOG.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 21.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 54.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 93.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 97.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 110.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/README.md) at line 263.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/package.json) at line 7.
+Keyword 'ws' found in file 'liquid.min.js.map' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/dist/liquid.min.js.map) at line 1.
+Keyword 'ws' found in file 'liquid.js.map' (path: /Users/prateek/Downloads/extensions/kirchner-trevor-shopify-liquid-preview-2.1.0/extension/node_modules/liquidjs/dist/liquid.js.map) at line 1.

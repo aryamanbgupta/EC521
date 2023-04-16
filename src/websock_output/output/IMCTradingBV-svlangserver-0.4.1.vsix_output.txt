@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/README.md) at line 107.
+Keyword 'ws' found in file 'svlangserver.js' (path: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/dist/svlangserver.js) at line 2.
+Keyword 'ws' found in file 'svindex_builder.js' (path: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/dist/svindex_builder.js) at line 2.
+Keyword 'ws' found in file 'cached_index_loader.js' (path: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/dist/cached_index_loader.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/IMCTradingBV-svlangserver-0.4.1/extension/resources/icon.png

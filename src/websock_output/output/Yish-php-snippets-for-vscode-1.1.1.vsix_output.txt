@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/Yish-php-snippets-for-vscode-1.1.1/extension/images/elephant.png

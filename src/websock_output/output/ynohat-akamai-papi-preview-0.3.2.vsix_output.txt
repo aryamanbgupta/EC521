@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/package.json) at line 34.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/package.json) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/package.json) at line 40.
+Keyword 'ws' found in file 'preview-panel.js' (path: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/dist/preview-panel.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/dist/fonts/codicon.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/images/json.png
+Could not read file: /Users/prateek/Downloads/extensions/ynohat-akamai-papi-preview-0.3.2/extension/images/human.png

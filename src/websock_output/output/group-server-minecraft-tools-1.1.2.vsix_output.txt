@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/package.json) at line 31.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/package.json) at line 40.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/package.json) at line 60.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file 'main.1052838b.js' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/assets/public/static/js/main.1052838b.js) at line 2.
+Keyword 'ws' found in file '415.bc8f9b84.chunk.js' (path: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/assets/public/static/js/415.bc8f9b84.chunk.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/assets/media/dep.png
+Could not read file: /Users/prateek/Downloads/extensions/group-server-minecraft-tools-1.1.2/extension/assets/media/minecraft-tools.png

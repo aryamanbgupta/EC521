@@ -1,0 +1,275 @@
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/README.md) at line 42.
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/screenshot-settings.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/extension.js) at line 36.
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonPointer.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/System.Diagnostics.DiagnosticSource.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.Logging.dll
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 357.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 693.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 836.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 962.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1057.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1078.
+Keyword 'wss' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1078.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1344.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1351.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1712.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1716.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.deps.json) at line 1717.
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.Logging.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Nerdbank.Streams.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/MessagePack.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.Primitives.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.DependencyInjection.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.VisualStudio.Threading.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JetBrains.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.Options.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/StreamJsonRpc.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.VisualStudio.LanguageServer.Protocol.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.pdb
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Json.More.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/System.IO.Pipelines.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Newtonsoft.Json.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/MessagePack.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchema.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.VisualStudio.Validation.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Extensions.Logging.Debug.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/JsonSchemaLanguageServer.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/Microsoft.Bcl.AsyncInterfaces.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hans/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hant/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pl/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pl/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pl/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ja/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ja/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ja/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/it/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/it/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/it/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/cs/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/cs/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/cs/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ru/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ru/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ru/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pt-BR/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/de/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/de/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/de/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ko/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ko/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/ko/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/fr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/fr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/fr/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/es/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/es/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/es/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/tr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/tr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/osx-x64/tr/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonPointer.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/System.Diagnostics.DiagnosticSource.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.Logging.dll
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 357.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 680.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 822.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 948.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1051.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1072.
+Keyword 'wss' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1072.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1338.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1345.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1699.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1703.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.deps.json) at line 1704.
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.Logging.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Nerdbank.Streams.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/MessagePack.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.Primitives.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.DependencyInjection.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.VisualStudio.Threading.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JetBrains.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.Options.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/StreamJsonRpc.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.VisualStudio.LanguageServer.Protocol.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.pdb
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Json.More.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/System.IO.Pipelines.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Newtonsoft.Json.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.exe
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/MessagePack.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchema.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.VisualStudio.Validation.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Extensions.Logging.Debug.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/JsonSchemaLanguageServer.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/Microsoft.Bcl.AsyncInterfaces.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hans/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hant/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pl/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pl/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pl/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ja/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ja/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ja/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/it/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/it/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/it/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/cs/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/cs/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/cs/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ru/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ru/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ru/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pt-BR/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/de/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/de/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/de/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ko/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ko/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/ko/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/fr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/fr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/fr/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/es/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/es/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/es/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/tr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/tr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/win-x64/tr/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonPointer.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/System.Diagnostics.DiagnosticSource.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.Logging.dll
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 357.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 693.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 836.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 962.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1057.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1078.
+Keyword 'wss' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1078.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1344.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1351.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1712.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1716.
+Keyword 'ws' found in file 'JsonSchemaLanguageServer.deps.json' (path: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.deps.json) at line 1717.
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.Logging.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Nerdbank.Streams.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/MessagePack.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.FileSystemGlobbing.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.Primitives.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.DependencyInjection.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.VisualStudio.Threading.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JetBrains.Annotations.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.Options.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/StreamJsonRpc.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.VisualStudio.LanguageServer.Protocol.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.pdb
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Json.More.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/System.IO.Pipelines.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Newtonsoft.Json.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/MessagePack.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchema.Net.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.VisualStudio.Validation.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Extensions.Logging.Debug.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/JsonSchemaLanguageServer.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/Microsoft.Bcl.AsyncInterfaces.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hans/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hant/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pl/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pl/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pl/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ja/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ja/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ja/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/it/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/it/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/it/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/cs/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/cs/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/cs/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ru/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ru/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ru/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pt-BR/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/de/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/de/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/de/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ko/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ko/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/ko/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/fr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/fr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/fr/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/es/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/es/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/es/Microsoft.VisualStudio.Threading.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/tr/StreamJsonRpc.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/tr/Microsoft.VisualStudio.Validation.resources.dll
+Could not read file: /Users/prateek/Downloads/extensions/prosser-json-schema-2020-validation-0.0.5/extension/dist/server/linux-x64/tr/Microsoft.VisualStudio.Threading.resources.dll

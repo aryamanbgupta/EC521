@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/CHANGELOG.md) at line 187.
+Keyword 'ws' found in file '.gitignore' (path: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/.gitignore) at line 35.
+Could not read file: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/snapshots/sumi-default-dark.png
+Could not read file: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/snapshots/sumi-vs.png
+Could not read file: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/snapshots/sumi-default-light.png
+Could not read file: /Users/prateek/Downloads/extensions/opensumi-opensumi-default-themes-2.5.8/extension/icons/icon.png

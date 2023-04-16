@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/bcanzanella-openmatchingfiles-0.5.4/extension/README.md) at line 40.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/bcanzanella-openmatchingfiles-0.5.4/extension/package.json) at line 44.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/bcanzanella-openmatchingfiles-0.5.4/extension/node_modules/natural-compare-lite/README.md) at line 40.
+Could not read file: /Users/prateek/Downloads/extensions/bcanzanella-openmatchingfiles-0.5.4/extension/assets/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/bcanzanella-openmatchingfiles-0.5.4/extension/assets/demo.gif

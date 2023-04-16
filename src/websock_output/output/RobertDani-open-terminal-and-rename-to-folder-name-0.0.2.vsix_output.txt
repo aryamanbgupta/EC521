@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 19.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 30.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 32.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 35.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 36.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/out/extension.js) at line 37.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/RobertDani-open-terminal-and-rename-to-folder-name-0.0.2/extension/dist/extension.js) at line 1.

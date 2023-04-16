@@ -1,0 +1,12 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/CHANGELOG.md) at line 65.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/CHANGELOG.md) at line 82.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/CHANGELOG.md) at line 139.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/README.md) at line 51.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/package.json) at line 59.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/package.json) at line 68.
+Could not read file: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/screenshots/move-view.gif
+Could not read file: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/screenshots/main.png
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/dist/extension.js.LICENSE.txt) at line 2.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/dist/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/letmaik-git-tree-compare-1.14.0/extension/resources/logo.png

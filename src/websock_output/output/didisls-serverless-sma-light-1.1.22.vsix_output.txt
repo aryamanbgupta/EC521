@@ -1,0 +1,27 @@
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js.map) at line 1.
+Keyword 'wss' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 16.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 18.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 41.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 47.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 77.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 77.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 239.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 478.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 512.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 543.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 573.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 589.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 595.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 597.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 597.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 604.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 619.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 662.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 667.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 667.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 707.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 712.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 720.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/dist/extension.js) at line 728.
+Could not read file: /Users/prateek/Downloads/extensions/didisls-serverless-sma-light-1.1.22/extension/img/icon.png

@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/package.json) at line 5.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/package.json) at line 38.
+Could not read file: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/dist/logo.png
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/dist/client/bundle.js) at line 1.
+Keyword 'openExternal' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/zenclabs-reactpreview-0.7.4/extension/dist/client/bundle.js) at line 1.

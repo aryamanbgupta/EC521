@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/CHANGELOG.md) at line 27.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/CHANGELOG.md) at line 472.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/CHANGELOG.md) at line 589.
+Could not read file: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/bin/server
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file 'lua.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/syntaxes/lua.tmLanguage.json) at line 218.
+Could not read file: /Users/prateek/Downloads/extensions/JohnnyMorganz-luau-lsp-1.18.1/extension/assets/icon.png

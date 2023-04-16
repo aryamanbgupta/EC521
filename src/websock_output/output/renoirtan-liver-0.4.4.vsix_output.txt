@@ -1,0 +1,28 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/CHANGELOG.md) at line 82.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/CHANGELOG.md) at line 171.
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/markdown.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/python.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/ruby.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/json.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/welcome_page.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/java.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/rust.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/javascript.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/cplusplus.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/go.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/git_colors.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/html.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/python-s.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/toml.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/c.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/interactive_playground.png
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/screenshots/css.png
+Keyword 'ws' found in file 'utils.py' (path: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/utils.py) at line 65.
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/script.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/style.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/generator.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/token_color.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/info.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/utils.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/registrar.cpython-310.pyc
+Could not read file: /Users/prateek/Downloads/extensions/renoirtan-liver-0.4.4/extension/scripts/__pycache__/__main__.cpython-310.pyc

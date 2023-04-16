@@ -1,0 +1,30 @@
+Could not read file: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/demo.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/README.md) at line 33.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/README.md) at line 34.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/package.json) at line 263.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/package.json) at line 273.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/package.json) at line 293.
+Keyword 'ws' found in file 'frameHex.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameHex.js) at line 2.
+Keyword 'ws' found in file 'frameHex.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameHex.js.LICENSE.txt) at line 14.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js.map) at line 1.
+Keyword 'ws' found in file 'frameList.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameList.js.LICENSE.txt) at line 39.
+Keyword 'ws' found in file 'frameList.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameList.js) at line 2.
+Keyword 'ws' found in file 'frameHex.js.map' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameHex.js.map) at line 1.
+Keyword 'ws' found in file 'frameList.js.map' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/frameList.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 1837.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 2156.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 3339.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 5644.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 7719.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 12726.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 12973.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 12991.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 13029.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 17249.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 20765.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 21247.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 25260.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 27158.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lukaschneider-crumbs-0.1.6/extension/out/extension.js) at line 28116.

@@ -1,0 +1,220 @@
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/README.md) at line 45.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/README.md) at line 46.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/package.json) at line 68.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/package.json) at line 75.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/output.pdf
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/LICENSE.txt) at line 16.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/dist/web/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/dist/web/extension.js) at line 2.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/dist/web/test/suite/index.js) at line 2.
+Keyword 'ws' found in file 'index.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/dist/web/test/suite/index.js.LICENSE.txt) at line 8.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-700.a5afadf4.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Bold.db0fea8b.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size1-Regular.679bf7b5.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Typewriter-Regular.21beea8e.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/icon.9512f714.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Bold.75fe0c6c.woff
+Keyword 'ws' found in file 'index.8341a504.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.8341a504.js) at line 1.
+Keyword 'ws' found in file 'index.8341a504.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.8341a504.js) at line 6.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-700.43d19605.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-regular.89fa7c31.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Script-Regular.9f85c0f7.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Typewriter-Regular.662fc5b4.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-regular.097b8a44.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size3-Regular.8e605720.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Typewriter-Regular.ffbe21f7.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-600.b4666fd2.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Regular.51b8a34d.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_AMS-Regular.4cd18550.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Bold.08709b09.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size2-Regular.16a5807b.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Regular.ab0bff81.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Bold.67ea3185.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Regular.cd9ba532.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-700.38c57352.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Bold.88cef7b1.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Regular.e2dbd876.woff2
+Keyword 'ws' found in file 'index.94825187.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.94825187.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/icon.69606900.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-700.19d2a757.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-BoldItalic.d122a512.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_AMS-Regular.0ed69bcc.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Bold.8b718944.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-regular.bc1deea3.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Bold.4d449c5d.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-regular.d61437b4.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-700.05c6e580.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Regular.5a82f7eb.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-Italic.0470e72d.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Script-Regular.964126b9.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-700.8d76004a.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Italic.fb683703.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Regular.e52904c3.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-600.2ae57109.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-regular.21a33c48.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-600.b852e510.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Regular.94fae992.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size4-Regular.2488fb45.woff
+Keyword 'ws' found in file 'index.157d6b33.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.157d6b33.js) at line 1.
+Keyword 'ws' found in file 'index.09b4a87a.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.09b4a87a.js) at line 10.
+Keyword 'wss' found in file 'index.09b4a87a.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.09b4a87a.js) at line 10.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-Italic.ffea941f.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size2-Regular.7ddce1f2.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size3-Regular.2a93ab93.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size2-Regular.5c5b0f28.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/icon.4d20867c.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Italic.c6e95937.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/icon.ico
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-BoldItalic.c09d0cf1.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Bold.95836a30.ttf
+Keyword 'ws' found in file 'Beaker.cd31b236.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/Beaker.cd31b236.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_AMS-Regular.250082d1.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-700.783891dd.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Script-Regular.6205c9f9.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Italic.de0e580d.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-BoldItalic.6cf39e99.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-BoldItalic.df285d77.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/logo.abbc2cae.png
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-600.a6ed946c.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-600.a3a31a14.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-600.65fc2f67.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Italic.6a451fb7.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-BoldItalic.26f3c4f3.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/icon.80b6a791.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-600.d8df00af.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-BoldItalic.b0ed6322.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-600.92aac5ff.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size1-Regular.9e7bb2db.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Regular.1cce75f1.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size3-Regular.347ba5e0.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Main-Italic.66e02c4c.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-600.880fd07b.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-regular.81f5593d.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Italic.75326218.ttf
+Keyword 'ws' found in file 'index.1247a75e.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.1247a75e.js) at line 3.
+Keyword 'ws' found in file 'index.1247a75e.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.1247a75e.js) at line 8.
+Keyword 'ws' found in file 'index.1247a75e.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.1247a75e.js) at line 9.
+Keyword 'ws' found in file 'index.1247a75e.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.1247a75e.js) at line 34.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Regular.d4de5f30.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Bold.7d84fcea.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size1-Regular.263f0826.woff2
+Keyword 'ws' found in file 'index.e1c98e20.css' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.e1c98e20.css) at line 1.
+Keyword 'ws' found in file 'index.744c9dbb.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.744c9dbb.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size4-Regular.595ce6e5.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Math-Italic.cfffd3c0.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-600.b5f40659.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Size4-Regular.f41b14d6.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-regular.d3d258d8.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-regular.c2e0862c.eot
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Regular.7e34eae2.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Fraktur-Regular.7a216293.woff2
+Keyword 'ws' found in file 'index.78d06983.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/index.78d06983.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Bold.5d7c4d00.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-sans-pro-v14-latin-600.8fb77535.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_Caligraphic-Regular.ab0f4493.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-serif-pro-v10-latin-700.ca4bf240.ttf
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Bold.b444b1f5.woff2
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/KaTeX_SansSerif-Bold.8e1222db.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/source-code-pro-v13-latin-600.adab8c0f.woff
+Could not read file: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/up_/up_/assets/logo_192.png
+Keyword 'ws' found in file 'mode-d.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-d.js) at line 1.
+Keyword 'ws' found in file 'mode-haml.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-haml.js) at line 1.
+Keyword 'ws' found in file 'mode-red.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-red.js) at line 1.
+Keyword 'ws' found in file 'mode-powershell.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-powershell.js) at line 1.
+Keyword 'ws' found in file 'mode-typescript.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-typescript.js) at line 1.
+Keyword 'ws' found in file 'worker-css.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-css.js) at line 1.
+Keyword 'ws' found in file 'worker-coffee.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-coffee.js) at line 1.
+Keyword 'ws' found in file 'mode-html.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-html.js) at line 1.
+Keyword 'ws' found in file 'mode-stylus.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-stylus.js) at line 1.
+Keyword 'ws' found in file 'mode-elixir.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-elixir.js) at line 1.
+Keyword 'ws' found in file 'mode-slim.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-slim.js) at line 1.
+Keyword 'ws' found in file 'worker-javascript.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-javascript.js) at line 1.
+Keyword 'ws' found in file 'worker-json.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-json.js) at line 1.
+Keyword 'ws' found in file 'worker-base.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-base.js) at line 1.
+Keyword 'ws' found in file 'mode-apache_conf.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-apache_conf.js) at line 1.
+Keyword 'ws' found in file 'ext-code_lens.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-code_lens.js) at line 1.
+Keyword 'ws' found in file 'mode-ruby.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-ruby.js) at line 1.
+Keyword 'ws' found in file 'mode-sass.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-sass.js) at line 1.
+Keyword 'ws' found in file 'mode-coldfusion.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-coldfusion.js) at line 1.
+Keyword 'ws' found in file 'worker-php.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-php.js) at line 1.
+Keyword 'ws' found in file 'mode-objectivec.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-objectivec.js) at line 1.
+Keyword 'ws' found in file 'mode-tsx.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-tsx.js) at line 1.
+Keyword 'ws' found in file 'mode-rhtml.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-rhtml.js) at line 1.
+Keyword 'ws' found in file 'mode-raku.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-raku.js) at line 1.
+Keyword 'ws' found in file 'mode-ejs.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-ejs.js) at line 1.
+Keyword 'ws' found in file 'worker-yaml.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-yaml.js) at line 1.
+Keyword 'ws' found in file 'mode-mushcode.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-mushcode.js) at line 1.
+Keyword 'ws' found in file 'theme-iplastic.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/theme-iplastic.js) at line 1.
+Keyword 'ws' found in file 'mode-java.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-java.js) at line 1.
+Keyword 'ws' found in file 'mode-mask.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-mask.js) at line 1.
+Keyword 'ws' found in file 'ext-prompt.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-prompt.js) at line 1.
+Keyword 'ws' found in file 'mode-php_laravel_blade.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-php_laravel_blade.js) at line 1.
+Keyword 'ws' found in file 'mode-wollok.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-wollok.js) at line 1.
+Keyword 'ws' found in file 'ace.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ace.js) at line 1.
+Keyword 'ws' found in file 'mode-handlebars.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-handlebars.js) at line 1.
+Keyword 'ws' found in file 'keybinding-vim.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/keybinding-vim.js) at line 1.
+Keyword 'ws' found in file 'mode-groovy.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-groovy.js) at line 1.
+Keyword 'ws' found in file 'ext-modelist.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-modelist.js) at line 1.
+Keyword 'ws' found in file 'mode-ada.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-ada.js) at line 1.
+Keyword 'ws' found in file 'mode-curly.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-curly.js) at line 1.
+Keyword 'ws' found in file 'mode-pgsql.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-pgsql.js) at line 1.
+Keyword 'ws' found in file 'mode-jade.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-jade.js) at line 1.
+Keyword 'ws' found in file 'mode-lua.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-lua.js) at line 1.
+Keyword 'ws' found in file 'mode-ftl.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-ftl.js) at line 1.
+Keyword 'ws' found in file 'worker-lua.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-lua.js) at line 1.
+Keyword 'ws' found in file 'mode-nginx.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-nginx.js) at line 1.
+Keyword 'ws' found in file 'mode-nsis.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-nsis.js) at line 1.
+Keyword 'ws' found in file 'mode-nunjucks.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-nunjucks.js) at line 1.
+Keyword 'ws' found in file 'mode-django.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-django.js) at line 1.
+Keyword 'ws' found in file 'mode-haskell.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-haskell.js) at line 1.
+Keyword 'ws' found in file 'mode-javascript.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-javascript.js) at line 1.
+Keyword 'ws' found in file 'mode-velocity.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-velocity.js) at line 1.
+Keyword 'ws' found in file 'mode-csound_document.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-csound_document.js) at line 1.
+Keyword 'ws' found in file 'mode-less.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-less.js) at line 1.
+Keyword 'ws' found in file 'worker-html.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-html.js) at line 1.
+Keyword 'ws' found in file 'mode-drools.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-drools.js) at line 1.
+Keyword 'ws' found in file 'mode-autohotkey.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-autohotkey.js) at line 1.
+Keyword 'ws' found in file 'mode-jsp.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-jsp.js) at line 1.
+Keyword 'ws' found in file 'mode-visualforce.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-visualforce.js) at line 1.
+Keyword 'ws' found in file 'theme-ambiance.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/theme-ambiance.js) at line 1.
+Keyword 'ws' found in file 'mode-dot.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-dot.js) at line 1.
+Keyword 'ws' found in file 'mode-sjs.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-sjs.js) at line 1.
+Keyword 'ws' found in file 'ext-elastic_tabstops_lite.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-elastic_tabstops_lite.js) at line 1.
+Keyword 'ws' found in file 'mode-php.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-php.js) at line 1.
+Keyword 'ws' found in file 'mode-luapage.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-luapage.js) at line 1.
+Keyword 'ws' found in file 'mode-liquid.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-liquid.js) at line 1.
+Keyword 'ws' found in file 'mode-latte.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-latte.js) at line 1.
+Keyword 'ws' found in file 'mode-twig.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-twig.js) at line 1.
+Keyword 'ws' found in file 'mode-vala.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-vala.js) at line 1.
+Keyword 'ws' found in file 'mode-razor.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-razor.js) at line 1.
+Keyword 'ws' found in file 'ext-options.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-options.js) at line 1.
+Keyword 'ws' found in file 'mode-soy_template.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-soy_template.js) at line 1.
+Keyword 'ws' found in file 'mode-praat.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-praat.js) at line 1.
+Keyword 'ws' found in file 'mode-mel.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-mel.js) at line 1.
+Keyword 'ws' found in file 'mode-html_ruby.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-html_ruby.js) at line 1.
+Keyword 'ws' found in file 'mode-markdown.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-markdown.js) at line 1.
+Keyword 'ws' found in file 'worker-xml.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-xml.js) at line 1.
+Keyword 'ws' found in file 'mode-html_elixir.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-html_elixir.js) at line 1.
+Keyword 'ws' found in file 'mode-svg.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-svg.js) at line 1.
+Keyword 'ws' found in file 'theme-dracula.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/theme-dracula.js) at line 1.
+Keyword 'ws' found in file 'mode-matlab.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-matlab.js) at line 1.
+Keyword 'ws' found in file 'mode-scala.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-scala.js) at line 1.
+Keyword 'ws' found in file 'mode-csound_orchestra.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-csound_orchestra.js) at line 1.
+Keyword 'ws' found in file 'mode-vbscript.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-vbscript.js) at line 1.
+Keyword 'ws' found in file 'mode-mysql.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-mysql.js) at line 1.
+Keyword 'ws' found in file 'mode-scss.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-scss.js) at line 1.
+Keyword 'ws' found in file 'mode-gobstones.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-gobstones.js) at line 1.
+Keyword 'ws' found in file 'mode-css.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-css.js) at line 1.
+Keyword 'ws' found in file 'mode-smarty.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-smarty.js) at line 1.
+Keyword 'ws' found in file 'mode-plsql.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/mode-plsql.js) at line 1.
+Keyword 'ws' found in file 'ext-settings_menu.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/ext-settings_menu.js) at line 1.
+Keyword 'ws' found in file 'worker-xquery.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/worker-xquery.js) at line 1.
+Keyword 'ws' found in file 'html.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/html.js) at line 1.
+Keyword 'ws' found in file 'liquid.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/liquid.js) at line 1.
+Keyword 'ws' found in file 'ruby.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/ruby.js) at line 1.
+Keyword 'ws' found in file 'java.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/java.js) at line 1.
+Keyword 'ws' found in file 'r.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/r.js) at line 1.
+Keyword 'ws' found in file 'css.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/css.js) at line 1.
+Keyword 'ws' found in file 'edifact.js' (path: /Users/prateek/Downloads/extensions/LiaScript-liascript-preview-web-0.2.10/extension/liascript/editor/snippets/edifact.js) at line 1.

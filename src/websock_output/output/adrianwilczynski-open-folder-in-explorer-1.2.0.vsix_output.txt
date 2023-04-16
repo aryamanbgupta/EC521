@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/adrianwilczynski-open-folder-in-explorer-1.2.0/extension/img/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/adrianwilczynski-open-folder-in-explorer-1.2.0/extension/img/inAction.gif

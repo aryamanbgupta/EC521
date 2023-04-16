@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/CHANGELOG.md) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/package.json) at line 86.
+Could not read file: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/extension/63228490bf54e07ab1a156272ce71c23.node
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/extension/extension.js) at line 211.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/extension/extension.js) at line 640.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/extension/extension.js) at line 870.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/client/vendor.js) at line 1.
+Keyword 'ws' found in file 'app.js' (path: /Users/prateek/Downloads/extensions/lochbrunner-vscode-hdf5-viewer-highfive-0.0.3/extension/dist/client/app.js) at line 1.

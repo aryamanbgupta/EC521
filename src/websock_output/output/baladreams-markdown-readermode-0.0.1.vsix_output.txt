@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/baladreams-markdown-readermode-0.0.1/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/baladreams-markdown-readermode-0.0.1/extension/media/logo.svg.png
+Could not read file: /Users/prateek/Downloads/extensions/baladreams-markdown-readermode-0.0.1/extension/media/toggle-command.png
+Could not read file: /Users/prateek/Downloads/extensions/baladreams-markdown-readermode-0.0.1/extension/media/taskbar-view.png
+Could not read file: /Users/prateek/Downloads/extensions/baladreams-markdown-readermode-0.0.1/extension/media/taskbar-edit.png

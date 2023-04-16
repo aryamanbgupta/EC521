@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'config.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/config.json) at line 5.
+Keyword 'ws' found in file 'config.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/config.json) at line 7.
+Keyword 'ws' found in file 'config.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/config.json) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/README.md) at line 2.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/README.md) at line 19.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/README.md) at line 26.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/package.json) at line 5.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/package.json) at line 101.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/package.json) at line 110.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/resources/intel.png
+Could not read file: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/resources/readme/full-description.gif
+Could not read file: /Users/prateek/Downloads/extensions/intel-corporation-intel-software-development-tools-1.0.1/extension/resources/readme/download_docker_image.gif

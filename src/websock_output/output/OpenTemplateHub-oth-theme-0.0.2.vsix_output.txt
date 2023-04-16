@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/OpenTemplateHub-oth-theme-0.0.2/extension/images/icon.png
+Keyword 'ws' found in file 'on-version-update.yml' (path: /Users/prateek/Downloads/extensions/OpenTemplateHub-oth-theme-0.0.2/extension/.github/workflows/on-version-update.yml) at line 1.
+Keyword 'ws' found in file 'on-push-tags.yml' (path: /Users/prateek/Downloads/extensions/OpenTemplateHub-oth-theme-0.0.2/extension/.github/workflows/on-push-tags.yml) at line 1.

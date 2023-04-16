@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dataopslive-dataops-0.3.1/extension/package.json) at line 32.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/dataopslive-dataops-0.3.1/extension/extension.js) at line 48.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/dataopslive-dataops-0.3.1/extension/extension.js) at line 51.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/dataopslive-dataops-0.3.1/extension/extension.js) at line 52.
+Could not read file: /Users/prateek/Downloads/extensions/dataopslive-dataops-0.3.1/extension/images/dataops-infinity-white-blue-256sq.png

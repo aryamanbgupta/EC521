@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/lovemo-swift-perfect-0.0.6/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/lovemo-swift-perfect-0.0.6/extension/demo.gif
+Keyword 'ws' found in file 'swift-perfect-jsonconverter.json' (path: /Users/prateek/Downloads/extensions/lovemo-swift-perfect-0.0.6/extension/snippets/swift-perfect-jsonconverter.json) at line 13.
+Keyword 'ws' found in file 'swift-perfect-httpresponse.json' (path: /Users/prateek/Downloads/extensions/lovemo-swift-perfect-0.0.6/extension/snippets/swift-perfect-httpresponse.json) at line 117.

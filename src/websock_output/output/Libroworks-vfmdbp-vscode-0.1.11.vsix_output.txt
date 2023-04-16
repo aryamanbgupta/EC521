@@ -1,0 +1,8 @@
+Could not read file: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/docimg-3.png
+Could not read file: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/docimg-2.png
+Could not read file: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/docimg-1.png
+Could not read file: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/docimg-5.png
+Could not read file: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/docimg-4.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Libroworks-vfmdbp-vscode-0.1.11/extension/dist/extension.js) at line 2.

@@ -1,0 +1,5 @@
+Could not read file: /Users/prateek/Downloads/extensions/fmilke-openclonk-extension-0.2.0/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/fmilke-openclonk-extension-0.2.0/extension/templates/ocs/Title.jpg
+Keyword 'ws' found in file 'Map.c' (path: /Users/prateek/Downloads/extensions/fmilke-openclonk-extension-0.2.0/extension/templates/ocs/Map.c) at line 39.
+Could not read file: /Users/prateek/Downloads/extensions/fmilke-openclonk-extension-0.2.0/extension/templates/ocs/Map.bmp
+Could not read file: /Users/prateek/Downloads/extensions/fmilke-openclonk-extension-0.2.0/extension/templates/ocd/Graphics.png

@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/pardeike-remote-log-server-1.0.2/extension/res/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/pardeike-remote-log-server-1.0.2/extension/res/icon.afphoto

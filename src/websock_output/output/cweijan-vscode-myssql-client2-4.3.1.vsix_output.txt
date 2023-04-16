@@ -1,0 +1,56 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/CHANGELOG.md) at line 231.
+Keyword 'ws' found in file 'build.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/build.js) at line 15.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/package.json) at line 79.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/package.json) at line 93.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 3.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 3.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 37.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 63.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 70.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 70.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 75.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 75.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 75.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 104.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 187.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 307.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 427.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 457.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 457.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 493.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 524.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 524.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 554.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 570.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 572.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 572.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 578.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 642.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 648.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 648.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/extension.js) at line 688.
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/ugly.jpg
+Keyword 'ws' found in file 'query.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/query.js) at line 1.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 7.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 12.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 17.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 28.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 35.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 42.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/vendor.js) at line 49.
+Keyword 'ws' found in file 'app.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/app.js) at line 1.
+Keyword 'ws' found in file 'app.js' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/js/app.js) at line 7.
+Keyword 'ws' found in file 'element.css' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/theme/element.css) at line 519.
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/out/webview/theme/fonts/element-icons.woff
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/resources/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/resources/image/other-container.png
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/resources/image/redis_connection.png
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/resources/image/terminal_light.png
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/resources/icon/server/mssql.png
+Could not read file: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/sqlite/sqlite-v3.26.0-win32-x86.exe
+Keyword 'ws' found in file 'mysql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/syntaxes/mysql.tmLanguage.json) at line 22.
+Keyword 'ws' found in file 'mysql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/syntaxes/mysql.tmLanguage.json) at line 212.
+Keyword 'ws' found in file 'mysql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/syntaxes/mysql.tmLanguage.json) at line 232.
+Keyword 'ws' found in file 'mysql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/syntaxes/mysql.tmLanguage.json) at line 233.
+Keyword 'ws' found in file 'mysql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cweijan-vscode-myssql-client2-4.3.1/extension/syntaxes/mysql.tmLanguage.json) at line 244.

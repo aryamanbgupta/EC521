@@ -1,0 +1,3 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/d-exclaimation-liveride-color-theme-0.1.4/extension/LICENSE.txt) at line 83.
+Could not read file: /Users/prateek/Downloads/extensions/d-exclaimation-liveride-color-theme-0.1.4/extension/images/liverider-preview.png
+Could not read file: /Users/prateek/Downloads/extensions/d-exclaimation-liveride-color-theme-0.1.4/extension/images/liverider-icon.png

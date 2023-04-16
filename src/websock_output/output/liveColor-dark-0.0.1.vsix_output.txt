@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/liveColor-dark-0.0.1/extension/img/icono.png
+Could not read file: /Users/prateek/Downloads/extensions/liveColor-dark-0.0.1/extension/img/js.png
+Could not read file: /Users/prateek/Downloads/extensions/liveColor-dark-0.0.1/extension/img/html.png
+Could not read file: /Users/prateek/Downloads/extensions/liveColor-dark-0.0.1/extension/img/css.png

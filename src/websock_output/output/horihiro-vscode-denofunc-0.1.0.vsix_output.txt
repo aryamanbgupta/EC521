@@ -1,0 +1,23 @@
+Keyword 'openExternal' found in file 'deploy.js' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/out/commands/deploy.js) at line 101.
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/palette.png
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/05.deploy_to_slot.gif
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/02.create_function.gif
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/03.add_binding.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/05.deploy_to_slot.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/03.add_binding.gif
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/02.create_function.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/01.init_project.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/commands.png
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/04.deploy_to_app.gif
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/04.deploy_to_app.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/01.init_project.gif
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/init_createFunc.mp4
+Could not read file: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/resources/denofunc.png
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/CHANGELOG.md) at line 109.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 280.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 281.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 297.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 298.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 308.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/README.md) at line 414.
+Keyword 'ws' found in file 're.js' (path: /Users/prateek/Downloads/extensions/horihiro-vscode-denofunc-0.1.0/extension/node_modules/semver/internal/re.js) at line 91.

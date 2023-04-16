@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/package.json) at line 19.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/package.json) at line 41.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/package.json) at line 48.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/package.json) at line 68.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/dist/web/test/suite/index.js) at line 2.
+Keyword 'ws' found in file 'index.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/dist/web/test/suite/index.js.LICENSE.txt) at line 8.
+Could not read file: /Users/prateek/Downloads/extensions/xupeng6530-nc-start-project-0.0.2/extension/assets/loading.gif

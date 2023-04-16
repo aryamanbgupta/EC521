@@ -1,0 +1,5 @@
+Could not read file: /Users/prateek/Downloads/extensions/ldd-vs-code-jq-preview-0.4.1/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/ldd-vs-code-jq-preview-0.4.1/extension/select-command.gif
+Could not read file: /Users/prateek/Downloads/extensions/ldd-vs-code-jq-preview-0.4.1/extension/update-file.gif
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ldd-vs-code-jq-preview-0.4.1/extension/README.md) at line 85.
+Could not read file: /Users/prateek/Downloads/extensions/ldd-vs-code-jq-preview-0.4.1/extension/command-history-demo.gif

@@ -1,0 +1,11 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/out/extension.js) at line 36.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/out/extension.js) at line 36.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/out/extension.js) at line 39.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/out/extension.js) at line 47.
+Could not read file: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/images/filetype-dark.png
+Could not read file: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/bbannier-zeek-language-server-0.27.0/extension/images/filetype-light.png

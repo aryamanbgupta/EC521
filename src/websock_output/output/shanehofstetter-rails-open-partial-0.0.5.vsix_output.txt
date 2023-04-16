@@ -1,0 +1,17 @@
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 107.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 109.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 113.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 115.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 138.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 180.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 182.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 900.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 901.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 1184.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 1659.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 1856.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 1969.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/package-lock.json) at line 1970.
+Keyword 'ws' found in file 'PartialNameDefinitionProvider.js' (path: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/out/src/PartialNameDefinitionProvider.js) at line 42.
+Could not read file: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/shanehofstetter-rails-open-partial-0.0.5/extension/images/rails_go_to_definition.gif

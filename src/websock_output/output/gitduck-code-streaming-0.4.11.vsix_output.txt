@@ -1,0 +1,51 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 203.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 254.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 258.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 311.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 372.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 401.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 421.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 426.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/CHANGELOG.md) at line 461.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/README.md) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/README.md) at line 42.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/README.md) at line 76.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/package.json) at line 157.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/package.json) at line 166.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/package.json) at line 232.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/package.json) at line 257.
+Keyword 'ws' found in file 'duckly-web.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/duckly-web.js) at line 2.
+Keyword 'wss' found in file 'duckly-web.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/duckly-web.js) at line 2.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js.LICENSE.txt) at line 138.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js.LICENSE.txt) at line 140.
+Keyword 'ws' found in file 'webview.html' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/webview.html) at line 2.
+Keyword 'wss' found in file 'webview.html' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/webview.html) at line 2.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js) at line 41.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js) at line 41.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/extension.js) at line 41.
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-ia32/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-ia32/conpty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-ia32/conpty_console_list.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-ia32/winpty.dll
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-ia32/winpty-agent.exe
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/darwin-x64/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-x64/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-x64/conpty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-x64/conpty_console_list.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-x64/winpty.dll
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/win32-x64/winpty-agent.exe
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/linux-x64-musl/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/darwin-arm64/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/pty/linux-x64-glibc/pty.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/win32-ia32/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/darwin-x64/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/win32-x64/wrtc.exp
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/win32-x64/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/win32-x64/wrtc.lib
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/linux-x64-musl/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/darwin-arm64/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/lib/wrtc/linux-x64-glibc/wrtc.node
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/dist/assets/duckly-vsc-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/gitduck-code-streaming-0.4.11/extension/assets/duckly-vsc-icon.png

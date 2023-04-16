@@ -1,0 +1,47 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/package.json) at line 31.
+Could not read file: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/images/icon.png
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/jquery/jquery.min.js) at line 3.
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/jquery/jquery.min.js) at line 4.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 190.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 494.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 495.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 498.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 510.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 529.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 541.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 1742.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 1809.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 1811.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 1869.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 1897.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 4529.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 5253.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 5959.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 6610.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 7279.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 7447.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 7473.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 7904.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 7969.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 8519.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 8526.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 8532.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 10814.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 10840.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 10848.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 10849.
+Keyword 'ws' found in file 'vue.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/vue-2.5.17/vue.js) at line 10851.
+Keyword 'ws' found in file 'bootstrap.min.css' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/bootstrap-3.3.1/css/bootstrap.min.css) at line 5.
+Keyword 'ws' found in file 'bootstrap.css' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/bootstrap-3.3.1/css/bootstrap.css) at line 236.
+Could not read file: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/bootstrap-3.3.1/fonts/glyphicons-halflings-regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/bootstrap-3.3.1/fonts/glyphicons-halflings-regular.eot
+Could not read file: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/lib/bootstrap-3.3.1/fonts/glyphicons-halflings-regular.ttf
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 107.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 109.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 110.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 204.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 236.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 237.
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/util.js) at line 239.
+Keyword 'ws' found in file 'openWithOpengrok.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/openWithOpengrok.js) at line 22.
+Keyword 'openExternal' found in file 'openWithOpengrok.js' (path: /Users/prateek/Downloads/extensions/yuwh-searchInOpenGrok-1.0.0/extension/src/openWithOpengrok.js) at line 37.

@@ -1,0 +1,10 @@
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/firacode.png
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/tpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/epack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/qpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/vscode-example.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/fpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/zpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/intro.gif
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/zpack.psd
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-zpack-2.1.1/extension/assets/gpack.jpg

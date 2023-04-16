@@ -1,0 +1,8 @@
+Could not read file: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/icon.png
+Keyword 'ws' found in file 'ThirdPartyNotices.server.txt' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/ThirdPartyNotices.server.txt) at line 372.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/README.md) at line 5.
+Could not read file: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/screenshot.gif
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/dist/server.js) at line 1.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/dist/server.js) at line 15.
+Keyword 'ws' found in file 'server.js.map' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/dist/server.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/hugonteifeh-rosebox-language-server-extension-0.0.5/extension/dist/extension.js.map) at line 1.

@@ -1,0 +1,16 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 32.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 41.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 44.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 48.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 53.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 55.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/package.json) at line 83.
+Could not read file: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/screenshots/codegen.jpg
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file '2.09a30284.chunk.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/dist/build/static/js/2.09a30284.chunk.js) at line 1.
+Keyword 'ws' found in file 'main.c3957137.chunk.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/dist/build/static/js/main.c3957137.chunk.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/resources/logo.png
+Keyword 'ws' found in file 'umi.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/templates/codegen/umi.js) at line 1.
+Keyword 'wss' found in file 'umi.js' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/templates/codegen/umi.js) at line 1.
+Keyword 'ws' found in file 'umi.css' (path: /Users/prateek/Downloads/extensions/giscafer-roothub-1.1.13/extension/templates/codegen/umi.css) at line 1.

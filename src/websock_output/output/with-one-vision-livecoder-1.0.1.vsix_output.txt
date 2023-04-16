@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/CHANGELOG.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/README.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/README.md) at line 14.
+Keyword 'ws' found in file 'Script.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/Script.js) at line 24.
+Keyword 'ws' found in file 'Script.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/Script.js) at line 25.
+Keyword 'ws' found in file 'ParsedScript.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/ParsedScript.js) at line 26.
+Keyword 'ws' found in file 'ParsedScript.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/ParsedScript.js) at line 27.
+Keyword 'ws' found in file 'ParsedScript.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/ParsedScript.js) at line 34.
+Keyword 'ws' found in file 'ParsedScript.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/models/ParsedScript.js) at line 36.
+Keyword 'ws' found in file 'ExtensionService.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/services/ExtensionService.js) at line 33.
+Keyword 'ws' found in file 'ExtensionService.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/services/ExtensionService.js) at line 35.
+Keyword 'ws' found in file 'ExtensionService.js' (path: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/out/services/ExtensionService.js) at line 36.
+Could not read file: /Users/prateek/Downloads/extensions/with-one-vision-livecoder-1.0.1/extension/resources/images/vscode_icon.png

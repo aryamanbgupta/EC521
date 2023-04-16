@@ -1,0 +1,13 @@
+Could not read file: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/icon.png
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/package.json) at line 29.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/package.json) at line 38.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/bind/binding.node
+Keyword 'ws' found in file 'mapPreview.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/mapPreview.js) at line 1.
+Keyword 'ws' found in file 'viewer.min.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/viewer.min.js) at line 24.
+Keyword 'ws' found in file 'jpgDecoder.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/jpgDecoder.js) at line 367.
+Keyword 'ws' found in file 'viewer.min2.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/viewer.min2.js) at line 24.
+Keyword 'ws' found in file 'tga.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/tga.js) at line 183.
+Keyword 'ws' found in file 'blp2.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/blp2.js) at line 223.
+Keyword 'ws' found in file 'blp2.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/blp2.js) at line 229.
+Keyword 'ws' found in file 'blp2.js' (path: /Users/prateek/Downloads/extensions/hugehardzhang-blp-preview-0.2.2/extension/media/blp2.js) at line 268.

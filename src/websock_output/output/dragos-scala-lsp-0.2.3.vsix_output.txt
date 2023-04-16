@@ -1,0 +1,31 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/CHANGELOG.md) at line 17.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/CHANGELOG.md) at line 62.
+Could not read file: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/coursier
+Could not read file: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/images/scala-logo.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 67.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 85.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 87.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 89.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 94.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 96.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/README.md) at line 100.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/package.json) at line 55.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/package.json) at line 71.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/test/src/index.js) at line 9.
+Keyword 'ws' found in file 'registry.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/lib/registry.js) at line 2.
+Keyword 'ws' found in file 'registry.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/lib/registry.js) at line 140.
+Keyword 'ws' found in file 'registry.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/lib/registry.js) at line 247.
+Keyword 'ws' found in file 'registry.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/winreg/lib/registry.js) at line 253.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/vscode-languageclient/README.md) at line 7.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/vscode-languageclient/lib/main.js) at line 1181.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 8.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 12.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/find-java-home/index.js) at line 33.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/find-java-home/index.js) at line 34.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/find-java-home/index.js) at line 53.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/find-java-home/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/find-java-home/README.md) at line 9.
+Keyword 'ws' found in file 'which.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/which/which.js) at line 11.
+Keyword 'ws' found in file 'which.js' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/node_modules/which/which.js) at line 87.
+Keyword 'ws' found in file 'scala.tmLanguage' (path: /Users/prateek/Downloads/extensions/dragos-scala-lsp-0.2.3/extension/syntaxes/scala.tmLanguage) at line 260.

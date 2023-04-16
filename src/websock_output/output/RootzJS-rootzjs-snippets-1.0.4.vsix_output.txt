@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/RootzJS-rootzjs-snippets-1.0.4/extension/README.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/RootzJS-rootzjs-snippets-1.0.4/extension/README.md) at line 28.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/RootzJS-rootzjs-snippets-1.0.4/extension/README.md) at line 38.
+Could not read file: /Users/prateek/Downloads/extensions/RootzJS-rootzjs-snippets-1.0.4/extension/images/thumb-old.png
+Could not read file: /Users/prateek/Downloads/extensions/RootzJS-rootzjs-snippets-1.0.4/extension/images/thumb.png

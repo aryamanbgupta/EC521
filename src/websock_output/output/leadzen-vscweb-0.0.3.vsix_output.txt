@@ -1,0 +1,15 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/README.md) at line 8.
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/safari.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/firefox.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/chrome.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/ie.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/opera.png
+Could not read file: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/res/browse.png
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 11.
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 12.
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 13.
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 14.
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 15.
+Keyword 'ws' found in file 'commands.js' (path: /Users/prateek/Downloads/extensions/leadzen-vscweb-0.0.3/extension/src/commands.js) at line 18.

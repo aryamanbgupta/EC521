@@ -1,0 +1,8 @@
+Could not read file: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/README.md) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/README.md) at line 19.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/static/images/select snippets.png
+Could not read file: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/static/images/update snippets.png
+Could not read file: /Users/prateek/Downloads/extensions/quinn-rc-front-end-test-snippets-0.2.0/extension/static/images/download snippets.png

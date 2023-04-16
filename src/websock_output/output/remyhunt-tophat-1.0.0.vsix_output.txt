@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/remyhunt-tophat-1.0.0/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/remyhunt-tophat-1.0.0/extension/images/readme_logo.png
+Could not read file: /Users/prateek/Downloads/extensions/remyhunt-tophat-1.0.0/extension/images/icon192.png

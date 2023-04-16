@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/dansilver-typewriter-1.0.1/extension/assets/1481463247_package_wordprocessing_iconfinder.png
+Could not read file: /Users/prateek/Downloads/extensions/dansilver-typewriter-1.0.1/extension/assets/demo.gif

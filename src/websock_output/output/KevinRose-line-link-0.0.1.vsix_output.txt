@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension.vsixmanifest) at line 7.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/README.md) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/package.json) at line 4.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/package.json) at line 16.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/package.json) at line 54.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/out/extension.js) at line 25.
+Could not read file: /Users/prateek/Downloads/extensions/KevinRose-line-link-0.0.1/extension/static/demo.gif

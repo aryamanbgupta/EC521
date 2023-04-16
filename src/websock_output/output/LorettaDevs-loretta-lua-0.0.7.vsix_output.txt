@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/package.json) at line 111.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/package.json) at line 112.
+Could not read file: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/server/bin/loretta-lsp-osx
+Could not read file: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/server/bin/loretta-lsp-win.exe
+Could not read file: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/server/bin/loretta-lsp-linux
+Keyword 'ws' found in file 'lua.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/syntaxes/lua.tmLanguage.json) at line 166.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/client/out/extension.js.map) at line 1.
+Keyword 'openExternal' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/client/out/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/client/out/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LorettaDevs-loretta-lua-0.0.7/extension/client/out/extension.js) at line 1.

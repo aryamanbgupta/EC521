@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/pwwang-gptcommit-0.3.0/extension/icon.png
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/pwwang-gptcommit-0.3.0/extension/CHANGELOG.md) at line 5.
+Could not read file: /Users/prateek/Downloads/extensions/pwwang-gptcommit-0.3.0/extension/vscode-gptcommit.gif

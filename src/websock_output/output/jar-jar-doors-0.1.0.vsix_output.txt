@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/jar-jar-doors-0.1.0/extension/logo.png

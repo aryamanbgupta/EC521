@@ -1,0 +1,27 @@
+Could not read file: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/icon.jpg
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/package.json) at line 60.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/package.json) at line 76.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 649.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 934.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 1260.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 1281.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 2110.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 2229.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 2285.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 2715.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 2744.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 3260.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4099.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4107.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4216.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4217.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4284.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4285.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4510.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 4619.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 5382.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 5640.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 6148.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 6148.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 6149.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/jyee721-babel-ast-explorer-0.4.0/extension/out/extension.js) at line 6983.

@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/rhenium-neos-live-editor-0.0.1/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/rhenium-neos-live-editor-0.0.1/extension/img/publicLink.png
+Could not read file: /Users/prateek/Downloads/extensions/rhenium-neos-live-editor-0.0.1/extension/img/userIcon.png
+Could not read file: /Users/prateek/Downloads/extensions/rhenium-neos-live-editor-0.0.1/extension/img/hostAccess.png

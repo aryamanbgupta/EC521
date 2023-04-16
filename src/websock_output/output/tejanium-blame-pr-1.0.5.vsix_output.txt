@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/tejanium-blame-pr-1.0.5/extension/README.md) at line 15.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/tejanium-blame-pr-1.0.5/extension/dist/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/tejanium-blame-pr-1.0.5/extension/dist/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/tejanium-blame-pr-1.0.5/extension/dist/extension.js) at line 17.
+Could not read file: /Users/prateek/Downloads/extensions/tejanium-blame-pr-1.0.5/extension/img/ico.png

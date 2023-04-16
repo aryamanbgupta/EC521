@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/lennartlence-chadcommit-0.2.3/extension/LICENSE.md) at line 17.
+Could not read file: /Users/prateek/Downloads/extensions/lennartlence-chadcommit-0.2.3/extension/resources/icon.png

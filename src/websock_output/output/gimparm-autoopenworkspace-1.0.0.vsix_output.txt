@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/README.md) at line 12.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/out/extension.js) at line 18.
+Could not read file: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/.vs/slnx.sqlite
+Could not read file: /Users/prateek/Downloads/extensions/gimparm-autoopenworkspace-1.0.0/extension/.vs/AutoOpenWorkspace-master/v16/.suo

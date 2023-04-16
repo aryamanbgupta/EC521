@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/README.md) at line 6.
+Could not read file: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/logo.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 36.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 36.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 39.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 40.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 44.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 46.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 49.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 66.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 77.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 78.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 83.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ligolang-publish-ligo-vscode-0.5.0/extension/client/out/extension.js) at line 87.

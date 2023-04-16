@@ -1,0 +1,17 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/README.md) at line 7.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-languageserver-types/lib/esm/main.d.ts) at line 1513.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-languageserver-types/lib/umd/main.d.ts) at line 1513.
+Keyword 'ws' found in file 'emmetHelper.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/emmetHelper.js) at line 33.
+Keyword 'ws' found in file 'emmetHelper.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/emmetHelper.js) at line 127.
+Keyword 'ws' found in file 'emmetHelper.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/emmetHelper.js) at line 931.
+Keyword 'ws' found in file 'data.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/data.js) at line 4.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 445.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 452.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 478.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 1164.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 4048.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 5043.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 5302.
+Keyword 'ws' found in file 'expand-full.js' (path: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/node_modules/vscode-emmet-helper/out/expand/expand-full.js) at line 5809.
+Could not read file: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/img/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/ysemeniuk-emmet-live-1.0.0/extension/img/logo.png

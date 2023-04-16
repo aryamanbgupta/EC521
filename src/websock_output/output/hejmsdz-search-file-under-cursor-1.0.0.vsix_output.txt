@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/hejmsdz-search-file-under-cursor-1.0.0/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/hejmsdz-search-file-under-cursor-1.0.0/extension/search-file-under-cursor.mov.gif

@@ -1,0 +1,434 @@
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/README.md) at line 24.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/README.md) at line 43.
+Keyword 'ws' found in file 'security.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/security.js) at line 133.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 47.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 54.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 57.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 62.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 83.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 84.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 98.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 107.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 109.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 113.
+Keyword 'ws' found in file 'previewManager.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/out/features/previewManager.js) at line 120.
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/resources/icon.png
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/commander/CHANGELOG.md) at line 55.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/commander/CHANGELOG.md) at line 234.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/commander/Readme.md) at line 259.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/commander/Readme.md) at line 336.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/commander/Readme.md) at line 361.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/CHANGELOG.md) at line 8.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/CHANGELOG.md) at line 58.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/CHANGELOG.md) at line 93.
+Keyword 'ws' found in file 'index.browser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/index.browser.js) at line 2.
+Keyword 'ws' found in file 'index.browser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/index.browser.js) at line 29.
+Keyword 'ws' found in file 'index.browser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/index.browser.js) at line 42.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 109.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 125.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 402.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 403.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 423.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/README.md) at line 461.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/package.json) at line 17.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/package.json) at line 18.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/package.json) at line 28.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/package.json) at line 35.
+Keyword 'ws' found in file 'index.browser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/async/index.browser.js) at line 9.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/async/package.json) at line 8.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/nanoid/async/package.json) at line 9.
+Keyword 'ws' found in file 'ChangeLog.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/ChangeLog.md) at line 63.
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/.eslintrc) at line 7.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/index.js) at line 13.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/index.js) at line 26.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/Readme.md) at line 53.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/Readme.md) at line 59.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/package.json) at line 3.
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/.eslintrc) at line 8.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 17.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 48.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 96.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 100.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 108.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 118.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 133.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 137.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 145.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 155.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 176.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 194.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 204.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 315.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 319.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 329.
+Keyword 'ws' found in file 'tests.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.js) at line 335.
+Keyword 'ws' found in file 'tests.html' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/test/tests.html) at line 10.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 159.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 559.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 748.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 1372.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 1771.
+Keyword 'ws' found in file 'practice-data.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/practice-data.json) at line 1948.
+Keyword 'ws' found in file 'issue-126.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/examples/issue-126.js) at line 1.
+Keyword 'ws' found in file 'config.yml' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/deep-diff/.circleci/config.yml) at line 64.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 19.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 38.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 54.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 61.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/README.md) at line 68.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/marked/package.json) at line 7.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 2.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 108.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 130.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 155.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 214.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 272.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 304.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 326.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 364.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 477.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 615.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/CHANGELOG.md) at line 630.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/katex.js) at line 88.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/README.md) at line 15.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/README.md) at line 17.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/package.json) at line 34.
+Keyword 'ws' found in file 'cli.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/cli.js) at line 45.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 652.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 746.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 920.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 921.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 1162.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 1327.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 1328.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4171.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4324.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4331.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4332.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4342.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4347.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4348.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 4356.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5300.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5301.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5737.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5750.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5809.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5823.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5825.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5828.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 5830.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7148.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7181.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7233.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7234.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7237.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7450.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7562.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7782.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7789.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 7895.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 8003.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 8450.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 8574.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 8658.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 8699.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 9664.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 9879.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 10055.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 10131.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 10442.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 12960.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 13144.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 13782.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 14016.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 16026.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 16665.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 16742.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 16744.
+Keyword 'ws' found in file 'katex.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.js) at line 17161.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/README.md) at line 15.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/README.md) at line 17.
+Keyword 'ws' found in file 'katex.min.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.min.js) at line 1.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 506.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 596.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 966.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 967.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 1221.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 1371.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 1372.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4189.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4342.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4349.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4350.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4360.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4365.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4366.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 4374.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5302.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5303.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5722.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5735.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5794.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5808.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5810.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5813.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 5815.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7075.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7108.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7160.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7161.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7164.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7371.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7474.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7679.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7686.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7794.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 7898.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 8341.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 8465.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 8549.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 8590.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 9530.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 9745.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 9921.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 9996.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 10317.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 12750.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 12925.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 13542.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 13728.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 15669.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 16305.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 16382.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 16384.
+Keyword 'ws' found in file 'katex.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/katex.mjs) at line 16778.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 15.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 19.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 20.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1508.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1510.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1518.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1581.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1582.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1584.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1593.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 1600.
+Keyword 'ws' found in file 'mhchem.mjs' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.mjs) at line 2986.
+Keyword 'ws' found in file 'mhchem.min.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.min.js) at line 1.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 123.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 127.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 128.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1618.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1620.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1628.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1691.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1692.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1694.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1703.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 1711.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/contrib/mhchem.js) at line 3100.
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Main-BoldItalic.ttf
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mathtex-script-type/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mathtex-script-type/README.md) at line 28.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/auto-render/index.html) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/README.md) at line 19.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 8.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 12.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 13.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 105.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 125.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 127.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 173.
+Keyword 'ws' found in file 'mhchem.patch' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.patch) at line 193.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 11.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 15.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 16.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 788.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 789.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 794.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 831.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 832.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 834.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 840.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 846.
+Keyword 'ws' found in file 'mhchem.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/mhchem/mhchem.js) at line 1631.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/copy-tex/index.html) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/copy-tex/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/copy-tex/README.md) at line 32.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/contrib/copy-tex/README.md) at line 48.
+Keyword 'ws' found in file 'katex.less' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/katex.less) at line 23.
+Keyword 'ws' found in file 'katex.less' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/katex.less) at line 519.
+Keyword 'ws' found in file 'katex.less' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/katex.less) at line 557.
+Keyword 'ws' found in file 'svgGeometry.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/svgGeometry.js) at line 412.
+Keyword 'ws' found in file 'svgGeometry.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/svgGeometry.js) at line 414.
+Keyword 'ws' found in file 'parseNode.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/parseNode.js) at line 39.
+Keyword 'ws' found in file 'parseNode.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/parseNode.js) at line 450.
+Keyword 'ws' found in file 'units.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/units.js) at line 84.
+Keyword 'ws' found in file 'units.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/units.js) at line 85.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 520.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 531.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 583.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 598.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 601.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 604.
+Keyword 'ws' found in file 'buildCommon.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/buildCommon.js) at line 605.
+Keyword 'ws' found in file 'delimiter.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/delimiter.js) at line 209.
+Keyword 'ws' found in file 'delimiter.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/delimiter.js) at line 336.
+Keyword 'ws' found in file 'delimiter.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/delimiter.js) at line 410.
+Keyword 'ws' found in file 'delimiter.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/delimiter.js) at line 469.
+Keyword 'ws' found in file 'unicodeSymbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/unicodeSymbols.js) at line 4.
+Keyword 'ws' found in file 'domTree.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/domTree.js) at line 210.
+Keyword 'ws' found in file 'domTree.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/domTree.js) at line 379.
+Keyword 'ws' found in file 'domTree.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/domTree.js) at line 380.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 261.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 421.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 427.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 428.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 438.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 443.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 444.
+Keyword 'ws' found in file 'symbols.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/symbols.js) at line 452.
+Keyword 'ws' found in file 'Parser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/Parser.js) at line 75.
+Keyword 'ws' found in file 'Parser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/Parser.js) at line 691.
+Keyword 'ws' found in file 'Parser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/Parser.js) at line 754.
+Keyword 'ws' found in file 'Parser.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/Parser.js) at line 756.
+Keyword 'ws' found in file 'Lexer.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/Lexer.js) at line 4.
+Keyword 'ws' found in file 'stretchy.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/stretchy.js) at line 54.
+Keyword 'ws' found in file 'stretchy.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/stretchy.js) at line 95.
+Keyword 'ws' found in file 'stretchy.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/stretchy.js) at line 154.
+Keyword 'ws' found in file 'stretchy.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/stretchy.js) at line 155.
+Keyword 'ws' found in file 'stretchy.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/stretchy.js) at line 158.
+Keyword 'ws' found in file 'unicodeScripts.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/unicodeScripts.js) at line 6.
+Keyword 'ws' found in file 'unicodeScripts.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/unicodeScripts.js) at line 110.
+Keyword 'ws' found in file 'array.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/environments/array.js) at line 48.
+Keyword 'ws' found in file 'array.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/environments/array.js) at line 263.
+Keyword 'ws' found in file 'array.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/environments/array.js) at line 431.
+Keyword 'ws' found in file 'array.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/environments/array.js) at line 508.
+Keyword 'ws' found in file 'array.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/environments/array.js) at line 816.
+Keyword 'ws' found in file 'accent.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/accent.js) at line 89.
+Keyword 'ws' found in file 'smash.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/smash.js) at line 85.
+Keyword 'ws' found in file 'arrow.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/arrow.js) at line 20.
+Keyword 'ws' found in file 'arrow.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/arrow.js) at line 32.
+Keyword 'ws' found in file 'arrow.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/arrow.js) at line 132.
+Keyword 'ws' found in file 'color.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/color.js) at line 73.
+Keyword 'ws' found in file 'tag.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/tag.js) at line 36.
+Keyword 'ws' found in file 'rule.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/katex/src/functions/rule.js) at line 46.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/test.js) at line 13.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/test.js) at line 15.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/test.js) at line 33.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/test.js) at line 53.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/README.md) at line 25.
+Keyword 'ws' found in file 'eol.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/eol.js) at line 7.
+Keyword 'ws' found in file 'eol.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/eol.js) at line 8.
+Keyword 'ws' found in file 'eol.d.ts' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/eol.d.ts) at line 9.
+Keyword 'ws' found in file '.eslintrc.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/eol/.eslintrc.json) at line 3.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/CHANGELOG.md) at line 62.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/CHANGELOG.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/CHANGELOG.md) at line 164.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 32.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 69.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 71.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 152.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 169.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 182.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 192.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 220.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/README.md) at line 226.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 10.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 21.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 22.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/package.json) at line 61.
+Keyword 'ws' found in file 'virtual-dom.md' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/node_modules/morphdom/docs/virtual-dom.md) at line 32.
+Keyword 'ws' found in file 'csp.ts' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/preview-src/csp.ts) at line 11.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/index.js) at line 1868.
+Keyword 'ws' found in file 'pre.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/pre.js) at line 107.
+Keyword 'ws' found in file 'pre.js' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/pre.js) at line 249.
+Keyword 'ws' found in file 'ViewSource.svg' (path: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/ViewSource.svg) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Typewriter-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_AMS-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Size3-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Main-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Caligraphic-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_SansSerif-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Math-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Size4-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Fraktur-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_SansSerif-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Main-Bold.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_SansSerif-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Main-BoldItalic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Fraktur-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Script-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Math-BoldItalic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Main-Italic.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Size1-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Size2-Regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/ethan-ou-vscode-gift-preview-0.0.12/extension/media/fonts/KaTeX_Caligraphic-Regular.woff2

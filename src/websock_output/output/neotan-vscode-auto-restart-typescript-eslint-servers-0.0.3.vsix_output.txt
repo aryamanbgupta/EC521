@@ -1,0 +1,18 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 16.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 17.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 18.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 19.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 21.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 22.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 24.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 32.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 36.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 40.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 41.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 44.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 72.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 73.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 109.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/out/extension.js) at line 110.
+Could not read file: /Users/prateek/Downloads/extensions/neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3/extension/images/icon.png

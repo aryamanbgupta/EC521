@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/hosseinagha-vscode-open-react-component-style-0.3.0/extension/codeToStyl.png
+Could not read file: /Users/prateek/Downloads/extensions/hosseinagha-vscode-open-react-component-style-0.3.0/extension/assets/demo.gif

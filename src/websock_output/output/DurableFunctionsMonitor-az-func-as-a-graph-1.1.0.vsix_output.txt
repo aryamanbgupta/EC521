@@ -1,0 +1,12 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/README.md) at line 21.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/package.json) at line 32.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/package.json) at line 61.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/package.json) at line 68.
+Could not read file: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/logo.png
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/dist/web/test/suite/index.js) at line 2.
+Keyword 'ws' found in file 'index.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/dist/web/test/suite/index.js.LICENSE.txt) at line 8.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/HtmlStatics/index.html) at line 9.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/HtmlStatics/index.html) at line 67.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/HtmlStatics/index.html) at line 77.
+Keyword 'ws' found in file 'main.160efc4d.js' (path: /Users/prateek/Downloads/extensions/DurableFunctionsMonitor-az-func-as-a-graph-1.1.0/extension/HtmlStatics/static/js/main.160efc4d.js) at line 2.
