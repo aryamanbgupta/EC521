@@ -56,7 +56,7 @@ async def process_vsix(item, directory, index, total):
         print(f"[PROGRESS] Processed {index + 1}/{total} .vsix files: {item}")
 
 async def main():
-    directory = "/Users/prateek/Downloads/extensions"
+    directory = "./downloads"
 
     tasks = []
     vsix_files = [item for item in os.listdir(directory) if item.endswith(".vsix")]
