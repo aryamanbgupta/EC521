@@ -6,11 +6,17 @@ import nest_asyncio
 import pyautogui
 import time
 import json
-import requests
 import socket
+import http.client
+
+# import pycurl
+# from io import BytesIO
+
+from httpx import AsyncClient
 
 from networkmapper.nmap import Nmap
 from src.utils.logman import logger
+from src.utils.utils import run_lsof_command
 
 from src.vsextension.extention import Extension
 from src.vsprocess.vsprocess import VSProcess
@@ -22,7 +28,7 @@ library_file_path = Path(__file__).parent.joinpath("library.json")
 nest_asyncio.apply()
 loop = asyncio.get_event_loop()
 IP = None
-
+client = AsyncClient()
 
 def create_key(extension_name: AnyStr) -> AnyStr:
     """Create a key out of extension name"""
@@ -73,6 +79,24 @@ def refresh_library(_extensions: List[Extension]):
     return [Extension.from_json(extension) for extension in data.values()]
 
 
+def mark_tested(_extension):
+    """Mark extensions as tested"""
+    data = dict()
+    logger.info("Marking " + _extension.extension_name + " as tested")
+
+    if library_file_path.exists():
+        library_file = open(library_file_path, mode="r")
+        data = json.load(library_file)
+        library_file.close()
+
+    data[_extension.extension_name]["tested"] = True
+
+    with open("library.json", "w") as file:
+        json.dump(data, file, indent=4)
+
+    logger.info("Marked " + _extension.extension_name + " as tested")
+
+
 async def download_extensions(all_extensions: List[Extension]):
     """Download all extensions"""
     tasks = list()
@@ -118,66 +142,81 @@ def get_ip():
     return IP
 
 
-def test_path_traversal_attack(extension: Extension):
-    """Test path traversal attack"""
-    ports = get_ports()
-    ip = get_ip()
-    logger.info(
-        "Open ports for extension " + extension.extension_name + " are: " + str(ports)
-    )
+def test_response(ip: AnyStr, port: int, url: AnyStr, extension: Extension):
+    """Hit multiple urls asynchronously and check the response"""
+    logger.info("Testing " + url + " on " + ip + ":" + str(port))
 
-    # Use requests to send a request with different path and check the response
-    # If the response is 200 and contain You are under attack by a pizzaman! then the attack is successful
-    for port in ports:
-        url = f"http://{ip}:{port}/..%2fpizzaman.html"  # %252f is / and %2f is / and %25%32%66 is /
-        url252f = f"http://{ip}:{port}/..%252fpizzaman.html"
-        url253266 = f"http://{ip}:{port}/..%25%32%66pizzaman.html"
+    uri_ = f"http://{ip}:{port}/{url}"
+    payload = {}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache",
+    }
 
-        payload = {}
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/111.0",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-            "Accept-Language": "en-US,en;q=0.5",
-            "Accept-Encoding": "gzip, deflate, br",
-            "Connection": "keep-alive",
-            "Upgrade-Insecure-Requests": "1",
-            "Sec-Fetch-Dest": "document",
-            "Sec-Fetch-Mode": "navigate",
-            "Sec-Fetch-Site": "none",
-            "Sec-Fetch-User": "?1",
-            "Pragma": "no-cache",
-            "Cache-Control": "no-cache",
-        }
-
-        try:
-            response = requests.request("GET", url, headers=headers, data=payload)
-            if (
-                response.status_code == 200
-                and "You are under attack by a pizzaman!" in response.text
-            ):
-                logger.critical(
-                    "Path traversal attack success on port "
-                    + str(port)
-                    + " for extension "
-                    + extension.extension_name
-                )
-                save_vulnerable_extension(extension)
-                break
-            else:
-                logger.info(
-                    "Path traversal attack failed on port "
-                    + str(port)
-                    + " for extension "
-                    + extension.extension_name
-                )
-        except Exception as e:
-            logger.error(
-                "Path traversal attack errored on port "
+    try:
+        conn = http.client.HTTPConnection(ip, port)
+        conn.request('GET', uri_, headers=headers)
+        response = conn.getresponse()
+        if response.status == 200 and "You are under attack by a pizzaman!" in str(response.read()):
+            logger.critical(
+                "Path traversal attack success on port "
                 + str(port)
                 + " for extension "
                 + extension.extension_name
             )
-            logger.error(e, exc_info=True)
+            save_vulnerable_extension(extension)
+            return True
+        else:
+            logger.info(
+                "Path traversal attack failed on port "
+                + str(port)
+                + " for extension "
+                + extension.extension_name
+            )
+    except Exception as e:
+        logger.error(
+            "Path traversal attack errored on port "
+            + str(port)
+            + " for extension "
+            + extension.extension_name
+        )
+        logger.error(e, exc_info=True)
+    return False
+
+
+def test_path_traversal_attack(extension: Extension):
+    """Test path traversal attack"""
+    ports = get_ports() + run_lsof_command()
+    host_ip = get_ip()
+    logger.info(
+        "Open ports for extension " + extension.extension_name + " are: " + str(ports)
+    )
+
+    jobs = list()
+    # Use requests to send a request with different path and check the response
+    # If the response is 200 and contain You are under attack by a pizzaman! then the attack is successful
+    for port in ports:
+        url1 = "../../pizzaman.html"
+        url2 = "../pizzaman.html"
+        url3 = "../../../pizzaman.html"
+
+        jobs.append((host_ip, port, url1, extension))
+        jobs.append((host_ip, port, url2, extension))
+        jobs.append((host_ip, port, url3, extension))
+
+    for job in jobs:
+        if test_response(*job):
+            break
 
 
 def debug_extension(extension: Extension):
@@ -193,15 +232,9 @@ def debug_extension(extension: Extension):
     for command in extension.commands:
         command_to_run = f"{command['category']}:" if "category" in command else ""
         command_to_run += f"{command['title']}"
-        sneaky_command = [
-            "server" in command_to_run.lower(),
-            "latex" in command_to_run.lower(),
-            "json" in command_to_run.lower(),
-            "open in" in command_to_run.lower(),
-        ]
+
         if (
-            any(sneaky_command)
-            and "build" not in command_to_run.lower()
+            "build" not in command_to_run.lower()
             and "%" not in command_to_run
         ):
             logger.info("Running command: " + command_to_run)
@@ -238,6 +271,9 @@ def debug_extension(extension: Extension):
             pyautogui.press("enter")
             time.sleep(2)
 
+    logger.info("Finished running tests on extension: " + extension.extension_name)
+    mark_tested(extension)
+
 
 async def debug_extensions(all_extensions: List[Extension], vscode_process, limiter):
     """Install all extensions in vscode and run tests on them"""
@@ -247,14 +283,17 @@ async def debug_extensions(all_extensions: List[Extension], vscode_process, limi
             # install all extensions
             tasks = list()
             for extension in all_extensions:
-                tasks.append(install_and_unzip_extension(extension))
+                if not extension.tested:
+                    tasks.append(install_and_unzip_extension(extension))
             await asyncio.gather(*tasks)
 
             # Pull commands from package.json from extensions
             tasks = list()
             for extension in all_extensions:
-                tasks.append(pull_commands(extension))
+                if not extension.tested:
+                    tasks.append(pull_commands(extension))
             await asyncio.gather(*tasks)
+            print(all_extensions[0].commands)
 
             # Let extensions install
             await asyncio.sleep(10)
@@ -264,12 +303,14 @@ async def debug_extensions(all_extensions: List[Extension], vscode_process, limi
 
             # debug all extensions
             for extension in all_extensions:
-                debug_extension(extension)
+                if not extension.tested:
+                    debug_extension(extension)
         finally:
             # uninstall all extensions
             tasks = list()
             for extension in all_extensions:
-                tasks.append(uninstall_and_cleanup_extension(extension))
+                if not extension.tested:
+                    tasks.append(uninstall_and_cleanup_extension(extension))
             await asyncio.gather(*tasks)
 
 
@@ -314,12 +355,20 @@ if __name__ == "__main__":
     # extensions = asyncio.run(puller.pull(KEYWORDS_TO_SEARCH))
 
     extensions = refresh_library(extensions)
-    asyncio.run(download_extensions(extensions))
+    # asyncio.run(download_extensions(extensions))
     extensions = refresh_library(extensions)
 
     extensions = [ext for ext in extensions if ext.downloaded]
 
+    # extension = [ext for ext in extensions if "docsify-preview" in str(ext) or "hq-live-server" in str(ext) or "p5-server" in str(ext)]
+    #
+    # import pprint
+    # pprint.pprint([(ext.extension_name, ext.publisher.publisher_name) for ext in extensions[10:30]])
+
     # # Start Vscode sub process and install extensions from downloads folder
     # asyncio.run(
-    #     start(extensions[100:130])
+    #     start(extensions[150:250])
     # )  # TODO: Test slow to deal with errors
+    asyncio.run(
+        start(extensions[70:150])
+    )
