@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/TechieCouch-git-essentials-0.0.1/extension/images/logo.jpg

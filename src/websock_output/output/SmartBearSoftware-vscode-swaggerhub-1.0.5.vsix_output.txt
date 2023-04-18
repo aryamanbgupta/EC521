@@ -1,0 +1,44 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/package.json) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/package.json) at line 78.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/package.json) at line 88.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/peek-definition.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/preview-button.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/auto-mock.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/delete-api.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/swagger-ui-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/change-default.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/plus-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/new-version.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/close-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/refresh-api.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/full-star.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/new-definition.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/errors.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/swaggerhub-logo-small-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/go-to-definition.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/filter-on-type.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/open-file.gif
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/refresh-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/images/change-status.png
+Could not read file: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/resources/icons/extension.png
+Keyword 'ws' found in file 'api-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v2.json) at line 728.
+Keyword 'ws' found in file 'api-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v2.json) at line 827.
+Keyword 'ws' found in file 'api-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v2.json) at line 1840.
+Keyword 'ws' found in file 'api-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v2.json) at line 1841.
+Keyword 'wss' found in file 'api-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v2.json) at line 1841.
+Keyword 'ws' found in file 'api-v3.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v3.json) at line 1390.
+Keyword 'ws' found in file 'api-v3.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v3.json) at line 1399.
+Keyword 'ws' found in file 'api-v3.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v3.json) at line 1400.
+Keyword 'ws' found in file 'api-v3.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/api-v3.json) at line 1439.
+Keyword 'ws' found in file 'domain-v3.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v3.json) at line 1.
+Keyword 'ws' found in file 'domain-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v2.json) at line 658.
+Keyword 'ws' found in file 'domain-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v2.json) at line 757.
+Keyword 'ws' found in file 'domain-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v2.json) at line 1770.
+Keyword 'ws' found in file 'domain-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v2.json) at line 1771.
+Keyword 'wss' found in file 'domain-v2.json' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/schemas/domain-v2.json) at line 1771.
+Keyword 'ws' found in file 'swagger-ui.css' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/static/swagger-ui.css) at line 2.
+Keyword 'ws' found in file 'swagger-ui-bundle.js' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/static/swagger-ui-bundle.js) at line 2.
+Keyword 'wss' found in file 'swagger-ui-bundle.js' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/static/swagger-ui-bundle.js) at line 2.
+Keyword 'ws' found in file 'swagger-ui-standalone-preset.js' (path: /Users/prateek/Downloads/extensions/SmartBearSoftware-vscode-swaggerhub-1.0.5/extension/static/swagger-ui-standalone-preset.js) at line 2.

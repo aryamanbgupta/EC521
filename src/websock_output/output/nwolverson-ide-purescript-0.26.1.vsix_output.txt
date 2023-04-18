@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/README.md) at line 38.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/README.md) at line 95.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/README.md) at line 147.
+Keyword 'ws' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/client.js) at line 1.
+Keyword 'ws' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/client.js) at line 39.
+Keyword 'openExternal' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/client.js) at line 39.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/server.js) at line 30.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/server.js) at line 55.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/dist/server.js) at line 77.
+Could not read file: /Users/prateek/Downloads/extensions/nwolverson-ide-purescript-0.26.1/extension/images/ps_avatar2.png

@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/holazz-vsc-reveal-0.0.4/extension/res/icon.png

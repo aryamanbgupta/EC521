@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'go.sum' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/go.sum) at line 34.
+Keyword 'ws' found in file 'go.sum' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/go.sum) at line 67.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/out/extension.js.map) at line 4.
+Keyword 'openExternal' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/out/extension.js.map) at line 4.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/out/extension.js) at line 33.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/bytewright-ripgen-0.0.5/extension/out/extension.js) at line 36.

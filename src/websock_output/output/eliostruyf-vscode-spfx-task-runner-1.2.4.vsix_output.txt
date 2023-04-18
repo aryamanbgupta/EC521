@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/CHANGELOG.md) at line 19.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/CHANGELOG.md) at line 25.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/README.md) at line 11.
+Keyword 'ws' found in file 'TaskRunner.js' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/out/TaskRunner.js) at line 127.
+Keyword 'ws' found in file 'SPFxTaskProvider.js' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/out/SPFxTaskProvider.js) at line 51.
+Keyword 'ws' found in file 'SPFxTaskProvider.js' (path: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/out/SPFxTaskProvider.js) at line 92.
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/contextmenu-actions.png
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/serve-action.png
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/pick-task-vscode.gif
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/keybinding-initial.png
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/keybinding-set.png
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/gulp-tasks.png
+Could not read file: /Users/prateek/Downloads/extensions/eliostruyf-vscode-spfx-task-runner-1.2.4/extension/assets/spfx-taskrunner.png

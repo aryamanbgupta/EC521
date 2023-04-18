@@ -1,0 +1,12 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/package.json) at line 31.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/package.json) at line 34.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/package.json) at line 43.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/package.json) at line 52.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/package.json) at line 62.
+Keyword 'ws' found in file 'webviewApp.js' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/dist/webviewApp.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/dist/1e180fd2461a70e2402ebff7175e6944.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/resources/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/resources/light/edjx-white-full.png
+Could not read file: /Users/prateek/Downloads/extensions/EDJX-edjx-vscode-1.2.1/extension/resources/dark/edjx-white-full.png

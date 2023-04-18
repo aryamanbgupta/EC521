@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/README.md) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/README.md) at line 10.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/README.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/README.md) at line 31.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/README.md) at line 43.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/img/preview-demo.png
+Could not read file: /Users/prateek/Downloads/extensions/trevorNgo-loco-developer-preview-0.0.2/extension/img/LocoLogo-v4.png

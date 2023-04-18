@@ -1,0 +1,19 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/README.md) at line 5.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 164.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 166.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 170.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 172.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 248.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 250.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 1126.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 1471.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 1810.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 1813.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/package-lock.json) at line 1814.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/promise-queue/Makefile) at line 28.
+Keyword 'ws' found in file '.jshintrc' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/promise-queue/.jshintrc) at line 16.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/promise-queue/lib/index.js) at line 11.
+Keyword 'ws' found in file '.npmignore' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/vscode-cache/.npmignore) at line 24.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/vscode-cache/index.js) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/node_modules/vscode-cache/README.md) at line 129.
+Could not read file: /Users/prateek/Downloads/extensions/jevakallio-vscode-hacker-typer-0.1.1/extension/docs/hackertyper-icon.png

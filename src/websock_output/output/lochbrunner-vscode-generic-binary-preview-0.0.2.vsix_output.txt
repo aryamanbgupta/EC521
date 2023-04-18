@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/lochbrunner-vscode-generic-binary-preview-0.0.2/extension/example/test.abc

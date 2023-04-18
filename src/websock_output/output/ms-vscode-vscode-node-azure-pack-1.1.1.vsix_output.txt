@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ms-vscode-vscode-node-azure-pack-1.1.1/extension/README.md) at line 17.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ms-vscode-vscode-node-azure-pack-1.1.1/extension/README.md) at line 19.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ms-vscode-vscode-node-azure-pack-1.1.1/extension/README.md) at line 41.
+Could not read file: /Users/prateek/Downloads/extensions/ms-vscode-vscode-node-azure-pack-1.1.1/extension/azure.png
+Keyword 'ws' found in file 'SECURITY.md' (path: /Users/prateek/Downloads/extensions/ms-vscode-vscode-node-azure-pack-1.1.1/extension/SECURITY.md) at line 39.

@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/README.md) at line 7.
+Keyword 'ws' found in file '__functions.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/dist/definitions/__functions.asp) at line 766.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/dist/definitions/__objects.asp) at line 634.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/dist/definitions/__objects.asp) at line 638.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/dist/definitions/__objects.asp) at line 683.
+Keyword 'ws' found in file '__functions.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/definitions/__functions.asp) at line 766.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/definitions/__objects.asp) at line 634.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/definitions/__objects.asp) at line 638.
+Keyword 'ws' found in file '__objects.asp' (path: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/definitions/__objects.asp) at line 683.
+Could not read file: /Users/prateek/Downloads/extensions/zbecknell-asp-classic-support-0.6.1/extension/assets/logo.png

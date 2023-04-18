@@ -1,0 +1,2 @@
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SubhashChandraSharma26-googleit-0.0.1/extension/extension.js) at line 12.
+Could not read file: /Users/prateek/Downloads/extensions/SubhashChandraSharma26-googleit-0.0.1/extension/image/icon.jpg

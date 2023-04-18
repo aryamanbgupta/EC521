@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Shopify-vscode-shadowenv-0.1.1/extension/CHANGELOG.md) at line 45.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Shopify-vscode-shadowenv-0.1.1/extension/package.json) at line 42.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Shopify-vscode-shadowenv-0.1.1/extension/package.json) at line 47.
+Could not read file: /Users/prateek/Downloads/extensions/Shopify-vscode-shadowenv-0.1.1/extension/.shadowenv.d/.trust-ab42714f

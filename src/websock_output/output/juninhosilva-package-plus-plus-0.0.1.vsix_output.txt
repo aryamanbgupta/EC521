@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/juninhosilva-package-plus-plus-0.0.1/extension/logo.png

@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/AlfredoLopez-chatgpt-theme-1.0.3/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/AlfredoLopez-chatgpt-theme-1.0.3/extension/images/extra.png
+Could not read file: /Users/prateek/Downloads/extensions/AlfredoLopez-chatgpt-theme-1.0.3/extension/images/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/AlfredoLopez-chatgpt-theme-1.0.3/extension/images/configuracion.png

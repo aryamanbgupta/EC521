@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/hargettp-pure-prolog-language-support-0.0.7/extension/dist/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/hargettp-pure-prolog-language-support-0.0.7/extension/dist/extension.js) at line 36.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/hargettp-pure-prolog-language-support-0.0.7/extension/dist/extension.js) at line 36.
+Keyword 'ws' found in file 'prolog.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/hargettp-pure-prolog-language-support-0.0.7/extension/languages/prolog/prolog.tmLanguage.json) at line 204.

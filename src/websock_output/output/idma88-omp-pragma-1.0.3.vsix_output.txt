@@ -1,0 +1,8 @@
+Could not read file: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/images/completion.gif
+Could not read file: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/images/reference.gif
+Could not read file: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/images/icon-omp.png
+Keyword 'ws' found in file 'omp-pragma.xliff' (path: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/docs/omp-pragma.xliff) at line 906.
+Keyword 'ws' found in file 'omp-pragma--en.xliff' (path: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/docs/omp-pragma--en.xliff) at line 906.
+Keyword 'ws' found in file 'omp-pragma--en.xliff' (path: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/docs/omp-pragma--en.xliff) at line 907.
+Keyword 'ws' found in file 'copyin.md' (path: /Users/prateek/Downloads/extensions/idma88-omp-pragma-1.0.3/extension/docs/en/clauses/copyin.md) at line 1.

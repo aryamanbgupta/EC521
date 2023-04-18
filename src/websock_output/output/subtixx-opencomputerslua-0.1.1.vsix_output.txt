@@ -1,0 +1,35 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/README.md) at line 36.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 99.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 101.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 105.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 107.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 136.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 138.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 504.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 546.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 662.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 665.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/package-lock.json) at line 666.
+Keyword 'ws' found in file 'filesystem.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/filesystem.js) at line 6.
+Keyword 'ws' found in file 'term.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/term.js) at line 58.
+Keyword 'ws' found in file 'term.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/term.js) at line 64.
+Keyword 'ws' found in file 'event.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/event.js) at line 43.
+Keyword 'ws' found in file 'event.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/event.js) at line 44.
+Keyword 'ws' found in file 'event.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/event.js) at line 102.
+Keyword 'ws' found in file 'event.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/event.js) at line 106.
+Keyword 'ws' found in file 'lualibs.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/lualibs.js) at line 24.
+Keyword 'ws' found in file 'colors copy.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/colors copy.js) at line 7.
+Keyword 'ws' found in file 'component.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/component.js) at line 42.
+Keyword 'ws' found in file 'component.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/component.js) at line 132.
+Keyword 'ws' found in file 'components.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/components.js) at line 38.
+Keyword 'ws' found in file 'components.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/components.js) at line 128.
+Keyword 'ws' found in file 'colors.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/colors.js) at line 7.
+Keyword 'ws' found in file 'keyboard.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/keyboard.js) at line 7.
+Keyword 'ws' found in file 'process.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/process.js) at line 7.
+Keyword 'ws' found in file 'process.js' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/out/defs/process.js) at line 9.
+Could not read file: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/images/doc-link.png
+Could not read file: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/images/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/images/syntax-highlight.png
+Keyword 'ws' found in file 'ocluatypes.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/syntaxes/ocluatypes.tmLanguage.json) at line 229.
+Keyword 'ws' found in file 'ocluatypes.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/syntaxes/ocluatypes.tmLanguage.json) at line 241.
+Keyword 'ws' found in file 'oclua.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/subtixx-opencomputerslua-0.1.1/extension/syntaxes/oclua.tmLanguage.json) at line 231.

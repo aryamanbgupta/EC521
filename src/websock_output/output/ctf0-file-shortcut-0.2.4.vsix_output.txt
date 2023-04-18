@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/package.json) at line 26.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/package.json) at line 35.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/LICENSE.txt) at line 467.
+Could not read file: /Users/prateek/Downloads/extensions/ctf0-file-shortcut-0.2.4/extension/img/file.png

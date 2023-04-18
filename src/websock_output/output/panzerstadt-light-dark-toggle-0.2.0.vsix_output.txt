@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/panzerstadt-light-dark-toggle-0.2.0/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/panzerstadt-light-dark-toggle-0.2.0/extension/package.json) at line 4.
+Could not read file: /Users/prateek/Downloads/extensions/panzerstadt-light-dark-toggle-0.2.0/extension/media/toggle.gif
+Could not read file: /Users/prateek/Downloads/extensions/panzerstadt-light-dark-toggle-0.2.0/extension/media/night.png

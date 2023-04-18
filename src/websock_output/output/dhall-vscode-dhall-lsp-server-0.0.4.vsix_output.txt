@@ -1,0 +1,51 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/README.md) at line 15.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/out/extension.js) at line 142.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/format.apng
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/follow-import.apng
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/type-hover.png
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/screencap.png
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/diagnostics.apng
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/explain-on-hover.png
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/dhall-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/images/linting.apng
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/README.md) at line 7.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 95.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 97.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 99.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 101.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 134.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 136.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 811.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 1021.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/yarn.lock) at line 1022.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/lib/main.js) at line 138.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 9.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/vscode-languageclient/lib/utils/processes.js) at line 13.
+Keyword 'ws' found in file 'readme.markdown' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-map/readme.markdown) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-map/package.json) at line 38.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-map/package.json) at line 46.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-map/package.json) at line 65.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-map/package.json) at line 76.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/jsonify/package.json) at line 49.
+Keyword 'ws' found in file 'readme.markdown' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-reduce/readme.markdown) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-reduce/package.json) at line 38.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-reduce/package.json) at line 64.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-reduce/package.json) at line 75.
+Keyword 'ws' found in file 'semver.js' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/semver.js) at line 120.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 209.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 210.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 226.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 227.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 237.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/semver/README.md) at line 341.
+Keyword 'ws' found in file 'readme.markdown' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/shell-quote/readme.markdown) at line 7.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/shell-quote/package.json) at line 67.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/shell-quote/package.json) at line 79.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/README.md) at line 30.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/package.json) at line 39.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/package.json) at line 47.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/package.json) at line 49.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/package.json) at line 63.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/dhall-vscode-dhall-lsp-server-0.0.4/extension/node_modules/array-filter/package.json) at line 74.

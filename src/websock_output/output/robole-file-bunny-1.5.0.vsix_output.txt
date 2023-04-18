@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension.vsixmanifest) at line 7.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/CHANGELOG.md) at line 46.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/CHANGELOG.md) at line 126.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/CHANGELOG.md) at line 217.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/README.md) at line 173.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/README.md) at line 175.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/README.md) at line 179.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/README.md) at line 181.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/README.md) at line 183.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/package.json) at line 36.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/package.json) at line 37.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/robole-file-bunny-1.5.0/extension/img/logo.png

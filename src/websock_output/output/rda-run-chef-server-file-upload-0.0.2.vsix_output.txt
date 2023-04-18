@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/rda-run-chef-server-file-upload-0.0.2/extension/images/json.png
+Could not read file: /Users/prateek/Downloads/extensions/rda-run-chef-server-file-upload-0.0.2/extension/images/knife.png
+Could not read file: /Users/prateek/Downloads/extensions/rda-run-chef-server-file-upload-0.0.2/extension/images/cookbook.png

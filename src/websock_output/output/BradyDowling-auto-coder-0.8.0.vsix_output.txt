@@ -1,0 +1,45 @@
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/README.md) at line 98.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/README.md) at line 134.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/README.md) at line 135.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/README.md) at line 138.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 58.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 63.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 90.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 114.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/extension.js) at line 120.
+Keyword 'ws' found in file 'player.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/player/player.js) at line 20.
+Keyword 'ws' found in file 'player.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/player/player.js) at line 37.
+Keyword 'ws' found in file 'player.js' (path: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/out/player/player.js) at line 38.
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key9.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key8.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key12.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key11.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key10.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key6.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key7.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key5.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key4.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key1.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key3.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/macbook/key/key2.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/typewriter/key.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/typewriter/return.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/spacebar.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/enter.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/delete.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/arrow.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/tab.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/hacker/key/key.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/keyboard-sound-effects.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key9.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key8.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key6.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key7.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key5.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key4.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key1.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key3.mp3
+Could not read file: /Users/prateek/Downloads/extensions/BradyDowling-auto-coder-0.8.0/extension/audio/keyboard/key/key2.mp3

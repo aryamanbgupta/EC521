@@ -38,8 +38,6 @@
 /hq_live_server/*
 /Presentation/Misc/*
 
-# logs
 */logs/*
-
-# downloads
+/working/*
 */downloads/*

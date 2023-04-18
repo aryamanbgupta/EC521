@@ -1,0 +1,15 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension.vsixmanifest) at line 7.
+Could not read file: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/icon.png
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 75.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 76.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 121.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 162.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/package.json) at line 212.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/out/extension.js) at line 44.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/out/extension.js) at line 46.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/out/extension.js) at line 49.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/out/extension.js) at line 159.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/out/extension.js) at line 161.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/media/main.css) at line 1.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/JabedHossain-web-preview-0.1.11/extension/media/main.js) at line 2.

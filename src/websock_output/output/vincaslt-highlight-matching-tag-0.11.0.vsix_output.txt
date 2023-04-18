@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/README.md) at line 27.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 23.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 51.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 59.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 155.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 190.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 201.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/vincaslt-highlight-matching-tag-0.11.0/extension/node_modules/moo/README.md) at line 255.

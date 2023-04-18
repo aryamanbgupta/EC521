@@ -1,0 +1,51 @@
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/icon.png
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 199.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 201.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 205.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 207.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 265.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 307.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 309.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 1322.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 1323.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 1702.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2312.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2621.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2740.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2741.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2770.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2772.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 2870.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/package-lock.json) at line 3267.
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/demo.gif
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/History.md) at line 168.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/History.md) at line 759.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/README.md) at line 73.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/README.md) at line 299.
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/projects/BODYMOVIN.zip
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/gifs/Community 2_3.gif
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/gifs/Example4.gif
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/gifs/Example1.gif
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/gifs/Example3.gif
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/gifs/Example2.gif
+Keyword 'ws' found in file 'ISSUE_TEMPLATE.md' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/.github/ISSUE_TEMPLATE.md) at line 13.
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/extension/bodymovin.zxp
+Could not read file: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/old_parser/helperProject.aep
+Keyword 'ws' found in file 'lottie.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.js) at line 895.
+Keyword 'ws' found in file 'lottie.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.js) at line 896.
+Keyword 'ws' found in file 'lottie.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.js) at line 7746.
+Keyword 'ws' found in file 'lottie.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.js) at line 13937.
+Keyword 'ws' found in file 'lottie.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.js) at line 13973.
+Keyword 'ws' found in file 'lottie_light.min.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.min.js) at line 5.
+Keyword 'ws' found in file 'lottie.min.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.min.js) at line 1.
+Keyword 'ws' found in file 'lottie.min.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie.min.js) at line 8.
+Keyword 'ws' found in file 'lottie_light.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.js) at line 895.
+Keyword 'ws' found in file 'lottie_light.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.js) at line 896.
+Keyword 'ws' found in file 'lottie_light.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.js) at line 7746.
+Keyword 'ws' found in file 'lottie_light.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.js) at line 9397.
+Keyword 'ws' found in file 'lottie_light.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/build/player/lottie_light.js) at line 9433.
+Keyword 'ws' found in file 'module.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/player/js/module.js) at line 106.
+Keyword 'ws' found in file 'module.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/player/js/module.js) at line 142.
+Keyword 'ws' found in file 'seedrandom.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/player/js/3rd_party/seedrandom.js) at line 201.
+Keyword 'ws' found in file 'seedrandom.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/player/js/3rd_party/seedrandom.js) at line 202.
+Keyword 'ws' found in file 'SVGShapeElement.js' (path: /Users/prateek/Downloads/extensions/williamdasilva-lottie-viewer-0.0.1/extension/node_modules/lottie-web/player/js/elements/svgElements/SVGShapeElement.js) at line 224.

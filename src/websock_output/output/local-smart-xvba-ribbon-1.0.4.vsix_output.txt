@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/package.json) at line 77.
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/dist/bundle.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/resources/icon.png
+Keyword 'ws' found in file 'vbscript.json' (path: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/syntaxes/vbscript.json) at line 6.
+Keyword 'ws' found in file 'vbscript.json' (path: /Users/prateek/Downloads/extensions/local-smart-xvba-ribbon-1.0.4/extension/syntaxes/vbscript.json) at line 7.

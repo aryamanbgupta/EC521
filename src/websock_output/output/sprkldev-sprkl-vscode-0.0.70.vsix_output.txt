@@ -1,0 +1,23 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/README.md) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/package.json) at line 63.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/package.json) at line 72.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 7.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 20.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 60.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 61.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 101.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 102.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 113.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 122.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 156.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 237.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 325.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 355.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 356.
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.css) at line 360.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.js) at line 2.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/dist/node_modules/sprkl-react/dist/main.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/fonts/TWKLausanne/TWKLausanne-400.otf
+Could not read file: /Users/prateek/Downloads/extensions/sprkldev-sprkl-vscode-0.0.70/extension/media/icon.png

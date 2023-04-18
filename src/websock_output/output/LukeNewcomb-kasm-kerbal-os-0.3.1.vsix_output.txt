@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/LukeNewcomb-kasm-kerbal-os-0.3.1/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/LukeNewcomb-kasm-kerbal-os-0.3.1/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/LukeNewcomb-kasm-kerbal-os-0.3.1/extension/LICENSE.txt) at line 467.
+Could not read file: /Users/prateek/Downloads/extensions/LukeNewcomb-kasm-kerbal-os-0.3.1/extension/icons/kasm-logo.png

@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/suryanshmak-advanced-file-1.0.4/extension/images/preview.gif
+Could not read file: /Users/prateek/Downloads/extensions/suryanshmak-advanced-file-1.0.4/extension/images/preview-2.gif

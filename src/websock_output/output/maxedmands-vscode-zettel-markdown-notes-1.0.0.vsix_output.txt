@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/LICENSE.md) at line 77.
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/LICENSE.md) at line 184.
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/LICENSE.md) at line 467.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/CHANGELOG.md) at line 166.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/CHANGELOG.md) at line 210.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/CHANGELOG.md) at line 224.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/README.md) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/package.json) at line 169.
+Could not read file: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/images/vscode-markdown-notes.psd
+Could not read file: /Users/prateek/Downloads/extensions/maxedmands-vscode-zettel-markdown-notes-1.0.0/extension/images/vscode-markdown-notes.png

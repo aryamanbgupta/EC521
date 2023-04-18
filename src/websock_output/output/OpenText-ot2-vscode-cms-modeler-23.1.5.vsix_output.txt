@@ -1,0 +1,16 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 11.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 41.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 50.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 54.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 71.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 99.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 100.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/CHANGELOG.md) at line 164.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/extension.js.map) at line 1.
+Keyword 'ws' found in file 'metadata-trait.js' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/metadata-trait.js) at line 1.
+Keyword 'ws' found in file 'metadata-type.js.map' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/metadata-type.js.map) at line 1.
+Keyword 'ws' found in file 'metadata-type.js' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/metadata-type.js) at line 1.
+Keyword 'ws' found in file 'metadata-trait.js.map' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/metadata-trait.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/OpenText-ot2-vscode-cms-modeler-23.1.5/extension/assets/opentext-ext-icon.png

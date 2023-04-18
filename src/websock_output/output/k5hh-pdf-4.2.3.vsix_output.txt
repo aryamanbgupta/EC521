@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/k5hh-pdf-4.2.3/extension/icon.png
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/k5hh-pdf-4.2.3/extension/LICENSE.txt) at line 89.
+Could not read file: /Users/prateek/Downloads/extensions/k5hh-pdf-4.2.3/extension/lib/pdfium.wasm
+Could not read file: /Users/prateek/Downloads/extensions/k5hh-pdf-4.2.3/extension/lib/temp.pdf

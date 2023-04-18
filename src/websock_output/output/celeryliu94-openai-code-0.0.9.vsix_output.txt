@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/celeryliu94-openai-code-0.0.9/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/celeryliu94-openai-code-0.0.9/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/celeryliu94-openai-code-0.0.9/extension/resources/openai-code-chat-assistant.png
+Keyword 'ws' found in file 'bulma.min.css' (path: /Users/prateek/Downloads/extensions/celeryliu94-openai-code-0.0.9/extension/media/bulma.min.css) at line 1.

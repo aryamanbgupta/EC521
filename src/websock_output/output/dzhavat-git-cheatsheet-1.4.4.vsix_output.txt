@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/dzhavat-git-cheatsheet-1.4.4/extension/assets/images/icon.png

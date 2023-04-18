@@ -1,0 +1,12 @@
+Could not read file: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/banner.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/README.md) at line 66.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/package.json) at line 56.
+Keyword 'ws' found in file 'Manager.js' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/out/Manager.js) at line 41.
+Keyword 'ws' found in file 'Manager.js' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/out/Manager.js) at line 203.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/out/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/icons/tiny-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/icons/icon-light.png
+Could not read file: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/icons/icon-dark.png
+Could not read file: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/icons/marketplace.png
+Keyword 'ws' found in file 'main.css' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/build/static/css/main.css) at line 1.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/keshan-markdown-live-1.2.1/extension/build/static/js/main.js) at line 1.

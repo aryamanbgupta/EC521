@@ -1,0 +1,11 @@
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 155.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 157.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 161.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 163.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 239.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 241.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 1106.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 1451.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 1768.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 1769.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/elltg-open-current-file-in-new-window-1.0.0/extension/package-lock.json) at line 2019.

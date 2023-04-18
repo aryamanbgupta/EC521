@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/algon-320-integrated-terminal-filedir-0.0.1/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/algon-320-integrated-terminal-filedir-0.0.1/extension/images/demo1.gif

@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/add.png
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/plugin_logo.png
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/demo.png
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/find.png
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/new_component.png
+Could not read file: /Users/prateek/Downloads/extensions/zzyrand-live-redux-template-0.0.23/extension/images/logo.png

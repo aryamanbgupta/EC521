@@ -1,0 +1,5 @@
+Could not read file: /Users/prateek/Downloads/extensions/TristanMuller-ableton-live-theme-1.1.0/extension/icons8_ableton_128px.png
+Could not read file: /Users/prateek/Downloads/extensions/TristanMuller-ableton-live-theme-1.1.0/extension/icons8_ableton_32px.png
+Could not read file: /Users/prateek/Downloads/extensions/TristanMuller-ableton-live-theme-1.1.0/extension/icons8_ableton.ico
+Could not read file: /Users/prateek/Downloads/extensions/TristanMuller-ableton-live-theme-1.1.0/extension/themes/preview.png
+Could not read file: /Users/prateek/Downloads/extensions/TristanMuller-ableton-live-theme-1.1.0/extension/themes/abletonlive.png

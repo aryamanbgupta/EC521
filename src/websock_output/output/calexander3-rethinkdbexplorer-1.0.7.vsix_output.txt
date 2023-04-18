@@ -1,0 +1,7 @@
+Could not read file: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/RethinkExplorer.png
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/package.json) at line 215.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/package.json) at line 224.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 28.
+Keyword 'ws' found in file 'javascript.json' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/syntaxes/javascript.json) at line 958.
+Keyword 'ws' found in file 'javascript.json' (path: /Users/prateek/Downloads/extensions/calexander3-rethinkdbexplorer-1.0.7/extension/syntaxes/javascript.json) at line 1598.

@@ -1,0 +1,100 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/CHANGELOG.md) at line 48.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/CHANGELOG.md) at line 74.
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/linux.jpg
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 33.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 36.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 48.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 54.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 56.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 64.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 68.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 74.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 76.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 78.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 193.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 195.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/README.md) at line 210.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/package.json) at line 104.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/package.json) at line 113.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 5.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 14.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 15.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 23.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 38.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 43.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/out/extension.js) at line 148.
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/python-explain.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/chatgpt-gif-2.gif
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/features.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/adhoc.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/code-actions.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/edit-resend.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/rust-test.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/settings.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/export-convo.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/iconWhite.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/chatgpt-gif.gif
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/autologin-setting.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/python-optimize.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/rust.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/linux.jpg
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/openai-transparent.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/openai-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/proxy-server.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/continue-combine.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/ai-logo.jpg
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/captcha.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/prerelease-chatgpt-model.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/setup.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/rust-problem.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/methods.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/chatgpt-autologin.gif
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/conversation-mode-2.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/conversation-mode.png
+Could not read file: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/images/api-key.png
+Keyword 'ws' found in file 'marked.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/marked.min.js) at line 6.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 1.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 2.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 3.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 13.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 14.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 15.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 16.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 17.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 18.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 19.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 20.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 21.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 22.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 25.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 29.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 30.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 34.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 37.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 38.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 41.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 42.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 43.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 44.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 46.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 49.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 52.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 53.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 55.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 56.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 60.
+Keyword 'ws' found in file 'tailwindcss.3.2.4.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/tailwindcss.3.2.4.min.js) at line 62.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 313.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 398.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 438.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 476.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 606.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 708.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 736.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 940.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 1048.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 1060.
+Keyword 'ws' found in file 'highlight.min.js' (path: /Users/prateek/Downloads/extensions/LamTran-vscode-innogpt-1.0.1/extension/media/vendor/highlight.min.js) at line 1150.

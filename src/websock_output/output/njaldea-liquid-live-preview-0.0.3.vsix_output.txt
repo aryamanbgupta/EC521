@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 7.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 21.
+Keyword 'wss' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 21.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 25.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 60.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 69.
+Keyword 'wss' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 69.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/njaldea-liquid-live-preview-0.0.3/extension/out/main.js) at line 69.

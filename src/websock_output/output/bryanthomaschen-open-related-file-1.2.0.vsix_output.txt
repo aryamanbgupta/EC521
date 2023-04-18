@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/bryanthomaschen-open-related-file-1.2.0/extension/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/bryanthomaschen-open-related-file-1.2.0/extension/open-related-file-usecase.gif

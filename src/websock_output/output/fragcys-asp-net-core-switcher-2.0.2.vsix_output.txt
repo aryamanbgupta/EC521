@@ -1,0 +1,15 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'azure-pipelines.yml' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/azure-pipelines.yml) at line 15.
+Keyword 'ws' found in file 'azure-pipelines.yml' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/azure-pipelines.yml) at line 16.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/package.json) at line 4.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/constants.js) at line 11.
+Keyword 'ws' found in file 'goToController.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js) at line 35.
+Keyword 'ws' found in file 'goToController.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js) at line 38.
+Keyword 'ws' found in file 'goToController.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js) at line 43.
+Keyword 'ws' found in file 'view.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js) at line 6.
+Keyword 'ws' found in file 'view.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js) at line 9.
+Keyword 'ws' found in file 'view.js' (path: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js) at line 10.
+Could not read file: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/img/mvc-switch.gif
+Could not read file: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/img/razor-pages.gif
+Could not read file: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/img/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/fragcys-asp-net-core-switcher-2.0.2/extension/img/mvc-add-view.gif

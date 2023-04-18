@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kutear-search-compare-0.0.3/extension/out/extension.js) at line 92.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/kutear-search-compare-0.0.3/extension/out/extension.js) at line 94.

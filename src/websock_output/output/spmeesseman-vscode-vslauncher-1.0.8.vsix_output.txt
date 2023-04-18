@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/spmeesseman-vscode-vslauncher-1.0.8/extension/LICENSE.txt) at line 65.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/spmeesseman-vscode-vslauncher-1.0.8/extension/LICENSE.txt) at line 172.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/spmeesseman-vscode-vslauncher-1.0.8/extension/LICENSE.txt) at line 455.
+Could not read file: /Users/prateek/Downloads/extensions/spmeesseman-vscode-vslauncher-1.0.8/extension/res/logo.png

@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 37.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 39.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 39.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 40.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 44.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 45.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/out/extension.js) at line 47.
+Could not read file: /Users/prateek/Downloads/extensions/caradhras-uvls-code-0.0.11/extension/assets/uvls-256.png

@@ -1,0 +1,24 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/README.md) at line 18.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 101.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 885.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 1239.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 1362.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 1525.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 2377.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 2644.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 3416.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 4299.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 4759.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 5013.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 5098.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 5222.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 5864.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 6041.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/package-lock.json) at line 6611.
+Could not read file: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/out/typst-lsp
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/out/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/out/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/out/extension.js) at line 37.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/out/extension.js) at line 39.
+Could not read file: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/icons/typst.png
+Could not read file: /Users/prateek/Downloads/extensions/nvarner-typst-lsp-0.3.2/extension/icons/typst-small.png

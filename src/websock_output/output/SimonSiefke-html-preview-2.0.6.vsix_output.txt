@@ -1,0 +1,20 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/CHANGELOG.md) at line 13.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/CHANGELOG.md) at line 30.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/README.md) at line 30.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/README.md) at line 50.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/README.md) at line 88.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/package.json) at line 96.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/package.json) at line 101.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/package.json) at line 104.
+Could not read file: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/images/icon.png
+Keyword 'ws' found in file 'extensionMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js) at line 25.
+Keyword 'wss' found in file 'extensionMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js) at line 25.
+Keyword 'openExternal' found in file 'extensionMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js) at line 25.
+Keyword 'ws' found in file 'extensionMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js) at line 74.
+Keyword 'ws' found in file 'extensionMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js) at line 91.
+Keyword 'ws' found in file 'extensionMain.js.map' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js.map) at line 1.
+Keyword 'wss' found in file 'extensionMain.js.map' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js.map) at line 1.
+Keyword 'openExternal' found in file 'extensionMain.js.map' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/extension/dist/extensionMain.js.map) at line 1.
+Keyword 'ws' found in file 'html-preview.js.map' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/injected-code/dist/html-preview.js.map) at line 1.
+Keyword 'ws' found in file 'injectedCodeMain.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/injected-code/dist/injectedCodeMain.js) at line 244.
+Keyword 'ws' found in file 'html-preview.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-html-preview-2.0.6/extension/packages/injected-code/dist/html-preview.js) at line 1.

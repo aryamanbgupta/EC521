@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/node_modules/hex-color-regex/README.md) at line 112.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/node_modules/hsl-regex/package.json) at line 11.
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/top.png
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/preview.gif
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/logo.jpg
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/inline.png
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/hover.png
+Could not read file: /Users/prateek/Downloads/extensions/jomeinaster-bracket-peek-1.4.4/extension/assets/always.png

@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/UtsavVaria-goog-search-0.0.2/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/UtsavVaria-goog-search-0.0.2/extension/package.json) at line 4.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/UtsavVaria-goog-search-0.0.2/extension/out/extension.js) at line 28.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/UtsavVaria-goog-search-0.0.2/extension/out/extension.js) at line 32.

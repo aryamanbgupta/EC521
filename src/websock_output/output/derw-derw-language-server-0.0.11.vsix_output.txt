@@ -1,0 +1,27 @@
+Could not read file: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/derw_logo.png
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 651.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 652.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 653.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 948.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 950.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 963.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 965.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 978.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 980.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1704.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1705.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1706.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1843.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1845.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1849.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1851.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1855.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/package-lock.json) at line 1857.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/out/server.js) at line 194.
+Keyword 'ws' found in file 'server.js.map' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/out/server.js.map) at line 4.
+Keyword 'ws' found in file 'server.js.map' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/server/out/server.js.map) at line 6.
+Keyword 'ws' found in file 'samples.js' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/.scripts/samples.js) at line 53.
+Could not read file: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/.base-sample/demo.gif
+Keyword 'ws' found in file 'commands.json' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/.github/commands.json) at line 264.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/client/out/extension.js) at line 33.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derw-derw-language-server-0.0.11/extension/client/out/extension.js) at line 36.

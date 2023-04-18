@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/package.json) at line 39.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/package.json) at line 134.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/dist/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/dist/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/dist/web/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/dist/web/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/images/settings-preview.png
+Could not read file: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/images/preview.gif
+Could not read file: /Users/prateek/Downloads/extensions/aswinkumar863-sort-editors-2.0.1/extension/images/logo.png

@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'TODO.md' (path: /Users/prateek/Downloads/extensions/timmoverlaan-uri-open-recent-0.1.1/extension/TODO.md) at line 7.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/timmoverlaan-uri-open-recent-0.1.1/extension/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/timmoverlaan-uri-open-recent-0.1.1/extension/README.md) at line 33.
+Could not read file: /Users/prateek/Downloads/extensions/timmoverlaan-uri-open-recent-0.1.1/extension/images/uri-open-recent-example.png

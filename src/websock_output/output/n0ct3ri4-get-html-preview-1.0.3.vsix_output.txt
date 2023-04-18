@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/n0ct3ri4-get-html-preview-1.0.3/extension/icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/n0ct3ri4-get-html-preview-1.0.3/extension/README.md) at line 21.
+Could not read file: /Users/prateek/Downloads/extensions/n0ct3ri4-get-html-preview-1.0.3/extension/preview/preview1.png
+Could not read file: /Users/prateek/Downloads/extensions/n0ct3ri4-get-html-preview-1.0.3/extension/preview/preview2.png

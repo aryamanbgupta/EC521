@@ -1,0 +1,67 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/README.md) at line 51.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/README.md) at line 59.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/LICENSE.txt) at line 165.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/LICENSE.txt) at line 200.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/LICENSE.txt) at line 224.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 55.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 56.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 57.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 58.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 59.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 60.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 61.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 62.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 63.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 64.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 65.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 121.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 123.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 153.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 154.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/constants.js) at line 155.
+Keyword 'ws' found in file 'config.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/config.js) at line 3.
+Keyword 'ws' found in file 'config.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/config.js) at line 160.
+Keyword 'ws' found in file 'config.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/config.js) at line 161.
+Keyword 'ws' found in file 'contentProvider.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/contentProvider.js) at line 87.
+Keyword 'openExternal' found in file 'messages.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/messages.js) at line 45.
+Keyword 'openExternal' found in file 'messages.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/messages.js) at line 48.
+Keyword 'ws' found in file 'contentProvider.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/whats-new/contentProvider.js) at line 16.
+Keyword 'ws' found in file 'contentProvider.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/whats-new/contentProvider.js) at line 241.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 31.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 36.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 37.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 38.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 39.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 127.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 128.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 161.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 183.
+Keyword 'ws' found in file 'common.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/commands/common.js) at line 184.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/src/extension.js) at line 927.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/out/src/extension.js) at line 984.
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/item-formatting-column-channel.gif
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/logo_text.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/vscode-oh-alignment-tool-logo-readme.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/items_column.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/item-formatting.gif
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/ng_formatting.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/items_multiline.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/item-formatting-multiline.gif
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/item-formatting-column.gif
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/sitemap-formatting.gif
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/fs_formatting.png
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/images/items_channelcolumn.png
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/CHANGELOG.md) at line 109.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 280.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 281.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 297.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 298.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 308.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/README.md) at line 414.
+Keyword 'ws' found in file 're.js' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/node_modules/semver/internal/re.js) at line 91.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 46.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/src/vscode-whats-new/README.md) at line 28.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/src/vscode-whats-new/README.md) at line 83.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/src/vscode-whats-new/README.md) at line 111.
+Could not read file: /Users/prateek/Downloads/extensions/max-beckenbauer-oh-alignment-tool-2.1.6/extension/src/vscode-whats-new/images/whats-new-bookmarks.png

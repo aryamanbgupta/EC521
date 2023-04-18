@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/tsutsu3-markdown-named-codeblocks-1.0.0/extension/dst/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/tsutsu3-markdown-named-codeblocks-1.0.0/extension/image/sample.gif
+Could not read file: /Users/prateek/Downloads/extensions/tsutsu3-markdown-named-codeblocks-1.0.0/extension/image/github_style.png
+Could not read file: /Users/prateek/Downloads/extensions/tsutsu3-markdown-named-codeblocks-1.0.0/extension/image/default.png
+Could not read file: /Users/prateek/Downloads/extensions/tsutsu3-markdown-named-codeblocks-1.0.0/extension/logo/logox128.png

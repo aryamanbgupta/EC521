@@ -1,0 +1,3 @@
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/maxevilmind-caffeine-0.0.6/extension/yarn-error.log) at line 230.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/maxevilmind-caffeine-0.0.6/extension/yarn-error.log) at line 232.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/maxevilmind-caffeine-0.0.6/extension/yarn-error.log) at line 917.

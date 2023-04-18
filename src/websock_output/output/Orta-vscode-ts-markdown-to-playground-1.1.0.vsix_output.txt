@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/Orta-vscode-ts-markdown-to-playground-1.1.0/extension/screenshots/vscode-open-in-playground.gif
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Orta-vscode-ts-markdown-to-playground-1.1.0/extension/out/extension.js) at line 62.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Orta-vscode-ts-markdown-to-playground-1.1.0/extension/out/extension.js) at line 72.

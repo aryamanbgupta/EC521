@@ -1,0 +1,618 @@
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/logo.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/destroy/README.md) at line 25.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/destroy/README.md) at line 63.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 1.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 3.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 11.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 18.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 20.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/readme.md) at line 30.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/package.json) at line 2.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/package.json) at line 4.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/package.json) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/package.json) at line 25.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/index.d.ts) at line 2.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/index.d.ts) at line 6.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/is-wsl/index.d.ts) at line 8.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/History.md) at line 19.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/History.md) at line 20.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/Readme.md) at line 7.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/Readme.md) at line 23.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/Readme.md) at line 35.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/Readme.md) at line 275.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/package.json) at line 12.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/depd/lib/browser/index.js) at line 26.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/CHANGELOG.md) at line 121.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/CHANGELOG.md) at line 129.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 247.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 306.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 308.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 313.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 316.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 397.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 487.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/README.md) at line 596.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/constants.js) at line 46.
+Keyword 'ws' found in file 'parse.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/parse.js) at line 74.
+Keyword 'ws' found in file 'parse.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/parse.js) at line 76.
+Keyword 'ws' found in file 'parse.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/parse.js) at line 1013.
+Keyword 'ws' found in file 'parse.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/parse.js) at line 1015.
+Keyword 'ws' found in file 'picomatch.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/picomatch.js) at line 52.
+Keyword 'ws' found in file 'picomatch.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/picomatch.js) at line 161.
+Keyword 'ws' found in file 'picomatch.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/picomatch.js) at line 239.
+Keyword 'ws' found in file 'utils.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/utils.js) at line 32.
+Keyword 'ws' found in file 'utils.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/utils.js) at line 33.
+Keyword 'ws' found in file 'utils.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/picomatch/lib/utils.js) at line 34.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/index.js) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 271.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 426.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 429.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 458.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 530.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 563.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/safe-buffer/README.md) at line 571.
+Keyword 'ws' found in file 'inherits_browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/inherits_browser.js) at line 17.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 1.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 10.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 16.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/README.md) at line 22.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/package.json) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/package.json) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/package.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/package.json) at line 16.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/package.json) at line 27.
+Keyword 'ws' found in file 'inherits.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/inherits/inherits.js) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/anymatch/README.md) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/README.md) at line 139.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/README.md) at line 176.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/README.md) at line 197.
+Keyword 'wss' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/README.md) at line 197.
+Keyword 'ws' found in file 'streams.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/streams.js) at line 34.
+Keyword 'ws' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/client.js) at line 48.
+Keyword 'wss' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/client.js) at line 48.
+Keyword 'ws' found in file 'proxy.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/proxy.js) at line 11.
+Keyword 'wss' found in file 'proxy.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/proxy.js) at line 11.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/server.js) at line 89.
+Keyword 'wss' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-driver/lib/websocket/driver/server.js) at line 89.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/index.js) at line 50.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/index.js) at line 561.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 31.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 33.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 34.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 155.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 293.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/README.md) at line 296.
+Keyword 'ws' found in file 'constants.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/lib/constants.js) at line 62.
+Keyword 'ws' found in file 'nodefs-handler.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/lib/nodefs-handler.js) at line 8.
+Keyword 'ws' found in file 'nodefs-handler.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/lib/nodefs-handler.js) at line 178.
+Keyword 'ws' found in file 'nodefs-handler.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/chokidar/lib/nodefs-handler.js) at line 457.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/fresh/README.md) at line 49.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-types/README.md) at line 106.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/minimist/package.json) at line 17.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/readdirp/index.js) at line 96.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/readdirp/README.md) at line 96.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/readdirp/README.md) at line 101.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 40.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 42.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 43.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 46.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 48.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 57.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 66.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 73.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 81.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 89.
+Keyword 'wss' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 89.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 91.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 95.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 97.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 99.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 102.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 108.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 120.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 135.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 141.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 148.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 152.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 159.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 167.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 177.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 178.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 238.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 276.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/README.md) at line 298.
+Keyword 'ws' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/lib/faye/websocket/client.js) at line 11.
+Keyword 'wss' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/lib/faye/websocket/client.js) at line 11.
+Keyword 'ws' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/lib/faye/websocket/client.js) at line 12.
+Keyword 'wss' found in file 'client.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/faye-websocket/lib/faye/websocket/client.js) at line 12.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/HISTORY.md) at line 19.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/HISTORY.md) at line 34.
+Keyword 'ws' found in file 'inherits_browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/inherits_browser.js) at line 15.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 1.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 10.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 16.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/README.md) at line 22.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/package.json) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/package.json) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/package.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/package.json) at line 16.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/package.json) at line 27.
+Keyword 'ws' found in file 'inherits.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/inherits/inherits.js) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-errors/node_modules/statuses/README.md) at line 49.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/accepts/README.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/accepts/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/accepts/README.md) at line 16.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/accepts/README.md) at line 88.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/accepts/README.md) at line 135.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-extensions/README.md) at line 143.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-extensions/README.md) at line 317.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-extensions/lib/pipeline/README.md) at line 446.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-extensions/lib/pipeline/README.md) at line 448.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/websocket-extensions/lib/pipeline/README.md) at line 606.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/negotiator/README.md) at line 203.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/History.md) at line 16.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/History.md) at line 32.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 40.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 85.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 89.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 90.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 112.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 136.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/index.js) at line 160.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/batch/package.json) at line 12.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/HISTORY.md) at line 192.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/HISTORY.md) at line 359.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 87.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 199.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 217.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 247.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-static/README.md) at line 252.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime/CHANGELOG.md) at line 116.
+Keyword 'ws' found in file 'types.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime/types.json) at line 1.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime/src/test.js) at line 20.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/statuses/README.md) at line 47.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/statuses/README.md) at line 60.
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-parser-js/LICENSE.md) at line 63.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-parser-js/README.md) at line 1.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-parser-js/README.md) at line 2.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/http-parser-js/README.md) at line 8.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/HISTORY.md) at line 216.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/HISTORY.md) at line 383.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/index.js) at line 990.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/README.md) at line 317.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/README.md) at line 322.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/ms/index.js) at line 21.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/ms/readme.md) at line 3.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/ms/readme.md) at line 44.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/History.md) at line 26.
+Keyword 'ws' found in file 'History.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/History.md) at line 27.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/Readme.md) at line 7.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/Readme.md) at line 23.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/Readme.md) at line 35.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/Readme.md) at line 270.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/package.json) at line 12.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/depd/lib/browser/index.js) at line 26.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/http-errors/HISTORY.md) at line 67.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/http-errors/HISTORY.md) at line 82.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 10.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 23.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 58.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 109.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 163.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 175.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 192.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 195.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 201.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 202.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 203.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 204.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 211.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 217.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 225.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 226.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 227.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 228.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 236.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 241.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 249.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 250.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 263.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 264.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 268.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 272.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 273.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 275.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 293.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 300.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 314.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 340.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/CHANGELOG.md) at line 341.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/Makefile) at line 16.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/Makefile) at line 27.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/Makefile) at line 32.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/Makefile) at line 45.
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/.eslintrc) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 62.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 145.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 146.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/README.md) at line 147.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/component.json) at line 11.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/component.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/package.json) at line 42.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/package.json) at line 45.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 12.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 16.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 29.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 30.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 36.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 57.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 58.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 59.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 63.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/karma.conf.js) at line 67.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/node_modules/ms/index.js) at line 20.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/node_modules/ms/readme.md) at line 40.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/src/index.js) at line 3.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/src/index.js) at line 7.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/src/browser.js) at line 2.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/src/browser.js) at line 173.
+Keyword 'ws' found in file 'debug.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/debug/src/debug.js) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/send/node_modules/setprototypeof/README.md) at line 7.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/ms/index.js) at line 20.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/ms/readme.md) at line 40.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 10.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 23.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 58.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 109.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 163.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 175.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 192.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 195.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 201.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 202.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 203.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 204.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 211.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 217.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 225.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 226.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 227.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 228.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 236.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 241.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 249.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 250.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 263.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 264.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 268.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 272.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 273.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 275.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 293.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 300.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 314.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 340.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/CHANGELOG.md) at line 341.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/Makefile) at line 16.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/Makefile) at line 27.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/Makefile) at line 32.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/Makefile) at line 45.
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/.eslintrc) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 62.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 145.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 146.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/README.md) at line 147.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/component.json) at line 11.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/component.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/package.json) at line 42.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/package.json) at line 45.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 12.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 16.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 29.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 30.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 36.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 57.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 58.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 59.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 63.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/karma.conf.js) at line 67.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/src/index.js) at line 3.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/src/index.js) at line 7.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/src/browser.js) at line 2.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/src/browser.js) at line 173.
+Keyword 'ws' found in file 'debug.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/finalhandler/node_modules/debug/src/debug.js) at line 3.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/HISTORY.md) at line 61.
+Keyword 'ws' found in file 'HISTORY.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/HISTORY.md) at line 220.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/index.js) at line 645.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/README.md) at line 147.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/ms/index.js) at line 20.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/ms/readme.md) at line 40.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 10.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 23.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 58.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 109.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 163.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 175.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 192.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 195.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 201.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 202.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 203.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 204.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 211.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 217.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 225.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 226.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 227.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 228.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 236.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 241.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 249.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 250.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 263.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 264.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 268.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 272.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 273.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 275.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 293.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 300.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 314.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 340.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/CHANGELOG.md) at line 341.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/Makefile) at line 16.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/Makefile) at line 27.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/Makefile) at line 32.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/Makefile) at line 45.
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/.eslintrc) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 62.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 106.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 145.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 146.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/README.md) at line 147.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/component.json) at line 11.
+Keyword 'ws' found in file 'component.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/component.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/package.json) at line 42.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/package.json) at line 45.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 12.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 16.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 29.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 30.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 36.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 57.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 58.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 59.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 63.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/karma.conf.js) at line 67.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/src/index.js) at line 3.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/src/index.js) at line 7.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/src/browser.js) at line 2.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/src/browser.js) at line 173.
+Keyword 'ws' found in file 'debug.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/node_modules/debug/src/debug.js) at line 3.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/style.css) at line 130.
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_ruby.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_link.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_world.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_link.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_paintbrush.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_width.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_paintbrush.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_c.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_go.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/controller.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_red.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_gear.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_put.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_code.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_flash.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_gear.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_world.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_code.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_freehand.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_add.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_refresh.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_actionscript.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_dvd.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/map.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_cd.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_compressed.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_vector.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_visualstudio.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/application_xp.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_go.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_swoosh.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_key.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_get.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_paint.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_zip.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_lightning.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_cplusplus.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/font.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/film.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/folder.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_delete.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_magnify.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_green.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_excel.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_error.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_code_red.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_php.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_medal.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_stack.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/application_xp_terminal.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_picture.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_csharp.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_coldfusion.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_excel.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_find.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_error.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_office.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_database.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/drive.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_find.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_horizontal.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_attach.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_text.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_h.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_word.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_copy.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_key.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_camera.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_delete.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/cd.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_save.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_paste.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_cup.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_word.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_text_width.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_copy.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_wrench.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_star.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_paste.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_add.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/box.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_powerpoint.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_edit.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_lightning.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_tux.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_acrobat.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/image.png
+Could not read file: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/serve-index/public/icons/page_white_edit.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/braces/README.md) at line 183.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/braces/README.md) at line 186.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/braces/README.md) at line 414.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 4.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 21.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 32.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 127.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 128.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 139.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 271.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 272.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 273.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 290.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 301.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.js) at line 309.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 5.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 18.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 35.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 38.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 53.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 65.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 80.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 104.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 106.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 135.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 136.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 137.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 149.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/readme.md) at line 151.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/package.json) at line 35.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/package.json) at line 53.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 54.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 100.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 162.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 865.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 868.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 871.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 875.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 879.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 881.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 925.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 927.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 929.
+Keyword 'ws' found in file 'xdg-open' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/xdg-open) at line 941.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 10.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 39.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 41.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 82.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 84.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 86.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 97.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 100.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/open/index.d.ts) at line 131.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/on-finished/README.md) at line 155.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/normalize-path/index.js) at line 20.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/normalize-path/README.md) at line 58.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/normalize-path/README.md) at line 103.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/CHANGELOG.md) at line 38.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/CHANGELOG.md) at line 44.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/index.js) at line 22.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/README.md) at line 47.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/README.md) at line 84.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/glob-parent/README.md) at line 88.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 1013.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 1017.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 1021.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 2419.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3347.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3351.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3622.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3834.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3837.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3840.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 3843.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 4180.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 4183.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 4186.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 4784.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5437.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5440.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5622.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5625.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5627.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5630.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 5815.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 7450.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 7477.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 7479.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/db.json) at line 7991.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/mime-db/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/node_modules/setprototypeof/README.md) at line 3.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 49.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 53.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 55.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 57.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 58.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 63.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 64.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 65.
+Keyword 'ws' found in file 'Monitor.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/monitor/Monitor.js) at line 66.
+Keyword 'ws' found in file 'createServer.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js) at line 23.
+Keyword 'ws' found in file 'createServer.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js) at line 25.
+Keyword 'ws' found in file 'createServer.js' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/createServer.js) at line 71.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 17.
+Keyword 'wss' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 17.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 18.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 19.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 25.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 26.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/HaikelFazzani-servino-1.0.4/extension/src/server/injected.html) at line 42.

@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/README.md) at line 3.
+Could not read file: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/images/sst2.gif
+Could not read file: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/images/sst.gif
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/333/DevAlert-1.0.0/extension/README.md) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/EugeneBB-DevAlert-1.0.5/extension/333/DevAlert-1.0.0/extension/package.json) at line 4.

@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/betterthantomorrow-calva-spritz-1.0.4/extension/spritz-icon.png

@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/README.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/README.md) at line 16.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/package.json) at line 124.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/server/package-lock.json) at line 167.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/server/package-lock.json) at line 395.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/server/out/server.js) at line 1.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/server/out/server.js) at line 6.
+Could not read file: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/img/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/satiromarra-vscode-php-test-explorer-docker-1.0.5/extension/client/dist

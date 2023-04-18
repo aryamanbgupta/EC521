@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/CHANGELOG.md) at line 41.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/CHANGELOG.md) at line 57.
+Keyword 'ws' found in file 'PHPStorm.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/PHPStorm.md) at line 24.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/README.md) at line 113.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/README.md) at line 129.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/README.md) at line 134.
+Could not read file: /Users/prateek/Downloads/extensions/adrolli-tallui-laravel-livewire-tailwind-1.0.7/extension/logo.png

@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/vsmp.png
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/demo/code.png
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/demo/link.png
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/demo/quote.png
+Could not read file: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/images/demo/demo.gif
+Keyword 'ws' found in file 'readme.markdown' (path: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/node_modules/minimist/readme.markdown) at line 8.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/node_modules/minimist/package.json) at line 15.
+Keyword 'ws' found in file 'root.js' (path: /Users/prateek/Downloads/extensions/spencerwoo-vscode-sspai-markdown-helper-0.3.2/extension/node_modules/mkdirp/test/root.js) at line 8.

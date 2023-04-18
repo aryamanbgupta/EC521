@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/LICENSE.txt) at line 18.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/LICENSE.txt) at line 22.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/LICENSE.txt) at line 23.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/LICENSE.txt) at line 31.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/LICENSE.txt) at line 33.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/out/index.js) at line 1.
+Keyword 'wss' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/out/index.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/axetroy-vscode-http-proxy-0.1.3/extension/resources/icon.png

@@ -1,0 +1,1 @@
+Keyword 'ws' found in file '.gitignore' (path: /Users/prateek/Downloads/extensions/reidkersey-terminalRunner-0.0.1/extension/.gitignore) at line 30.

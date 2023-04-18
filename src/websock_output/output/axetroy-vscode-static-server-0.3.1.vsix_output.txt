@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/axetroy-vscode-static-server-0.3.1/extension/out/index.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/axetroy-vscode-static-server-0.3.1/extension/resources/icon.png

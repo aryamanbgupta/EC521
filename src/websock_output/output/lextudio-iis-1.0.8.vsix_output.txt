@@ -1,0 +1,23 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/README.md) at line 24.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 67.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 90.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 149.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 182.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 203.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 229.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 245.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 333.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 338.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 362.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 411.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 598.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 761.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 894.
+Keyword 'ws' found in file 'applicationhost.config' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/applicationhost.config) at line 909.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/package.json) at line 120.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/package.json) at line 123.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/package.json) at line 129.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/images/vscode-iis.gif
+Could not read file: /Users/prateek/Downloads/extensions/lextudio-iis-1.0.8/extension/images/iis-icon.png

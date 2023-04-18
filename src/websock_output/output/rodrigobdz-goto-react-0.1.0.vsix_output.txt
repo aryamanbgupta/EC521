@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 155.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 157.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 161.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 163.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 239.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 241.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 1106.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 1451.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 1768.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 1769.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/package-lock.json) at line 2012.
+Could not read file: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/assets/goto-react.gif
+Could not read file: /Users/prateek/Downloads/extensions/rodrigobdz-goto-react-0.1.0/extension/assets/logo.png

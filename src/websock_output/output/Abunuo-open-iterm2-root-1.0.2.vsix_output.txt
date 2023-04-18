@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/Abunuo-open-iterm2-root-1.0.2/extension/res/icon.png

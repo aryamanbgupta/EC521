@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/logo.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/out/extension.js) at line 14.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/out/extension.js) at line 14.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/out/extension.js) at line 22.
+Could not read file: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/images/tabnine-enterprise.png
+Could not read file: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/images/settings-server-url.png
+Could not read file: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/images/set-tabnine-server-url.png
+Could not read file: /Users/prateek/Downloads/extensions/TabNine-tabnine-vscode-self-hosted-updater-0.2.7/extension/images/tabnine-enterprise-updated.png

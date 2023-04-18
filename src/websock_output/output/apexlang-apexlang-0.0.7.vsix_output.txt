@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/LICENSE.txt) at line 83.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/server/out/server.js) at line 33.
+Could not read file: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/assets/images/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/assets/icons/dark.png
+Could not read file: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/assets/icons/light.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/client/out/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/client/out/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/client/out/extension.js) at line 37.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/apexlang-apexlang-0.0.7/extension/client/out/extension.js) at line 39.

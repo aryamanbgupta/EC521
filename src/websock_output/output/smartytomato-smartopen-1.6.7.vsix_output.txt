@@ -1,0 +1,33 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/package.json) at line 123.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/package.json) at line 127.
+Keyword 'ws' found in file 'package.nls.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/package.nls.json) at line 4.
+Keyword 'ws' found in file 'openRelatedFileService.js' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/out/openRelatedFile/openRelatedFileService.js) at line 89.
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/sync_active_document.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/open_related_documents_1.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/open_related_documents.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/open_related_documents_2.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/sync_active_document_1.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/pin_document.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/sync_active_document_2.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/pin_document_1.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/temp/pin_document_2.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/img/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/img/readme/sync_active_document.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/img/readme/open_related_documents.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/img/readme/pin_document.gif
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/light/open-all.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/light/clear-all.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/light/locate.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/dark/open-all.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/dark/clear-all.png
+Could not read file: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/resources/dark/locate.png
+Keyword 'ws' found in file 'package_20210511091257.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511091257.json) at line 123.
+Keyword 'ws' found in file 'package_20210511091257.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511091257.json) at line 127.
+Keyword 'ws' found in file 'package_20210511092607.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511092607.json) at line 123.
+Keyword 'ws' found in file 'package_20210511092607.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511092607.json) at line 127.
+Keyword 'ws' found in file 'package_20210511092652.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511092652.json) at line 123.
+Keyword 'ws' found in file 'package_20210511092652.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210511092652.json) at line 127.
+Keyword 'ws' found in file 'package_20210305132422.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210305132422.json) at line 123.
+Keyword 'ws' found in file 'package_20210305132422.json' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.history/package_20210305132422.json) at line 127.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 28.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/smartytomato-smartopen-1.6.7/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 34.

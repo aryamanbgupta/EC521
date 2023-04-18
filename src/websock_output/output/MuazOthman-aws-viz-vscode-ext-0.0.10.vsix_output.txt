@@ -1,0 +1,472 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 4.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 19.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 20.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 21.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 22.
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension.vsixmanifest) at line 23.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/README.md) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/README.md) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 2.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 18.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 44.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/package.json) at line 66.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 7.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 14.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 33.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 57.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 58.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/out/extension.js) at line 79.
+Could not read file: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/images/logo.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/README.md) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/package.json) at line 3.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 170.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 174.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 203.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 326.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 338.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 924.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1010.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1129.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1148.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1151.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1154.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1155.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1156.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1158.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1160.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1171.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1174.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 1177.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 2212.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 2341.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 2892.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 2951.
+Keyword 'ws' found in file 'pako_inflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.js) at line 3050.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 184.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 188.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 219.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 342.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 353.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 980.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1071.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1189.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1209.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1213.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1216.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1217.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1218.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1220.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1223.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1234.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1238.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 1239.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 2204.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 2322.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 2865.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 2924.
+Keyword 'ws' found in file 'pako_inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.js) at line 3038.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 1507.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 1513.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 1515.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 1520.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 1760.
+Keyword 'ws' found in file 'pako_deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.js) at line 3795.
+Keyword 'ws' found in file 'pako.min.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.min.js) at line 2.
+Keyword 'ws' found in file 'pako_inflate.es5.min.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.es5.min.js) at line 2.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 1507.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 1513.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 1515.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 1520.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 1760.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 3795.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4184.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4188.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4219.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4342.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4353.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 4913.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5004.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5122.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5142.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5146.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5149.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5150.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5151.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5153.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5156.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5167.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5171.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 5172.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 6137.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 6255.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 6490.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 6549.
+Keyword 'ws' found in file 'pako.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.js) at line 6663.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 1444.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 1449.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 1451.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 1456.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 1676.
+Keyword 'ws' found in file 'pako_deflate.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_deflate.es5.js) at line 3626.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 1444.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 1449.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 1451.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 1456.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 1676.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 3626.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 3982.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 3986.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4015.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4138.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4150.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4676.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4762.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4881.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4900.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4903.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4906.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4907.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4908.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4910.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4912.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4923.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4926.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 4929.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 5964.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 6093.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 6318.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 6377.
+Keyword 'ws' found in file 'pako.es5.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.js) at line 6476.
+Keyword 'ws' found in file 'pako.es5.min.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.es5.min.js) at line 2.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 1501.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 1507.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 1509.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 1514.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 1754.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 3789.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4178.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4182.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4213.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4336.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4347.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4907.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 4998.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5116.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5136.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5140.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5143.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5144.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5145.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5147.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5150.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5161.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5165.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 5166.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 6131.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 6249.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 6484.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 6543.
+Keyword 'ws' found in file 'pako.esm.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako.esm.mjs) at line 6657.
+Keyword 'ws' found in file 'pako_inflate.min.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/dist/pako_inflate.min.js) at line 2.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/inflate.js) at line 64.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/inflate.js) at line 123.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/inflate.js) at line 237.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/deflate.js) at line 68.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 117.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 208.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 326.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 346.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 350.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 353.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 354.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 355.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 357.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 360.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 371.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 375.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 376.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 1341.
+Keyword 'ws' found in file 'inflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inflate.js) at line 1459.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/deflate.js) at line 109.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/deflate.js) at line 115.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/deflate.js) at line 117.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/deflate.js) at line 122.
+Keyword 'ws' found in file 'deflate.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/deflate.js) at line 362.
+Keyword 'ws' found in file 'inffast.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inffast.js) at line 70.
+Keyword 'ws' found in file 'inffast.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inffast.js) at line 74.
+Keyword 'ws' found in file 'inffast.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inffast.js) at line 105.
+Keyword 'ws' found in file 'inffast.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inffast.js) at line 228.
+Keyword 'ws' found in file 'inffast.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/inffast.js) at line 239.
+Keyword 'ws' found in file 'README' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/pako/lib/zlib/README) at line 1.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/README.md) at line 1.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/package.json) at line 2.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/package.json) at line 17.
+Keyword 'ws' found in file 'playground.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/playground.js) at line 7.
+Keyword 'ws' found in file 'playground.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/playground.js) at line 13.
+Keyword 'ws' found in file 'playground.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/playground.js) at line 49.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 95.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 99.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 100.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 101.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 105.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 107.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 109.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 111.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 113.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/diagram/reader/index.js) at line 115.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/CodeGenerator.js) at line 61.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/CodeGenerator.js) at line 121.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/CodeGenerator.js) at line 131.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 42.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 120.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 207.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 208.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 294.
+Keyword 'wss' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 294.
+Keyword 'ws' found in file 'DefaultCodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/sam-generator/DefaultCodeGenerator.js) at line 335.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 89.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 171.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 234.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 235.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 302.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 353.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 375.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 460.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 461.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 467.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 468.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 473.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 474.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 479.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 480.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 485.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 486.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 491.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 492.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 498.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 506.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 529.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 530.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 535.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 538.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 539.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 546.
+Keyword 'ws' found in file 'CodeGenerator.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/dist/typescript-generator/CodeGenerator.js) at line 547.
+Keyword 'ws' found in file 'web-app1-compressed.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1-compressed.xml) at line 2.
+Keyword 'ws' found in file 'sns-sqs-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/sns-sqs-lambda.drawio) at line 3.
+Keyword 'ws' found in file 'sns-sqs-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/sns-sqs-lambda.drawio) at line 10.
+Keyword 'ws' found in file 'sns-sqs-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/sns-sqs-lambda.drawio) at line 18.
+Keyword 'ws' found in file 'sns-sqs-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/sns-sqs-lambda.drawio) at line 24.
+Keyword 'ws' found in file 'sns-sqs-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/sns-sqs-lambda.drawio) at line 27.
+Keyword 'ws' found in file 'scheduled-task.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/scheduled-task.drawio) at line 3.
+Keyword 'ws' found in file 'scheduled-task.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/scheduled-task.drawio) at line 10.
+Keyword 'ws' found in file 'scheduled-task.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/scheduled-task.drawio) at line 16.
+Keyword 'ws' found in file 'scheduled-task.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/scheduled-task.drawio) at line 19.
+Keyword 'ws' found in file 'simple-dynamodb-backed-api.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/simple-dynamodb-backed-api.drawio) at line 3.
+Keyword 'ws' found in file 'simple-dynamodb-backed-api.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/simple-dynamodb-backed-api.drawio) at line 10.
+Keyword 'ws' found in file 'simple-dynamodb-backed-api.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/simple-dynamodb-backed-api.drawio) at line 16.
+Keyword 'ws' found in file 'simple-dynamodb-backed-api.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/simple-dynamodb-backed-api.drawio) at line 22.
+Keyword 'ws' found in file 'simple-dynamodb-backed-api.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/simple-dynamodb-backed-api.drawio) at line 25.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 3.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 7.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 27.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 30.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 36.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 48.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 54.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 60.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 97.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 109.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 115.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 121.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 130.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 138.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 141.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 144.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 159.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 179.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 185.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 191.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 197.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 204.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 208.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 214.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 221.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 225.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 233.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 240.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 247.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 253.
+Keyword 'ws' found in file 'web-app1.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.drawio) at line 256.
+Keyword 'ws' found in file 'dynamodb-stream.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/dynamodb-stream.drawio) at line 3.
+Keyword 'ws' found in file 'dynamodb-stream.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/dynamodb-stream.drawio) at line 7.
+Keyword 'ws' found in file 'dynamodb-stream.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/dynamodb-stream.drawio) at line 13.
+Keyword 'ws' found in file 's3-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/s3-lambda.drawio) at line 3.
+Keyword 'ws' found in file 's3-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/s3-lambda.drawio) at line 7.
+Keyword 'ws' found in file 's3-lambda.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/s3-lambda.drawio) at line 15.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 3.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 7.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 37.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 43.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 49.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 52.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 63.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 71.
+Keyword 'ws' found in file 'web-socket.drawio' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-socket.drawio) at line 90.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 1.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 3.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 7.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 27.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 30.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 36.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 48.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 54.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 60.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 97.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 109.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 115.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 121.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 130.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 138.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 141.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 144.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 159.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 179.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 185.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 191.
+Keyword 'ws' found in file 'web-app1.xml' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@muazothman/aws-viz/Sample Files/web-app1.xml) at line 197.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/README.md) at line 31.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/README.md) at line 85.
+Keyword 'ws' found in file 'Tokenizer.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/lib/Tokenizer.js) at line 325.
+Keyword 'ws' found in file 'Tokenizer.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/lib/Tokenizer.js) at line 327.
+Keyword 'ws' found in file 'Tokenizer.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/lib/esm/Tokenizer.js) at line 321.
+Keyword 'ws' found in file 'Tokenizer.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/htmlparser2/lib/esm/Tokenizer.js) at line 323.
+Keyword 'ws' found in file 'argparse.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/argparse/argparse.js) at line 36.
+Keyword 'ws' found in file 'argparse.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/argparse/argparse.js) at line 47.
+Keyword 'ws' found in file 'argparse.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/argparse/argparse.js) at line 200.
+Keyword 'ws' found in file 'argparse.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/argparse/argparse.js) at line 225.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/CHANGELOG.md) at line 80.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/CHANGELOG.md) at line 133.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/CHANGELOG.md) at line 422.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/CHANGELOG.md) at line 526.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/README.md) at line 52.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/README.md) at line 69.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/fast-xml-parser/README.md) at line 122.
+Keyword 'ws' found in file 'LICENSE' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/LICENSE) at line 83.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/index.js) at line 10.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/index.js) at line 67.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/index.js) at line 94.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/index.js) at line 96.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/index.js) at line 97.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/README.md) at line 11.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/README.md) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/package.json) at line 19.
+Keyword 'ws' found in file 'test-main.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/test/test-main.js) at line 3.
+Keyword 'ws' found in file 'test-main.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/yaml-cfn/test/test-main.js) at line 67.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 93.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 157.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 210.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 219.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 224.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 251.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 359.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 437.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 451.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 471.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 477.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 499.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 504.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 509.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 519.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/CHANGELOG.md) at line 520.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/README.md) at line 73.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/README.md) at line 92.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/README.md) at line 97.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/README.md) at line 98.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/package.json) at line 42.
+Keyword 'ws' found in file 'js-yaml.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/dist/js-yaml.js) at line 3112.
+Keyword 'ws' found in file 'js-yaml.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/dist/js-yaml.js) at line 3239.
+Keyword 'ws' found in file 'js-yaml.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/dist/js-yaml.mjs) at line 3106.
+Keyword 'ws' found in file 'js-yaml.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/dist/js-yaml.mjs) at line 3233.
+Keyword 'ws' found in file 'dumper.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/lib/dumper.js) at line 285.
+Keyword 'ws' found in file 'dumper.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/lib/dumper.js) at line 412.
+Keyword 'ws' found in file 'json.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/js-yaml/lib/schema/json.js) at line 6.
+Keyword 'ws' found in file 'changelog.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/deepmerge/changelog.md) at line 113.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/deepmerge/readme.md) at line 63.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/README.md) at line 4.
+Keyword 'ws' found in file 'parseley.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/lib/parseley.mjs) at line 9.
+Keyword 'ws' found in file 'parseley.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/lib/parseley.mjs) at line 36.
+Keyword 'ws' found in file 'parseley.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/lib/parseley.cjs) at line 33.
+Keyword 'ws' found in file 'parseley.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/parseley/lib/parseley.cjs) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/leac/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/leac/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/leac/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/leac/README.md) at line 103.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 73.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 78.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 80.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 189.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 231.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/CHANGELOG.md) at line 271.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/README.md) at line 14.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/README.md) at line 238.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 403.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1000.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1002.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1005.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1009.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1013.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1033.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1441.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1458.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1462.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1464.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1467.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1470.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1475.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1484.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1509.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1830.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1837.
+Keyword 'ws' found in file 'html-to-text.mjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.mjs) at line 1840.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 411.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1008.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1010.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1013.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1017.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1021.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1041.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1449.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1466.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1470.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1472.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1475.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1478.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1483.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1492.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1517.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1838.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1845.
+Keyword 'ws' found in file 'html-to-text.cjs' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/html-to-text/lib/html-to-text.cjs) at line 1848.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/lodash.isequal/index.js) at line 1370.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/peberminta/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/peberminta/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/peberminta/README.md) at line 195.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/selderee/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/selderee/README.md) at line 4.
+Keyword 'ws' found in file 'readme.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/entities/readme.md) at line 9.
+Keyword 'ws' found in file 'decode-data-html.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/entities/lib/generated/decode-data-html.js) at line 6.
+Keyword 'ws' found in file 'encode-html.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/entities/lib/generated/encode-html.js) at line 11.
+Keyword 'ws' found in file 'decode-data-html.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/entities/lib/esm/generated/decode-data-html.js) at line 4.
+Keyword 'ws' found in file 'encode-html.js' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/entities/lib/esm/generated/encode-html.js) at line 9.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@selderee/plugin-htmlparser2/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MuazOthman-aws-viz-vscode-ext-0.0.10/extension/node_modules/@selderee/plugin-htmlparser2/README.md) at line 4.

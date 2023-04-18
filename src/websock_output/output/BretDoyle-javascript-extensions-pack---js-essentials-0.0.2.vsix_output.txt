@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/README.md) at line 33.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/README.md) at line 40.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/README.md) at line 42.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/README.md) at line 49.
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/eslint.gif
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/prettier.gif
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/tabnine.gif
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/logo_JS_extension_pack.png
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/quokka.gif
+Could not read file: /Users/prateek/Downloads/extensions/BretDoyle-javascript-extensions-pack---js-essentials-0.0.2/extension/assets/server-live.gif

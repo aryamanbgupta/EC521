@@ -1,0 +1,24 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 32.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 138.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 191.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 193.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 239.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 442.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 443.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 445.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 512.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 546.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/CHANGELOG.md) at line 681.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/package.json) at line 268.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/out/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/out/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/images/icon2.png
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 15.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 194.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 199.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 203.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 204.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 229.
+Keyword 'ws' found in file 'settings.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/settings.md) at line 449.
+Keyword 'ws' found in file 'faqs.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/faqs.md) at line 23.
+Keyword 'ws' found in file 'faqs.md' (path: /Users/prateek/Downloads/extensions/glenn2223-live-sass-6.0.4/extension/docs/faqs.md) at line 117.

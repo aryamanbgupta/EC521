@@ -1,0 +1,3 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/zigapeda-open-project-folder-1.0.0/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/zigapeda-open-project-folder-1.0.0/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/zigapeda-open-project-folder-1.0.0/extension/LICENSE.txt) at line 467.

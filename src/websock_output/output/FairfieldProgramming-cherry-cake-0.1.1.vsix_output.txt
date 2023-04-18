@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/FairfieldProgramming-cherry-cake-0.1.1/extension/images/icon.png

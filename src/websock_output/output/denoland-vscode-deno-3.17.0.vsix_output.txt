@@ -1,0 +1,18 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 23.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 80.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 108.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 155.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 214.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/CHANGELOG.md) at line 246.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/README.md) at line 32.
+Could not read file: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/deno.png
+Keyword 'ws' found in file 'registry-completions.schema.json' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/schemas/registry-completions.schema.json) at line 5.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 11327.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 11968.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 12385.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 12396.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 17027.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 17771.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 17775.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 19100.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/denoland-vscode-deno-3.17.0/extension/client/dist/main.js) at line 19101.

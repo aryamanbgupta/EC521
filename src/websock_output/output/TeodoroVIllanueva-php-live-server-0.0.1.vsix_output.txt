@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/TeodoroVIllanueva-php-live-server-0.0.1/extension/php-logo.png

@@ -1,0 +1,1 @@
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/adi-projects-crypto-0.0.1/extension/build/extension.js) at line 53.

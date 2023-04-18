@@ -1,0 +1,44 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/README.md) at line 68.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/README.md) at line 103.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 247.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 373.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 459.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 461.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 637.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 1390.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 1782.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2030.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2266.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2348.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2413.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2415.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 2541.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 3105.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 3355.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/package-lock.json) at line 3539.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/out-min/main.js) at line 2.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/server/out-min/main.js) at line 36.
+Could not read file: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/img/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/img/docs.gif
+Could not read file: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/img/includes.gif
+Could not read file: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/img/light/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/img/dark/icon.png
+Keyword 'ws' found in file 'pico-8-lua.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/syntaxes/pico-8-lua.tmLanguage.json) at line 249.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 283.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 472.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 581.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 583.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 791.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 1617.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2012.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2302.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2565.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2694.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2779.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2781.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 2933.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 3560.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 3830.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/package-lock.json) at line 4056.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/out-min/main.js) at line 1.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/PollywogGames-pico8-ls-0.4.10/extension/client/out-min/main.js) at line 36.

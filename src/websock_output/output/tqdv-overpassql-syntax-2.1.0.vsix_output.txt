@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 161.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 180.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 197.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 216.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 235.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 255.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 461.
+Keyword 'ws' found in file 'overpassql.tmGrammar.json' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/overpassql.tmGrammar.json) at line 667.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/tqdv-overpassql-syntax-2.1.0/extension/LICENSE.txt) at line 308.

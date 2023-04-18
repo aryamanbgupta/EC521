@@ -1,0 +1,11 @@
+Could not read file: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/example1.png
+Could not read file: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/example2.png
+Keyword 'ws' found in file '.gitignore' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/.gitignore) at line 35.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 707.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 1613.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 1928.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 1940.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 2415.
+Keyword 'ws' found in file 'pikchr.c' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.c) at line 5047.
+Could not read file: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/logo.jpg
+Keyword 'ws' found in file 'pikchr.js' (path: /Users/prateek/Downloads/extensions/xuzn-pikchr-markdown-preview-0.0.5/extension/pikchr.js) at line 9.

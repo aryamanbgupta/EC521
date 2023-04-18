@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/README.md) at line 7.
+Keyword 'ws' found in file 'Makefile' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/promise-queue/Makefile) at line 28.
+Keyword 'ws' found in file '.jshintrc' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/promise-queue/.jshintrc) at line 16.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/promise-queue/lib/index.js) at line 11.
+Keyword 'ws' found in file '.npmignore' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/vscode-cache/.npmignore) at line 24.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/vscode-cache/index.js) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/node_modules/vscode-cache/README.md) at line 129.
+Could not read file: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/docs/hackertyper-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/zavrakv-vscode-hacker-typer-fixed-0.1.1/extension/docs/hackertyper-video.gif
