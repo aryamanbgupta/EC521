@@ -37,8 +37,7 @@
 .DS_Store
 /hq_live_server/*
 /Presentation/Misc/*
-/working/*
 
 */logs/*
-
+/working/*
 */downloads/*

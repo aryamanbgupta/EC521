@@ -44,6 +44,7 @@ class Extension:
         ]
         self.downloaded = False
         self.all_commands = list()
+        self.tested = False
 
     @property
     def version(self):
@@ -253,6 +254,7 @@ class Extension:
             "shortDescription": self.short_description,
             "versions": [version.to_json() for version in self.versions],
             "downloaded": self.downloaded,
+            "tested": self.tested,
         }
 
     @classmethod
@@ -268,4 +270,6 @@ class Extension:
             data["versions"]
         )
         new_object.downloaded = data["downloaded"]
+        if "tested" in data:
+            new_object.tested = data["tested"]
         return new_object
