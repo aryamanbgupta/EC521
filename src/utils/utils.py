@@ -1,7 +1,11 @@
 import subprocess
+import psutil
+
 from pathlib import Path
 from random import randint
 from typing import Any, Iterable, List, AnyStr
+
+from src.utils.logman import logger
 
 user_agents = Path(__file__).parent.parent.joinpath("useragents")
 
@@ -43,3 +47,17 @@ def run_lsof_command() -> List[AnyStr]:
                 port = line.split()[8].split(':')[1]
                 ports.append(port)
     return [port for port in ports if port.isdigit()]
+
+
+def kill_process_on_port(port):
+    # Get list of PIDs listening on the target port
+    cmd = f"lsof -i :{port} | awk '{{print $2}}'"
+    pids = subprocess.check_output(cmd, shell=True).decode().strip().split('\n')[1:]
+
+    # Kill each of the PIDs
+    for pid in pids:
+        if pid:  # Check if pid is not empty
+            logger.info(f"Killing process with PID {pid} listening on port {port}")
+            subprocess.run(f"kill -9 {pid}", shell=True)
+        else:
+            logger.info(f"No process listening on port {port}")
