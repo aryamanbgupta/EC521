@@ -159,7 +159,7 @@ async def install_and_unzip_extension(extension: Extension):
 async def uninstall_and_cleanup_extension(extension: Extension):
     """Uninstall extension in vscode and cleanup"""
     await extension.uninstall()
-    # await extension.cleanup()  # TODO: Uncomment this while running in production
+    await extension.cleanup()  # NOTE: Uncomment this while running in production
 
 
 async def pull_commands(extension: Extension):
