@@ -480,7 +480,7 @@ def debug_zextension(extension: Extension):
             break
 
     logger.info("Finished running tests on zip extension: " + extension.extension_name)
-    # mark_tested(extension)
+    mark_tested(extension)
 
 
 async def debug_extensions(all_extensions: List[Extension], vscode_process, limiter):
@@ -488,12 +488,12 @@ async def debug_extensions(all_extensions: List[Extension], vscode_process, limi
 
     async with limiter:
         try:
-            # # install all extensions
-            # tasks = list()
-            # for extension in all_extensions:
-            #     if not extension.tested:
-            #         tasks.append(install_and_unzip_extension(extension))
-            # await asyncio.gather(*tasks)
+            # install all extensions
+            tasks = list()
+            for extension in all_extensions:
+                if not extension.tested:
+                    tasks.append(install_and_unzip_extension(extension))
+            await asyncio.gather(*tasks)
 
             # Pull commands from package.json from extensions
             tasks = list()
@@ -523,10 +523,10 @@ async def debug_extensions(all_extensions: List[Extension], vscode_process, limi
         finally:
             # uninstall all extensions
             tasks = list()
-            # for extension in all_extensions:
-            #     if not extension.tested:
-            #         tasks.append(uninstall_and_cleanup_extension(extension))
-            # await asyncio.gather(*tasks)
+            for extension in all_extensions:
+                if not extension.tested:
+                    tasks.append(uninstall_and_cleanup_extension(extension))
+            await asyncio.gather(*tasks)
 
 
 async def start(_downloaded_extensions: List[Extension]):
