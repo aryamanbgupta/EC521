@@ -1,4 +1,52 @@
 {
+    "vscweb": {
+        "publisherName": "leadzen",
+        "extensionName": "vscweb",
+        "version": "0.0.3",
+        "shortDescription": "A static Web Server for VS Code development environment.",
+        "publishedDate": "2018-03-23T17:26:48.8+00:00",
+        "lastUpdated": "2018-04-05T01:02:39.42+00:00"
+    },
+    "fpack": {
+        "publisherName": "SeyyedKhandon",
+        "extensionName": "fpack",
+        "version": "2.2.0",
+        "shortDescription": "Frontend Development Essentials Extension Pack for Visual Studio Code",
+        "publishedDate": "2021-04-02T12:05:50.2+00:00",
+        "lastUpdated": "2022-10-25T14:36:42.833+00:00"
+    },
+    "zpack": {
+        "publisherName": "SeyyedKhandon",
+        "extensionName": "zpack",
+        "version": "2.1.1",
+        "shortDescription": "An Opinionated collection/pack of essentials extensions for Web Developers in VSCode (Better DX in Mind)",
+        "publishedDate": "2021-05-06T09:24:05.397+00:00",
+        "lastUpdated": "2022-10-27T05:27:34.72+00:00"
+    },
+    "five-server": {
+        "publisherName": "yandeu",
+        "extensionName": "five-server",
+        "version": "0.1.12",
+        "shortDescription": "A better Live Server with instant updates, highlights and PHP support.",
+        "publishedDate": "2021-03-19T15:39:10.717+00:00",
+        "lastUpdated": "2023-01-30T16:43:19.42+00:00"
+    },
+    "docsify-preview": {
+        "publisherName": "dzylikecode",
+        "extensionName": "docsify-preview",
+        "version": "1.7.0",
+        "shortDescription": "write docs easily with docsify",
+        "publishedDate": "2022-10-10T10:31:40.797+00:00",
+        "lastUpdated": "2022-11-08T08:36:42.49+00:00"
+    },
+    "vscode-jscharting": {
+        "publisherName": "JSCharting-JavaScript-Charts",
+        "extensionName": "vscode-jscharting",
+        "version": "0.0.3",
+        "shortDescription": "A VSCode extension that adds JavaScript chart visualization for JSCharting chart options in JSON and JSON5 files.",
+        "publishedDate": "2020-11-12T19:00:38.943+00:00",
+        "lastUpdated": "2020-11-13T16:49:09.187+00:00"
+    },
     "hq-live-server": {
         "publisherName": "hqjs",
         "extensionName": "hq-live-server",
@@ -14,37 +62,5 @@
         "shortDescription": "Create and run p5.js sketches, browse and run collections. Includes a sketch-aware live server, a tree view of a workspace's sketches, and automatic includes of p5.js libraries.",
         "publishedDate": "2021-07-30T03:19:48.67+00:00",
         "lastUpdated": "2021-12-15T08:08:54.4+00:00"
-    },
-    "docsify-preview": {
-        "publisherName": "dzylikecode",
-        "extensionName": "docsify-preview",
-        "version": "1.7.0",
-        "shortDescription": "write docs easily with docsify",
-        "publishedDate": "2022-10-10T10:31:40.797+00:00",
-        "lastUpdated": "2022-11-08T08:36:42.49+00:00"
-    },
-    "five-server": {
-        "publisherName": "yandeu",
-        "extensionName": "five-server",
-        "version": "0.1.12",
-        "shortDescription": "A better Live Server with instant updates, highlights and PHP support.",
-        "publishedDate": "2021-03-19T15:39:10.717+00:00",
-        "lastUpdated": "2023-01-30T16:43:19.42+00:00"
-    },
-    "vscweb": {
-        "publisherName": "leadzen",
-        "extensionName": "vscweb",
-        "version": "0.0.3",
-        "shortDescription": "A static Web Server for VS Code development environment.",
-        "publishedDate": "2018-03-23T17:26:48.8+00:00",
-        "lastUpdated": "2018-04-05T01:02:39.42+00:00"
-    },
-    "vscode-jscharting": {
-        "publisherName": "JSCharting-JavaScript-Charts",
-        "extensionName": "vscode-jscharting",
-        "version": "0.0.3",
-        "shortDescription": "A VSCode extension that adds JavaScript chart visualization for JSCharting chart options in JSON and JSON5 files.",
-        "publishedDate": "2020-11-12T19:00:38.943+00:00",
-        "lastUpdated": "2020-11-13T16:49:09.187+00:00"
     }
 }

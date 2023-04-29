@@ -458,7 +458,7 @@ def debug_extension(extension: Extension):
             break
 
     logger.info("Finished running tests on extension: " + extension.extension_name)
-    # mark_tested(extension)  # TODO : Uncomment
+    mark_tested(extension)  # TODO : Uncomment
 
 
 def debug_zextension(extension: Extension):
@@ -574,5 +574,5 @@ if __name__ == "__main__":
 
     # Filter extensions that are already tested
     asyncio.run(
-        start(extensions[0:1])
+        start(extensions)
     )
