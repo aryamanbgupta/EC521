@@ -1,0 +1,50 @@
+{
+    "hq-live-server": {
+        "publisherName": "hqjs",
+        "extensionName": "hq-live-server",
+        "version": "0.0.11",
+        "shortDescription": "Lightning fast, zero configuration, web application development server with livereload",
+        "publishedDate": "2019-08-26T11:59:45.397+00:00",
+        "lastUpdated": "2020-12-19T11:16:31.263+00:00"
+    },
+    "p5-server": {
+        "publisherName": "osteele",
+        "extensionName": "p5-server",
+        "version": "1.10.0",
+        "shortDescription": "Create and run p5.js sketches, browse and run collections. Includes a sketch-aware live server, a tree view of a workspace's sketches, and automatic includes of p5.js libraries.",
+        "publishedDate": "2021-07-30T03:19:48.67+00:00",
+        "lastUpdated": "2021-12-15T08:08:54.4+00:00"
+    },
+    "docsify-preview": {
+        "publisherName": "dzylikecode",
+        "extensionName": "docsify-preview",
+        "version": "1.7.0",
+        "shortDescription": "write docs easily with docsify",
+        "publishedDate": "2022-10-10T10:31:40.797+00:00",
+        "lastUpdated": "2022-11-08T08:36:42.49+00:00"
+    },
+    "five-server": {
+        "publisherName": "yandeu",
+        "extensionName": "five-server",
+        "version": "0.1.12",
+        "shortDescription": "A better Live Server with instant updates, highlights and PHP support.",
+        "publishedDate": "2021-03-19T15:39:10.717+00:00",
+        "lastUpdated": "2023-01-30T16:43:19.42+00:00"
+    },
+    "vscweb": {
+        "publisherName": "leadzen",
+        "extensionName": "vscweb",
+        "version": "0.0.3",
+        "shortDescription": "A static Web Server for VS Code development environment.",
+        "publishedDate": "2018-03-23T17:26:48.8+00:00",
+        "lastUpdated": "2018-04-05T01:02:39.42+00:00"
+    },
+    "vscode-jscharting": {
+        "publisherName": "JSCharting-JavaScript-Charts",
+        "extensionName": "vscode-jscharting",
+        "version": "0.0.3",
+        "shortDescription": "A VSCode extension that adds JavaScript chart visualization for JSCharting chart options in JSON and JSON5 files.",
+        "publishedDate": "2020-11-12T19:00:38.943+00:00",
+        "lastUpdated": "2020-11-13T16:49:09.187+00:00"
+    }
+}

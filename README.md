@@ -33,3 +33,39 @@
     - rm -fr ~/.vscode/
 
     `RETRY...`
+
+
+        # url252f = "..%252fcookiehere.html"
+        # url253266 = "..%25%32%66cookiehere.html"
+        # local_host_url = "..%2fcookiehere.html"  # %252f is / and %2f is / and %25%32%66 is /
+        # local_host_url252f = "..%252fcookiehere.html"
+        # local_host_url253266 = "..%25%32%66cookiehere.html"
+        # local_host_urlslash = "../cookiehere.html"
+        # local_host_urldslash = "..//cookiehere.html"
+        # local_host_url2slash = "%2e%2e/cookiehere.html"
+        # local_host_url2dslash = "%2e%2e%2fcookiehere.html"
+        # local_host_url2slash2slash = "..%2fcookiehere.html"
+        # local_host_url2slash2dslash = "%2e%2e%2fcookiehere.html"
+        # local_host_url2slash2slash2slash = "%252e%252e%252fcookiehere.html"
+
+
+        # jobs.append((host_ip, port, url252f, extension))
+        # jobs.append((host_ip, port, url253266, extension))
+        # jobs.append((host_ip, port, local_host_urlslash, extension))
+        # jobs.append((host_ip, port, local_host_urldslash, extension))
+        # jobs.append((host_ip, port, local_host_url2slash, extension))
+        # jobs.append((host_ip, port, local_host_url2dslash, extension))
+        # jobs.append((host_ip, port, local_host_url2slash2slash, extension))
+        # jobs.append((host_ip, port, local_host_url2slash2dslash, extension))
+        # jobs.append((host_ip, port, local_host_url2slash2slash2slash, extension))
+        # jobs.append((local_host_ip, port, url, extension))
+        # jobs.append((local_host_ip, port, local_host_url, extension))
+        # jobs.append((local_host_ip, port, local_host_url252f, extension))
+        # jobs.append((local_host_ip, port, local_host_url253266, extension))
+        # jobs.append((local_host_ip, port, local_host_urlslash, extension))
+        # jobs.append((local_host_ip, port, local_host_urldslash, extension))
+        # jobs.append((local_host_ip, port, local_host_url2slash, extension))
+        # jobs.append((local_host_ip, port, local_host_url2dslash, extension))
+        # jobs.append((local_host_ip, port, local_host_url2slash2slash, extension))
+        # jobs.append((local_host_ip, port, local_host_url2slash2dslash, extension))
+        # jobs.append((local_host_ip, port, local_host_url2slash2slash2slash, extension))
