@@ -306,7 +306,7 @@ def open_file_in_editor(file_name):
     time.sleep(1)
 
 
-def try_zip_slip_hack(extension: Extension, command: Command):  # TODO: Fix this after right click on file
+def try_zip_slip_hack(extension: Extension, command: Command):  # TODO: Fix this after right click for MAC
     """Test ZIP slip attack in extension"""
 
     stop_test = False
