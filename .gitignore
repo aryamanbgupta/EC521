@@ -35,9 +35,9 @@
 */.pickle
 .idea
 .DS_Store
-/hq_live_server/*
 /Presentation/Misc/*
 
 */logs/*
 /working/*
-*/downloads/*
+*/downloads*/*
+*/unzipped*/*

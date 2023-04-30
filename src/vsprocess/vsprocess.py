@@ -1,12 +1,7 @@
 import asyncio
 
+from src import VSCODE_PATH, WORKSPACE
 from src.utils.logman import logger
-
-
-VSCODE_PATH = (
-    "/Users/shubham/Downloads/Visual\ Studio\ Code.app/Contents/MacOS/Electron"
-)
-WORKSPACE = "~/Desktop/classes/Cybersecurity/project/EC521/src/"
 
 
 class VSProcess:

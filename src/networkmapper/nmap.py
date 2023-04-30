@@ -3,11 +3,12 @@ from collections import defaultdict
 from typing import Any, Callable, Dict, List
 from xml.etree import ElementTree as ET
 
+from src import NMAP_PATH
 from src.networkmapper.exceptions import NmapError
 from src.utils.utils import async_for
 from src.utils.logman import logger
 
-nmap_path = "/opt/homebrew/bin/nmap"
+nmap_path = NMAP_PATH
 
 _stdout: Callable[[], Dict[str, Dict]] = lambda: {
     "state": dict(),

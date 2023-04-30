@@ -1,5 +1,4 @@
 import subprocess
-import psutil
 
 from pathlib import Path
 from random import randint
