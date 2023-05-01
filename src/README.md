@@ -43,3 +43,27 @@ STEP-6: Run `python3 main.py`
 - Checking for path traversal in the extension using variants of URI's, headers like `User-Agents` and other parameters.
 - Automating the whole process using python coroutines made it much faster which was a challenge in itself.
 
+
+## Pre-requisites for automated reports
+
+- Python 3.6 or above
+- SNYK CLI
+- Semgrep 1.19.0
+
+
+## Steps: How To create automated reports with SNYK and Semgrep ?
+
+STEP-1: Authentificate Snyk account via CLI with `snyk auth`
+
+STEP-2: **Set directories**: Configure the necessary directories for your project:
+
+- `PARENT_DIR`: The parent directory containing the folders with extensions
+- `CHECK_DIR`: The directory to extract extensions
+- `REPORT_SEMGREP_DIR`: The directory to save Semgrep reports
+- `REPORT_SNYK_DIR`: The directory to save Snyk reports
+
+STEP-3: Set `KEYWORD` - Choose a keyword to search the type of vulnerability in the results of the report
+
+STEP-4: Run `python3 Checker.py` Execute the following command to run the Python script
+
+
