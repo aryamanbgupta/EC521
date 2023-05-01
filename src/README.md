@@ -53,7 +53,7 @@ STEP-6: Run `python3 main.py`
 
 ## Steps: How To create automated reports with SNYK and Semgrep ?
 
-STEP-1: Authentificate Snyk account via CLI with `snyk auth`
+STEP-1: Authenticate Snyk account via CLI with `snyk auth`
 
 STEP-2: **Set directories**: Configure the necessary directories for your project:
 
@@ -66,4 +66,28 @@ STEP-3: Set `KEYWORD` - Choose a keyword to search the type of vulnerability in 
 
 STEP-4: Run `python3 Checker.py` Execute the following command to run the Python script
 
+## Steps: How to use exploits on the vulnerable extensions?
 
+### Steps for Exploit 1 : Path traversal
+STEP-1: Host the index.html and data.php on some server.
+
+STEP-2: Open VS Code.
+
+STEP-3: Run `HQ Live Server` on some HTML file.
+
+STEP-4: Click on the website link for your hosted webpage.
+
+### Steps for Exploit 2 : Zip Slip Vulnerability
+
+STEP-1: Create payload by running `python create_zip.py` with correct parameters for `file_content` and `file_name` variable. 
+
+STEP-2: Open VScode and install extension Zip File Explorer.
+
+STEP-3: Extract the zip created in Step 1 in VS code.
+
+STEP-4: This will write  a file authorized_keys in ~/.ssh folder with the `file_content` you provided.
+
+STEP-5: Change the following setting in /etc/ssh/sshd_config file
+`StrictModes no`
+
+STEP-6: Connect from the other system using `ssh`.
