@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="10" tests="10" time="0.0">
+	<testsuite disabled="0" errors="0" failures="10" name="semgrep results" skipped="0" tests="10" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" line="154">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" line="154">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" line="181">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    const stat = yield this._stat(path.join(uri.fsPath, child));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer copy.js" line="249">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                return children.map(([name, type]) =&gt; ({ uri: vscode.Uri.file(path.join(element.uri.fsPath, name)), type }));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" line="154">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" line="154">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" line="181">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    const stat = yield this._stat(path.join(uri.fsPath, child));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/fileExplorer.js" line="249">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                return children.map(([name, type]) =&gt; ({ uri: vscode.Uri.file(path.join(element.uri.fsPath, name)), type }));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/dockercontainerfileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/dockercontainerfileExplorer.js" line="49">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `element`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    const lsCommandOutput = child_process.execSync(`docker exec -i ${element.containerName} /bin/ls -F ${element.path}`).toString();
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/dockercontainerfileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/sandipchitale-vscode-multipane-explorer-0.0.15/extension/out/dockercontainerfileExplorer.js" line="124">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `treeItem`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    const commandOutput = child_process.execSync(`docker exec -i ${treeItem.containerName} ${command} ${treeItem.path}`).toString();
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

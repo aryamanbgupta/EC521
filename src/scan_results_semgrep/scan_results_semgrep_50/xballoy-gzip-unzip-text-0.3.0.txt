@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="yaml.github-actions.security.run-shell-injection.run-shell-injection" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/xballoy-gzip-unzip-text-0.3.0/extension/.github/workflows/publish.yml" file="/Users/zta/Docs/EC521/EC521/src/unzipped/xballoy-gzip-unzip-text-0.3.0/extension/.github/workflows/publish.yml" line="35">
+			<failure type="ERROR" message="Using variable interpolation `${{...}}` with `github` context data in a `run:` step could allow an attacker to inject their own code into the runner. This would allow them to steal secrets and code. `github` context data can have arbitrary user input and should be treated as untrusted. Instead, use an intermediate environment variable with `env:` to store the data and use the environment variable in the `run:` script. Be sure to use double-quotes the environment variable, like this: &quot;$ENVVAR&quot;.">        run: |
+          git config user.name 'Xavier Balloy'
+          git config user.email '686305+xballoy@users.noreply.github.com'
+          npm version ${{ github.event.inputs.version }}
+
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

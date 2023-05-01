@@ -1,0 +1,34 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/KazukiIsogai-FS-Live-Viewer-0.0.4...
+
+Tested 133 dependencies for known issues, found 5 issues, 9 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@2.1.1
+    introduced by vsce@2.6.6 > keytar@7.7.0 > prebuild-install@6.1.4 > npmlog@4.1.2 > gauge@2.7.4 > strip-ansi@3.0.1 > ansi-regex@2.1.1 and 1 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vsce@2.6.6 > minimatch@3.0.4 and 2 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by vsce@2.6.6 > keytar@7.7.0 > prebuild-install@6.1.4 > minimist@1.2.5 and 1 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Information Exposure [High Severity][https://security.snyk.io/vuln/SNYK-JS-SIMPLEGET-2361683] in simple-get@3.1.0
+    introduced by vsce@2.6.6 > keytar@7.7.0 > prebuild-install@6.1.4 > simple-get@3.1.0
+  This issue was fixed in versions: 2.8.2, 3.1.1, 4.0.1
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XML2JS-5414874] in xml2js@0.4.23
+    introduced by vsce@2.6.6 > xml2js@0.4.23
+  This issue was fixed in versions: 0.5.0
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      FS-Live-Viewer
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/KazukiIsogai-FS-Live-Viewer-0.0.4
+Licenses:          enabled
+
+

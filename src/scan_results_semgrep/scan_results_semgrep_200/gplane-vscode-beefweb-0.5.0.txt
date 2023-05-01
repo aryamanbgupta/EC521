@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" line="17">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">        http
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" line="36">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">        http
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/gplane-vscode-beefweb-0.5.0/extension/out/PlayerController.js" line="48">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">            http
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

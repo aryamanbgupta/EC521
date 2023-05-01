@@ -1,0 +1,25 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/riyadh144-openas-0.5.0...
+
+Tested 134 dependencies for known issues, found 2 issues, 4 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@2.1.1
+    introduced by vsce@2.7.0 > keytar@7.9.0 > prebuild-install@7.1.0 > npmlog@4.1.2 > gauge@2.7.4 > strip-ansi@3.0.1 > ansi-regex@2.1.1 and 2 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XML2JS-5414874] in xml2js@0.4.23
+    introduced by vsce@2.7.0 > xml2js@0.4.23
+  This issue was fixed in versions: 0.5.0
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      openas
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/riyadh144-openas-0.5.0
+Licenses:          enabled
+
+

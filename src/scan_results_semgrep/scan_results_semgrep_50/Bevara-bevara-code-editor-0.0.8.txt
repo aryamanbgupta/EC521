@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="10" tests="10" time="0.0">
+	<testsuite disabled="0" errors="0" failures="10" name="semgrep results" skipped="0" tests="10" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="187">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">			this._preview.innerHTML = this.tag.preview;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="191">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">				this._preview.innerHTML += &quot;&lt;/canvas&gt;&quot;;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="198">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">				this._preview.innerHTML = '&lt;div class=&quot;artplayer-app&quot; style=&quot;width:400px;height:300px&quot;&gt;' + this._preview.innerHTML + '&lt;/div&gt;';
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="314">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">	tag_buttons.innerHTML = tag_button;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="323">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">	using_buttons.innerHTML = tag_using;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="332">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">	with_buttons.innerHTML = with_button;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/preserved.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/preserved.js" line="32">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">			this._preview.innerHTML = `&lt;${this._tag} src=&quot;${this._url}&quot;&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="243">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">	window.addEventListener('message', async e =&gt; {
+		const { type, body, requestId } = e.data;
+		switch (type) {
+			case 'init':
+				{
+					if (body.untitled) {
+						editor.initUntitled();
+					} else {
+						await editor.setData(body.uri.path, body.value, body.scripts, body.scriptsDirectory);
+					}
+
+					return;
+				}
+			case 'getFileData':
+				{
+					const bevaraData = await editor.getBevaraData();
+					vscode.postMessage({ type: 'response', requestId, body: bevaraData });
+					return;
+				}
+		}
+	});
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/preserved.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/preserved.js" line="50">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">	window.addEventListener('message', async e =&gt; {
+		const { type, body, requestId } = e.data;
+		switch (type) {
+			case 'init':
+				{
+					viewer.setData(body.uri.path, body.supported, body.value);
+					return;
+				}
+		}
+	});
+</failure>
+		</testcase>
+		<testcase name="typescript.react.security.react-insecure-request.react-insecure-request" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bevara-bevara-code-editor-0.0.8/extension/media/bevaraDraw.js" line="298">
+			<failure type="ERROR" message="Unencrypted request over HTTP detected.">fetch(server_url + 'filter_list.json')
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

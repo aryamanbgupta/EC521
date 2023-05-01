@@ -1,0 +1,23 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/kirchner-trevor-shopify-liquid-preview-2.1.0...
+
+Tested 1 dependencies for known issues, found 1 issue, 1 vulnerable path.
+
+
+Issues to fix by upgrading:
+
+  Upgrade liquidjs@8.4.1 to liquidjs@10.0.0 to fix
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LIQUIDJS-2952868] in liquidjs@8.4.1
+    introduced by liquidjs@8.4.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      shopify-liquid-preview
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/kirchner-trevor-shopify-liquid-preview-2.1.0
+Licenses:          enabled
+
+

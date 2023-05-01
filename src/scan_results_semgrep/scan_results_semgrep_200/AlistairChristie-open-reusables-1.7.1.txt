@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="yaml.github-actions.security.run-shell-injection.run-shell-injection" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/AlistairChristie-open-reusables-1.7.1/extension/.github/workflows/test-inputs.yml" file="/Users/zta/Docs/EC521/EC521/src/unzipped/AlistairChristie-open-reusables-1.7.1/extension/.github/workflows/test-inputs.yml" line="24">
+			<failure type="ERROR" message="Using variable interpolation `${{...}}` with `github` context data in a `run:` step could allow an attacker to inject their own code into the runner. This would allow them to steal secrets and code. `github` context data can have arbitrary user input and should be treated as untrusted. Instead, use an intermediate environment variable with `env:` to store the data and use the environment variable in the `run:` script. Be sure to use double-quotes the environment variable, like this: &quot;$ENVVAR&quot;.">      run: echo &quot;${{ github.event.inputs.message }} ${{ fromJSON('[&quot;&quot;, &quot;🥳&quot;]')[github.event.inputs.use-emoji == 'true'] }} ${{ github.event.inputs.name }}&quot;
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/AlistairChristie-open-reusables-1.7.1/extension/opener.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/AlistairChristie-open-reusables-1.7.1/extension/opener.js" line="110">
+			<failure type="WARNING" message="RegExp() called with a `variableName` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">		let regex = new RegExp(variableName + &quot;:&quot;);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

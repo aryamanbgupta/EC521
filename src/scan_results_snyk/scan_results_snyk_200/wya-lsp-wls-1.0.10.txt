@@ -1,0 +1,69 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      wls
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10
+Licenses:          enabled
+
+✔ Tested /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10 for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10...
+
+Tested 11 dependencies for known issues, found 1 issue, 1 vulnerable path.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vscode-languageclient@7.0.0 > minimatch@3.0.4
+  This issue was fixed in versions: 3.0.5
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      lsp-sample-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10
+Licenses:          enabled
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10...
+
+Tested 116 dependencies for known issues, found 2 issues, 5 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by eslint@7.32.0 > minimatch@3.0.4 and 3 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-WORDWRAP-3149973] in word-wrap@1.2.3
+    introduced by eslint@7.32.0 > optionator@0.9.1 > word-wrap@1.2.3
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/server/package-lock.json
+Project name:      lsp-sample-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/wya-lsp-wls-1.0.10
+Licenses:          enabled
+
+
+Tested 3 projects, 2 contained vulnerable paths.
+
+
+

@@ -1,0 +1,61 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/osteele-p5-server-1.10.0...
+
+Tested 312 dependencies for known issues, found 14 issues, 26 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Open Redirect [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-GOT-2932019] in got@9.6.0
+    introduced by p5-server@0.9.2 > update-notifier@5.1.0 > latest-version@5.1.0 > package-json@6.5.0 > got@9.6.0
+  This issue was fixed in versions: 11.8.5, 12.1.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HTTPCACHESEMANTICS-3248783] in http-cache-semantics@4.1.0
+    introduced by p5-server@0.9.2 > update-notifier@5.1.0 > latest-version@5.1.0 > package-json@6.5.0 > got@9.6.0 > cacheable-request@6.1.0 > http-cache-semantics@4.1.0
+  This issue was fixed in versions: 4.1.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSBEAUTIFY-2311652] in js-beautify@1.14.0
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > js-beautify@1.14.0
+  This issue was fixed in versions: 1.14.1
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.2.0
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > @babel/core@7.16.5 > json5@2.2.0
+  This issue was fixed in versions: 1.0.2, 2.2.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-174116] in marked@0.3.19
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > jstransformer-marked@1.0.3 > marked@0.3.19
+  This issue was fixed in versions: 0.6.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-2342073] in marked@3.0.8
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > jstransformer-marked@1.0.3 > marked@0.3.19 and 1 other path(s)
+  This issue was fixed in versions: 4.0.10
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-2342082] in marked@3.0.8
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > jstransformer-marked@1.0.3 > marked@0.3.19 and 1 other path(s)
+  This issue was fixed in versions: 4.0.10
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-451540] in marked@0.3.19
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > jstransformer-marked@1.0.3 > marked@0.3.19
+  This issue was fixed in versions: 0.4.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-584281] in marked@0.3.19
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > jstransformer-marked@1.0.3 > marked@0.3.19
+  This issue was fixed in versions: 1.1.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by p5-server@0.9.2 > minimatch@3.0.4 and 5 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by p5-server@0.9.2 > p5-analysis@0.6.10 > @babel/core@7.16.5 > json5@2.2.0 > minimist@1.2.5 and 2 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NODEFETCH-2342118] in node-fetch@2.6.6
+    introduced by p5-server@0.9.2 > node-fetch@2.6.6 and 1 other path(s)
+  This issue was fixed in versions: 2.6.7, 3.1.1
+  ✗ Cross-site Scripting (XSS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NUNJUCKS-5431309] in nunjucks@3.2.3
+    introduced by p5-server@0.9.2 > nunjucks@3.2.3 and 1 other path(s)
+  This issue was fixed in versions: 3.2.4
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.7.0
+    introduced by p5-server@0.9.2 > express@4.17.1 > qs@6.7.0 and 1 other path(s)
+  This issue was fixed in versions: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      p5-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/osteele-p5-server-1.10.0
+Licenses:          enabled
+
+

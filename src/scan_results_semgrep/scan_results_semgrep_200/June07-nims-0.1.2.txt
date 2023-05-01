@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/nodeInspectMetadataServer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/nodeInspectMetadataServer.js" line="13">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">        const socketStatusServer = http.createServer((req, res) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/nodeInspectMetadataServer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/nodeInspectMetadataServer.js" line="42">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">            http.get('http://127.0.0.1:' + inspectPort + '/json', (res) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-insecure-websocket.detect-insecure-websocket" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/June07-nims-0.1.2/extension/extension.js" line="60">
+			<failure type="ERROR" message="Insecure WebSocket Detected. WebSocket Secure (wss) should be used for all WebSocket connections.">					if (debuggerOutput &amp;&amp; debuggerOutput.includes('ws://')) {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

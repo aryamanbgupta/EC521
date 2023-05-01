@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="4" tests="4" time="0.0">
+	<testsuite disabled="0" errors="0" failures="4" name="semgrep results" skipped="0" tests="4" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" line="46">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        cwd: path.resolve(folderPath, ''),
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" line="52">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const repoPath = path.resolve(folderPath, repoName);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" line="52">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const repoPath = path.resolve(folderPath, repoName);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ConfirmedVellas-quickclone-1.0.1/extension/out/extension.js" line="45">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `cloneCommand`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">    child_process_1.exec(cloneCommand, {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="javascript.express.security.audit.express-check-csurf-middleware-usage.express-check-csurf-middleware-usage" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7/extension/client/out/languageserver.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7/extension/client/out/languageserver.js" line="124">
+			<failure type="INFO" message="A CSRF middleware was not detected in your express application. Ensure you are either using one such as `csurf` or `csrf` (see rule references) and/or you are properly doing CSRF validation in your routes with a token or cookies.">        let app = express();
+</failure>
+		</testcase>
+		<testcase name="javascript.express.security.audit.xss.direct-response-write.direct-response-write" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7/extension/client/out/languageserver.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7/extension/client/out/languageserver.js" line="159">
+			<failure type="WARNING" message="Detected directly writing to a Response object from user-defined input. This bypasses any HTML escaping and may expose your application to a Cross-Site-scripting (XSS) vulnerability. Instead, use 'resp.render()' to render safely escaped HTML.">            res.send(lastUpdate);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

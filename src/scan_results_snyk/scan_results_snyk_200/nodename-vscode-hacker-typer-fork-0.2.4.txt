@@ -1,0 +1,42 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/nodename-vscode-hacker-typer-fork-0.2.4...
+
+Tested 24 dependencies for known issues, found 5 issues, 5 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade music-metadata@6.4.0 to music-metadata@7.4.1 to fix
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-FILETYPE-2958042] in file-type@14.5.0
+    introduced by music-metadata@6.4.0 > file-type@14.5.0
+
+
+Patchable issues:
+
+  Patch available for lodash@4.17.15
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@4.17.15
+    introduced by js-csp@1.0.1 > lodash@4.17.15
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.17.15
+    introduced by js-csp@1.0.1 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.17.15
+    introduced by js-csp@1.0.1 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.17.15
+    introduced by js-csp@1.0.1 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.17
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      vscode-hacker-typer-fork
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/nodename-vscode-hacker-typer-fork-0.2.4
+Licenses:          enabled
+
+

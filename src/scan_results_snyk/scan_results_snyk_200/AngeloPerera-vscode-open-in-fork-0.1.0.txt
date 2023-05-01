@@ -1,0 +1,18 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/AngeloPerera-vscode-open-in-fork-0.1.0...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      vscode-open-in-fork
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/AngeloPerera-vscode-open-in-fork-0.1.0
+Licenses:          enabled
+
+✔ Tested 3 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+

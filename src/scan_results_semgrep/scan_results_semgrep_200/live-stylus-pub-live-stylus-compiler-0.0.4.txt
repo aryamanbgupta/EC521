@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="6" tests="6" time="0.0">
+	<testsuite disabled="0" errors="0" failures="6" name="semgrep results" skipped="0" tests="6" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="128">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    .map((file) =&gt; path.join(utils_1.getBasePath(), file));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="216">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    generatedUri = path.join(path.dirname(filePath), savePath.substring(1));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="216">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    generatedUri = path.join(path.dirname(filePath), savePath.substring(1));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="219">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    generatedUri = path.join(workspaceRoot, savePath);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="222">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                filePath = path.join(generatedUri, path.basename(filePath));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4/extension/out/appModel.js" line="222">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                filePath = path.join(generatedUri, path.basename(filePath));
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

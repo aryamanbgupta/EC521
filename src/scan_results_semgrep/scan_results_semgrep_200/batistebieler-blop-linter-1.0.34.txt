@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="6" tests="6" time="0.0">
+	<testsuite disabled="0" errors="0" failures="6" name="semgrep results" skipped="0" tests="6" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" line="136">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const filename = path.join(dir, ...up, name);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" line="136">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const filename = path.join(dir, ...up, name);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/out/utils.js" line="141">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        currentDir = path.join(dir, ...up);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" line="147">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    const filename = path.join(dir, ...up, name);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" line="147">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    const filename = path.join(dir, ...up, name);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/batistebieler-blop-linter-1.0.34/extension/server/src/utils.js" line="152">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    currentDir = path.join(dir, ...up);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

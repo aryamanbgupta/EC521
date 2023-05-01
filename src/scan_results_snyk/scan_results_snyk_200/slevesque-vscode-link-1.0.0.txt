@@ -1,0 +1,29 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-link-1.0.0...
+
+Tested 25 dependencies for known issues, found 2 issues, 2 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade got@9.2.2 to got@11.8.5 to fix
+  ✗ Open Redirect [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-GOT-2932019] in got@9.2.2
+    introduced by got@9.2.2
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HTTPCACHESEMANTICS-3248783] in http-cache-semantics@4.0.0
+    introduced by got@9.2.2 > cacheable-request@5.1.0 > http-cache-semantics@4.0.0
+  This issue was fixed in versions: 4.1.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package-lock.json
+Project name:      vscode-link
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-link-1.0.0
+Licenses:          enabled
+
+

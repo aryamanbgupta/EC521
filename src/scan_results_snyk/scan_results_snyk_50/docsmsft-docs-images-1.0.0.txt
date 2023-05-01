@@ -1,0 +1,599 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "SNYK-JS-GOT-2932019",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<11.8.5",
+          ">=12.0.0 <12.1.0"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "11.8.5",
+        "12.1.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.4,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "got",
+      "references": [
+        {
+          "url": "https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0",
+          "title": "GitHub Diff"
+        },
+        {
+          "url": "https://github.com/sindresorhus/got/pull/2047",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-06-29T01:11:26.531842Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-11-19T20:57:05.871669Z"
+        }
+      ],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Open Redirect due to missing verification of requested URLs. It allowed a victim to be redirected to a UNIX socket.\n## Remediation\nUpgrade `got` to version 11.8.5, 12.1.0 or higher.\n## References\n- [GitHub Diff](https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0)\n- [GitHub PR](https://github.com/sindresorhus/got/pull/2047)\n",
+      "epssDetails": {
+        "percentile": "0.18321",
+        "probability": "0.00052",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-33987"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "got",
+      "proprietary": false,
+      "creationTime": "2022-06-19T09:23:24.210132Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-06-19T08:33:16Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-06-19T15:33:44.269688Z",
+      "modificationTime": "2022-11-19T20:57:05.871669Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "docs-images@1.0.0",
+        "imagemin-gifsicle@7.0.0",
+        "gifsicle@5.3.0",
+        "bin-wrapper@4.1.0",
+        "download@7.1.0",
+        "got@8.3.2"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "got",
+      "version": "8.3.2",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/docsmsft-docs-images-1.0.0/extension/node_modules/bin-wrapper/node_modules/got/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-GOT-2932019",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<11.8.5",
+          ">=12.0.0 <12.1.0"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "11.8.5",
+        "12.1.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.4,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "got",
+      "references": [
+        {
+          "url": "https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0",
+          "title": "GitHub Diff"
+        },
+        {
+          "url": "https://github.com/sindresorhus/got/pull/2047",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-06-29T01:11:26.531842Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-11-19T20:57:05.871669Z"
+        }
+      ],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Open Redirect due to missing verification of requested URLs. It allowed a victim to be redirected to a UNIX socket.\n## Remediation\nUpgrade `got` to version 11.8.5, 12.1.0 or higher.\n## References\n- [GitHub Diff](https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0)\n- [GitHub PR](https://github.com/sindresorhus/got/pull/2047)\n",
+      "epssDetails": {
+        "percentile": "0.18321",
+        "probability": "0.00052",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-33987"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "got",
+      "proprietary": false,
+      "creationTime": "2022-06-19T09:23:24.210132Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-06-19T08:33:16Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-06-19T15:33:44.269688Z",
+      "modificationTime": "2022-11-19T20:57:05.871669Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "docs-images@1.0.0",
+        "imagemin-jpegtran@7.0.0",
+        "jpegtran-bin@5.0.2",
+        "bin-wrapper@4.1.0",
+        "download@7.1.0",
+        "got@8.3.2"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "got",
+      "version": "8.3.2",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/docsmsft-docs-images-1.0.0/extension/node_modules/bin-wrapper/node_modules/got/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-GOT-2932019",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<11.8.5",
+          ">=12.0.0 <12.1.0"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "11.8.5",
+        "12.1.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.4,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "got",
+      "references": [
+        {
+          "url": "https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0",
+          "title": "GitHub Diff"
+        },
+        {
+          "url": "https://github.com/sindresorhus/got/pull/2047",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-06-29T01:11:26.531842Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-11-19T20:57:05.871669Z"
+        }
+      ],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Open Redirect due to missing verification of requested URLs. It allowed a victim to be redirected to a UNIX socket.\n## Remediation\nUpgrade `got` to version 11.8.5, 12.1.0 or higher.\n## References\n- [GitHub Diff](https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0)\n- [GitHub PR](https://github.com/sindresorhus/got/pull/2047)\n",
+      "epssDetails": {
+        "percentile": "0.18321",
+        "probability": "0.00052",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-33987"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "got",
+      "proprietary": false,
+      "creationTime": "2022-06-19T09:23:24.210132Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-06-19T08:33:16Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-06-19T15:33:44.269688Z",
+      "modificationTime": "2022-11-19T20:57:05.871669Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "docs-images@1.0.0",
+        "imagemin-optipng@8.0.0",
+        "optipng-bin@7.0.1",
+        "bin-wrapper@4.1.0",
+        "download@7.1.0",
+        "got@8.3.2"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "got",
+      "version": "8.3.2",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/docsmsft-docs-images-1.0.0/extension/node_modules/bin-wrapper/node_modules/got/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-GOT-2932019",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<11.8.5",
+          ">=12.0.0 <12.1.0"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "11.8.5",
+        "12.1.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.4,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "got",
+      "references": [
+        {
+          "url": "https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0",
+          "title": "GitHub Diff"
+        },
+        {
+          "url": "https://github.com/sindresorhus/got/pull/2047",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-06-29T01:11:26.531842Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-11-19T20:57:05.871669Z"
+        }
+      ],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Open Redirect due to missing verification of requested URLs. It allowed a victim to be redirected to a UNIX socket.\n## Remediation\nUpgrade `got` to version 11.8.5, 12.1.0 or higher.\n## References\n- [GitHub Diff](https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0)\n- [GitHub PR](https://github.com/sindresorhus/got/pull/2047)\n",
+      "epssDetails": {
+        "percentile": "0.18321",
+        "probability": "0.00052",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-33987"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "got",
+      "proprietary": false,
+      "creationTime": "2022-06-19T09:23:24.210132Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-06-19T08:33:16Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-06-19T15:33:44.269688Z",
+      "modificationTime": "2022-11-19T20:57:05.871669Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "docs-images@1.0.0",
+        "imagemin-webp@6.1.0",
+        "cwebp-bin@6.1.2",
+        "bin-wrapper@4.1.0",
+        "download@7.1.0",
+        "got@8.3.2"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "got",
+      "version": "8.3.2",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/docsmsft-docs-images-1.0.0/extension/node_modules/bin-wrapper/node_modules/got/package.json",
+      "parentDepType": "prod"
+    }
+  ],
+  "ok": false,
+  "dependencyCount": 123,
+  "org": "z.a.timur",
+  "policy": "# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.\nversion: v1.25.0\nignore: {}\npatch: {}\n",
+  "isPrivate": true,
+  "licensesPolicy": {
+    "severities": {},
+    "orgLicenseRules": {
+      "AGPL-1.0": {
+        "licenseType": "AGPL-1.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "AGPL-3.0": {
+        "licenseType": "AGPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "Artistic-1.0": {
+        "licenseType": "Artistic-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "Artistic-2.0": {
+        "licenseType": "Artistic-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CDDL-1.0": {
+        "licenseType": "CDDL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CPOL-1.02": {
+        "licenseType": "CPOL-1.02",
+        "severity": "high",
+        "instructions": ""
+      },
+      "EPL-1.0": {
+        "licenseType": "EPL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "GPL-2.0": {
+        "licenseType": "GPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "GPL-3.0": {
+        "licenseType": "GPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "LGPL-2.0": {
+        "licenseType": "LGPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-2.1": {
+        "licenseType": "LGPL-2.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-3.0": {
+        "licenseType": "LGPL-3.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-1.1": {
+        "licenseType": "MPL-1.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-2.0": {
+        "licenseType": "MPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MS-RL": {
+        "licenseType": "MS-RL",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "SimPL-2.0": {
+        "licenseType": "SimPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      }
+    }
+  },
+  "packageManager": "npm",
+  "ignoreSettings": {
+    "adminOnly": false,
+    "reasonRequired": false,
+    "disregardFilesystemIgnores": false
+  },
+  "summary": "4 vulnerable dependency paths",
+  "remediation": {
+    "unresolved": [
+      {
+        "id": "SNYK-JS-GOT-2932019",
+        "title": "Open Redirect",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+        "credit": [
+          "Unknown"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<11.8.5",
+            ">=12.0.0 <12.1.0"
+          ]
+        },
+        "exploit": "Not Defined",
+        "fixedIn": [
+          "11.8.5",
+          "12.1.0"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.4,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "got",
+        "references": [
+          {
+            "url": "https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0",
+            "title": "GitHub Diff"
+          },
+          {
+            "url": "https://github.com/sindresorhus/got/pull/2047",
+            "title": "GitHub PR"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-06-29T01:11:26.531842Z"
+          },
+          {
+            "assigner": "Red Hat",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-11-19T20:57:05.871669Z"
+          }
+        ],
+        "description": "## Overview\nAffected versions of this package are vulnerable to Open Redirect due to missing verification of requested URLs. It allowed a victim to be redirected to a UNIX socket.\n## Remediation\nUpgrade `got` to version 11.8.5, 12.1.0 or higher.\n## References\n- [GitHub Diff](https://github.com/sindresorhus/got/compare/v12.0.3...v12.1.0)\n- [GitHub PR](https://github.com/sindresorhus/got/pull/2047)\n",
+        "epssDetails": {
+          "percentile": "0.18321",
+          "probability": "0.00052",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-33987"
+          ],
+          "CWE": [
+            "CWE-601"
+          ]
+        },
+        "packageName": "got",
+        "proprietary": false,
+        "creationTime": "2022-06-19T09:23:24.210132Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-06-19T08:33:16Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-06-19T15:33:44.269688Z",
+        "modificationTime": "2022-11-19T20:57:05.871669Z",
+        "socialTrendAlert": false,
+        "from": [
+          "docs-images@1.0.0",
+          "imagemin-webp@6.1.0",
+          "cwebp-bin@6.1.2",
+          "bin-wrapper@4.1.0",
+          "download@7.1.0",
+          "got@8.3.2"
+        ],
+        "upgradePath": [],
+        "isUpgradable": false,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "got",
+        "version": "8.3.2",
+        "severityWithCritical": "medium"
+      }
+    ],
+    "upgrade": {},
+    "patch": {},
+    "ignore": {},
+    "pin": {}
+  },
+  "filesystemPolicy": false,
+  "filtered": {
+    "ignore": [],
+    "patch": []
+  },
+  "uniqueCount": 1,
+  "projectName": "docs-images",
+  "displayTargetFile": "extension/package.json",
+  "hasUnknownVersions": false,
+  "path": "/Users/zta/Docs/EC521/EC521/src/unzipped/docsmsft-docs-images-1.0.0"
+}

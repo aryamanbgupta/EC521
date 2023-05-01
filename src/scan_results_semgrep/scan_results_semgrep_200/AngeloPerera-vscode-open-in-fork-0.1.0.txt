@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/AngeloPerera-vscode-open-in-fork-0.1.0/extension/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/AngeloPerera-vscode-open-in-fork-0.1.0/extension/extension.js" line="21">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        return fs.existsSync(path.resolve(dir, '.git'))
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

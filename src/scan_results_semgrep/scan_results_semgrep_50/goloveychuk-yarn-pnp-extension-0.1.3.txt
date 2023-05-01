@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="13" tests="13" time="0.0">
+	<testsuite disabled="0" errors="0" failures="13" name="semgrep results" skipped="0" tests="13" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/cli/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/cli/index.js" line="243">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        path.join(projectRoot, '.pnp.cjs'),
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" line="149">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" line="149">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const filepath = path.join(uri.fsPath, _.normalizeNFC(filename.toString()));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" line="178">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const stat = await this._stat(path.join(uri.fsPath, child));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" line="178">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const stat = await this._stat(path.join(uri.fsPath, child));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/fileExplorer.js" line="247">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                uri: vscode.Uri.file(path.join(element.uri.fsPath, name)),
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/nodeDependencies.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/nodeDependencies.js" line="25">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return Promise.resolve(this.getDepsInPackageJson(path.join(this.workspaceRoot, 'node_modules', element.label, 'package.json')));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/nodeDependencies.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/nodeDependencies.js" line="45">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                if (this.pathExists(path.join(this.workspaceRoot, 'node_modules', moduleName))) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/resolve/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/resolve/index.js" line="249">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        path.join(projectRoot, '.pnp.cjs'),
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.ftp-request.ftp-request" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/ftpExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/ftpExplorer.js" line="22">
+			<failure type="WARNING" message="Checks for lack of usage of the &quot;secure: true&quot; option when sending ftp requests through the nodejs ftp module. This leads to unencrypted traffic being sent to the ftp server. There are other options such as &quot;implicit&quot; that still does not encrypt all traffic. ftp is the most utilized npm ftp module.">            client.connect({
+                host: this.host,
+                username: this.user,
+                password: this.password
+            });
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.prototype-pollution.prototype-pollution-loop.prototype-pollution-loop" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/testView.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/testView.js" line="82">
+			<failure type="WARNING" message="Possibility of prototype polluting function detected. By adding or modifying attributes of an object prototype, it is possible to create attributes that exist on every object, or replace critical attributes with malicious ones. This can be problematic if the software depends on existence or non-existence of certain attributes, or uses pre-defined attributes of object prototype (such as hasOwnProperty, toString or valueOf). Possible mitigations might be: freezing the object prototype, using an object without prototypes (via Object.create(null) ), blocking modifications of attributes that resolve to object prototype, using Map instead of object.">        parent = parent[element.substring(0, i + 1)];
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/cli/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/cli/index.js" line="223">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `cmd`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">    const pr = child.spawn(cmd, args, {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/resolve/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/goloveychuk-yarn-pnp-extension-0.1.3/extension/out/resolve/index.js" line="229">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `cmd`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">    const pr = child.spawn(cmd, args, {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

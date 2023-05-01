@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="python.lang.compatibility.python36.python36-compatibility-Popen2" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/IntelNeuralCompressor-neural-coder-ext-vscode-0.0.10/extension/src/NcProcessScript.py" file="/Users/zta/Docs/EC521/EC521/src/unzipped/IntelNeuralCompressor-neural-coder-ext-vscode-0.0.10/extension/src/NcProcessScript.py" line="43">
+			<failure type="ERROR" message="the `encoding` argument to Popen is only available on Python 3.6+">    subp = subprocess.Popen(&quot;lscpu | grep 'Model name'&quot;, shell=True,
+                            stdout=subprocess.PIPE, stderr=subprocess.PIPE, encoding=&quot;utf-8&quot;)
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

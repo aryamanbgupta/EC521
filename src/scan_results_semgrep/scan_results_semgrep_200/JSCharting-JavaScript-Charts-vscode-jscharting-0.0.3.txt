@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3/extension/out/extension.js" line="47">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const json5OnDiskPath = vscode.Uri.file(path.join(context.extensionPath, 'node_modules', 'json5', 'dist/index.min.js'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3/extension/out/extension.js" line="48">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const jschartingOnDiskPath = vscode.Uri.file(path.join(context.extensionPath, 'node_modules', 'jscharting', 'dist/jscharting.js'));
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

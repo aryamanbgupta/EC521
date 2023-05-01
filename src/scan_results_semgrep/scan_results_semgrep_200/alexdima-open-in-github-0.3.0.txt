@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="5" tests="5" time="0.0">
+	<testsuite disabled="0" errors="0" failures="5" name="semgrep results" skipped="0" tests="5" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" line="128">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const byteConfig = yield readFile(path.join(gitDataPath, 'config'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" line="163">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const byteConfig = yield readFile(path.join(gitDataPath, 'config'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" line="210">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const byteHead = yield readFile(path.join(gitDataPath, 'HEAD'));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" line="236">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const candidate = path.join(filePath, '.git');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/alexdima-open-in-github-0.3.0/extension/out/extension.js" line="200">
+			<failure type="WARNING" message="RegExp() called with a `sectionName` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">    const regex = new RegExp(`\\[${sectionName}\\]\n((\\s.*\\n)+)`, 'm');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

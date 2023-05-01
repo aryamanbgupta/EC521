@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" line="26">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        this.parentDir = path_1.resolve(this.resource.path, '..');
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" line="125">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const templatePath = path_1.resolve(__dirname, `../public/templates/${topic}.mustache`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/chogath-nest-server-tools-0.3.5/extension/out/commands.js" line="159">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const templatePath = path_1.resolve(__dirname, `../public/templates/${currTopic}.mustache`);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

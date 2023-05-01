@@ -1,0 +1,63 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0...
+
+Tested 354 dependencies for known issues, found 13 issues, 18 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade ajv@6.12.2 to ajv@6.12.3 to fix
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@6.12.2
+    introduced by ajv@6.12.2
+
+  Upgrade ansi-regex@2.1.1 to ansi-regex@3.0.1 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@2.1.1
+    introduced by ansi-regex@2.1.1
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by @shd101wyy/mume@0.6.9 > yamljs@0.3.0 > glob@7.2.0 > minimatch@3.0.4 and 2 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by @shd101wyy/mume@0.6.9 > temp@0.9.4 > mkdirp@0.5.5 > minimist@1.2.5 and 3 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-NTHCHECK-1586032] in nth-check@1.0.2
+    introduced by @shd101wyy/mume@0.6.9 > cheerio@1.0.0-rc.3 > css-select@1.2.0 > nth-check@1.0.2
+  This issue was fixed in versions: 2.0.1
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.88.2
+    introduced by @shd101wyy/mume@0.6.9 > request@2.88.2
+  No upgrade or patch available
+  ✗ Sandbox Bypass [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-2309905] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.6
+  ✗ Arbitrary Code Execution [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-2990237] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.10
+  ✗ Sandbox Bypass [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-3018201] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.11
+  ✗ Sandbox Escape [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-5415299] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.15
+  ✗ Sandbox Escape [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-5422057] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.16
+  ✗ Improper Handling of Exceptional Conditions [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-VM2-5426093] in vm2@3.9.5
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > vm2@3.9.5
+  This issue was fixed in versions: 3.9.17
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-WORDWRAP-3149973] in word-wrap@1.2.3
+    introduced by @shd101wyy/mume@0.6.9 > qiniu@7.4.0 > urllib@2.38.0 > proxy-agent@5.0.0 > pac-proxy-agent@5.0.0 > pac-resolver@5.0.0 > degenerator@3.0.1 > escodegen@1.14.3 > optionator@0.8.3 > word-wrap@1.2.3
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      shirkhan-markdown-preview-enhanced
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0
+Licenses:          enabled
+
+

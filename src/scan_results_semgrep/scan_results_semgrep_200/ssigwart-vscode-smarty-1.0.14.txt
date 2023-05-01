@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="5" tests="5" time="0.0">
+	<testsuite disabled="0" errors="0" failures="5" name="semgrep results" skipped="0" tests="5" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/modes/javascriptLibs.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/modes/javascriptLibs.js" line="22">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            libPath = path_1.join(TYPESCRIPT_LIB_SOURCE, name); // from source
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/smarty/smartyServer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/smarty/smartyServer.js" line="401">
+			<failure type="WARNING" message="RegExp() called with a `exemptRegularExpressions` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">            let regex = new RegExp(regexStr);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/utils/strings.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/utils/strings.js" line="17">
+			<failure type="WARNING" message="RegExp() called with a `wordDefinition` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">    wordDefinition = new RegExp(wordDefinition.source, flags);
+</failure>
+		</testcase>
+		<testcase name="contrib.nodejsscan.crypto_node.node_md5" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/smarty/indexStorage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/smarty/indexStorage.js" line="175">
+			<failure type="WARNING" message="The MD5 hashing algorithm is considered to be weak. If this is used in any sensitive operation such as password hashing, or is used to ensure data integrity (collision sensitive) then you should use a stronger hashing algorithm. For passwords, consider using `Argon2id`, `scrypt`, or `bcrypt`. For data integrity, consider using `SHA-256`">        let md5 = crypto_1.createHash(&quot;md5&quot;).update(fileName).digest(&quot;hex&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.prototype-pollution.prototype-pollution-loop.prototype-pollution-loop" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/htmlServer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/ssigwart-vscode-smarty-1.0.14/extension/server/out/html-language-features/htmlServer.js" line="105">
+			<failure type="WARNING" message="Possibility of prototype polluting function detected. By adding or modifying attributes of an object prototype, it is possible to create attributes that exist on every object, or replace critical attributes with malicious ones. This can be problematic if the software depends on existence or non-existence of certain attributes, or uses pre-defined attributes of object prototype (such as hasOwnProperty, toString or valueOf). Possible mitigations might be: freezing the object prototype, using an object without prototypes (via Object.create(null) ), blocking modifications of attributes that resolve to object prototype, using Map instead of object.">                c = c[keys[i]];
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

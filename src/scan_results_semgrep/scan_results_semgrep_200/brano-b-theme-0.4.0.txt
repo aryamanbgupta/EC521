@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="html.security.audit.missing-integrity.missing-integrity" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/brano-b-theme-0.4.0/extension/samples/sample.html" file="/Users/zta/Docs/EC521/EC521/src/unzipped/brano-b-theme-0.4.0/extension/samples/sample.html" line="10">
+			<failure type="WARNING" message="This tag is missing an 'integrity' subresource integrity attribute. The 'integrity' attribute allows for the browser to verify that externally hosted files (for example from a CDN) are delivered without unexpected manipulation. Without this attribute, if an attacker can modify the externally hosted resource, this could lead to XSS and other types of attacks. To prevent this, include the base64-encoded cryptographic hash of the resource (file) you’re telling the browser to fetch in the 'integrity' attribute for all externally hosted files.">  &lt;script src=&quot;http://html5shiv.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

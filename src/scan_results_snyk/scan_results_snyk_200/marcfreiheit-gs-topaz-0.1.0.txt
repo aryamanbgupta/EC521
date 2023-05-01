@@ -1,0 +1,181 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/marcfreiheit-gs-topaz-0.1.0...
+
+Tested 289 dependencies for known issues, found 43 issues, 77 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade vscode@1.1.10 to vscode@1.1.35 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:diff:20180305] in diff@3.3.1
+    introduced by vscode@1.1.10 > mocha@4.1.0 > diff@3.3.1
+
+
+Patchable issues:
+
+  Patch available for extend@3.0.1
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/npm:extend:20180424] in extend@3.0.1
+    introduced by vscode@1.1.10 > request@2.83.0 > extend@3.0.1 and 3 other path(s)
+
+  Patch available for hoek@2.16.3
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/npm:hoek:20180212] in hoek@2.16.3
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > hawk@3.1.3 > hoek@2.16.3 and 3 other path(s)
+
+  Patch available for stringstream@0.0.5
+  ✗ Uninitialized Memory Exposure [Medium Severity][https://security.snyk.io/vuln/npm:stringstream:20180511] in stringstream@0.0.5
+    introduced by vscode@1.1.10 > request@2.83.0 > stringstream@0.0.5 and 1 other path(s)
+
+  Patch available for tunnel-agent@0.4.3
+  ✗ Uninitialized Memory Exposure [Medium Severity][https://security.snyk.io/vuln/npm:tunnel-agent:20170305] in tunnel-agent@0.4.3
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > tunnel-agent@0.4.3
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@5.5.2
+    introduced by vscode@1.1.10 > request@2.83.0 > har-validator@5.0.3 > ajv@5.5.2
+  This issue was fixed in versions: 6.12.3
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@2.1.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > gulp-util@3.0.8 > chalk@1.1.3 > has-ansi@2.0.0 > ansi-regex@2.1.1 and 3 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Arbitrary File Overwrite [High Severity][https://security.snyk.io/vuln/SNYK-JS-FSTREAM-174725] in fstream@1.0.11
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1 > fstream@1.0.11
+  This issue was fixed in versions: 1.0.12
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-GLOBPARENT-1016905] in glob-parent@2.0.0
+    introduced by vscode@1.1.10 > gulp-symdest@1.1.0 > vinyl-fs@2.4.4 > glob-stream@5.3.5 > glob-parent@3.1.0 and 3 other path(s)
+  This issue was fixed in versions: 5.1.2
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-HAWK-2808852] in hawk@6.0.2
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > hawk@3.1.3 and 1 other path(s)
+  This issue was fixed in versions: 9.0.1
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ISMYJSONVALID-597165] in is-my-json-valid@2.17.2
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > har-validator@2.0.6 > is-my-json-valid@2.17.2
+  This issue was fixed in versions: 2.20.2
+  ✗ Arbitrary Code Execution [High Severity][https://security.snyk.io/vuln/SNYK-JS-ISMYJSONVALID-597167] in is-my-json-valid@2.17.2
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > har-validator@2.0.6 > is-my-json-valid@2.17.2
+  This issue was fixed in versions: 2.20.3
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-1577288] in jsonpointer@4.0.1
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > har-validator@2.0.6 > is-my-json-valid@2.17.2 > jsonpointer@4.0.1
+  This issue was fixed in versions: 5.0.0
+  ✗ Prototype Pollution [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-598804] in jsonpointer@4.0.1
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > har-validator@2.0.6 > is-my-json-valid@2.17.2 > jsonpointer@4.0.1
+  This issue was fixed in versions: 4.1.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSONSCHEMA-1920922] in json-schema@0.2.3
+    introduced by vscode@1.1.10 > request@2.83.0 > http-signature@1.2.0 > jsprim@1.4.1 > json-schema@0.2.3 and 1 other path(s)
+  This issue was fixed in versions: 0.4.0
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASHTEMPLATE-1088054] in lodash.template@3.6.2
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > gulp-util@3.0.8 > lodash.template@3.6.2
+  No upgrade or patch available
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vscode@1.1.10 > glob@7.1.2 > minimatch@3.0.4 and 5 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.0
+    introduced by vscode@1.1.10 > gulp-symdest@1.1.0 > mkdirp@0.5.1 > minimist@0.0.8 and 5 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@1.2.0
+    introduced by vscode@1.1.10 > gulp-symdest@1.1.0 > mkdirp@0.5.1 > minimist@0.0.8 and 5 other path(s)
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-MOCHA-2863123] in mocha@4.1.0
+    introduced by vscode@1.1.10 > mocha@4.1.0
+  This issue was fixed in versions: 10.1.0
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-MOCHA-561476] in mocha@4.1.0
+    introduced by vscode@1.1.10 > mocha@4.1.0
+  This issue was fixed in versions: 6.0.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-NODEEXTEND-73641] in node.extend@1.1.6
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > node.extend@1.1.6
+  This issue was fixed in versions: 1.1.7, 2.0.1
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.5.1
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 > qs@6.3.2 and 1 other path(s)
+  This issue was fixed in versions: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.83.0
+    introduced by vscode@1.1.10 > gulp-remote-src@0.4.3 > request@2.79.0 and 1 other path(s)
+  No upgrade or patch available
+  ✗ Arbitrary File Overwrite [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1536528] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 3.2.3, 4.4.15, 5.0.7, 6.1.2
+  ✗ Arbitrary File Overwrite [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1536531] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 3.2.2, 4.4.14, 5.0.6, 6.1.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1536758] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 6.1.4, 5.0.8, 4.4.16
+  ✗ Arbitrary File Write [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1579147] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 6.1.7, 5.0.8, 4.4.16
+  ✗ Arbitrary File Write [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1579152] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 6.1.9, 5.0.10, 4.4.18
+  ✗ Arbitrary File Write [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-1579155] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 6.1.9, 5.0.10, 4.4.18
+  ✗ Arbitrary File Overwrite [High Severity][https://security.snyk.io/vuln/SNYK-JS-TAR-174125] in tar@2.2.1
+    introduced by vscode@1.1.10 > gulp-untar@0.0.6 > tar@2.2.1
+  This issue was fixed in versions: 2.2.2, 4.4.2
+  ✗ Improper Input Validation [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-1078283] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.0
+  ✗ Open Redirect [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-1533425] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.2
+  ✗ Access Restriction Bypass [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-2401205] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.6
+  ✗ Authorization Bypass [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-2407759] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.8
+  ✗ Improper Input Validation [High Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-2407770] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.9
+  ✗ Authorization Bypass Through User-Controlled Key [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-2412697] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.5.7
+  ✗ Improper Input Validation [High Severity][https://security.snyk.io/vuln/SNYK-JS-URLPARSE-543307] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.4.5
+  ✗ Open Redirect [High Severity][https://security.snyk.io/vuln/npm:url-parse:20180731] in url-parse@1.2.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0
+  This issue was fixed in versions: 1.4.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:braces:20180219] in braces@1.8.5
+    introduced by vscode@1.1.10 > gulp-symdest@1.1.0 > vinyl-fs@2.4.4 > glob-stream@5.3.5 > micromatch@2.3.11 > braces@1.8.5 and 1 other path(s)
+  This issue was fixed in versions: 2.3.1
+  ✗ Insecure Randomness [Medium Severity][https://security.snyk.io/vuln/npm:cryptiles:20180710] in cryptiles@3.1.2
+    introduced by vscode@1.1.10 > request@2.83.0 > hawk@6.0.2 > cryptiles@3.1.2
+  This issue was fixed in versions: 3.1.3, 4.1.2
+  ✗ Prototype Override [High Severity][https://security.snyk.io/vuln/npm:querystringify:20180419] in querystringify@1.0.0
+    introduced by vscode@1.1.10 > url-parse@1.2.0 > querystringify@1.0.0
+  This issue was fixed in versions: 2.0.0
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:sshpk:20180409] in sshpk@1.13.1
+    introduced by vscode@1.1.10 > request@2.83.0 > http-signature@1.2.0 > sshpk@1.13.1 and 1 other path(s)
+  This issue was fixed in versions: 1.14.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package-lock.json
+Project name:      gs-topaz
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/marcfreiheit-gs-topaz-0.1.0
+Licenses:          enabled
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/marcfreiheit-gs-topaz-0.1.0...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/server/package-lock.json
+Project name:      gs-topaz
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/marcfreiheit-gs-topaz-0.1.0
+Licenses:          enabled
+
+✔ Tested 5 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+
+Tested 2 projects, 1 contained vulnerable paths.
+
+
+

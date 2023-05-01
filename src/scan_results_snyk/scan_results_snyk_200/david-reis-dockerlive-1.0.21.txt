@@ -1,0 +1,79 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21...
+
+Tested 82 dependencies for known issues, found 5 issues, 6 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade dockerode@3.1.0 to dockerode@3.3.0 to fix
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-SSH2-1656673] in ssh2@0.8.9
+    introduced by dockerode@3.1.0 > docker-modem@2.1.1 > ssh2@0.8.9
+
+  Upgrade xml2js@0.4.23 to xml2js@0.5.0 to fix
+  ✗ Prototype Pollution (new) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XML2JS-5414874] in xml2js@0.4.23
+    introduced by xml2js@0.4.23
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@6.12.0
+    introduced by table@5.4.6 > ajv@6.12.0
+  This issue was fixed in versions: 6.12.3
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@4.1.0
+    introduced by strip-ansi@6.0.0 > ansi-regex@5.0.0 and 1 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by dockerode@3.1.0 > tar-fs@2.0.0 > mkdirp@0.5.3 > minimist@1.2.5
+  This issue was fixed in versions: 0.2.4, 1.2.6
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      dockerlive
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21
+Licenses:          enabled
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      dockerlive-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21
+Licenses:          enabled
+
+✔ Tested 5 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/dockerfile-language-server-nodejs/package-lock.json
+Project name:      dockerfile-language-server-nodejs-dockerlive
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21
+Licenses:          enabled
+
+✔ Tested /Users/zta/Docs/EC521/EC521/src/unzipped/david-reis-dockerlive-1.0.21 for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+
+Tested 3 projects, 1 contained vulnerable paths.
+
+
+

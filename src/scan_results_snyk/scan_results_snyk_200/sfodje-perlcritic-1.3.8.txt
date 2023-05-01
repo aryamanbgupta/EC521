@@ -1,0 +1,62 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      perlcritic
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8
+Licenses:          enabled
+
+✔ Tested /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8 for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8...
+
+Tested 12 dependencies for known issues, found 1 issue, 1 vulnerable path.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vscode-languageclient@7.0.0 > minimatch@3.0.4
+  This issue was fixed in versions: 3.0.5
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      perlcritic-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8
+Licenses:          enabled
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/server/package-lock.json
+Project name:      perlcritic-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/sfodje-perlcritic-1.3.8
+Licenses:          enabled
+
+✔ Tested 8 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+
+Tested 3 projects, 1 contained vulnerable paths.
+
+
+

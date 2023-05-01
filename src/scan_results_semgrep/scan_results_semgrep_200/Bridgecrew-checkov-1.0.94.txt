@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="8" tests="8" time="0.0">
+	<testsuite disabled="0" errors="0" failures="8" name="semgrep results" skipped="0" tests="8" time="0">
+		<testcase name="javascript.lang.security.audit.spawn-shell-true.spawn-shell-true" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovRunner.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovRunner.ts" line="87">
+			<failure type="ERROR" message="Found '$SPAWN' with '{shell: true}'. This is dangerous because this call will spawn the command using a shell process. Doing so propagates current shell settings and variables, which makes it much easier for a malicious actor to execute commands. Use '{shell: false}' instead.">            const ckv = spawn(checkovPath, checkovArguments,
+                {
+                    shell: true,
+                    env: { ...process.env, BC_SOURCE: 'vscode', BC_SOURCE_VERSION: extensionVersion, PRISMA_API_URL: prismaUrl, ...debugLogEnv },
+                    ...(workingDir ? { cwd: workingDir } : {})
+                });
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovInstaller.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovInstaller.ts" line="100">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const checkovPath = `&quot;${path.join(path.dirname(execOutput), 'checkov')}&quot;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/parseCheckovConfig.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/parseCheckovConfig.ts" line="10">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const paths =  [path.join(workspacePath, '.checkov.yml'), path.join(workspacePath, '.checkov.yaml')];
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/parseCheckovConfig.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/parseCheckovConfig.ts" line="10">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        const paths =  [path.join(workspacePath, '.checkov.yml'), path.join(workspacePath, '.checkov.yaml')];
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" line="271">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    const absPath = path.resolve(filePath);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovRunner.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/checkov/checkovRunner.ts" line="87">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `checkovInstallation`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">            const ckv = spawn(checkovPath, checkovArguments,
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" line="51">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `commandToExecute`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">        exec(commandToExecute, { ...defaultOptions, ...options }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="contrib.nodejsscan.crypto_node.node_md5" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Bridgecrew-checkov-1.0.94/extension/src/utils.ts" line="277">
+			<failure type="WARNING" message="The MD5 hashing algorithm is considered to be weak. If this is used in any sensitive operation such as password hashing, or is used to ensure data integrity (collision sensitive) then you should use a stronger hashing algorithm. For passwords, consider using `Argon2id`, `scrypt`, or `bcrypt`. For data integrity, consider using `SHA-256`">    const hashSum = crypto.createHash('md5');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

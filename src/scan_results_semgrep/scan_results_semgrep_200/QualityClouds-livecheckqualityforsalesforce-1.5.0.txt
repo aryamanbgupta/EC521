@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/QualityClouds-livecheckqualityforsalesforce-1.5.0/extension/webview-ui/src/App.tsx" file="/Users/zta/Docs/EC521/EC521/src/unzipped/QualityClouds-livecheckqualityforsalesforce-1.5.0/extension/webview-ui/src/App.tsx" line="37">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">    window.addEventListener(&quot;message&quot;, (event) =&gt; {
+      const message = event.data; // The JSON data our extension sent
+
+      switch (message.command) {
+        case &quot;WOdata&quot;:
+          
+          vscode.setState(JSON.parse(message.data));
+          setData(JSON.parse(message.data));
+          
+        break
+        case &quot;WOapprovers&quot;:
+          setApproversList(JSON.parse(message.data));
+          setDataReceived(true)
+      }
+    });
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

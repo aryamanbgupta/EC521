@@ -1,0 +1,29 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/benqy-bifrost-0.0.14...
+
+Tested 5 dependencies for known issues, found 3 issues, 3 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade http-proxy@1.16.2 to http-proxy@1.18.1 to fix
+  ✗ Denial of Service (DoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HTTPPROXY-569139] in http-proxy@1.16.2
+    introduced by http-proxy@1.16.2
+
+  Upgrade open@0.0.5 to open@6.0.0 to fix
+  ✗ Arbitrary Command Injection [High Severity][https://security.snyk.io/vuln/npm:open:20180512] in open@0.0.5
+    introduced by open@0.0.5
+  ✗ Arbitrary Code Injection [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-OPEN-174041] in open@0.0.5
+    introduced by open@0.0.5
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      bifrost
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/benqy-bifrost-0.0.14
+Licenses:          enabled
+
+

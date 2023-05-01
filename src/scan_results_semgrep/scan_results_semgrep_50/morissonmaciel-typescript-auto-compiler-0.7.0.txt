@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" line="167">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            parentDir = Path.join(parentDir, `node_modules`);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" line="245">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `fspath`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                this.childProcesses.set(filename, ChildProcess.exec(command, { cwd: vscode_1.workspace.rootPath }, (error, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/morissonmaciel-typescript-auto-compiler-0.7.0/extension/out/TypeScriptCompiler.js" line="245">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `tsc`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                this.childProcesses.set(filename, ChildProcess.exec(command, { cwd: vscode_1.workspace.rootPath }, (error, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

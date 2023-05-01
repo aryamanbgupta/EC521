@@ -1,0 +1,29 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3...
+
+Tested 3 dependencies for known issues, found 2 issues, 2 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade json5@2.1.3 to json5@2.2.2 to fix
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.1.3
+    introduced by json5@2.1.3
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by json5@2.1.3 > minimist@1.2.5
+  This issue was fixed in versions: 0.2.4, 1.2.6
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      vscode-jscharting
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3
+Licenses:          enabled
+
+

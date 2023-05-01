@@ -1,0 +1,40 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4...
+
+Tested 58 dependencies for known issues, found 6 issues, 10 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade postcss@7.0.27 to postcss@7.0.36 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-POSTCSS-1090595] in postcss@7.0.27
+    introduced by postcss@7.0.27 and 2 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-POSTCSS-1255640] in postcss@7.0.27
+    introduced by postcss@7.0.27 and 2 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-BROWSERSLIST-1090194] in browserslist@4.11.1
+    introduced by autoprefixer@9.7.6 > browserslist@4.11.1
+  This issue was fixed in versions: 4.16.5
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-DECODEURICOMPONENT-3149970] in decode-uri-component@0.2.0
+    introduced by stylus@0.54.7 > css-parse@2.0.0 > css@2.2.4 > source-map-resolve@0.5.3 > decode-uri-component@0.2.0
+  This issue was fixed in versions: 0.2.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by stylus@0.54.7 > glob@7.1.6 > minimatch@3.0.4
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by stylus@0.54.7 > mkdirp@0.5.5 > minimist@1.2.5
+  This issue was fixed in versions: 0.2.4, 1.2.6
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      live-stylus-compiler
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/live-stylus-pub-live-stylus-compiler-0.0.4
+Licenses:          enabled
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="yaml.docker-compose.security.writable-filesystem-service.writable-filesystem-service" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/mtsmfm-ruby-lsc-0.1.1/extension/docker-compose.yml" file="/Users/zta/Docs/EC521/EC521/src/unzipped/mtsmfm-ruby-lsc-0.1.1/extension/docker-compose.yml" line="3">
+			<failure type="WARNING" message="Service 'app' is running with a writable root filesystem. This may allow malicious applications to download and run additional payloads, or modify container files. If an application inside a container has to save something temporarily consider using a tmpfs. Add 'read_only: true' to this service to prevent this.">  app:
+</failure>
+		</testcase>
+		<testcase name="yaml.docker-compose.security.no-new-privileges.no-new-privileges" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/mtsmfm-ruby-lsc-0.1.1/extension/docker-compose.yml" file="/Users/zta/Docs/EC521/EC521/src/unzipped/mtsmfm-ruby-lsc-0.1.1/extension/docker-compose.yml" line="3">
+			<failure type="WARNING" message="Service 'app' allows for privilege escalation via setuid or setgid binaries. Add 'no-new-privileges:true' in 'security_opt' to prevent this.">  app:
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

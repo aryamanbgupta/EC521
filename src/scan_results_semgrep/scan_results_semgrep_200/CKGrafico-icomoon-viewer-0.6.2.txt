@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/CKGrafico-icomoon-viewer-0.6.2/extension/out/icomoon-viewer/icomoon-viewer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/CKGrafico-icomoon-viewer-0.6.2/extension/out/icomoon-viewer/icomoon-viewer.js" line="80">
+			<failure type="WARNING" message="RegExp() called with a `icon` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">        const reg = new RegExp(`('|&quot;)(\\\\?)${icon.code}('|&quot;);?`, 'g');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

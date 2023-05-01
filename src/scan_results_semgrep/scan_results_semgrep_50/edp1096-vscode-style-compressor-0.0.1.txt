@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="8" tests="8" time="0.0">
+	<testsuite disabled="0" errors="0" failures="8" name="semgrep results" skipped="0" tests="8" time="0">
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="169">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                    rst = rst.replace(new RegExp(keyEndl, &quot;ig&quot;), endl);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="171">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                        rst = rst.replace(new RegExp(keySpace, &quot;ig&quot;), &quot; &quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="174">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                        rst = rst.replace(new RegExp(keySpace, &quot;ig&quot;), &quot;&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="216">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                    rst = rst.replace(new RegExp(keySpace, &quot;ig&quot;), &quot; &quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="220">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                        rst = rst.replace(new RegExp(keyEndl + strTab, &quot;ig&quot;), &quot; &quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="329">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                    rst = rst.replace(new RegExp(keySpace, &quot;ig&quot;), &quot; &quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="426">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">        rst = rst.replace(new RegExp(keyEndl, &quot;ig&quot;), &quot;&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/edp1096-vscode-style-compressor-0.0.1/extension/out/Compressor.js" line="427">
+			<failure type="WARNING" message="RegExp() called with a `text` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">        rst = rst.replace(new RegExp(keySpace, &quot;ig&quot;), &quot;&quot;);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

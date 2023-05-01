@@ -1,0 +1,40 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/JPTarquino-postgresql-0.0.2...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      postgresql
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/JPTarquino-postgresql-0.0.2
+Licenses:          enabled
+
+✔ Tested 2 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/JPTarquino-postgresql-0.0.2...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/server/package.json
+Project name:      langauge-server-example
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/JPTarquino-postgresql-0.0.2
+Licenses:          enabled
+
+✔ Tested 2 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+
+Tested 2 projects, no vulnerable paths were found.
+
+
+

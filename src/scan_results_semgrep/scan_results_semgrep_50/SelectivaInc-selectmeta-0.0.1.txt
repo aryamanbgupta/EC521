@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="45" tests="45" time="0.0">
+	<testsuite disabled="0" errors="0" failures="45" name="semgrep results" skipped="0" tests="45" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/RefreshMetadata.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/RefreshMetadata.js" line="7">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="13">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="77">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.readFile(path.join(centralDependency, &quot;.orgs.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="98">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                fs.writeFile(path.join(centralDependency, &quot;.orgs.json&quot;), orgpushnew, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="107">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        var dir = path.join(CWD, projectName);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="107">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        var dir = path.join(CWD, projectName);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="111">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="126">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                fs.writeFile(path.join(centralDependency, &quot;.project.json&quot;), finalresult, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="142">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.writeFile(path.join(dir, &quot;.Setup.json&quot;), data, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="210">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.readFile(path.join(centralDependency, &quot;.orgs.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="231">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                fs.writeFile(path.join(centralDependency, &quot;.orgs.json&quot;), orgpushnew, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="240">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="251">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                    path: path.join(CWD, projectName)
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="251">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                    path: path.join(CWD, projectName)
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="255">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                                fs.writeFile(path.join(centralDependency, &quot;.project.json&quot;), finalresult, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="270">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.writeFile(path.join(CWD, projectName, &quot;.Setup.json&quot;), data, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="270">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        fs.writeFile(path.join(CWD, projectName, &quot;.Setup.json&quot;), data, (err) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" line="13">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    console.log(path.join(centralDependency, &quot;.project.json&quot;));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" line="14">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" line="41">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.writeFile(path.join(centralDependency, &quot;.project.json&quot;), jsonstate, function (err) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/projectnamefrombutton.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/projectnamefrombutton.js" line="31">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/saveSettings.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/saveSettings.js" line="19">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="8">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    fs.readFile(path.join(centralDependency, &quot;.project.json&quot;), function readFileCallback(err, jsondata) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="20">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    element.path = path.join(settingWorkingDirectory, newprojectname);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="20">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                    element.path = path.join(settingWorkingDirectory, newprojectname);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="25">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.writeFile(path.join(centralDependency, &quot;.project.json&quot;), docs, function (err) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="32">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.rename(path.join(settingWorkingDirectory, oldprojectname), path.join(settingWorkingDirectory, newprojectname), function (err) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="32">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.rename(path.join(settingWorkingDirectory, oldprojectname), path.join(settingWorkingDirectory, newprojectname), function (err) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="32">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.rename(path.join(settingWorkingDirectory, oldprojectname), path.join(settingWorkingDirectory, newprojectname), function (err) {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/updateProjectName.js" line="32">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            fs.rename(path.join(settingWorkingDirectory, oldprojectname), path.join(settingWorkingDirectory, newprojectname), function (err) {
+</failure>
+		</testcase>
+		<testcase name="html.security.audit.missing-integrity.missing-integrity" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/index.html" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/index.html" line="11">
+			<failure type="WARNING" message="This tag is missing an 'integrity' subresource integrity attribute. The 'integrity' attribute allows for the browser to verify that externally hosted files (for example from a CDN) are delivered without unexpected manipulation. Without this attribute, if an attacker can modify the externally hosted resource, this could lead to XSS and other types of attacks. To prevent this, include the base64-encoded cryptographic hash of the resource (file) you’re telling the browser to fetch in the 'integrity' attribute for all externally hosted files.">    &lt;link
+      rel=&quot;stylesheet&quot;
+      href=&quot;https://cdnjs.cloudflare.com/ajax/libs/design-system/2.9.4/styles/salesforce-lightning-design-system.min.css&quot;
+    /&gt; 
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/InstalledPackage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/InstalledPackage.js" line="7">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `usernameformetatdata`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">    exec(&quot;sfdx force:mdapi:listmetadata -m InstalledPackage -u &quot; +
+        usernameformetatdata +
+        &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="71">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `customURL`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:auth:web:login -r &quot; + loginuri + &quot; --json&quot;, { maxBuffer: Infinity }, (error, stdout) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="174">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `CWD`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:project:create --projectname &quot; +
+                        projectName +
+                        &quot; --outputdir &quot; +
+                        CWD +
+                        &quot; --template standard&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="174">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `projectName`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:project:create --projectname &quot; +
+                        projectName +
+                        &quot; --outputdir &quot; +
+                        CWD +
+                        &quot; --template standard&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/connect.js" line="198">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `customURL`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:auth:web:login -r &quot; +
+                        loginuri +
+                        &quot; --setdefaultusername  --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" line="224">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `jsondata`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                                exec(&quot;sfdx force:mdapi:listmetadata -m InstalledPackage -u &quot; +
+                                    usernameformetatdata +
+                                    &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" line="318">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `element`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                                                    exec(&quot;sfdx force:mdapi:listmetadata -m &quot; +
+                                                        element.trim() +
+                                                        &quot; -u &quot; +
+                                                        usernameformetatdata +
+                                                        &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" line="462">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `message`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:config:set defaultusername=&quot; +
+                        message.username +
+                        &quot; --global&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/extension.js" line="474">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `message`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                    exec(&quot;sfdx force:user:password:generate --targetusername &quot; +
+                        message.username +
+                        &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" line="103">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `jsondata`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                        exec(&quot; sfdx force:source:retrieve -u &quot; +
+                            username +
+                            &quot; -x &quot; +
+                            packagexmlvar, { cwd: ProjectPathvar, maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/fetchzip.js" line="128">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `jsondata`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                        exec(&quot;sfdx force:mdapi:retrieve -u &quot; +
+                            username +
+                            &quot; --retrievetargetdir &quot; +
+                            target +
+                            &quot;  -k &quot; +
+                            packagexmlvar, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/metadataselectedlist.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/metadataselectedlist.js" line="63">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `jsondata`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                exec(&quot;sfdx force:mdapi:listmetadata -m InstalledPackage -u &quot; +
+                    usernameformetatdata +
+                    &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/metadataselectedlist.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/metadataselectedlist.js" line="158">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `element`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">                                    exec(&quot;sfdx force:mdapi:listmetadata -m &quot; +
+                                        element.trim() +
+                                        &quot; -u &quot; +
+                                        usernameformetatdata +
+                                        &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/reconnect.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/SelectivaInc-selectmeta-0.0.1/extension/out/reconnect.js" line="27">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `customURL`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">    exec(&quot;sfdx force:auth:web:login -r &quot; + loginuri + &quot; --json&quot;, { maxBuffer: Infinity }, (err, stdout, stderr) =&gt; {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

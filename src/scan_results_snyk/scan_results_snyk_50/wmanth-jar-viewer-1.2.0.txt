@@ -1,0 +1,315 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "SNYK-JS-JSZIP-1251497",
+      "title": "Denial of Service (DoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Dave Holoway"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<3.7.0"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "3.7.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "jszip",
+      "references": [
+        {
+          "url": "https://github.com/Stuk/jszip/commit/22357494f424178cb416cdb7d93b26dd4f824b36",
+          "title": "GitHub Commit"
+        },
+        {
+          "url": "https://github.com/Stuk/jszip/issues/762",
+          "title": "GitHub Issue"
+        },
+        {
+          "url": "https://github.com/Stuk/jszip/pull/766",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-01-03T16:36:06.078969Z"
+        }
+      ],
+      "description": "## Overview\n[jszip](https://www.npmjs.org/package/jszip) is a Create, read and edit .zip files with JavaScript http://stuartk.com/jszip\nAffected versions of this package are vulnerable to Denial of Service (DoS). Crafting a new zip file with filenames set to Object prototype values (e.g `__proto__,` `toString`, etc) results in a returned object with a modified prototype instance.\r\n\r\n### PoC\r\n```\r\nconst jszip = require('jszip');\r\n\r\nasync function loadZip() {\r\n// this is a raw buffer of demo.zip containing 2 empty files:\r\n// - \"file.txt\"\r\n// - \"toString\"\r\nconst demoZip = Buffer.from('UEsDBBQACAAIANS8kVIAAAAAAAAAAAAAAAAIACAAdG9TdHJpbmdVVA0AB3Bje2BmY3tgcGN7YHV4CwABBPUBAAAEFAAAAAMAUEsHCAAAAAACAAAAAAAAAFBLAwQUAAgACADDvJFSAAAAAAAAAAAAAAAACAAgAGZpbGUudHh0VVQNAAdPY3tg4FJ7YE9je2B1eAsAAQT1AQAABBQAAAADAFBLBwgAAAAAAgAAAAAAAABQSwECFAMUAAgACADUvJFSAAAAAAIAAAAAAAAACAAgAAAAAAAAAAAApIEAAAAAdG9TdHJpbmdVVA0AB3Bje2BmY3tgcGN7YHV4CwABBPUBAAAEFAAAAFBLAQIUAxQACAAIAMO8kVIAAAAAAgAAAAAAAAAIACAAAAAAAAAAAACkgVgAAABmaWxlLnR4dFVUDQAHT2N7YOBSe2BPY3tgdXgLAAEE9QEAAAQUAAAAUEsFBgAAAAACAAIArAAAALAAAAAAAA==', 'base64');\r\n\r\nconst zip = await jszip.loadAsync(demoZip);\r\nzip.files.toString(); // this will throw\r\nreturn zip;\r\n}\r\nloadZip();\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its intended and legitimate users.\n\nUnlike other vulnerabilities, DoS attacks usually do not aim at breaching security. Rather, they are focused on making websites and services unavailable to genuine users resulting in downtime.\n\nOne popular Denial of Service vulnerability is DDoS (a Distributed Denial of Service), an attack that attempts to clog network pipes to the system by generating a large volume of traffic from many machines.\n\nWhen it comes to open source libraries, DoS vulnerabilities allow attackers to trigger such a crash or crippling of the service by using a flaw either in the application code or from the use of open source libraries.\n\nTwo common types of DoS vulnerabilities:\n\n* High CPU/Memory Consumption- An attacker sending crafted requests that could cause the system to take a disproportionate amount of time to process. For example, [commons-fileupload:commons-fileupload](SNYK-JAVA-COMMONSFILEUPLOAD-30082).\n\n* Crash - An attacker sending crafted requests that could cause the system to crash. For Example,  [npm `ws` package](https://snyk.io/vuln/npm:ws:20171108)\n\n## Remediation\nUpgrade `jszip` to version 3.7.0 or higher.\n## References\n- [GitHub Commit](https://github.com/Stuk/jszip/commit/22357494f424178cb416cdb7d93b26dd4f824b36)\n- [GitHub Issue](https://github.com/Stuk/jszip/issues/762)\n- [GitHub PR](https://github.com/Stuk/jszip/pull/766)\n",
+      "epssDetails": {
+        "percentile": "0.50393",
+        "probability": "0.00155",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-23413"
+        ],
+        "CWE": [
+          "CWE-400"
+        ]
+      },
+      "packageName": "jszip",
+      "proprietary": true,
+      "creationTime": "2021-04-18T13:13:34.385552Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2021-04-18T13:04:52Z",
+      "packageManager": "npm",
+      "publicationTime": "2021-07-25T14:10:32Z",
+      "modificationTime": "2023-02-12T15:43:44.474983Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "jar-viewer@1.2.0",
+        "jszip@3.6.0"
+      ],
+      "upgradePath": [
+        false,
+        "jszip@3.7.0"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "jszip",
+      "version": "3.6.0",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/wmanth-jar-viewer-1.2.0/extension/node_modules/jszip/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-JSZIP-3188562",
+      "title": "Arbitrary File Write via Archive Extraction (Zip Slip)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L",
+      "credit": [
+        "McCaulay Hudson"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<2.7.0",
+          ">=3.0.0 <3.8.0"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "2.7.0",
+        "3.8.0"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 6.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "jszip",
+      "references": [
+        {
+          "url": "https://stuk.github.io/jszip/CHANGES.html",
+          "title": "Changelog"
+        },
+        {
+          "url": "https://github.com/Stuk/jszip/commit/2edab366119c9ee948357c02f1206c28566cdf15",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "Red Hat",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+          "cvssV3BaseScore": 7.3,
+          "modificationTime": "2023-02-01T14:09:08.597963Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+          "cvssV3BaseScore": 7.3,
+          "modificationTime": "2023-03-04T01:10:15.514255Z"
+        }
+      ],
+      "description": "## Overview\n[jszip](https://www.npmjs.org/package/jszip) is a Create, read and edit .zip files with JavaScript http://stuartk.com/jszip\nAffected versions of this package are vulnerable to Arbitrary File Write via Archive Extraction (Zip Slip) due to improper sanitization of filenames when files are loaded with the `loadAsync` method.\n\n## Details\n\nIt is exploited using a specially crafted zip archive, that holds path traversal filenames. When exploited, a filename in a malicious archive is concatenated to the target extraction directory, which results in the final path ending up outside of the target folder. For instance, a zip may hold a file with a \"../../file.exe\" location and thus break out of the target folder. If an executable or a configuration file is overwritten with a file containing malicious code, the problem can turn into an arbitrary code execution issue quite easily.\n\nThe following is an example of a zip archive with one benign file and one malicious file. Extracting the malicous file will result in traversing out of the target folder, ending up in `/root/.ssh/` overwriting the `authorized_keys` file:\n\n```\n\n+2018-04-15 22:04:29 ..... 19 19 good.txt\n\n+2018-04-15 22:04:42 ..... 20 20 ../../../../../../root/.ssh/authorized_keys\n\n```\n\n## Remediation\nUpgrade `jszip` to version 2.7.0, 3.8.0 or higher.\n## References\n- [Changelog](https://stuk.github.io/jszip/CHANGES.html)\n- [GitHub Commit](https://github.com/Stuk/jszip/commit/2edab366119c9ee948357c02f1206c28566cdf15)\n",
+      "epssDetails": {
+        "percentile": "0.70376",
+        "probability": "0.00421",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-48285"
+        ],
+        "CWE": [
+          "CWE-29"
+        ]
+      },
+      "packageName": "jszip",
+      "proprietary": false,
+      "creationTime": "2023-01-04T12:22:20.959980Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2023-01-04T12:08:19Z",
+      "packageManager": "npm",
+      "publicationTime": "2023-01-04T13:41:05.971929Z",
+      "modificationTime": "2023-03-04T01:10:15.514255Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "jar-viewer@1.2.0",
+        "jszip@3.6.0"
+      ],
+      "upgradePath": [
+        false,
+        "jszip@3.8.0"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "jszip",
+      "version": "3.6.0",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/wmanth-jar-viewer-1.2.0/extension/node_modules/jszip/package.json",
+      "parentDepType": "prod"
+    }
+  ],
+  "ok": false,
+  "dependencyCount": 17,
+  "org": "z.a.timur",
+  "policy": "# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.\nversion: v1.25.0\nignore: {}\npatch: {}\n",
+  "isPrivate": true,
+  "licensesPolicy": {
+    "severities": {},
+    "orgLicenseRules": {
+      "AGPL-1.0": {
+        "licenseType": "AGPL-1.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "AGPL-3.0": {
+        "licenseType": "AGPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "Artistic-1.0": {
+        "licenseType": "Artistic-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "Artistic-2.0": {
+        "licenseType": "Artistic-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CDDL-1.0": {
+        "licenseType": "CDDL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CPOL-1.02": {
+        "licenseType": "CPOL-1.02",
+        "severity": "high",
+        "instructions": ""
+      },
+      "EPL-1.0": {
+        "licenseType": "EPL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "GPL-2.0": {
+        "licenseType": "GPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "GPL-3.0": {
+        "licenseType": "GPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "LGPL-2.0": {
+        "licenseType": "LGPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-2.1": {
+        "licenseType": "LGPL-2.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-3.0": {
+        "licenseType": "LGPL-3.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-1.1": {
+        "licenseType": "MPL-1.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-2.0": {
+        "licenseType": "MPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MS-RL": {
+        "licenseType": "MS-RL",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "SimPL-2.0": {
+        "licenseType": "SimPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      }
+    }
+  },
+  "packageManager": "npm",
+  "ignoreSettings": {
+    "adminOnly": false,
+    "reasonRequired": false,
+    "disregardFilesystemIgnores": false
+  },
+  "summary": "2 vulnerable dependency paths",
+  "remediation": {
+    "unresolved": [],
+    "upgrade": {
+      "jszip@3.6.0": {
+        "upgradeTo": "jszip@3.8.0",
+        "upgrades": [
+          "jszip@3.6.0",
+          "jszip@3.6.0"
+        ],
+        "vulns": [
+          "SNYK-JS-JSZIP-3188562",
+          "SNYK-JS-JSZIP-1251497"
+        ]
+      }
+    },
+    "patch": {},
+    "ignore": {},
+    "pin": {}
+  },
+  "filesystemPolicy": false,
+  "filtered": {
+    "ignore": [],
+    "patch": []
+  },
+  "uniqueCount": 2,
+  "projectName": "jar-viewer",
+  "displayTargetFile": "extension/package.json",
+  "hasUnknownVersions": false,
+  "path": "/Users/zta/Docs/EC521/EC521/src/unzipped/wmanth-jar-viewer-1.2.0"
+}

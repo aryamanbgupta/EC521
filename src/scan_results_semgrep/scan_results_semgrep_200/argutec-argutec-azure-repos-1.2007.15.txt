@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="16" tests="16" time="0.0">
+	<testsuite disabled="0" errors="0" failures="16" name="semgrep results" skipped="0" tests="16" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/credentialstore/linux/linux-file-api.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/credentialstore/linux/linux-file-api.js" line="24">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        this._fts = new file_token_storage_1.FileTokenStorage(path.join(path.join(os.homedir(), this._folder, this._filename)));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" line="31">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            gitPath = path.join(currentPath, gitDir || &quot;.git&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" line="31">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            gitPath = path.join(currentPath, gitDir || &quot;.git&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/helpers/utils.js" line="36">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            currentPath = path.resolve(currentPath, &quot;..&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" line="217">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            folderPath = path.join(pathRoot, folderPath);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" line="217">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            folderPath = path.join(pathRoot, folderPath);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" line="223">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return path.join(folderPath, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" line="223">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return path.join(folderPath, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/decorationprovider.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/decorationprovider.js" line="39">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        return vscode_1.Uri.file(path.join(DecorationProvider._iconsRootPath, theme, `${iconName}.svg`));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/decorationprovider.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/decorationprovider.js" line="39">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        return vscode_1.Uri.file(path.join(DecorationProvider._iconsRootPath, theme, `${iconName}.svg`));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/model.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/scm/model.js" line="199">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                path2 = path.join(this._repositoryRoot, path2);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/tfvc-extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/tfvc-extension.js" line="196">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                        const destination = path.join(dirName, newFilename);
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/patches/vso-node-api/handlers/ntlm.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/patches/vso-node-api/handlers/ntlm.js" line="59">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">            keepaliveAgent = new http.Agent({ keepAlive: true });
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/commands/commandhelper.js" line="40">
+			<failure type="WARNING" message="RegExp() called with a `errorPattern` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">            return new RegExp(errorPattern, &quot;i&quot;).test(result.stderr);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/tfcommandlinerunner.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/tfvc/tfcommandlinerunner.js" line="203">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `location`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">            const child = yield cp.spawn(location, [&quot;@&quot;], options);
+</failure>
+		</testcase>
+		<testcase name="contrib.nodejsscan.crypto_node.node_sha1" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/services/telemetry.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15/extension/out/src/services/telemetry.js" line="72">
+			<failure type="WARNING" message="The SHA1 hashing algorithm is considered to be weak. If this is used in any sensitive operation such as password hashing, or is used to ensure data integrity (collision sensitive) then you should use a stronger hashing algorithm. For passwords, consider using `Argon2id`, `scrypt`, or `bcrypt`. For data integrity, consider using `SHA-256`">        Telemetry._userId = crypto.createHash(&quot;sha1&quot;).update(value).digest(&quot;hex&quot;);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

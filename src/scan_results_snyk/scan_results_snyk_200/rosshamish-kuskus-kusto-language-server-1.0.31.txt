@@ -1,0 +1,84 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31...
+
+Tested 86 dependencies for known issues, found 4 issues, 5 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.88.0
+    introduced by azure-kusto-data@0.2.5 > request@2.88.0 and 1 other path(s)
+  No upgrade or patch available
+  ✗ Improper Input Validation [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-1534562] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-3042242] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+  ✗ Improper Input Validation [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-3092935] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      kuskus-kusto-language-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31
+Licenses:          enabled
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      kuskus-kusto-language-server-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31
+Licenses:          enabled
+
+✔ Tested 27 dependencies for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31...
+
+Tested 69 dependencies for known issues, found 4 issues, 5 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.88.0
+    introduced by azure-kusto-data@0.2.5 > request@2.88.0 and 1 other path(s)
+  No upgrade or patch available
+  ✗ Improper Input Validation [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-1534562] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-3042242] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+  ✗ Improper Input Validation [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-XMLDOM-3092935] in xmldom@0.6.0
+    introduced by azure-kusto-data@0.2.5 > adal-node@0.1.28 > xmldom@0.6.0
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/server/package-lock.json
+Project name:      kuskus-kusto-language-server-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/rosshamish-kuskus-kusto-language-server-1.0.31
+Licenses:          enabled
+
+
+Tested 3 projects, 2 contained vulnerable paths.
+
+
+

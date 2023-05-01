@@ -1,0 +1,71 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/omurakazuaki-path2github-0.0.3...
+
+Tested 280 dependencies for known issues, found 14 issues, 48 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade ansi-regex@5.0.0 to ansi-regex@5.0.1 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@5.0.0
+    introduced by ansi-regex@5.0.0 and 15 other path(s)
+
+  Upgrade glob-parent@5.1.1 to glob-parent@5.1.2 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-GLOBPARENT-1016905] in glob-parent@5.1.1
+    introduced by glob-parent@5.1.1 and 3 other path(s)
+
+  Upgrade json5@2.2.0 to json5@2.2.2 to fix
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.2.0
+    introduced by json5@2.2.0 and 1 other path(s)
+
+  Upgrade loader-utils@2.0.0 to loader-utils@2.0.4 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3042992] in loader-utils@2.0.0
+    introduced by loader-utils@2.0.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3105943] in loader-utils@2.0.0
+    introduced by loader-utils@2.0.0
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LOADERUTILS-3043105] in loader-utils@2.0.0
+    introduced by loader-utils@2.0.0
+
+  Upgrade minimatch@3.0.4 to minimatch@3.0.5 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by minimatch@3.0.4 and 5 other path(s)
+
+  Upgrade minimist@1.2.5 to minimist@1.2.6 to fix
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by minimist@1.2.5 and 6 other path(s)
+
+  Upgrade nanoid@3.1.20 to nanoid@3.1.31 to fix
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NANOID-2332193] in nanoid@3.1.20
+    introduced by nanoid@3.1.20
+
+  Upgrade path-parse@1.0.6 to path-parse@1.0.7 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PATHPARSE-1077067] in path-parse@1.0.6
+    introduced by path-parse@1.0.6 and 2 other path(s)
+
+  Upgrade terser@5.6.0 to terser@5.14.2 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-TERSER-2806366] in terser@5.6.0
+    introduced by terser@5.6.0 and 1 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Directory Traversal [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-ISOMORPHICGIT-1535213] in isomorphic-git@1.8.1
+    introduced by @omurakazuaki/path2github@0.1.2 > isomorphic-git@1.8.1
+  This issue was fixed in versions: 1.8.2
+  ✗ Information Exposure [High Severity][https://security.snyk.io/vuln/SNYK-JS-SIMPLEGET-2361683] in simple-get@3.1.0
+    introduced by @omurakazuaki/path2github@0.1.2 > isomorphic-git@1.8.1 > simple-get@3.1.0
+  This issue was fixed in versions: 2.8.2, 3.1.1, 4.0.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-WORDWRAP-3149973] in word-wrap@1.2.3
+    introduced by word-wrap@1.2.3 and 1 other path(s)
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      path2github
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/omurakazuaki-path2github-0.0.3
+Licenses:          enabled
+
+

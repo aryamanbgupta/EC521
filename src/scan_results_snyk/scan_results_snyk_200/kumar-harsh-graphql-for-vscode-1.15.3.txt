@@ -1,0 +1,49 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/kumar-harsh-graphql-for-vscode-1.15.3...
+
+Tested 100 dependencies for known issues, found 10 issues, 16 vulnerable paths.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@4.1.0
+    introduced by @playlyfe/gql-language-server@0.3.1 > yargs@13.2.4 > string-width@3.1.0 > strip-ansi@5.2.0 > ansi-regex@4.1.0 and 4 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.1.0
+    introduced by @playlyfe/gql-language-server@0.3.1 > json5@2.1.0
+  This issue was fixed in versions: 1.0.2, 2.2.2
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LOG4JS-2348757] in log4js@3.0.2
+    introduced by @playlyfe/gql-language-server@0.3.1 > log4js@3.0.2
+  This issue was fixed in versions: 6.4.0
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@0.0.8
+    introduced by @playlyfe/gql-language-server@0.3.1 > json5@2.1.0 > minimist@1.2.0 and 1 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@0.0.8
+    introduced by @playlyfe/gql-language-server@0.3.1 > json5@2.1.0 > minimist@1.2.0 and 1 other path(s)
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-Y18N-1021887] in y18n@4.0.0
+    introduced by @playlyfe/gql-language-server@0.3.1 > yargs@13.2.4 > y18n@4.0.0
+  This issue was fixed in versions: 3.2.2, 4.0.1, 5.0.5
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-YARGSPARSER-560381] in yargs-parser@13.1.1
+    introduced by @playlyfe/gql-language-server@0.3.1 > yargs@13.2.4 > yargs-parser@13.1.1
+  This issue was fixed in versions: 5.0.1, 13.1.2, 15.0.1, 18.1.1
+  ✗ Arbitrary File Write [Low Severity][https://security.snyk.io/vuln/SNYK-JS-YARN-537806] in yarn@1.17.3
+    introduced by @playlyfe/gql-language-server@0.3.1 > yarn@1.17.3
+  This issue was fixed in versions: 1.21.1
+  ✗ Arbitrary File Overwrite [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-YARN-548869] in yarn@1.17.3
+    introduced by @playlyfe/gql-language-server@0.3.1 > yarn@1.17.3
+  This issue was fixed in versions: 1.22.0
+  ✗ Improper Integrity Checks [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-YARN-557182] in yarn@1.17.3
+    introduced by @playlyfe/gql-language-server@0.3.1 > yarn@1.17.3
+  This issue was fixed in versions: 1.19
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      graphql-for-vscode
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/kumar-harsh-graphql-for-vscode-1.15.3
+Licenses:          enabled
+
+

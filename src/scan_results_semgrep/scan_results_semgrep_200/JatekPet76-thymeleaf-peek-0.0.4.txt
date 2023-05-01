@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.lang.security.audit.unsafe-formatstring.unsafe-formatstring" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JatekPet76-thymeleaf-peek-0.0.4/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JatekPet76-thymeleaf-peek-0.0.4/extension/out/extension.js" line="34">
+			<failure type="INFO" message="Detected string concatenation with a non-literal variable in a util.format / console.log function. If an attacker injects a format specifier in the string, it will forge the log message. Try to use constant values for the format string.">    console.log(`RegisterDefinitionProvider targetFileExtensions: ${targetFileExtensions}!`, { supportedLanguages, targetFileExtensions });
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+
