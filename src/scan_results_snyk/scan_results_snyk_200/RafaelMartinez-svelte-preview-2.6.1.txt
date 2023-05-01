@@ -1,0 +1,51 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/RafaelMartinez-svelte-preview-2.6.1...
+
+Tested 309 dependencies for known issues, found 9 issues, 17 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade @node-minify/cli@6.2.0 to @node-minify/cli@7.0.0 to fix
+  ✗ Open Redirect [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-GOT-2932019] in got@9.6.0
+    introduced by @node-minify/cli@6.2.0 > update-notifier@5.0.1 > latest-version@5.1.0 > package-json@6.5.0 > got@9.6.0
+
+  Upgrade json5@2.2.0 to json5@2.2.2 to fix
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSON5-3182856] in json5@2.2.0
+    introduced by json5@2.2.0 and 1 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@5.0.0
+    introduced by @node-minify/cli@6.2.0 > ora@5.2.0 > strip-ansi@6.0.0 > ansi-regex@5.0.0
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-DECODEURICOMPONENT-3149970] in decode-uri-component@0.2.0
+    introduced by stylus@0.54.8 > css-parse@2.0.0 > css@2.2.4 > source-map-resolve@0.5.3 > decode-uri-component@0.2.0
+  This issue was fixed in versions: 0.2.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HTTPCACHESEMANTICS-3248783] in http-cache-semantics@4.1.0
+    introduced by @node-minify/cli@6.2.0 > update-notifier@5.0.1 > latest-version@5.1.0 > package-json@6.5.0 > got@9.6.0 > cacheable-request@6.1.0 > http-cache-semantics@4.1.0
+  This issue was fixed in versions: 4.1.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by glob@7.1.7 > minimatch@3.0.4 and 3 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@1.2.5
+    introduced by json5@2.2.0 > minimist@1.2.5 and 4 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NANOID-2332193] in nanoid@3.1.23
+    introduced by postcss@8.3.5 > nanoid@3.1.23
+  This issue was fixed in versions: 3.1.31
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-TERSER-2806366] in terser@5.7.1
+    introduced by rollup-plugin-terser@7.0.2 > terser@5.7.1
+  This issue was fixed in versions: 4.8.1, 5.14.2
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      svelte-preview
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/RafaelMartinez-svelte-preview-2.6.1
+Licenses:          enabled
+
+

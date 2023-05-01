@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="11" tests="11" time="0.0">
+	<testsuite disabled="0" errors="0" failures="11" name="semgrep results" skipped="0" tests="11" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="76">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">                list.innerHTML +=
+                    `&lt;div class=&quot;p-4 self-end mt-4 question-element-ext relative input-background&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${userSvg}You&lt;/h2&gt;
+                        &lt;no-export class=&quot;mb-2 flex items-center&quot;&gt;
+                            &lt;button title=&quot;Edit and resend this prompt&quot; class=&quot;resend-element-ext p-1.5 flex items-center rounded-lg absolute right-6 top-6&quot;&gt;${pencilSvg}&lt;/button&gt;
+                            &lt;div class=&quot;hidden send-cancel-elements-ext flex gap-2&quot;&gt;
+                                &lt;button title=&quot;Send this prompt&quot; class=&quot;send-element-ext p-1 pr-2 flex items-center&quot;&gt;${sendSvg}&amp;nbsp;Send&lt;/button&gt;
+                                &lt;button title=&quot;Cancel&quot; class=&quot;cancel-element-ext p-1 pr-2 flex items-center&quot;&gt;${cancelSvg}&amp;nbsp;Cancel&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/no-export&gt;
+                        &lt;div class=&quot;overflow-y-auto&quot;&gt;${escapeHtml(message.value)}&lt;/div&gt;
+                    &lt;/div&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="110">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">                    existingMessage.innerHTML = markedResponse;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="112">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">                    list.innerHTML +=
+                        `&lt;div class=&quot;p-4 self-end mt-4 pb-8 answer-element-ext&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                        &lt;div class=&quot;result-streaming&quot; id=&quot;${message.id}&quot;&gt;${markedResponse}&lt;/div&gt;
+                    &lt;/div&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="173">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">                list.innerHTML +=
+                    `&lt;div class=&quot;p-4 self-end mt-4 pb-8 error-element-ext&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                        &lt;div class=&quot;text-red-400&quot;&gt;${marked.parse(messageValue)}&lt;/div&gt;
+                    &lt;/div&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="204">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">                conversationList.innerHTML = `&lt;div class=&quot;flex flex-col gap-4 text-sm relative overflow-y-auto p-8&quot;&gt;
+                    &lt;div class=&quot;flex justify-center gap-4&quot;&gt;
+                        &lt;button id=&quot;refresh-conversations-button&quot; title=&quot;Reload conversations&quot; class=&quot;p-1 pr-2 flex items-center rounded-lg&quot;&gt;${refreshSvg}&amp;nbsp;Reload&lt;/button&gt;
+                        &lt;button id=&quot;close-conversations-button&quot; title=&quot;Close conversations panel&quot; class=&quot;p-1 pr-2 flex items-center rounded-lg&quot;&gt;${closeSvg}&amp;nbsp;Close&lt;/button&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;flex flex-col gap-4&quot;&gt;${conversation_list.join(&quot;&quot;)}&lt;/div&gt;
+                &lt;/div&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="325">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">            document.getElementById(&quot;qa-list&quot;).innerHTML = `&lt;div class=&quot;flex flex-col p-6 pt-2&quot;&gt;
+                &lt;h2 class=&quot;text-lg&quot;&gt;${targetButton.getAttribute(&quot;data-title&quot;)}&lt;/h2&gt;
+                &lt;span class=&quot;text-xs&quot;&gt;Started on: ${targetButton.getAttribute(&quot;data-time&quot;)}&lt;/span&gt;
+            &lt;/div&gt;`;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="45">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">    window.addEventListener(&quot;message&quot;, (event) =&gt; {
+        const message = event.data;
+        const list = document.getElementById(&quot;qa-list&quot;);
+
+        switch (message.type) {
+            case &quot;showInProgress&quot;:
+                if (message.showStopButton) {
+                    document.getElementById(&quot;stop-button&quot;).classList.remove(&quot;hidden&quot;);
+                } else {
+                    document.getElementById(&quot;stop-button&quot;).classList.add(&quot;hidden&quot;);
+                }
+
+                if (message.inProgress) {
+                    document.getElementById(&quot;in-progress&quot;).classList.remove(&quot;hidden&quot;);
+                    document.getElementById(&quot;question-input&quot;).setAttribute(&quot;disabled&quot;, true);
+                    document.getElementById(&quot;question-input-buttons&quot;).classList.add(&quot;hidden&quot;);
+                } else {
+                    document.getElementById(&quot;in-progress&quot;).classList.add(&quot;hidden&quot;);
+                    document.getElementById(&quot;question-input&quot;).removeAttribute(&quot;disabled&quot;);
+                    document.getElementById(&quot;question-input-buttons&quot;).classList.remove(&quot;hidden&quot;);
+                }
+                break;
+            case &quot;addQuestion&quot;:
+                list.classList.remove(&quot;hidden&quot;);
+                document.getElementById(&quot;introduction&quot;)?.classList?.add(&quot;hidden&quot;);
+                document.getElementById(&quot;conversation-list&quot;).classList.add(&quot;hidden&quot;);
+
+                const escapeHtml = (unsafe) =&gt; {
+                    return unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;').replaceAll('&quot;', '&amp;quot;').replaceAll(&quot;'&quot;, '&amp;#039;');
+                };
+
+                list.innerHTML +=
+                    `&lt;div class=&quot;p-4 self-end mt-4 question-element-ext relative input-background&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${userSvg}You&lt;/h2&gt;
+                        &lt;no-export class=&quot;mb-2 flex items-center&quot;&gt;
+                            &lt;button title=&quot;Edit and resend this prompt&quot; class=&quot;resend-element-ext p-1.5 flex items-center rounded-lg absolute right-6 top-6&quot;&gt;${pencilSvg}&lt;/button&gt;
+                            &lt;div class=&quot;hidden send-cancel-elements-ext flex gap-2&quot;&gt;
+                                &lt;button title=&quot;Send this prompt&quot; class=&quot;send-element-ext p-1 pr-2 flex items-center&quot;&gt;${sendSvg}&amp;nbsp;Send&lt;/button&gt;
+                                &lt;button title=&quot;Cancel&quot; class=&quot;cancel-element-ext p-1 pr-2 flex items-center&quot;&gt;${cancelSvg}&amp;nbsp;Cancel&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/no-export&gt;
+                        &lt;div class=&quot;overflow-y-auto&quot;&gt;${escapeHtml(message.value)}&lt;/div&gt;
+                    &lt;/div&gt;`;
+
+                if (message.autoScroll) {
+                    list.lastChild?.scrollIntoView({ behavior: &quot;smooth&quot;, block: &quot;end&quot;, inline: &quot;nearest&quot; });
+                }
+                break;
+            case &quot;addResponse&quot;:
+                let existingMessage = message.id &amp;&amp; document.getElementById(message.id);
+                let updatedValue = &quot;&quot;;
+
+                const unEscapeHtml = (unsafe) =&gt; {
+                    return unsafe.replaceAll('&amp;amp;', '&amp;').replaceAll('&amp;lt;', '&lt;').replaceAll('&amp;gt;', '&gt;').replaceAll('&amp;quot;', '&quot;').replaceAll('&amp;#039;', &quot;'&quot;);
+                };
+
+                if (!message.responseInMarkdown) {
+                    updatedValue = &quot;```\r\n&quot; + unEscapeHtml(message.value) + &quot; \r\n ```&quot;;
+                } else {
+                    updatedValue = message.value.split(&quot;```&quot;).length % 2 === 1 ? message.value : message.value + &quot;\n\n```\n\n&quot;;
+                }
+
+                const markedResponse = marked.parse(updatedValue);
+
+                if (existingMessage) {
+                    existingMessage.innerHTML = markedResponse;
+                } else {
+                    list.innerHTML +=
+                        `&lt;div class=&quot;p-4 self-end mt-4 pb-8 answer-element-ext&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                        &lt;div class=&quot;result-streaming&quot; id=&quot;${message.id}&quot;&gt;${markedResponse}&lt;/div&gt;
+                    &lt;/div&gt;`;
+                }
+
+                if (message.done) {
+                    const preCodeList = list.lastChild.querySelectorAll(&quot;pre &gt; code&quot;);
+
+                    preCodeList.forEach((preCode) =&gt; {
+                        preCode.classList.add(&quot;input-background&quot;, &quot;p-4&quot;, &quot;pb-2&quot;, &quot;block&quot;, &quot;whitespace-pre&quot;, &quot;overflow-x-scroll&quot;);
+                        preCode.parentElement.classList.add(&quot;pre-code-element&quot;, &quot;relative&quot;);
+
+                        const buttonWrapper = document.createElement(&quot;no-export&quot;);
+                        buttonWrapper.classList.add(&quot;code-actions-wrapper&quot;, &quot;flex&quot;, &quot;gap-3&quot;, &quot;pr-2&quot;, &quot;pt-1&quot;, &quot;pb-1&quot;, &quot;flex-wrap&quot;, &quot;items-center&quot;, &quot;justify-end&quot;, &quot;rounded-t-lg&quot;, &quot;input-background&quot;);
+
+                        // Create copy to clipboard button
+                        const copyButton = document.createElement(&quot;button&quot;);
+                        copyButton.title = &quot;Copy to clipboard&quot;;
+                        copyButton.innerHTML = `${clipboardSvg} Copy`;
+
+                        copyButton.classList.add(&quot;code-element-ext&quot;, &quot;p-1&quot;, &quot;pr-2&quot;, &quot;flex&quot;, &quot;items-center&quot;, &quot;rounded-lg&quot;);
+
+                        const insert = document.createElement(&quot;button&quot;);
+                        insert.title = &quot;Insert the below code to the current file&quot;;
+                        insert.innerHTML = `${insertSvg} Insert`;
+
+                        insert.classList.add(&quot;edit-element-ext&quot;, &quot;p-1&quot;, &quot;pr-2&quot;, &quot;flex&quot;, &quot;items-center&quot;, &quot;rounded-lg&quot;);
+
+                        const newTab = document.createElement(&quot;button&quot;);
+                        newTab.title = &quot;Create a new file with the below code&quot;;
+                        newTab.innerHTML = `${plusSvg} New`;
+
+                        newTab.classList.add(&quot;new-code-element-ext&quot;, &quot;p-1&quot;, &quot;pr-2&quot;, &quot;flex&quot;, &quot;items-center&quot;, &quot;rounded-lg&quot;);
+
+                        buttonWrapper.append(copyButton, insert, newTab);
+
+                        if (preCode.parentNode.previousSibling) {
+                            preCode.parentNode.parentNode.insertBefore(buttonWrapper, preCode.parentNode.previousSibling);
+                        } else {
+                            preCode.parentNode.parentNode.prepend(buttonWrapper);
+                        }
+                    });
+
+                    existingMessage = document.getElementById(message.id);
+                    existingMessage.classList.remove(&quot;result-streaming&quot;);
+                }
+
+                if (message.autoScroll &amp;&amp; (message.done || markedResponse.endsWith(&quot;\n&quot;))) {
+                    list.lastChild?.scrollIntoView({ behavior: &quot;smooth&quot;, block: &quot;end&quot;, inline: &quot;nearest&quot; });
+                }
+
+                break;
+            case &quot;addError&quot;:
+                if (!list.innerHTML) {
+                    return;
+                }
+
+                const messageValue = message.value || &quot;An error occurred. If this issue persists please clear your session token with `ChatGPT: Reset session` command and/or restart your Visual Studio Code. If you still experience issues, it may be due to outage on https://openai.com services.&quot;;
+
+                list.innerHTML +=
+                    `&lt;div class=&quot;p-4 self-end mt-4 pb-8 error-element-ext&quot;&gt;
+                        &lt;h2 class=&quot;mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                        &lt;div class=&quot;text-red-400&quot;&gt;${marked.parse(messageValue)}&lt;/div&gt;
+                    &lt;/div&gt;`;
+
+                if (message.autoScroll) {
+                    list.lastChild?.scrollIntoView({ behavior: &quot;smooth&quot;, block: &quot;end&quot;, inline: &quot;nearest&quot; });
+                }
+                break;
+            case &quot;clearConversation&quot;:
+                clearConversation();
+                break;
+            case &quot;exportConversation&quot;:
+                exportConversation();
+                break;
+            case &quot;loginSuccessful&quot;:
+                document.getElementById(&quot;login-button&quot;)?.classList?.add(&quot;hidden&quot;);
+                if (message.showConversations) {
+                    document.getElementById(&quot;list-conversations-link&quot;)?.classList?.remove(&quot;hidden&quot;);
+                }
+                break;
+            case &quot;listConversations&quot;:
+                list.classList.add(&quot;hidden&quot;);
+                document.getElementById(&quot;introduction&quot;)?.classList?.add(&quot;hidden&quot;);
+                const conversationList = document.getElementById(&quot;conversation-list&quot;);
+                conversationList.classList.remove(&quot;hidden&quot;);
+                const conversation_list = message.conversations.items.map(conversation =&gt; {
+                    const chatDate = new Date(conversation.create_time).toLocaleString();
+                    return `&lt;button id=&quot;show-conversation-button&quot; data-id=&quot;${conversation.id}&quot; data-title=&quot;${conversation.title.replace(/&quot;/g, '')}&quot; data-time=&quot;${chatDate}&quot; class=&quot;flex py-3 px-3 items-center gap-3 relative rounded-lg input-background cursor-pointer break-all group&quot;&gt;${textSvg}&lt;div class=&quot;flex flex-col items-start gap-2 truncate&quot;&gt;&lt;span class=&quot;text-left font-bold&quot;&gt;${conversation.title}&lt;/span&gt;&lt;div class=&quot;text-xs text-left&quot;&gt;${chatDate}&lt;/div&gt;&lt;/div&gt;&lt;/button&gt;`;
+                });
+                conversationList.innerHTML = `&lt;div class=&quot;flex flex-col gap-4 text-sm relative overflow-y-auto p-8&quot;&gt;
+                    &lt;div class=&quot;flex justify-center gap-4&quot;&gt;
+                        &lt;button id=&quot;refresh-conversations-button&quot; title=&quot;Reload conversations&quot; class=&quot;p-1 pr-2 flex items-center rounded-lg&quot;&gt;${refreshSvg}&amp;nbsp;Reload&lt;/button&gt;
+                        &lt;button id=&quot;close-conversations-button&quot; title=&quot;Close conversations panel&quot; class=&quot;p-1 pr-2 flex items-center rounded-lg&quot;&gt;${closeSvg}&amp;nbsp;Close&lt;/button&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;flex flex-col gap-4&quot;&gt;${conversation_list.join(&quot;&quot;)}&lt;/div&gt;
+                &lt;/div&gt;`;
+                break;
+            default:
+                break;
+        }
+    });
+</failure>
+		</testcase>
+		<testcase name="javascript.audit.detect-replaceall-sanitization.detect-replaceall-sanitization" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="73">
+			<failure type="INFO" message="Detected a call to `replaceAll()` in an attempt to HTML escape the string `unsafe`. Manually sanitizing input through a manually built list can be circumvented in many situations, and it's better to use a well known sanitization library such as `sanitize-html` or `DOMPurify`.">                    return unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;').replaceAll('&quot;', '&amp;quot;').replaceAll(&quot;'&quot;, '&amp;#039;');
+</failure>
+		</testcase>
+		<testcase name="javascript.audit.detect-replaceall-sanitization.detect-replaceall-sanitization" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="73">
+			<failure type="INFO" message="Detected a call to `replaceAll()` in an attempt to HTML escape the string `unsafe.replaceAll('&amp;', '&amp;amp;')`. Manually sanitizing input through a manually built list can be circumvented in many situations, and it's better to use a well known sanitization library such as `sanitize-html` or `DOMPurify`.">                    return unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;').replaceAll('&quot;', '&amp;quot;').replaceAll(&quot;'&quot;, '&amp;#039;');
+</failure>
+		</testcase>
+		<testcase name="javascript.audit.detect-replaceall-sanitization.detect-replaceall-sanitization" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="73">
+			<failure type="INFO" message="Detected a call to `replaceAll()` in an attempt to HTML escape the string `unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;')`. Manually sanitizing input through a manually built list can be circumvented in many situations, and it's better to use a well known sanitization library such as `sanitize-html` or `DOMPurify`.">                    return unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;').replaceAll('&quot;', '&amp;quot;').replaceAll(&quot;'&quot;, '&amp;#039;');
+</failure>
+		</testcase>
+		<testcase name="javascript.audit.detect-replaceall-sanitization.detect-replaceall-sanitization" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/BadBoy17G-clara-copilot-0.0.4/extension/media/main.js" line="73">
+			<failure type="INFO" message="Detected a call to `replaceAll()` in an attempt to HTML escape the string `unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;')`. Manually sanitizing input through a manually built list can be circumvented in many situations, and it's better to use a well known sanitization library such as `sanitize-html` or `DOMPurify`.">                    return unsafe.replaceAll('&amp;', '&amp;amp;').replaceAll('&lt;', '&amp;lt;').replaceAll('&gt;', '&amp;gt;').replaceAll('&quot;', '&amp;quot;').replaceAll(&quot;'&quot;, '&amp;#039;');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

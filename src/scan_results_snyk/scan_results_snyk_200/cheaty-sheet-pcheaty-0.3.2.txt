@@ -1,0 +1,89 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/cheaty-sheet-pcheaty-0.3.2...
+
+Tested 79 dependencies for known issues, found 22 issues, 28 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade @cheaty-sheet/cheaty@0.7.1 to @cheaty-sheet/cheaty@0.9.0 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-451341] in marked@0.6.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > marked@0.6.1
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@4.1.0
+    introduced by @cheaty-sheet/cheaty@0.7.1 > yargs@13.2.2 > cliui@4.1.0 > strip-ansi@4.0.0 > ansi-regex@3.0.0 and 4 other path(s)
+  This issue was fixed in versions: 3.0.1, 4.1.1, 5.0.1, 6.0.1
+  ✗ Remote Code Execution (RCE) [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-1056767] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.7.7
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-1279029] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.7.7
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-173692] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.0.14, 4.1.2
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-174183] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 3.0.7, 4.1.2, 4.0.14
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-469063] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.3.0, 3.0.8
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-480388] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.4.5
+  ✗ Arbitrary Code Execution [High Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-534478] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 3.0.8, 4.5.3
+  ✗ Prototype Pollution [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-534988] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 3.0.8, 4.5.3
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HANDLEBARS-567742] in handlebars@4.1.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1
+  This issue was fixed in versions: 4.6.0
+  ✗ Denial of Service (DoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-JSYAML-173999] in js-yaml@3.12.2
+    introduced by @cheaty-sheet/cheaty@0.7.1 > js-yaml@3.12.2
+  This issue was fixed in versions: 3.13.0
+  ✗ Arbitrary Code Execution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSYAML-174129] in js-yaml@3.12.2
+    introduced by @cheaty-sheet/cheaty@0.7.1 > js-yaml@3.12.2
+  This issue was fixed in versions: 3.13.1
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-174116] in marked@0.6.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > marked@0.6.1
+  This issue was fixed in versions: 0.6.2
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-2342073] in marked@0.6.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > marked@0.6.1
+  This issue was fixed in versions: 4.0.10
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-2342082] in marked@0.6.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > marked@0.6.1
+  This issue was fixed in versions: 4.0.10
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKED-584281] in marked@0.6.1
+    introduced by @cheaty-sheet/cheaty@0.7.1 > marked@0.6.1
+  This issue was fixed in versions: 1.1.1
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@0.0.8
+    introduced by @cheaty-sheet/cheaty@0.7.1 > mkdirp@0.5.1 > minimist@0.0.8 and 1 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@0.0.8
+    introduced by @cheaty-sheet/cheaty@0.7.1 > mkdirp@0.5.1 > minimist@0.0.8 and 1 other path(s)
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-UGLIFYJS-1727251] in uglify-js@3.4.10
+    introduced by @cheaty-sheet/cheaty@0.7.1 > handlebars@4.1.1 > uglify-js@3.4.10
+  This issue was fixed in versions: 3.14.3
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-Y18N-1021887] in y18n@4.0.0
+    introduced by @cheaty-sheet/cheaty@0.7.1 > yargs@13.2.2 > y18n@4.0.0
+  This issue was fixed in versions: 3.2.2, 4.0.1, 5.0.5
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-YARGSPARSER-560381] in yargs-parser@13.0.0
+    introduced by @cheaty-sheet/cheaty@0.7.1 > yargs@13.2.2 > yargs-parser@13.0.0
+  This issue was fixed in versions: 5.0.1, 13.1.2, 15.0.1, 18.1.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      pcheaty
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/cheaty-sheet-pcheaty-0.3.2
+Licenses:          enabled
+
+

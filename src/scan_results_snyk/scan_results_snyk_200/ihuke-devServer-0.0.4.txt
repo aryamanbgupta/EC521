@@ -1,0 +1,100 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/ihuke-devServer-0.0.4...
+
+Tested 74 dependencies for known issues, found 25 issues, 47 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade express@4.14.0 to express@4.17.3 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:mime:20170907] in mime@1.3.4
+    introduced by less@2.7.1 > mime@1.3.4 and 2 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:debug:20170905] in debug@2.2.0
+    introduced by express@4.14.0 > debug@2.2.0 and 3 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:ms:20170412] in ms@0.7.1
+    introduced by express@4.14.0 > debug@2.2.0 > ms@0.7.1 and 5 other path(s)
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.2.0
+    introduced by express@4.14.0 > qs@6.2.0
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:fresh:20170908] in fresh@0.3.0
+    introduced by express@4.14.0 > fresh@0.3.0 and 2 other path(s)
+  ✗ Prototype Override Protection Bypass [High Severity][https://security.snyk.io/vuln/npm:qs:20170213] in qs@6.2.0
+    introduced by express@4.14.0 > qs@6.2.0
+
+  Upgrade open@0.0.5 to open@6.0.0 to fix
+  ✗ Arbitrary Command Injection [High Severity][https://security.snyk.io/vuln/npm:open:20180512] in open@0.0.5
+    introduced by open@0.0.5
+  ✗ Arbitrary Code Injection [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-OPEN-174041] in open@0.0.5
+    introduced by open@0.0.5
+
+  Upgrade ws@1.1.1 to ws@5.2.3 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-WS-1296835] in ws@1.1.1
+    introduced by ws@1.1.1
+  ✗ Insecure Randomness [Medium Severity][https://security.snyk.io/vuln/npm:ws:20160920] in ws@1.1.1
+    introduced by ws@1.1.1
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/npm:ws:20171108] in ws@1.1.1
+    introduced by ws@1.1.1
+
+  Upgrade xml2js@0.4.17 to xml2js@0.5.0 to fix
+  ✗ Prototype Pollution (new) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XML2JS-5414874] in xml2js@0.4.17
+    introduced by xml2js@0.4.17
+
+
+Patchable issues:
+
+  Patch available for mime@1.3.4
+  ✗ Regular Expression Denial of Service (ReDoS) [Low Severity][https://security.snyk.io/vuln/npm:mime:20170907] in mime@1.3.4
+    introduced by less@2.7.1 > mime@1.3.4 and 2 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-450202] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.12
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.20
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.17
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73638] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.11
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73639] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.11
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/npm:lodash:20180130] in lodash@4.9.0
+    introduced by gaze@1.1.2 > globule@1.0.0 > lodash@4.9.0 and 1 other path(s)
+  This issue was fixed in versions: 4.17.5
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.3
+    introduced by gaze@1.1.2 > globule@1.0.0 > minimatch@3.0.3 and 1 other path(s)
+  This issue was fixed in versions: 3.0.5
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@0.0.8
+    introduced by less@2.7.1 > mkdirp@0.5.1 > minimist@0.0.8
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@0.0.8
+    introduced by less@2.7.1 > mkdirp@0.5.1 > minimist@0.0.8
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/npm:brace-expansion:20170302] in brace-expansion@1.1.6
+    introduced by gaze@1.1.2 > globule@1.0.0 > minimatch@3.0.3 > brace-expansion@1.1.6 and 1 other path(s)
+  This issue was fixed in versions: 1.1.7
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:forwarded:20170908] in forwarded@0.1.0
+    introduced by express@4.14.0 > proxy-addr@1.1.2 > forwarded@0.1.0
+  This issue was fixed in versions: 0.1.2
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      devServer
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/ihuke-devServer-0.0.4
+Licenses:          enabled
+
+

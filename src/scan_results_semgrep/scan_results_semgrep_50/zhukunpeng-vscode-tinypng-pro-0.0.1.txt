@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="problem-based-packs.insecure-transport.js-node.bypass-tls-verification.bypass-tls-verification" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/zhukunpeng-vscode-tinypng-pro-0.0.1/extension/src/config.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/zhukunpeng-vscode-tinypng-pro-0.0.1/extension/src/config.js" line="9">
+			<failure type="WARNING" message="Checks for setting the environment variable NODE_TLS_REJECT_UNAUTHORIZED to 0, which disables TLS verification. This should only be used for debugging purposes. Setting the option rejectUnauthorized to false bypasses verification against the list of trusted CAs, which also leads to insecure transport. These options lead to vulnerability to MTM attacks, and should not be used.">  headers: {
+    rejectUnauthorized: false,
+    &quot;Postman-Token&quot;: Date.now(),
+    &quot;Cache-Control&quot;: &quot;no-cache&quot;,
+    &quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded&quot;,
+    &quot;User-Agent&quot;: &quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&quot;
+  },
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

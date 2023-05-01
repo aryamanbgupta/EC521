@@ -1,0 +1,25 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/popstas-ansible-server-sites-0.5.1...
+
+Tested 2 dependencies for known issues, found 2 issues, 2 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade node-fetch@2.1.1 to node-fetch@2.6.7 to fix
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NODEFETCH-2342118] in node-fetch@2.1.1
+    introduced by node-fetch@2.1.1
+  ✗ Denial of Service [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NODEFETCH-674311] in node-fetch@2.1.1
+    introduced by node-fetch@2.1.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package-lock.json
+Project name:      ansible-server-sites
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/popstas-ansible-server-sites-0.5.1
+Licenses:          enabled
+
+

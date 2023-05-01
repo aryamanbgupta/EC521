@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/AdamRaichu-zip-viewer-3.9.2/extension/media/ZipEditor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/AdamRaichu-zip-viewer-3.9.2/extension/media/ZipEditor.js" line="72">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">      t.innerHTML = e.data.string;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/AdamRaichu-zip-viewer-3.9.2/extension/media/ZipEditor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/AdamRaichu-zip-viewer-3.9.2/extension/media/ZipEditor.js" line="34">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">window.addEventListener(&quot;message&quot;, (e) =&gt; {
+  if (e.data.command === &quot;files&quot;) {
+    document.getElementById(&quot;loading&quot;).remove();
+
+    var target = document.getElementById(&quot;target&quot;);
+    var files = JSON.parse(e.data.f);
+    var keys = Object.keys(files);
+    for (var c = 0; c &lt; keys.length; c++) {
+      if (files[keys[c]].dir) {
+        continue;
+      }
+      var d = document.createElement(&quot;div&quot;);
+      var i = document.createElement(&quot;input&quot;);
+      i.type = &quot;checkbox&quot;;
+      d.appendChild(i);
+
+      var p = document.createElement(&quot;span&quot;);
+      p.innerText = keys[c];
+      p.addEventListener(&quot;click&quot;, function () {
+        vscode.postMessage({ command: &quot;get&quot;, uri: this.innerText });
+      });
+
+      d.appendChild(p);
+      target.appendChild(d);
+    }
+  } else if (e.data.command === &quot;content&quot;) {
+    /**
+     * @type {HTMLDivElement}
+     */
+    var preview = document.getElementById(&quot;preview&quot;);
+    /**
+     * @type {HTMLHeadingElement}
+     */
+    var previewTitle = document.getElementById(&quot;uri&quot;);
+    if (e.data.type === &quot;string&quot;) {
+      preview.innerHTML = &quot;&quot;;
+      var t = document.createElement(&quot;textarea&quot;);
+      t.readOnly = true;
+      t.innerHTML = e.data.string;
+      preview.appendChild(t);
+    } else if (e.data.type === &quot;image&quot;) {
+      preview.innerHTML = &quot;&quot;;
+      var i = document.createElement(&quot;img&quot;);
+      i.src = `data:${mime[&quot;.&quot; + e.data.ext]};base64,${e.data.base64}`;
+      preview.appendChild(i);
+    }
+    previewTitle.innerText = e.data.uri;
+    preview.scrollIntoView({ behavior: &quot;smooth&quot; });
+  }
+});
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

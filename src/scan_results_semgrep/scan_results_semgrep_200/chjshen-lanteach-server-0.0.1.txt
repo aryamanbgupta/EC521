@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/chjshen-lanteach-server-0.0.1/extension/images/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/chjshen-lanteach-server-0.0.1/extension/images/media/main.js" line="29">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">    window.addEventListener('message', event =&gt; {
+        const message = event.data; // The json data that the extension sent
+        switch (message.type) {
+            case 'addColor':
+                {
+                    addColor();
+                    break;
+                }
+            case 'clearColors':
+                {
+                    colors = [];
+                    updateColorList(colors);
+                    break;
+                }
+            case 'runCode':
+                {
+                    runCode();
+                    break;
+                }
+            case 'getTextAreaText':
+                {
+                    // @ts-ignore
+                    let txt = document.querySelector('#sampleInput').value;
+                    vscode.postMessage({ type: 'changeText', value: txt });
+                    break;
+                }
+        }
+    });
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

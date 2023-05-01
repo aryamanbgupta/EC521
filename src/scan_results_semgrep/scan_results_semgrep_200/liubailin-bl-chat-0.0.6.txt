@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="5" tests="5" time="0.0">
+	<testsuite disabled="0" errors="0" failures="5" name="semgrep results" skipped="0" tests="5" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" line="60">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">        list.innerHTML += `
+                          &lt;div class=&quot;p-4 self-end mt-4 question-element-gnc relative&quot; style=&quot;background:var(--vscode-input-background&quot;&gt;  
+                            &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${userSvg}You&lt;/h2&gt;
+                            &lt;no-export class=&quot;mb-2 flex items-center&quot;&gt;
+                              &lt;button title=&quot;Edit and resend this prompt&quot; class=&quot;resend-element-gnc p-2 flex items-center rounded-lg absolute right-6 top-2&quot;&gt;${pencilSvg}&lt;/button&gt;
+                              &lt;div class=&quot;hidden send-cancel-elements-gnc flex gap-2&quot;&gt;
+                                &lt;button title=&quot;Send this prompt&quot; class=&quot;send-element-gnc p-1 pr-2 flex items-center&quot;&gt;${sendSvg}Send&lt;/button&gt;
+                                &lt;button title=&quot;Cancel&quot; class=&quot;cancel-element-gnc p-1 pr-2 flex items-center&quot;&gt;${cancelSvg}Cancel&lt;/button&gt;
+                              &lt;/div&gt;
+                            &lt;/no-export&gt;
+                            &lt;div class=&quot;overflow-y-auto&quot;&gt;${html}&lt;/div&gt;
+                          &lt;/div&gt;`
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" line="106">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">          existingMessage.innerHTML = markedResponse
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" line="108">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">          list.innerHTML += `&lt;div class=&quot;p-4 self-end mt-4 pb-8 answer-element-gnc &quot;&gt;
+          &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+          &lt;div id=&quot;${message.id}&quot;&gt;${markedResponse}&lt;/div&gt;
+        &lt;/div&gt;`
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" line="177">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">        list.innerHTML += `&lt;div class=&quot;p-4 self-end mt-4 pb-8 error-element-gnc&quot;&gt;
+                              &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                              &lt;div class=&quot;text-red-400&quot;&gt;${marked.parse(
+                                &quot;发生错误。如果此问题仍然存在，请使用' ChatGPT: clear apiKey '命令清除会话令牌或重新启动vscode。如果您仍然遇到问题，可能是由于https://openai.com服务中断。&quot;
+                              )}
+                              &lt;/div&gt;
+                          &lt;/div&gt;`
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/liubailin-bl-chat-0.0.6/extension/media/main.js" line="52">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">  window.addEventListener('message', event =&gt; {
+    const message = event.data
+    const list = document.getElementById('qa-list')
+
+    switch (message.type) {
+      case 'addQuestion':
+        const html = message.code != null ? marked.parse(message.value + '\r\n\n\n```\n' + message.code + '\n```') : message.value
+
+        list.innerHTML += `
+                          &lt;div class=&quot;p-4 self-end mt-4 question-element-gnc relative&quot; style=&quot;background:var(--vscode-input-background&quot;&gt;  
+                            &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${userSvg}You&lt;/h2&gt;
+                            &lt;no-export class=&quot;mb-2 flex items-center&quot;&gt;
+                              &lt;button title=&quot;Edit and resend this prompt&quot; class=&quot;resend-element-gnc p-2 flex items-center rounded-lg absolute right-6 top-2&quot;&gt;${pencilSvg}&lt;/button&gt;
+                              &lt;div class=&quot;hidden send-cancel-elements-gnc flex gap-2&quot;&gt;
+                                &lt;button title=&quot;Send this prompt&quot; class=&quot;send-element-gnc p-1 pr-2 flex items-center&quot;&gt;${sendSvg}Send&lt;/button&gt;
+                                &lt;button title=&quot;Cancel&quot; class=&quot;cancel-element-gnc p-1 pr-2 flex items-center&quot;&gt;${cancelSvg}Cancel&lt;/button&gt;
+                              &lt;/div&gt;
+                            &lt;/no-export&gt;
+                            &lt;div class=&quot;overflow-y-auto&quot;&gt;${html}&lt;/div&gt;
+                          &lt;/div&gt;`
+
+        document.getElementById('in-progress')?.classList?.remove('hidden')
+        document.getElementById('chat-button-wrapper')?.classList?.add('hidden')
+        document.getElementById('introduction')?.classList?.add('hidden')
+        list.lastChild?.scrollIntoView({
+          behavior: 'smooth',
+          block: 'end',
+          inline: 'nearest'
+        })
+        break
+      case 'addResponse':
+        document.getElementById('in-progress')?.classList?.add('hidden')
+        document.getElementById('chat-button-wrapper')?.classList?.remove('hidden')
+
+        let existingMessage = message.id &amp;&amp; document.getElementById(message.id)
+        let updatedValue = ''
+
+        updatedValue = message.value.split('```').length % 2 === 1 ? message.value : message.value + '\n\n```\n\n'
+
+        const markedResponse = marked.parse(updatedValue)
+
+        // const preCodeList = markedResponse.querySelectorAll('pre &gt; code')
+
+        // preCodeList.forEach((preCode, index) =&gt; {
+        //   preCode.parentElement.classList.add('pre-code-element')
+
+        //   if (index != preCodeList.length - 1) {
+        //     preCode.parentElement.classList.add('mb-8')
+        //   }
+
+        //   preCode.classList.add('block', 'whitespace-pre', 'overflow-x-scroll')
+        // })
+
+        if (existingMessage) {
+          existingMessage.innerHTML = markedResponse
+        } else {
+          list.innerHTML += `&lt;div class=&quot;p-4 self-end mt-4 pb-8 answer-element-gnc &quot;&gt;
+          &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+          &lt;div id=&quot;${message.id}&quot;&gt;${markedResponse}&lt;/div&gt;
+        &lt;/div&gt;`
+        }
+
+        if (message.done) {
+          const preCodeList = list.lastChild.querySelectorAll('pre &gt; code')
+
+          preCodeList.forEach((preCode, index) =&gt; {
+            preCode.parentElement.classList.add('pre-code-element', 'relative')
+
+            if (index != preCodeList.length - 1) {
+              preCode.parentElement.classList.add('mb-8')
+            }
+
+            preCode.classList.add('block', 'whitespace-pre', 'overflow-x-scroll')
+
+            const buttonWrapper = document.createElement('div')
+            buttonWrapper.classList.add(
+              'code-actions-wrapper',
+              'flex',
+              'gap-4',
+              'flex-wrap',
+              'items-center',
+              'right-2',
+              '-top-2',
+              'absolute'
+            )
+
+            // Create copy to clipboard button
+            const copyButton = document.createElement('button')
+            copyButton.title = '复制到剪切板'
+            copyButton.innerHTML = clipboardSvg
+
+            copyButton.classList.add('code-element-gnc', 'p-2', 'flex', 'items-center', 'rounded-lg')
+
+            const insert = document.createElement('button')
+            insert.title = '将以下代码插入到当前文件中'
+            insert.innerHTML = insertSvg
+
+            insert.classList.add('edit-element-gnc', 'p-2', 'flex', 'items-center', 'rounded-lg')
+
+            const newTab = document.createElement('button')
+            newTab.title = '创建一个新文件并且写入以下代码'
+            newTab.innerHTML = plusSvg
+
+            newTab.classList.add('new-code-element-gnc', 'p-2', 'flex', 'items-center', 'rounded-lg')
+
+            buttonWrapper.append(copyButton, insert, newTab)
+
+            preCode.parentElement.prepend(buttonWrapper)
+          })
+
+          existingMessage = document.getElementById(message.id)
+
+          list.lastChild?.scrollIntoView({
+            behavior: 'smooth',
+            block: 'end',
+            inline: 'nearest'
+          })
+        }
+
+        break
+      case 'addError':
+        if (!list.innerHTML) {
+          return
+        }
+
+        list.innerHTML += `&lt;div class=&quot;p-4 self-end mt-4 pb-8 error-element-gnc&quot;&gt;
+                              &lt;h2 class=&quot;font-bold mb-5 flex&quot;&gt;${aiSvg}ChatGPT&lt;/h2&gt;
+                              &lt;div class=&quot;text-red-400&quot;&gt;${marked.parse(
+                                &quot;发生错误。如果此问题仍然存在，请使用' ChatGPT: clear apiKey '命令清除会话令牌或重新启动vscode。如果您仍然遇到问题，可能是由于https://openai.com服务中断。&quot;
+                              )}
+                              &lt;/div&gt;
+                          &lt;/div&gt;`
+
+        document.getElementById('in-progress')?.classList?.add('hidden')
+        document.getElementById('chat-button-wrapper')?.classList?.remove('hidden')
+        list.lastChild?.scrollIntoView({
+          behavior: 'smooth',
+          block: 'end',
+          inline: 'nearest'
+        })
+        break
+      case 'clearConversation':
+        clearConversation()
+        break
+      case 'exportConversation':
+        exportConversation()
+        break
+      default:
+        break
+    }
+  })
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

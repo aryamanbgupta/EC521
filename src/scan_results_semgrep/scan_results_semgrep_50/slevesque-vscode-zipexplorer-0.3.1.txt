@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="2" tests="2" time="0.0">
+	<testsuite disabled="0" errors="0" failures="2" name="semgrep results" skipped="0" tests="2" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-zipexplorer-0.3.1/extension/out/src/ZipExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-zipexplorer-0.3.1/extension/out/src/ZipExplorer.js" line="208">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            dark: path.join(__filename, '..', '..', '..', 'resources', 'dark', type + '.svg'),
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-zipexplorer-0.3.1/extension/out/src/ZipExplorer.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/slevesque-vscode-zipexplorer-0.3.1/extension/out/src/ZipExplorer.js" line="209">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            light: path.join(__filename, '..', '..', '..', 'resources', 'light', type + '.svg')
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

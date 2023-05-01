@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" line="228">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                fileUpload(path.join(folder, file), index, isUpload);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" line="228">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                fileUpload(path.join(folder, file), index, isUpload);
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.bypass-tls-verification.bypass-tls-verification" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/yanqc-image-compression-0.0.3/extension/out/extension.js" line="41">
+			<failure type="WARNING" message="Checks for setting the environment variable NODE_TLS_REJECT_UNAUTHORIZED to 0, which disables TLS verification. This should only be used for debugging purposes. Setting the option rejectUnauthorized to false bypasses verification against the list of trusted CAs, which also leads to insecure transport. These options lead to vulnerability to MTM attacks, and should not be used.">        headers: {
+            rejectUnauthorized: false,
+            &quot;X-Forwarded-For&quot;: &quot;&quot;,
+            &quot;Postman-Token&quot;: Date.now(),
+            &quot;Cache-Control&quot;: &quot;no-cache&quot;,
+            &quot;Content-Type&quot;: &quot;application/x-www-form-urlencoded&quot;,
+            &quot;User-Agent&quot;: &quot;Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&quot;,
+        },
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

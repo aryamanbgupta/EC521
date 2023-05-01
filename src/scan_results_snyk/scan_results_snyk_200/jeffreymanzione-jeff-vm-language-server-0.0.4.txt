@@ -1,0 +1,22 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/jeffreymanzione-jeff-vm-language-server-0.0.4...
+
+Tested 13 dependencies for known issues, found 1 issue, 1 vulnerable path.
+
+
+Issues with no direct upgrade or patch:
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vscode-languageclient@7.0.0 > minimatch@3.0.4
+  This issue was fixed in versions: 3.0.5
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      jeff-vm-language-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/jeffreymanzione-jeff-vm-language-server-0.0.4
+Licenses:          enabled
+
+

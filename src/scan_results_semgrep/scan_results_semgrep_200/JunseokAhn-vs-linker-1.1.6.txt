@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="14" tests="14" time="0.0">
+	<testsuite disabled="0" errors="0" failures="14" name="semgrep results" skipped="0" tests="14" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="90">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            (0, Log_1.showLog)(&quot;relativePath return : &quot; + path.join(rootDir, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="91">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return path.join(rootDir, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="97">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            (0, Log_1.showLog)(&quot;determineIncludePath return : &quot; + path.join(rootDir, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="97">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            (0, Log_1.showLog)(&quot;determineIncludePath return : &quot; + path.join(rootDir, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="98">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return path.join(rootDir, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/Parser.js" line="98">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            return path.join(rootDir, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="111">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      showLog('relativePath return : ' + path.join(rootDir!, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="112">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      return path.join(rootDir!, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="120">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      showLog('determineIncludePath return : ' + path.join(rootDir!, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="120">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      showLog('determineIncludePath return : ' + path.join(rootDir!, filename));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="121">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      return path.join(rootDir!, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/Parser.ts" line="121">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">      return path.join(rootDir!, filename);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/ProjectManager.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/out/service/ProjectManager.js" line="142">
+			<failure type="WARNING" message="RegExp() called with a `regex` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">    return new RegExp(parts[1], parts[2]);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/ProjectManager.ts" file="/Users/zta/Docs/EC521/EC521/src/unzipped/JunseokAhn-vs-linker-1.1.6/extension/src/service/ProjectManager.ts" line="150">
+			<failure type="WARNING" message="RegExp() called with a `regex` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">  return new RegExp(parts![1], parts![2]);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

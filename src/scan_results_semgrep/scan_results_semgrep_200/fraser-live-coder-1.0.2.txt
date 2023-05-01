@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="4" tests="4" time="0.0">
+	<testsuite disabled="0" errors="0" failures="4" name="semgrep results" skipped="0" tests="4" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/webview_src/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/webview_src/main.js" line="251">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    tooltip.innerHTML = highlightDiv.innerHTML;
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/webview_src/main.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/webview_src/main.js" line="25">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">    window.addEventListener('message', event =&gt; {
+        const message = event.data;
+        switch (message.command) {
+            case 'editorScroll':
+                editorScrollMessage(message.scroll);
+        }
+    });
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.spawn-shell-true.spawn-shell-true" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/out/extension.js" line="237">
+			<failure type="ERROR" message="Found '$SPAWN' with '{shell: true}'. This is dangerous because this call will spawn the command using a shell process. Doing so propagates current shell settings and variables, which makes it much easier for a malicious actor to execute commands. Use '{shell: false}' instead.">            this._serverProcess = child_process_1.spawn(`${this._pythonPath} -m live_coder ${this._serverPort}`, [], { shell: true });
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2/extension/out/extension.js" line="127">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            localResourceRoots: [vscode.Uri.file(path.join(extensionPath, 'webview_src'))]
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

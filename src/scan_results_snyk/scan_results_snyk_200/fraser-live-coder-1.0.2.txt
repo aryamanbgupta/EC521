@@ -1,0 +1,47 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2...
+
+Tested 70 dependencies for known issues, found 8 issues, 8 vulnerable paths.
+
+
+Patchable issues:
+
+  Patch available for lodash@4.17.15
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@4.17.15
+    introduced by request-promise-native@1.0.7 > request-promise-core@1.1.2 > lodash@4.17.15
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@6.10.0
+    introduced by request@2.88.0 > har-validator@5.1.3 > ajv@6.10.0
+  This issue was fixed in versions: 6.12.3
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSONSCHEMA-1920922] in json-schema@0.2.3
+    introduced by request@2.88.0 > http-signature@1.2.0 > jsprim@1.4.1 > json-schema@0.2.3
+  This issue was fixed in versions: 0.4.0
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.17.15
+    introduced by request-promise-native@1.0.7 > request-promise-core@1.1.2 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.17.15
+    introduced by request-promise-native@1.0.7 > request-promise-core@1.1.2 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.17.15
+    introduced by request-promise-native@1.0.7 > request-promise-core@1.1.2 > lodash@4.17.15
+  This issue was fixed in versions: 4.17.17
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.5.2
+    introduced by request@2.88.0 > qs@6.5.2
+  This issue was fixed in versions: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.88.0
+    introduced by request@2.88.0
+  No upgrade or patch available
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      live-coder
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/fraser-live-coder-1.0.2
+Licenses:          enabled
+
+

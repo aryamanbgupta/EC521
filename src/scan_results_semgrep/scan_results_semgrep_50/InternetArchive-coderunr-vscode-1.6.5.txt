@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="4" tests="4" time="0.0">
+	<testsuite disabled="0" errors="0" failures="4" name="semgrep results" skipped="0" tests="4" time="0">
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/command-processor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/command-processor.js" line="19">
+			<failure type="WARNING" message="RegExp() called with a `command` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                match: command.match ? new RegExp(command.match, 'i') : undefined,
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/command-processor.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/command-processor.js" line="20">
+			<failure type="WARNING" message="RegExp() called with a `command` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">                notMatch: command.notMatch ? new RegExp(command.notMatch, 'i') : undefined,
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/run-on-save.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/run-on-save.js" line="129">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `command`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">            return child_process_1.exec(command, {
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/run-on-save.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/InternetArchive-coderunr-vscode-1.6.5/extension/out/run-on-save.js" line="135">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `command`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">            return child_process_1.exec(command, {
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

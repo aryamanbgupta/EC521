@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="3" tests="3" time="0.0">
+	<testsuite disabled="0" errors="0" failures="3" name="semgrep results" skipped="0" tests="3" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/preview-content-provider.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/preview-content-provider.js" line="71">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">            const extensionVersion = require(path.resolve(this.context.extensionPath, &quot;./package.json&quot;))[&quot;version&quot;];
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/shirkhan-convert-lib/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/shirkhan-convert-lib/index.js" line="9166">
+			<failure type="WARNING" message="RegExp() called with a `pattern` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">    pattern._compiled = new RegExp((before ? &quot;(&quot; + before + &quot;)&quot; : &quot;&quot;) + (/[|\\{}()[\]^$+*?.-]/.test(pattern.character) ? &quot;\\&quot; : &quot;&quot;) + pattern.character + (pattern.after ? &quot;(?:&quot; + pattern.after + &quot;)&quot; : &quot;&quot;), &quot;g&quot;);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/shirkhan-convert-lib/index.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0/extension/out/src/shirkhan-convert-lib/index.js" line="11850">
+			<failure type="WARNING" message="RegExp() called with a `find` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">  return typeof find === &quot;string&quot; ? new RegExp(escapeStringRegexp(find), &quot;g&quot;) : find;
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

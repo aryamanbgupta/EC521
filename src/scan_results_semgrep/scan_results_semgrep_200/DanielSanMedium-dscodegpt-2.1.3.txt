@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="6" tests="6" time="0.0">
+	<testsuite disabled="0" errors="0" failures="6" name="semgrep results" skipped="0" tests="6" time="0">
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="77">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    element.innerHTML = textWithMarkdown.replace('BOT:', '')
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="148">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    chatContainer.innerHTML += chatStripe(false, data.get('prompt'))
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="158">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    chatContainer.innerHTML += chatStripe(true, ' ', uniqueId)
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="183">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    chatContainer.innerHTML += chatStripe(false, type)
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insecure-document-method.insecure-document-method" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="187">
+			<failure type="ERROR" message="User controlled data in methods like `innerHTML`, `outerHTML` or `document.write` is an anti-pattern that can lead to XSS vulnerabilities">    chatContainer.innerHTML += chatStripe(true, ' ', uniqueId)
+</failure>
+		</testcase>
+		<testcase name="javascript.browser.security.insufficient-postmessage-origin-validation.insufficient-postmessage-origin-validation" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/DanielSanMedium-dscodegpt-2.1.3/extension/media/chat.js" line="251">
+			<failure type="WARNING" message="No validation of origin is done by the addEventListener API. It may be possible to exploit this flaw to perform Cross Origin attacks such as Cross-Site Scripting(XSS).">  window.addEventListener('message', event =&gt; {
+    const message = event.data // The json data that the extension sent
+    switch (message.type) {
+      case 'showResponse': {
+        if (message.text) {
+          scrollToBottom(chatContainer, { behavior: 'smooth' })
+        }
+        const messageDiv = document.getElementById(message.uniqueId)
+        lastUniqueId.value = message.uniqueId
+        if (message.ok) {
+          typeText(messageDiv, message.text, message.uniqueId)
+        } else {
+          console.log('Error')
+        }
+        break
+      }
+      default: {
+        const typePrompt = {
+          explainCodeGPT: 'Explain this code:',
+          refactorCodeGPT: 'Refactor this code:',
+          documentCodeGPT: 'Document this code:',
+          findProblemsCodeGPT: 'Find problems in this code:',
+          unitTestCodeGPT: 'Unit test this code:'
+        }
+        const uniqueId = codeGPTCommand(typePrompt[message.type])
+        vscode.postMessage({
+          type: 'sendPrompt',
+          promptType: message.type,
+          text: message.selectedText,
+          uniqueId,
+          lastMessage: ''
+        })
+      }
+    }
+  })
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

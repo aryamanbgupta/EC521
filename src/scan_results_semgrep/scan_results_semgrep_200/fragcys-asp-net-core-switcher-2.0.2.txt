@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="17" tests="17" time="0.0">
+	<testsuite disabled="0" errors="0" failures="17" name="semgrep results" skipped="0" tests="17" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/addView.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/addView.js" line="36">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        partialDirPath = path.join(partialDirPath, dir);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/addView.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/addView.js" line="36">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">        partialDirPath = path.join(partialDirPath, dir);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" line="27">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(codeBehindPath), path.basename(codeBehindPath, constants_1.ext.razorCs) + constants_1.ext.razor);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" line="27">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(codeBehindPath), path.basename(codeBehindPath, constants_1.ext.razorCs) + constants_1.ext.razor);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" line="30">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(componentPath), path.basename(componentPath, constants_1.ext.razor) + constants_1.ext.razorCs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToBlazorComponent.js" line="30">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(componentPath), path.basename(componentPath, constants_1.ext.razor) + constants_1.ext.razorCs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" line="25">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(getControllersDir(viewPath), parentDir + constants_1.controllerSuffix + constants_1.ext.cs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" line="25">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(getControllersDir(viewPath), parentDir + constants_1.controllerSuffix + constants_1.ext.cs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToController.js" line="32">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(viewPath), '..', '..', constants_1.dirs.controllers);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" line="27">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(pageModelPath), path.basename(pageModelPath, constants_1.ext.cshtmlCs) + constants_1.ext.cshtml);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" line="27">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(pageModelPath), path.basename(pageModelPath, constants_1.ext.cshtmlCs) + constants_1.ext.cshtml);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" line="31">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(pagePath), path.basename(pagePath, constants_1.ext.cshtml) + constants_1.ext.cshtmlCs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/goToPage.js" line="31">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(pagePath), path.basename(pagePath, constants_1.ext.cshtml) + constants_1.ext.cshtmlCs);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" line="6">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(getViewsDir(controllerPath), inShared ? constants_1.dirs.shared : getControllerName(controllerPath), actionName + constants_1.ext.cshtml);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" line="6">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(getViewsDir(controllerPath), inShared ? constants_1.dirs.shared : getControllerName(controllerPath), actionName + constants_1.ext.cshtml);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" line="6">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(getViewsDir(controllerPath), inShared ? constants_1.dirs.shared : getControllerName(controllerPath), actionName + constants_1.ext.cshtml);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/fragcys-asp-net-core-switcher-2.0.2/extension/out/view.js" line="10">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">    return path.join(path.dirname(controllerPath), '..', constants_1.dirs.views);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

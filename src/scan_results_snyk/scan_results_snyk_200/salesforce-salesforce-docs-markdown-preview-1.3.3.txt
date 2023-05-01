@@ -1,0 +1,37 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/salesforce-salesforce-docs-markdown-preview-1.3.3...
+
+Tested 285 dependencies for known issues, found 5 issues, 5 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade highlight.js@9.15.10 to highlight.js@10.4.1 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HIGHLIGHTJS-1048676] in highlight.js@9.15.10
+    introduced by highlight.js@9.15.10
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-HIGHLIGHTJS-1045326] in highlight.js@9.15.10
+    introduced by highlight.js@9.15.10
+
+  Upgrade remark-html@12.0.0 to remark-html@13.0.2 to fix
+  ✗ Cross-site Scripting (XSS) [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-REMARKHTML-1583433] in remark-html@12.0.0
+    introduced by remark-html@12.0.0
+
+  Upgrade remark-parse@8.0.3 to remark-parse@9.0.0 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-TRIM-1017038] in trim@0.0.1
+    introduced by remark-parse@8.0.3 > trim@0.0.1
+
+  Upgrade vsce@1.88.0 to vsce@2.6.4 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MARKDOWNIT-2331914] in markdown-it@10.0.0
+    introduced by vsce@1.88.0 > markdown-it@10.0.0
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      salesforce-docs-markdown-preview
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/salesforce-salesforce-docs-markdown-preview-1.3.3
+Licenses:          enabled
+
+

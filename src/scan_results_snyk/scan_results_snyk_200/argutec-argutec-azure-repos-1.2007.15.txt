@@ -1,0 +1,118 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15...
+
+Tested 306 dependencies for known issues, found 29 issues, 115 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade gulp@3.9.1 to gulp@4.0.0 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@2.0.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-stream@3.1.18 > minimatch@2.0.10 and 3 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-ANSIREGEX-1583908] in ansi-regex@2.1.1
+    introduced by gulp@3.9.1 > chalk@1.1.3 > has-ansi@2.0.0 > ansi-regex@2.1.1 and 3 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-1019388] in minimatch@2.0.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-stream@3.1.18 > minimatch@2.0.10 and 3 other path(s)
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:minimatch:20160620] in minimatch@2.0.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-stream@3.1.18 > minimatch@2.0.10 and 3 other path(s)
+
+  Upgrade open@0.0.5 to open@6.0.0 to fix
+  ✗ Arbitrary Command Injection [High Severity][https://security.snyk.io/vuln/npm:open:20180512] in open@0.0.5
+    introduced by open@0.0.5
+  ✗ Arbitrary Code Injection [Critical Severity][https://security.snyk.io/vuln/SNYK-JS-OPEN-174041] in open@0.0.5
+    introduced by open@0.0.5
+
+  Upgrade underscore@1.9.0 to underscore@1.12.1 to fix
+  ✗ Arbitrary Code Injection [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-UNDERSCORE-1080984] in underscore@1.9.0
+    introduced by underscore@1.9.0 and 1 other path(s)
+
+  Upgrade xml2js@0.4.19 to xml2js@0.5.0 to fix
+  ✗ Prototype Pollution (new) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-XML2JS-5414874] in xml2js@0.4.19
+    introduced by xml2js@0.4.19
+
+
+Patchable issues:
+
+  Patch available for extend@3.0.1
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/npm:extend:20180424] in extend@3.0.1
+    introduced by gulp@3.9.1 > liftoff@2.5.0 > extend@3.0.1 and 1 other path(s)
+
+  Patch available for lodash@1.0.2
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-567746] in lodash@1.0.2
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+
+  Patch available for minimatch@2.0.10
+  ✗ Regular Expression Denial of Service (ReDoS) [High Severity][https://security.snyk.io/vuln/npm:minimatch:20160620] in minimatch@2.0.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-stream@3.1.18 > minimatch@2.0.10 and 3 other path(s)
+
+
+Issues with no direct upgrade or patch:
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-AJV-584908] in ajv@5.5.2
+    introduced by vsts-device-flow-auth@1.136.0 > request@2.87.0 > har-validator@5.0.3 > ajv@5.5.2
+  This issue was fixed in versions: 6.12.3
+  ✗ Denial of Service (DoS) [High Severity][https://security.snyk.io/vuln/SNYK-JS-DECODEURICOMPONENT-3149970] in decode-uri-component@0.2.0
+    introduced by gulp@3.9.1 > liftoff@2.5.0 > findup-sync@2.0.0 > micromatch@3.1.10 > snapdragon@0.8.2 > source-map-resolve@0.5.2 > decode-uri-component@0.2.0 and 4 other path(s)
+  This issue was fixed in versions: 0.2.2
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-INI-1048974] in ini@1.3.5
+    introduced by parse-git-config@0.3.2 > ini@1.3.5 and 1 other path(s)
+  This issue was fixed in versions: 1.3.6
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-JSONSCHEMA-1920922] in json-schema@0.2.3
+    introduced by vsts-device-flow-auth@1.136.0 > request@2.87.0 > http-signature@1.2.0 > jsprim@1.4.1 > json-schema@0.2.3
+  This issue was fixed in versions: 0.4.0
+  ✗ Validation Bypass [Low Severity][https://security.snyk.io/vuln/SNYK-JS-KINDOF-537849] in kind-of@6.0.2
+    introduced by gulp@3.9.1 > liftoff@2.5.0 > findup-sync@2.0.0 > micromatch@3.1.10 > kind-of@6.0.2 and 44 other path(s)
+  This issue was fixed in versions: 6.0.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1018905] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-1040724] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.21
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-450202] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.12
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-608086] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.17
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73638] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.11
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-LODASH-73639] in lodash@4.17.10
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2 and 2 other path(s)
+  This issue was fixed in versions: 4.17.11
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/npm:lodash:20180130] in lodash@1.0.2
+    introduced by gulp@3.9.1 > vinyl-fs@0.3.14 > glob-watcher@0.0.6 > gaze@0.5.2 > globule@0.1.0 > lodash@1.0.2
+  This issue was fixed in versions: 4.17.5
+  ✗ Command Injection [High Severity][https://security.snyk.io/vuln/SNYK-JS-LODASHTEMPLATE-1088054] in lodash.template@3.6.2
+    introduced by gulp@3.9.1 > gulp-util@3.0.8 > lodash.template@3.6.2
+  No upgrade or patch available
+  ✗ Prototype Pollution [Low Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-2429795] in minimist@0.0.8
+    introduced by gulp@3.9.1 > minimist@1.2.0 and 2 other path(s)
+  This issue was fixed in versions: 0.2.4, 1.2.6
+  ✗ Prototype Pollution [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764] in minimist@0.0.8
+    introduced by gulp@3.9.1 > minimist@1.2.0 and 2 other path(s)
+  This issue was fixed in versions: 0.2.1, 1.2.3
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-PATHPARSE-1077067] in path-parse@1.0.5
+    introduced by gulp@3.9.1 > liftoff@2.5.0 > resolve@1.7.1 > path-parse@1.0.5 and 1 other path(s)
+  This issue was fixed in versions: 1.0.7
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.5.2
+    introduced by vsts-device-flow-auth@1.136.0 > request@2.87.0 > qs@6.5.2
+  This issue was fixed in versions: 6.2.4, 6.3.3, 6.4.1, 6.5.3, 6.6.1, 6.7.3, 6.8.3, 6.9.7, 6.10.3
+  ✗ Server-side Request Forgery (SSRF) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-REQUEST-3361831] in request@2.87.0
+    introduced by vsts-device-flow-auth@1.136.0 > request@2.87.0
+  No upgrade or patch available
+  ✗ Prototype Pollution [High Severity][https://security.snyk.io/vuln/SNYK-JS-UNSETVALUE-2400660] in unset-value@1.0.0
+    introduced by gulp@3.9.1 > liftoff@2.5.0 > findup-sync@2.0.0 > micromatch@3.1.10 > snapdragon@0.8.2 > base@0.11.2 > cache-base@1.0.1 > unset-value@1.0.0 and 4 other path(s)
+  This issue was fixed in versions: 2.0.1
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      argutec-azure-repos
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/argutec-argutec-azure-repos-1.2007.15
+Licenses:          enabled
+
+

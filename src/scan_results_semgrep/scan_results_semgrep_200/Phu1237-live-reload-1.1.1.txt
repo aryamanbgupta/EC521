@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="4" tests="4" time="0.0">
+	<testsuite disabled="0" errors="0" failures="4" name="semgrep results" skipped="0" tests="4" time="0">
+		<testcase name="javascript.lang.security.audit.path-traversal.path-join-resolve-traversal.path-join-resolve-traversal" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/out/LiveReload.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/out/LiveReload.js" line="48">
+			<failure type="WARNING" message="Detected possible user input going into a `path.join` or `path.resolve` function. This could possibly lead to a path traversal vulnerability,  where the attacker can access arbitrary files stored in the file system. Instead, be sure to sanitize or validate user input first.">                paths.push(path.resolve(path.join(workspace.uri.fsPath, include)));
+</failure>
+		</testcase>
+		<testcase name="problem-based-packs.insecure-transport.js-node.using-http-server.using-http-server" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/out/Server.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/out/Server.js" line="26">
+			<failure type="WARNING" message="Checks for any usage of http servers instead of https servers. Encourages the usage of https protocol instead of http, which does not have TLS and is therefore unencrypted. Using http can lead to man-in-the-middle attacks in which the attacker is able to read sensitive information.">            this.server = http.createServer(this.requestHandler);
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/ext/livereload.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/ext/livereload.js" line="1519">
+			<failure type="WARNING" message="RegExp() called with a `regexp` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">      return fn !== undefined ? fn.call(regexp, O) : new RegExp(regexp)[MATCH](String(O));
+</failure>
+		</testcase>
+		<testcase name="javascript.lang.security.audit.detect-non-literal-regexp.detect-non-literal-regexp" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/ext/livereload.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/Phu1237-live-reload-1.1.1/extension/ext/livereload.js" line="1711">
+			<failure type="WARNING" message="RegExp() called with a `separator` function argument, this might allow an attacker to cause a Denial of Service (DoS) within your application as RegExP which blocks the main thread.">      var separatorCopy = new RegExp(separator.source, flags + 'g');
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

@@ -1,0 +1,25 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/zhangjiangqige-checkerframework-language-server-0.2.0...
+
+Tested 26 dependencies for known issues, found 2 issues, 2 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade follow-redirects@1.7.0 to follow-redirects@1.14.8 to fix
+  ✗ Information Exposure [Low Severity][https://security.snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-2396346] in follow-redirects@1.7.0
+    introduced by follow-redirects@1.7.0
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-2332181] in follow-redirects@1.7.0
+    introduced by follow-redirects@1.7.0
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      checkerframework-language-server
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/zhangjiangqige-checkerframework-language-server-0.2.0
+Licenses:          enabled
+
+

@@ -1,0 +1,2846 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "SNYK-JS-MINIMATCH-3050818",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<3.0.5"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "3.0.5"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "minimatch",
+      "references": [
+        {
+          "url": "https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "Red Hat",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-11-27T21:40:17.490683Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-10-20T01:10:31.056597Z"
+        }
+      ],
+      "description": "## Overview\n[minimatch](https://www.npmjs.com/package/minimatch) is a minimal matching utility.\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via the `braceExpand` function in `minimatch.js`.\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `minimatch` to version 3.0.5 or higher.\n## References\n- [GitHub Commit](https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6)\n",
+      "epssDetails": {
+        "percentile": "0.17991",
+        "probability": "0.00051",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-3517"
+        ],
+        "CWE": [
+          "CWE-1333"
+        ]
+      },
+      "packageName": "minimatch",
+      "proprietary": false,
+      "creationTime": "2022-10-18T06:10:47.980262Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-10-18T06:00:25Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-10-18T06:29:18.078950Z",
+      "modificationTime": "2022-11-27T21:40:17.490683Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "tslint@6.1.3",
+        "minimatch@3.0.4"
+      ],
+      "upgradePath": [
+        false,
+        "tslint@6.1.3",
+        "minimatch@3.0.5"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "minimatch",
+      "version": "3.0.4",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/minimatch/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-MINIMATCH-3050818",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<3.0.5"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "3.0.5"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "minimatch",
+      "references": [
+        {
+          "url": "https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "Red Hat",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-11-27T21:40:17.490683Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-10-20T01:10:31.056597Z"
+        }
+      ],
+      "description": "## Overview\n[minimatch](https://www.npmjs.com/package/minimatch) is a minimal matching utility.\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via the `braceExpand` function in `minimatch.js`.\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `minimatch` to version 3.0.5 or higher.\n## References\n- [GitHub Commit](https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6)\n",
+      "epssDetails": {
+        "percentile": "0.17991",
+        "probability": "0.00051",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-3517"
+        ],
+        "CWE": [
+          "CWE-1333"
+        ]
+      },
+      "packageName": "minimatch",
+      "proprietary": false,
+      "creationTime": "2022-10-18T06:10:47.980262Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-10-18T06:00:25Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-10-18T06:29:18.078950Z",
+      "modificationTime": "2022-11-27T21:40:17.490683Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "tslint@6.1.3",
+        "glob@7.1.7",
+        "minimatch@3.0.4"
+      ],
+      "upgradePath": [
+        false,
+        "tslint@6.1.3",
+        "glob@7.1.7",
+        "minimatch@3.0.5"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "minimatch",
+      "version": "3.0.4",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/minimatch/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-MINIMIST-2429795",
+      "title": "Prototype Pollution",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<0.2.4",
+          ">=1.2.0 <1.2.6"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "0.2.4",
+        "1.2.6"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "low",
+      "cvssScore": 3.7,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "minimist",
+      "references": [
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/blob/master/index.js%23L69",
+          "title": "Vulnerable Code"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L",
+          "cvssV3BaseScore": 5.6,
+          "modificationTime": "2022-05-18T11:05:33.152638Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2022-04-13T01:10:15.021168Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2023-04-24T13:51:51.456864Z"
+        }
+      ],
+      "description": "## Overview\n[minimist](https://www.npmjs.com/package/minimist) is a parse argument options module.\nAffected versions of this package are vulnerable to Prototype Pollution due to a missing handler to `Function.prototype`.\r\n\r\n**Notes:** \r\n\r\n- This vulnerability is a bypass to [CVE-2020-7598](https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764)\r\n\r\n- The reason for the different CVSS between CVE-2021-44906 to CVE-2020-7598, is that CVE-2020-7598 can pollute objects, while CVE-2021-44906 can pollute only function.\r\n\r\n\r\n## PoC by Snyk\r\n```js\r\nrequire('minimist')('--_.constructor.constructor.prototype.foo bar'.split(' '));\r\nconsole.log((function(){}).foo); // bar\r\n```\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `minimist` to version 0.2.4, 1.2.6 or higher.\n## References\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703)\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d)\n- [Vulnerable Code](https://github.com/minimistjs/minimist/blob/master/index.js#L69)\n",
+      "epssDetails": {
+        "percentile": "0.66759",
+        "probability": "0.00333",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-44906"
+        ],
+        "CWE": [
+          "CWE-1321"
+        ],
+        "SNYK": [
+          "SNYK-JS-MINIMIST-559764"
+        ]
+      },
+      "packageName": "minimist",
+      "proprietary": false,
+      "creationTime": "2022-03-18T13:02:08.840039Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-03-18T12:24:05Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-03-21T12:09:35Z",
+      "modificationTime": "2023-04-24T13:51:51.456864Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "low",
+      "from": [
+        "lazyswitch@0.1.3",
+        "tslint@6.1.3",
+        "mkdirp@0.5.5",
+        "minimist@1.2.5"
+      ],
+      "upgradePath": [
+        false,
+        "tslint@6.1.3",
+        "mkdirp@0.5.5",
+        "minimist@1.2.6"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "minimist",
+      "version": "1.2.5",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/minimist/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-MINIMIST-2429795",
+      "title": "Prototype Pollution",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<0.2.4",
+          ">=1.2.0 <1.2.6"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "0.2.4",
+        "1.2.6"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "low",
+      "cvssScore": 3.7,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "minimist",
+      "references": [
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/blob/master/index.js%23L69",
+          "title": "Vulnerable Code"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L",
+          "cvssV3BaseScore": 5.6,
+          "modificationTime": "2022-05-18T11:05:33.152638Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2022-04-13T01:10:15.021168Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2023-04-24T13:51:51.456864Z"
+        }
+      ],
+      "description": "## Overview\n[minimist](https://www.npmjs.com/package/minimist) is a parse argument options module.\nAffected versions of this package are vulnerable to Prototype Pollution due to a missing handler to `Function.prototype`.\r\n\r\n**Notes:** \r\n\r\n- This vulnerability is a bypass to [CVE-2020-7598](https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764)\r\n\r\n- The reason for the different CVSS between CVE-2021-44906 to CVE-2020-7598, is that CVE-2020-7598 can pollute objects, while CVE-2021-44906 can pollute only function.\r\n\r\n\r\n## PoC by Snyk\r\n```js\r\nrequire('minimist')('--_.constructor.constructor.prototype.foo bar'.split(' '));\r\nconsole.log((function(){}).foo); // bar\r\n```\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `minimist` to version 0.2.4, 1.2.6 or higher.\n## References\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703)\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d)\n- [Vulnerable Code](https://github.com/minimistjs/minimist/blob/master/index.js#L69)\n",
+      "epssDetails": {
+        "percentile": "0.66759",
+        "probability": "0.00333",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-44906"
+        ],
+        "CWE": [
+          "CWE-1321"
+        ],
+        "SNYK": [
+          "SNYK-JS-MINIMIST-559764"
+        ]
+      },
+      "packageName": "minimist",
+      "proprietary": false,
+      "creationTime": "2022-03-18T13:02:08.840039Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-03-18T12:24:05Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-03-21T12:09:35Z",
+      "modificationTime": "2023-04-24T13:51:51.456864Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "low",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "quote-stream@1.0.2",
+        "minimist@1.2.5"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "quote-stream@1.0.2",
+        "minimist@1.2.6"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "minimist",
+      "version": "1.2.5",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/minimist/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-MINIMIST-2429795",
+      "title": "Prototype Pollution",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<0.2.4",
+          ">=1.2.0 <1.2.6"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "0.2.4",
+        "1.2.6"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "low",
+      "cvssScore": 3.7,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "minimist",
+      "references": [
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d",
+          "title": "Fix Commit"
+        },
+        {
+          "url": "https://github.com/minimistjs/minimist/blob/master/index.js%23L69",
+          "title": "Vulnerable Code"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L",
+          "cvssV3BaseScore": 5.6,
+          "modificationTime": "2022-05-18T11:05:33.152638Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2022-04-13T01:10:15.021168Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "critical",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+          "cvssV3BaseScore": 9.8,
+          "modificationTime": "2023-04-24T13:51:51.456864Z"
+        }
+      ],
+      "description": "## Overview\n[minimist](https://www.npmjs.com/package/minimist) is a parse argument options module.\nAffected versions of this package are vulnerable to Prototype Pollution due to a missing handler to `Function.prototype`.\r\n\r\n**Notes:** \r\n\r\n- This vulnerability is a bypass to [CVE-2020-7598](https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764)\r\n\r\n- The reason for the different CVSS between CVE-2021-44906 to CVE-2020-7598, is that CVE-2020-7598 can pollute objects, while CVE-2021-44906 can pollute only function.\r\n\r\n\r\n## PoC by Snyk\r\n```js\r\nrequire('minimist')('--_.constructor.constructor.prototype.foo bar'.split(' '));\r\nconsole.log((function(){}).foo); // bar\r\n```\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `minimist` to version 0.2.4, 1.2.6 or higher.\n## References\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703)\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d)\n- [Vulnerable Code](https://github.com/minimistjs/minimist/blob/master/index.js#L69)\n",
+      "epssDetails": {
+        "percentile": "0.66759",
+        "probability": "0.00333",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-44906"
+        ],
+        "CWE": [
+          "CWE-1321"
+        ],
+        "SNYK": [
+          "SNYK-JS-MINIMIST-559764"
+        ]
+      },
+      "packageName": "minimist",
+      "proprietary": false,
+      "creationTime": "2022-03-18T13:02:08.840039Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-03-18T12:24:05Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-03-21T12:09:35Z",
+      "modificationTime": "2023-04-24T13:51:51.456864Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "low",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "static-module@2.2.5",
+        "quote-stream@1.0.2",
+        "minimist@1.2.5"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "static-module@2.2.5",
+        "quote-stream@1.0.2",
+        "minimist@1.2.6"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "minimist",
+      "version": "1.2.5",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/minimist/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-NODEFETCH-2342118",
+      "title": "Information Exposure",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<2.6.7",
+          ">=3.0.0 <3.1.1"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "2.6.7",
+        "3.1.1"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 6.5,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "node-fetch",
+      "references": [
+        {
+          "url": "https://github.com/node-fetch/node-fetch/commit/1ef4b560a17e644a02a3bfdea7631ffeee578b35",
+          "title": "Github Commit"
+        },
+        {
+          "url": "https://github.com/node-fetch/node-fetch/commit/36e47e8a6406185921e4985dcbeff140d73eaa10",
+          "title": "GitHub Commit"
+        },
+        {
+          "url": "https://github.com/node-fetch/node-fetch/pull/1449/commits/5c32f002fdd65b1c6a8f1e3620210813d45c7e60",
+          "title": "GitHub Commit"
+        },
+        {
+          "url": "https://github.com/node-fetch/node-fetch/pull/1449",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:N/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2023-02-02T01:54:20.392355Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-10-29T01:10:37.609069Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:N/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-11-27T21:31:03.384329Z"
+        }
+      ],
+      "description": "## Overview\n[node-fetch](https://www.npmjs.com/package/node-fetch) is a light-weight module that brings window.fetch to node.js\nAffected versions of this package are vulnerable to Information Exposure when fetching a remote url with Cookie, if it get a `Location` response header, it will follow that url and try to fetch that url with provided cookie. This can lead to forwarding secure headers to 3th party.\n## Remediation\nUpgrade `node-fetch` to version 2.6.7, 3.1.1 or higher.\n## References\n- [Github Commit](https://github.com/node-fetch/node-fetch/commit/1ef4b560a17e644a02a3bfdea7631ffeee578b35)\n- [GitHub Commit](https://github.com/node-fetch/node-fetch/commit/36e47e8a6406185921e4985dcbeff140d73eaa10)\n- [GitHub Commit](https://github.com/node-fetch/node-fetch/pull/1449/commits/5c32f002fdd65b1c6a8f1e3620210813d45c7e60)\n- [GitHub PR](https://github.com/node-fetch/node-fetch/pull/1449)\n",
+      "epssDetails": {
+        "percentile": "0.48486",
+        "probability": "0.00141",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-0235",
+          "CVE-2022-1365"
+        ],
+        "CWE": [
+          "CWE-200"
+        ]
+      },
+      "packageName": "node-fetch",
+      "proprietary": false,
+      "creationTime": "2022-01-17T12:08:00.675849Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-01-17T12:00:01Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-01-17T16:25:00Z",
+      "modificationTime": "2023-02-02T01:54:20.392355Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "isomorphic-fetch@2.2.1",
+        "node-fetch@1.7.3"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@20.0.14"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "node-fetch",
+      "version": "1.7.3",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/node-fetch/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-NODEFETCH-674311",
+      "title": "Denial of Service",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:R",
+      "credit": [
+        "Unknown"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<2.6.1",
+          ">=3.0.0-beta.1 <3.0.0-beta.9"
+        ]
+      },
+      "exploit": "Unproven",
+      "fixedIn": [
+        "2.6.1",
+        "3.0.0-beta.9"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.9,
+      "functions": [
+        {
+          "version": [
+            ">1.7.1 <1.7.4",
+            ">2.0.0-alpha.7 <2.6.1"
+          ],
+          "functionId": {
+            "filePath": "lib/index.js",
+            "className": null,
+            "functionName": "fetch"
+          }
+        }
+      ],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "node-fetch",
+      "references": [
+        {
+          "url": "https://github.com/node-fetch/node-fetch/security/advisories/GHSA-w7rc-rwvf-8q5r",
+          "title": "GitHub Advisory"
+        },
+        {
+          "url": "https://github.com/node-fetch/node-fetch/commit/2358a6c2563d1730a0cdaccc197c611949f6a334",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-01-03T18:04:53.378913Z"
+        }
+      ],
+      "description": "## Overview\n[node-fetch](https://www.npmjs.com/package/node-fetch) is a light-weight module that brings window.fetch to node.js\nAffected versions of this package are vulnerable to Denial of Service. Node Fetch did not honor the `size` option after following a redirect, which means that when a content size was over the limit, a FetchError would never get thrown and the process would end without failure.\n## Remediation\nUpgrade `node-fetch` to version 2.6.1, 3.0.0-beta.9 or higher.\n## References\n- [GitHub Advisory](https://github.com/node-fetch/node-fetch/security/advisories/GHSA-w7rc-rwvf-8q5r)\n- [GitHub Commit](https://github.com/node-fetch/node-fetch/commit/2358a6c2563d1730a0cdaccc197c611949f6a334)\n",
+      "epssDetails": {
+        "percentile": "0.34465",
+        "probability": "0.00084",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2020-15168"
+        ],
+        "CWE": [
+          "CWE-400"
+        ],
+        "GHSA": [
+          "GHSA-w7rc-rwvf-8q5r"
+        ]
+      },
+      "packageName": "node-fetch",
+      "proprietary": false,
+      "creationTime": "2020-09-11T10:50:56.354201Z",
+      "functions_new": [
+        {
+          "version": [
+            ">1.7.1 <1.7.4",
+            ">2.0.0-alpha.7 <2.6.1"
+          ],
+          "functionId": {
+            "filePath": "lib/index.js",
+            "functionName": "fetch"
+          }
+        }
+      ],
+      "alternativeIds": [],
+      "disclosureTime": "2020-09-10T17:55:53Z",
+      "packageManager": "npm",
+      "publicationTime": "2020-09-11T14:12:46Z",
+      "modificationTime": "2022-01-26T16:47:31.069025Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "isomorphic-fetch@2.2.1",
+        "node-fetch@1.7.3"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@20.0.14"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "node-fetch",
+      "version": "1.7.3",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/node-fetch/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-PATHPARSE-1077067",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Yeting Li"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.0.7"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.0.7"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "path-parse",
+      "references": [
+        {
+          "url": "https://github.com/jbgutierrez/path-parse/issues/8",
+          "title": "GitHub Issue 1"
+        },
+        {
+          "url": "https://github.com/jbgutierrez/path-parse/pull/10",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-05-18T11:02:40.203327Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-09-01T18:10:59.641332Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-01-03T16:36:10.774253Z"
+        }
+      ],
+      "description": "## Overview\n[path-parse](https://www.npmjs.org/package/path-parse) is a Node.js path.parse() ponyfill\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via `splitDeviceRe`, `splitTailRe`, and `splitPathRe` regular expressions. ReDoS exhibits polynomial worst-case time complexity.\r\n\r\n### PoC\r\n```\r\nvar pathParse = require('path-parse');\r\nfunction build_attack(n) {\r\n    var ret = \"\"\r\n    for (var i = 0; i < n; i++) {\r\n        ret += \"/\"\r\n    }\r\n    return ret + \"◎\";\r\n}\r\n\r\nfor(var i = 1; i <= 5000000; i++) {\r\n    if (i % 10000 == 0) {\r\n        var time = Date.now();\r\n        var attack_str = build_attack(i)\r\n        pathParse(attack_str);\r\n        var time_cost = Date.now() - time;\r\n        console.log(\"attack_str.length: \" + attack_str.length + \": \" + time_cost+\" ms\")\r\n }\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `path-parse` to version 1.0.7 or higher.\n## References\n- [GitHub Issue 1](https://github.com/jbgutierrez/path-parse/issues/8)\n- [GitHub PR](https://github.com/jbgutierrez/path-parse/pull/10)\n",
+      "epssDetails": {
+        "percentile": "0.44980",
+        "probability": "0.00121",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-23343"
+        ],
+        "CWE": [
+          "CWE-400"
+        ]
+      },
+      "packageName": "path-parse",
+      "proprietary": true,
+      "creationTime": "2021-02-19T16:00:22.449519Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2021-02-19T15:54:01Z",
+      "packageManager": "npm",
+      "publicationTime": "2021-05-04T08:38:49Z",
+      "modificationTime": "2022-09-01T18:10:59.641332Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "tslint@6.1.3",
+        "resolve@1.20.0",
+        "path-parse@1.0.6"
+      ],
+      "upgradePath": [
+        false,
+        "tslint@6.1.3",
+        "resolve@1.20.0",
+        "path-parse@1.0.7"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "path-parse",
+      "version": "1.0.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/path-parse/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-PATHPARSE-1077067",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Yeting Li"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.0.7"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.0.7"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "path-parse",
+      "references": [
+        {
+          "url": "https://github.com/jbgutierrez/path-parse/issues/8",
+          "title": "GitHub Issue 1"
+        },
+        {
+          "url": "https://github.com/jbgutierrez/path-parse/pull/10",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "SUSE",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-05-18T11:02:40.203327Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-09-01T18:10:59.641332Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "high",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+          "cvssV3BaseScore": 7.5,
+          "modificationTime": "2022-01-03T16:36:10.774253Z"
+        }
+      ],
+      "description": "## Overview\n[path-parse](https://www.npmjs.org/package/path-parse) is a Node.js path.parse() ponyfill\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via `splitDeviceRe`, `splitTailRe`, and `splitPathRe` regular expressions. ReDoS exhibits polynomial worst-case time complexity.\r\n\r\n### PoC\r\n```\r\nvar pathParse = require('path-parse');\r\nfunction build_attack(n) {\r\n    var ret = \"\"\r\n    for (var i = 0; i < n; i++) {\r\n        ret += \"/\"\r\n    }\r\n    return ret + \"◎\";\r\n}\r\n\r\nfor(var i = 1; i <= 5000000; i++) {\r\n    if (i % 10000 == 0) {\r\n        var time = Date.now();\r\n        var attack_str = build_attack(i)\r\n        pathParse(attack_str);\r\n        var time_cost = Date.now() - time;\r\n        console.log(\"attack_str.length: \" + attack_str.length + \": \" + time_cost+\" ms\")\r\n }\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `path-parse` to version 1.0.7 or higher.\n## References\n- [GitHub Issue 1](https://github.com/jbgutierrez/path-parse/issues/8)\n- [GitHub PR](https://github.com/jbgutierrez/path-parse/pull/10)\n",
+      "epssDetails": {
+        "percentile": "0.44980",
+        "probability": "0.00121",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-23343"
+        ],
+        "CWE": [
+          "CWE-400"
+        ]
+      },
+      "packageName": "path-parse",
+      "proprietary": true,
+      "creationTime": "2021-02-19T16:00:22.449519Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2021-02-19T15:54:01Z",
+      "packageManager": "npm",
+      "publicationTime": "2021-05-04T08:38:49Z",
+      "modificationTime": "2022-09-01T18:10:59.641332Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "resolve@1.20.0",
+        "path-parse@1.0.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "resolve@1.20.0",
+        "path-parse@1.0.7"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "path-parse",
+      "version": "1.0.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/path-parse/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-1319803",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P/RL:O/RC:C",
+      "credit": [
+        "ready-research"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.7"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.7"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/URI.js/commit/ac43ca8f80c042f0256fb551ea5203863dec4481",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-01-03T16:45:43.648082Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect. It mishandles certain uses of backslash such as `https:/\\` and interprets the URI as a relative path. Browsers usually accept backslashes after the protocol, and treat it as a normal slash.\r\n\r\n### PoC\r\n```\r\nvar URI = require('urijs');\r\nvar url = new URI(\"https:/\\/\\/\\www.google.com\");\r\nconsole.log(url);  // Which will return -->  path: \"/www.google.com\"\r\n```\n## Remediation\nUpgrade `urijs` to version 1.19.7 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/ac43ca8f80c042f0256fb551ea5203863dec4481)\n",
+      "epssDetails": {
+        "percentile": "0.27968",
+        "probability": "0.00068",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2021-3647"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2021-07-16T12:16:14.489675Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2021-07-16T12:11:30Z",
+      "packageManager": "npm",
+      "publicationTime": "2021-07-16T14:00:51.997627Z",
+      "modificationTime": "2022-01-03T16:45:43.648082Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.7"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-1319806",
+      "title": "Prototype Pollution",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+      "credit": [
+        "NewEraCracker"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.7"
+        ]
+      },
+      "exploit": "Not Defined",
+      "fixedIn": [
+        "1.19.7"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "high",
+      "cvssScore": 7.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/URI.js/commit/8e51b00911ba0f6e90949e2c4516b945c35021f7",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Prototype Pollution via `parseQuery()`.\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `urijs` to version 1.19.7 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/8e51b00911ba0f6e90949e2c4516b945c35021f7)\n",
+      "epssDetails": null,
+      "identifiers": {
+        "CVE": [],
+        "CWE": [
+          "CWE-1321"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2021-07-16T12:19:31.558105Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2021-07-16T12:18:48Z",
+      "packageManager": "npm",
+      "publicationTime": "2021-07-16T14:00:50.459872Z",
+      "modificationTime": "2021-07-16T14:00:50.715974Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "high",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.7"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-2401466",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P",
+      "credit": [
+        "r0hanSH"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.8"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.8"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/uri.js/commit/6ea641cc8648b025ed5f30b090c2abd4d1a5249f",
+          "title": "GitHub Commit"
+        },
+        {
+          "url": "https://github.com/medialize/URI.js/pull/412",
+          "title": "GitHub PR"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.5,
+          "modificationTime": "2022-09-01T15:15:18.689232Z"
+        },
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.5,
+          "modificationTime": "2022-03-31T01:11:34.312368Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect. An attacker can use case-insensitive protocol schemes in order to bypass the patch to [CVE-2021-3647](https://security.snyk.io/vuln/SNYK-JS-URIJS-1319803).\n## Remediation\nUpgrade `urijs` to version 1.19.8 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/6ea641cc8648b025ed5f30b090c2abd4d1a5249f)\n- [GitHub PR](https://github.com/medialize/URI.js/pull/412)\n",
+      "epssDetails": {
+        "percentile": "0.28665",
+        "probability": "0.00070",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-0613"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2022-02-15T14:52:04.130455Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-02-15T14:44:53Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-02-15T17:51:49.201259Z",
+      "modificationTime": "2022-09-01T15:15:18.689232Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.8"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-2415026",
+      "title": "Improper Input Validation",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Pocas"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.9"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.9"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/URI.js/commit/86d10523a6f6e8dc4300d99d671335ee362ad316",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-03-10T16:10:41.714978Z"
+        },
+        {
+          "assigner": "Red Hat",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+          "cvssV3BaseScore": 5.3,
+          "modificationTime": "2022-10-25T17:33:23.284025Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Improper Input Validation due to a possible bypass to the protocol validation, using leading whitespaces.\n## Remediation\nUpgrade `urijs` to version 1.19.9 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/86d10523a6f6e8dc4300d99d671335ee362ad316)\n",
+      "epssDetails": {
+        "percentile": "0.41581",
+        "probability": "0.00105",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-24723"
+        ],
+        "CWE": [
+          "CWE-20"
+        ],
+        "GHSA": [
+          "GHSA-gmv4-r438-p67f"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2022-03-04T07:22:40.847689Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-03-03T19:23:36Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-03-04T13:42:34.675858Z",
+      "modificationTime": "2022-10-25T17:33:23.284025Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.9"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-2419067",
+      "title": "Open Redirect",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P",
+      "credit": [
+        "huydoppa"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.10"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.10"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://security.snyk.io/vuln/SNYK-JS-URIJS-2401466",
+          "title": "CVE-2022-0613"
+        },
+        {
+          "url": "https://github.com/medialize/uri.js/commit/a8166fe02f3af6dc1b2b888dcbb807155aad9509",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-03-12T04:10:59.989636Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect by bypassing the fix for CVE-2022-0613 an attacker is still able to redirect.\r\n\r\n## PoC\r\n```js\r\n// PoC.js\r\nvar URI = require('urijs');\r\nvar url = new URI(\"https::\\\\\\github.com/foo/bar\");\r\nconsole.log(url);\r\n```\n## Remediation\nUpgrade `urijs` to version 1.19.10 or higher.\n## References\n- [CVE-2022-0613](https://security.snyk.io/vuln/SNYK-JS-URIJS-2401466)\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/a8166fe02f3af6dc1b2b888dcbb807155aad9509)\n",
+      "epssDetails": {
+        "percentile": "0.23014",
+        "probability": "0.00059",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-0868"
+        ],
+        "CWE": [
+          "CWE-601"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2022-03-06T15:48:53.671447Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-03-06T15:45:23Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-03-06T16:33:12.676215Z",
+      "modificationTime": "2022-03-12T04:10:59.989636Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.10"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-2440699",
+      "title": "Misinterpretation of Input",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:P",
+      "credit": [
+        "@zeyu2001"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.11"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.11"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 6.5,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/uri.js/commit/88805fd3da03bd7a5e60947adb49d182011f1277",
+          "title": "GitHub Commit"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-04-13T01:10:19.907163Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Misinterpretation of Input when parsing a URL without a scheme and with excessive slashes.\n## Remediation\nUpgrade `urijs` to version 1.19.11 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/88805fd3da03bd7a5e60947adb49d182011f1277)\n",
+      "epssDetails": {
+        "percentile": "0.18852",
+        "probability": "0.00053",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-1233"
+        ],
+        "CWE": [
+          "CWE-115"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2022-04-05T10:02:30.670419Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-04-05T09:51:39Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-04-05T12:30:50.413546Z",
+      "modificationTime": "2022-04-13T01:10:19.907163Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.11"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-URIJS-2441239",
+      "title": "Cross-site Scripting (XSS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P",
+      "credit": [
+        "haxatron"
+      ],
+      "semver": {
+        "vulnerable": [
+          "<1.19.11"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [
+        "1.19.11"
+      ],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.4,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "urijs",
+      "references": [
+        {
+          "url": "https://github.com/medialize/uri.js/commit/b0c9796aa1a95a85f40924fb18b1e5da3dc8ffae",
+          "title": "GitHub Commit"
+        },
+        {
+          "url": "https://github.com/medialize/URI.js/releases/tag/v1.19.11",
+          "title": "GitHub Release"
+        }
+      ],
+      "cvssDetails": [
+        {
+          "assigner": "NVD",
+          "severity": "medium",
+          "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+          "cvssV3BaseScore": 6.1,
+          "modificationTime": "2022-04-14T01:10:56.841051Z"
+        }
+      ],
+      "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Cross-site Scripting (XSS) due to improper sanitization in the `URI.parse()` function, which makes it possible to use `\\r`, `\\n\\`, and `\\t` characters.\r\n\r\n## PoC:\r\n```js\r\nconst parse = require('urijs')\r\nconst express = require('express')\r\nconst app = express()\r\nconst port = 3000\r\n\r\ninput = \"ja\\r\\nvascript:alert(1)\"\r\nurl = parse(input)\r\n\r\nconsole.log(url)\r\n\r\napp.get('/', (req, res) => {\r\n  if (url.protocol !== \"javascript:\") {res.send(\"<a href=\\'\" + input + \"\\'>CLICK ME!</a>\")}\r\n})\r\n\r\napp.listen(port, () => {\r\n  console.log(`Example app listening on port ${port}`)\r\n})\r\n```\n## Details\n\nA cross-site scripting attack occurs when the attacker tricks a legitimate web-based application or site to accept a request as originating from a trusted source.\n\nThis is done by escaping the context of the web application; the web application then delivers that data to its users along with other trusted dynamic content, without validating it. The browser unknowingly executes malicious script on the client side (through client-side languages; usually JavaScript or HTML)  in order to perform actions that are otherwise typically blocked by the browser’s Same Origin Policy.\n\nInjecting malicious code is the most prevalent manner by which XSS is exploited; for this reason, escaping characters in order to prevent this manipulation is the top method for securing code against this vulnerability.\n\nEscaping means that the application is coded to mark key characters, and particularly key characters included in user input, to prevent those characters from being interpreted in a dangerous context. For example, in HTML, `<` can be coded as  `&lt`; and `>` can be coded as `&gt`; in order to be interpreted and displayed as themselves in text, while within the code itself, they are used for HTML tags. If malicious content is injected into an application that escapes special characters and that malicious content uses `<` and `>` as HTML tags, those characters are nonetheless not interpreted as HTML tags by the browser if they’ve been correctly escaped in the application code and in this way the attempted attack is diverted.\n \nThe most prominent use of XSS is to steal cookies (source: OWASP HttpOnly) and hijack user sessions, but XSS exploits have been used to expose sensitive information, enable access to privileged services and functionality and deliver malware. \n\n### Types of attacks\nThere are a few methods by which XSS can be manipulated:\n\n|Type|Origin|Description|\n|--|--|--|\n|**Stored**|Server|The malicious code is inserted in the application (usually as a link) by the attacker. The code is activated every time a user clicks the link.|\n|**Reflected**|Server|The attacker delivers a malicious link externally from the vulnerable web site application to a user. When clicked, malicious code is sent to the vulnerable web site, which reflects the attack back to the user’s browser.| \n|**DOM-based**|Client|The attacker forces the user’s browser to render a malicious page. The data in the page itself delivers the cross-site scripting data.|\n|**Mutated**| |The attacker injects code that appears safe, but is then rewritten and modified by the browser, while parsing the markup. An example is rebalancing unclosed quotation marks or even adding quotation marks to unquoted parameters.|\n\n### Affected environments\nThe following environments are susceptible to an XSS attack:\n\n* Web servers\n* Application servers\n* Web application environments\n\n### How to prevent\nThis section describes the top best practices designed to specifically protect your code: \n\n* Sanitize data input in an HTTP request before reflecting it back, ensuring all data is validated, filtered or escaped before echoing anything back to the user, such as the values of query parameters during searches. \n* Convert special characters such as `?`, `&`, `/`, `<`, `>` and spaces to their respective HTML or URL encoded equivalents. \n* Give users the option to disable client-side scripts.\n* Redirect invalid requests.\n* Detect simultaneous logins, including those from two separate IP addresses, and invalidate those sessions.\n* Use and enforce a Content Security Policy (source: Wikipedia) to disable any features that might be manipulated for an XSS attack.\n* Read the documentation for any of the libraries referenced in your code to understand which elements allow for embedded HTML.\n\n## Remediation\nUpgrade `urijs` to version 1.19.11 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/b0c9796aa1a95a85f40924fb18b1e5da3dc8ffae)\n- [GitHub Release](https://github.com/medialize/URI.js/releases/tag/v1.19.11)\n",
+      "epssDetails": {
+        "percentile": "0.18524",
+        "probability": "0.00052",
+        "modelVersion": "v2023.03.01"
+      },
+      "identifiers": {
+        "CVE": [
+          "CVE-2022-1243"
+        ],
+        "CWE": [
+          "CWE-79"
+        ]
+      },
+      "packageName": "urijs",
+      "proprietary": false,
+      "creationTime": "2022-04-06T08:32:35.935458Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-04-06T08:23:25Z",
+      "packageManager": "npm",
+      "publicationTime": "2022-04-06T15:31:30.745073Z",
+      "modificationTime": "2022-04-14T01:10:56.841051Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "urijs@1.19.6"
+      ],
+      "upgradePath": [
+        false,
+        "quicktype-core@6.0.70",
+        "urijs@1.19.11"
+      ],
+      "isUpgradable": true,
+      "isPatchable": false,
+      "name": "urijs",
+      "version": "1.19.6",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/urijs/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-WORDWRAP-3149973",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Carter Snook"
+      ],
+      "semver": {
+        "vulnerable": [
+          "*"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "word-wrap",
+      "references": [
+        {
+          "url": "https://github.com/jonschlinkert/word-wrap/blob/master/index.js%23L39",
+          "title": "Vulnerable Code"
+        }
+      ],
+      "cvssDetails": [],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) due to the usage of an insecure regular expression within the `result` variable.\r\n\r\n## PoC\r\n```js\r\nconst wrap = require(\"word-wrap\");\r\n\r\nfor (let i = 0; i <= 10; i++) {\r\nconst attack = \"a\" + \"t\".repeat(i * 10_00000);\r\nconst start = performance.now();\r\nwrap(\r\nattack,\r\n{ trim: true },\r\n);\r\nconsole.log(`${attack.length} characters: ${performance.now() - start}ms`);\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nThere is no fixed version for `word-wrap`.\n## References\n- [Vulnerable Code](https://github.com/jonschlinkert/word-wrap/blob/master/index.js#L39)\n",
+      "epssDetails": null,
+      "identifiers": {
+        "CVE": [
+          "CVE-2023-26115"
+        ],
+        "CWE": [
+          "CWE-1333"
+        ]
+      },
+      "packageName": "word-wrap",
+      "proprietary": true,
+      "creationTime": "2022-11-28T14:29:41.016778Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-11-28T13:29:26Z",
+      "packageManager": "npm",
+      "publicationTime": "2023-03-22T15:02:56.710165Z",
+      "modificationTime": "2023-04-02T13:51:16.738163Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "static-module@2.2.5",
+        "escodegen@1.9.1",
+        "optionator@0.8.3",
+        "word-wrap@1.2.3"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "word-wrap",
+      "version": "1.2.3",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/word-wrap/package.json",
+      "parentDepType": "prod"
+    },
+    {
+      "id": "SNYK-JS-WORDWRAP-3149973",
+      "title": "Regular Expression Denial of Service (ReDoS)",
+      "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+      "credit": [
+        "Carter Snook"
+      ],
+      "semver": {
+        "vulnerable": [
+          "*"
+        ]
+      },
+      "exploit": "Proof of Concept",
+      "fixedIn": [],
+      "patches": [],
+      "insights": {
+        "triageAdvice": null
+      },
+      "language": "js",
+      "severity": "medium",
+      "cvssScore": 5.3,
+      "functions": [],
+      "malicious": false,
+      "isDisputed": false,
+      "moduleName": "word-wrap",
+      "references": [
+        {
+          "url": "https://github.com/jonschlinkert/word-wrap/blob/master/index.js%23L39",
+          "title": "Vulnerable Code"
+        }
+      ],
+      "cvssDetails": [],
+      "description": "## Overview\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) due to the usage of an insecure regular expression within the `result` variable.\r\n\r\n## PoC\r\n```js\r\nconst wrap = require(\"word-wrap\");\r\n\r\nfor (let i = 0; i <= 10; i++) {\r\nconst attack = \"a\" + \"t\".repeat(i * 10_00000);\r\nconst start = performance.now();\r\nwrap(\r\nattack,\r\n{ trim: true },\r\n);\r\nconsole.log(`${attack.length} characters: ${performance.now() - start}ms`);\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nThere is no fixed version for `word-wrap`.\n## References\n- [Vulnerable Code](https://github.com/jonschlinkert/word-wrap/blob/master/index.js#L39)\n",
+      "epssDetails": null,
+      "identifiers": {
+        "CVE": [
+          "CVE-2023-26115"
+        ],
+        "CWE": [
+          "CWE-1333"
+        ]
+      },
+      "packageName": "word-wrap",
+      "proprietary": true,
+      "creationTime": "2022-11-28T14:29:41.016778Z",
+      "functions_new": [],
+      "alternativeIds": [],
+      "disclosureTime": "2022-11-28T13:29:26Z",
+      "packageManager": "npm",
+      "publicationTime": "2023-03-22T15:02:56.710165Z",
+      "modificationTime": "2023-04-02T13:51:16.738163Z",
+      "socialTrendAlert": false,
+      "severityWithCritical": "medium",
+      "from": [
+        "lazyswitch@0.1.3",
+        "quicktype-core@6.0.70",
+        "@mark.probst/unicode-properties@1.1.0",
+        "brfs@1.6.1",
+        "static-module@2.2.5",
+        "static-eval@2.1.0",
+        "escodegen@1.14.3",
+        "optionator@0.8.3",
+        "word-wrap@1.2.3"
+      ],
+      "upgradePath": [],
+      "isUpgradable": false,
+      "isPatchable": false,
+      "name": "word-wrap",
+      "version": "1.2.3",
+      "__filename": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3/extension/node_modules/word-wrap/package.json",
+      "parentDepType": "prod"
+    }
+  ],
+  "ok": false,
+  "dependencyCount": 105,
+  "org": "z.a.timur",
+  "policy": "# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.\nversion: v1.25.0\nignore: {}\npatch: {}\n",
+  "isPrivate": true,
+  "licensesPolicy": {
+    "severities": {},
+    "orgLicenseRules": {
+      "AGPL-1.0": {
+        "licenseType": "AGPL-1.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "AGPL-3.0": {
+        "licenseType": "AGPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "Artistic-1.0": {
+        "licenseType": "Artistic-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "Artistic-2.0": {
+        "licenseType": "Artistic-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CDDL-1.0": {
+        "licenseType": "CDDL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "CPOL-1.02": {
+        "licenseType": "CPOL-1.02",
+        "severity": "high",
+        "instructions": ""
+      },
+      "EPL-1.0": {
+        "licenseType": "EPL-1.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "GPL-2.0": {
+        "licenseType": "GPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "GPL-3.0": {
+        "licenseType": "GPL-3.0",
+        "severity": "high",
+        "instructions": ""
+      },
+      "LGPL-2.0": {
+        "licenseType": "LGPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-2.1": {
+        "licenseType": "LGPL-2.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "LGPL-3.0": {
+        "licenseType": "LGPL-3.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-1.1": {
+        "licenseType": "MPL-1.1",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MPL-2.0": {
+        "licenseType": "MPL-2.0",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "MS-RL": {
+        "licenseType": "MS-RL",
+        "severity": "medium",
+        "instructions": ""
+      },
+      "SimPL-2.0": {
+        "licenseType": "SimPL-2.0",
+        "severity": "high",
+        "instructions": ""
+      }
+    }
+  },
+  "packageManager": "npm",
+  "ignoreSettings": {
+    "adminOnly": false,
+    "reasonRequired": false,
+    "disregardFilesystemIgnores": false
+  },
+  "summary": "18 vulnerable dependency paths",
+  "remediation": {
+    "unresolved": [
+      {
+        "id": "SNYK-JS-MINIMATCH-3050818",
+        "title": "Regular Expression Denial of Service (ReDoS)",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+        "credit": [
+          "Unknown"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<3.0.5"
+          ]
+        },
+        "exploit": "Not Defined",
+        "fixedIn": [
+          "3.0.5"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "minimatch",
+        "references": [
+          {
+            "url": "https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "Red Hat",
+            "severity": "high",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+            "cvssV3BaseScore": 7.5,
+            "modificationTime": "2022-11-27T21:40:17.490683Z"
+          },
+          {
+            "assigner": "NVD",
+            "severity": "high",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+            "cvssV3BaseScore": 7.5,
+            "modificationTime": "2022-10-20T01:10:31.056597Z"
+          }
+        ],
+        "description": "## Overview\n[minimatch](https://www.npmjs.com/package/minimatch) is a minimal matching utility.\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via the `braceExpand` function in `minimatch.js`.\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `minimatch` to version 3.0.5 or higher.\n## References\n- [GitHub Commit](https://github.com/isaacs/minimatch/commit/a8763f4388e51956be62dc6025cec1126beeb5e6)\n",
+        "epssDetails": {
+          "percentile": "0.17991",
+          "probability": "0.00051",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-3517"
+          ],
+          "CWE": [
+            "CWE-1333"
+          ]
+        },
+        "packageName": "minimatch",
+        "proprietary": false,
+        "creationTime": "2022-10-18T06:10:47.980262Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-10-18T06:00:25Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-10-18T06:29:18.078950Z",
+        "modificationTime": "2022-11-27T21:40:17.490683Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "tslint@6.1.3",
+          "glob@7.1.7",
+          "minimatch@3.0.4"
+        ],
+        "upgradePath": [
+          false,
+          "tslint@6.1.3",
+          "glob@7.1.7",
+          "minimatch@3.0.5"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "minimatch",
+        "version": "3.0.4",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-MINIMIST-2429795",
+        "title": "Prototype Pollution",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+        "credit": [
+          "Unknown"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<0.2.4",
+            ">=1.2.0 <1.2.6"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "0.2.4",
+          "1.2.6"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "low",
+        "cvssScore": 3.7,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "minimist",
+        "references": [
+          {
+            "url": "https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703",
+            "title": "Fix Commit"
+          },
+          {
+            "url": "https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d",
+            "title": "Fix Commit"
+          },
+          {
+            "url": "https://github.com/minimistjs/minimist/blob/master/index.js%23L69",
+            "title": "Vulnerable Code"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "SUSE",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L",
+            "cvssV3BaseScore": 5.6,
+            "modificationTime": "2022-05-18T11:05:33.152638Z"
+          },
+          {
+            "assigner": "NVD",
+            "severity": "critical",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+            "cvssV3BaseScore": 9.8,
+            "modificationTime": "2022-04-13T01:10:15.021168Z"
+          },
+          {
+            "assigner": "Red Hat",
+            "severity": "critical",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+            "cvssV3BaseScore": 9.8,
+            "modificationTime": "2023-04-24T13:51:51.456864Z"
+          }
+        ],
+        "description": "## Overview\n[minimist](https://www.npmjs.com/package/minimist) is a parse argument options module.\nAffected versions of this package are vulnerable to Prototype Pollution due to a missing handler to `Function.prototype`.\r\n\r\n**Notes:** \r\n\r\n- This vulnerability is a bypass to [CVE-2020-7598](https://security.snyk.io/vuln/SNYK-JS-MINIMIST-559764)\r\n\r\n- The reason for the different CVSS between CVE-2021-44906 to CVE-2020-7598, is that CVE-2020-7598 can pollute objects, while CVE-2021-44906 can pollute only function.\r\n\r\n\r\n## PoC by Snyk\r\n```js\r\nrequire('minimist')('--_.constructor.constructor.prototype.foo bar'.split(' '));\r\nconsole.log((function(){}).foo); // bar\r\n```\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `minimist` to version 0.2.4, 1.2.6 or higher.\n## References\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/34e20b8461118608703d6485326abbb8e35e1703)\n- [Fix Commit](https://github.com/minimistjs/minimist/commit/c2b981977fa834b223b408cfb860f933c9811e4d)\n- [Vulnerable Code](https://github.com/minimistjs/minimist/blob/master/index.js#L69)\n",
+        "epssDetails": {
+          "percentile": "0.66759",
+          "probability": "0.00333",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2021-44906"
+          ],
+          "CWE": [
+            "CWE-1321"
+          ],
+          "SNYK": [
+            "SNYK-JS-MINIMIST-559764"
+          ]
+        },
+        "packageName": "minimist",
+        "proprietary": false,
+        "creationTime": "2022-03-18T13:02:08.840039Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-03-18T12:24:05Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-03-21T12:09:35Z",
+        "modificationTime": "2023-04-24T13:51:51.456864Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "@mark.probst/unicode-properties@1.1.0",
+          "brfs@1.6.1",
+          "static-module@2.2.5",
+          "quote-stream@1.0.2",
+          "minimist@1.2.5"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "@mark.probst/unicode-properties@1.1.0",
+          "brfs@1.6.1",
+          "static-module@2.2.5",
+          "quote-stream@1.0.2",
+          "minimist@1.2.6"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "minimist",
+        "version": "1.2.5",
+        "severityWithCritical": "low"
+      },
+      {
+        "id": "SNYK-JS-PATHPARSE-1077067",
+        "title": "Regular Expression Denial of Service (ReDoS)",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+        "credit": [
+          "Yeting Li"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.0.7"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.0.7"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "path-parse",
+        "references": [
+          {
+            "url": "https://github.com/jbgutierrez/path-parse/issues/8",
+            "title": "GitHub Issue 1"
+          },
+          {
+            "url": "https://github.com/jbgutierrez/path-parse/pull/10",
+            "title": "GitHub PR"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "SUSE",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-05-18T11:02:40.203327Z"
+          },
+          {
+            "assigner": "Red Hat",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-09-01T18:10:59.641332Z"
+          },
+          {
+            "assigner": "NVD",
+            "severity": "high",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+            "cvssV3BaseScore": 7.5,
+            "modificationTime": "2022-01-03T16:36:10.774253Z"
+          }
+        ],
+        "description": "## Overview\n[path-parse](https://www.npmjs.org/package/path-parse) is a Node.js path.parse() ponyfill\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) via `splitDeviceRe`, `splitTailRe`, and `splitPathRe` regular expressions. ReDoS exhibits polynomial worst-case time complexity.\r\n\r\n### PoC\r\n```\r\nvar pathParse = require('path-parse');\r\nfunction build_attack(n) {\r\n    var ret = \"\"\r\n    for (var i = 0; i < n; i++) {\r\n        ret += \"/\"\r\n    }\r\n    return ret + \"◎\";\r\n}\r\n\r\nfor(var i = 1; i <= 5000000; i++) {\r\n    if (i % 10000 == 0) {\r\n        var time = Date.now();\r\n        var attack_str = build_attack(i)\r\n        pathParse(attack_str);\r\n        var time_cost = Date.now() - time;\r\n        console.log(\"attack_str.length: \" + attack_str.length + \": \" + time_cost+\" ms\")\r\n }\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nUpgrade `path-parse` to version 1.0.7 or higher.\n## References\n- [GitHub Issue 1](https://github.com/jbgutierrez/path-parse/issues/8)\n- [GitHub PR](https://github.com/jbgutierrez/path-parse/pull/10)\n",
+        "epssDetails": {
+          "percentile": "0.44980",
+          "probability": "0.00121",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2021-23343"
+          ],
+          "CWE": [
+            "CWE-400"
+          ]
+        },
+        "packageName": "path-parse",
+        "proprietary": true,
+        "creationTime": "2021-02-19T16:00:22.449519Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2021-02-19T15:54:01Z",
+        "packageManager": "npm",
+        "publicationTime": "2021-05-04T08:38:49Z",
+        "modificationTime": "2022-09-01T18:10:59.641332Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "@mark.probst/unicode-properties@1.1.0",
+          "brfs@1.6.1",
+          "resolve@1.20.0",
+          "path-parse@1.0.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "@mark.probst/unicode-properties@1.1.0",
+          "brfs@1.6.1",
+          "resolve@1.20.0",
+          "path-parse@1.0.7"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "path-parse",
+        "version": "1.0.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-1319803",
+        "title": "Open Redirect",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P/RL:O/RC:C",
+        "credit": [
+          "ready-research"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.7"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.7"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/URI.js/commit/ac43ca8f80c042f0256fb551ea5203863dec4481",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.1,
+            "modificationTime": "2022-01-03T16:45:43.648082Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect. It mishandles certain uses of backslash such as `https:/\\` and interprets the URI as a relative path. Browsers usually accept backslashes after the protocol, and treat it as a normal slash.\r\n\r\n### PoC\r\n```\r\nvar URI = require('urijs');\r\nvar url = new URI(\"https:/\\/\\/\\www.google.com\");\r\nconsole.log(url);  // Which will return -->  path: \"/www.google.com\"\r\n```\n## Remediation\nUpgrade `urijs` to version 1.19.7 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/ac43ca8f80c042f0256fb551ea5203863dec4481)\n",
+        "epssDetails": {
+          "percentile": "0.27968",
+          "probability": "0.00068",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2021-3647"
+          ],
+          "CWE": [
+            "CWE-601"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2021-07-16T12:16:14.489675Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2021-07-16T12:11:30Z",
+        "packageManager": "npm",
+        "publicationTime": "2021-07-16T14:00:51.997627Z",
+        "modificationTime": "2022-01-03T16:45:43.648082Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.7"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-1319806",
+        "title": "Prototype Pollution",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+        "credit": [
+          "NewEraCracker"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.7"
+          ]
+        },
+        "exploit": "Not Defined",
+        "fixedIn": [
+          "1.19.7"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "high",
+        "cvssScore": 7.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/URI.js/commit/8e51b00911ba0f6e90949e2c4516b945c35021f7",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Prototype Pollution via `parseQuery()`.\n\n## Details\n\nPrototype Pollution is a vulnerability affecting JavaScript. Prototype Pollution refers to the ability to inject properties into existing JavaScript language construct prototypes, such as objects. JavaScript allows all Object attributes to be altered, including their magical attributes such as `__proto__`, `constructor` and `prototype`. An attacker manipulates these attributes to overwrite, or pollute, a JavaScript application object prototype of the base object by injecting other values.  Properties on the `Object.prototype` are then inherited by all the JavaScript objects through the prototype chain. When that happens, this leads to either denial of service by triggering JavaScript exceptions, or it tampers with the application source code to force the code path that the attacker injects, thereby leading to remote code execution.\n\nThere are two main ways in which the pollution of prototypes occurs:\n\n-   Unsafe `Object` recursive merge\n    \n-   Property definition by path\n    \n\n### Unsafe Object recursive merge\n\nThe logic of a vulnerable recursive merge function follows the following high-level model:\n```\nmerge (target, source)\n\n  foreach property of source\n\n    if property exists and is an object on both the target and the source\n\n      merge(target[property], source[property])\n\n    else\n\n      target[property] = source[property]\n```\n<br>  \n\nWhen the source object contains a property named `__proto__` defined with `Object.defineProperty()` , the condition that checks if the property exists and is an object on both the target and the source passes and the merge recurses with the target, being the prototype of `Object` and the source of `Object` as defined by the attacker. Properties are then copied on the `Object` prototype.\n\nClone operations are a special sub-class of unsafe recursive merges, which occur when a recursive merge is conducted on an empty object: `merge({},source)`.\n\n`lodash` and `Hoek` are examples of libraries susceptible to recursive merge attacks.\n\n### Property definition by path\n\nThere are a few JavaScript libraries that use an API to define property values on an object based on a given path. The function that is generally affected contains this signature: `theFunction(object, path, value)`\n\nIf the attacker can control the value of “path”, they can set this value to `__proto__.myValue`. `myValue` is then assigned to the prototype of the class of the object.\n\n## Types of attacks\n\nThere are a few methods by which Prototype Pollution can be manipulated:\n\n| Type |Origin  |Short description |\n|--|--|--|\n| **Denial of service (DoS)**|Client  |This is the most likely attack. <br>DoS occurs when `Object` holds generic functions that are implicitly called for various operations (for example, `toString` and `valueOf`). <br> The attacker pollutes `Object.prototype.someattr` and alters its state to an unexpected value such as `Int` or `Object`. In this case, the code fails and is likely to cause a denial of service.  <br>**For example:** if an attacker pollutes `Object.prototype.toString` by defining it as an integer, if the codebase at any point was reliant on `someobject.toString()` it would fail. |\n |**Remote Code Execution**|Client|Remote code execution is generally only possible in cases where the codebase evaluates a specific attribute of an object, and then executes that evaluation.<br>**For example:** `eval(someobject.someattr)`. In this case, if the attacker pollutes `Object.prototype.someattr` they are likely to be able to leverage this in order to execute code.|\n|**Property Injection**|Client|The attacker pollutes properties that the codebase relies on for their informative value, including security properties such as cookies or tokens.<br>  **For example:** if a codebase checks privileges for `someuser.isAdmin`, then when the attacker pollutes `Object.prototype.isAdmin` and sets it to equal `true`, they can then achieve admin privileges.|\n\n## Affected environments\n\nThe following environments are susceptible to a Prototype Pollution attack:\n\n-   Application server\n    \n-   Web server\n\n-   Web browser\n    \n\n## How to prevent\n\n1.  Freeze the prototype— use `Object.freeze (Object.prototype)`.\n    \n2.  Require schema validation of JSON input.\n    \n3.  Avoid using unsafe recursive merge functions.\n    \n4.  Consider using objects without prototypes (for example, `Object.create(null)`), breaking the prototype chain and preventing pollution.\n    \n5.  As a best practice use `Map` instead of `Object`.\n\n### For more information on this vulnerability type:\n\n[Arteau, Oliver. “JavaScript prototype pollution attack in NodeJS application.” GitHub, 26 May 2018](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf)\n\n## Remediation\nUpgrade `urijs` to version 1.19.7 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/8e51b00911ba0f6e90949e2c4516b945c35021f7)\n",
+        "epssDetails": null,
+        "identifiers": {
+          "CVE": [],
+          "CWE": [
+            "CWE-1321"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2021-07-16T12:19:31.558105Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2021-07-16T12:18:48Z",
+        "packageManager": "npm",
+        "publicationTime": "2021-07-16T14:00:50.459872Z",
+        "modificationTime": "2021-07-16T14:00:50.715974Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.7"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "high"
+      },
+      {
+        "id": "SNYK-JS-URIJS-2401466",
+        "title": "Open Redirect",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P",
+        "credit": [
+          "r0hanSH"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.8"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.8"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/uri.js/commit/6ea641cc8648b025ed5f30b090c2abd4d1a5249f",
+            "title": "GitHub Commit"
+          },
+          {
+            "url": "https://github.com/medialize/URI.js/pull/412",
+            "title": "GitHub PR"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "Red Hat",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.5,
+            "modificationTime": "2022-09-01T15:15:18.689232Z"
+          },
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.5,
+            "modificationTime": "2022-03-31T01:11:34.312368Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect. An attacker can use case-insensitive protocol schemes in order to bypass the patch to [CVE-2021-3647](https://security.snyk.io/vuln/SNYK-JS-URIJS-1319803).\n## Remediation\nUpgrade `urijs` to version 1.19.8 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/6ea641cc8648b025ed5f30b090c2abd4d1a5249f)\n- [GitHub PR](https://github.com/medialize/URI.js/pull/412)\n",
+        "epssDetails": {
+          "percentile": "0.28665",
+          "probability": "0.00070",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-0613"
+          ],
+          "CWE": [
+            "CWE-601"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2022-02-15T14:52:04.130455Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-02-15T14:44:53Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-02-15T17:51:49.201259Z",
+        "modificationTime": "2022-09-01T15:15:18.689232Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.8"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-2415026",
+        "title": "Improper Input Validation",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+        "credit": [
+          "Pocas"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.9"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.9"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/URI.js/commit/86d10523a6f6e8dc4300d99d671335ee362ad316",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-03-10T16:10:41.714978Z"
+          },
+          {
+            "assigner": "Red Hat",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+            "cvssV3BaseScore": 5.3,
+            "modificationTime": "2022-10-25T17:33:23.284025Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Improper Input Validation due to a possible bypass to the protocol validation, using leading whitespaces.\n## Remediation\nUpgrade `urijs` to version 1.19.9 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/URI.js/commit/86d10523a6f6e8dc4300d99d671335ee362ad316)\n",
+        "epssDetails": {
+          "percentile": "0.41581",
+          "probability": "0.00105",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-24723"
+          ],
+          "CWE": [
+            "CWE-20"
+          ],
+          "GHSA": [
+            "GHSA-gmv4-r438-p67f"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2022-03-04T07:22:40.847689Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-03-03T19:23:36Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-03-04T13:42:34.675858Z",
+        "modificationTime": "2022-10-25T17:33:23.284025Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.9"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-2419067",
+        "title": "Open Redirect",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N/E:P",
+        "credit": [
+          "huydoppa"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.10"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.10"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://security.snyk.io/vuln/SNYK-JS-URIJS-2401466",
+            "title": "CVE-2022-0613"
+          },
+          {
+            "url": "https://github.com/medialize/uri.js/commit/a8166fe02f3af6dc1b2b888dcbb807155aad9509",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.1,
+            "modificationTime": "2022-03-12T04:10:59.989636Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Open Redirect by bypassing the fix for CVE-2022-0613 an attacker is still able to redirect.\r\n\r\n## PoC\r\n```js\r\n// PoC.js\r\nvar URI = require('urijs');\r\nvar url = new URI(\"https::\\\\\\github.com/foo/bar\");\r\nconsole.log(url);\r\n```\n## Remediation\nUpgrade `urijs` to version 1.19.10 or higher.\n## References\n- [CVE-2022-0613](https://security.snyk.io/vuln/SNYK-JS-URIJS-2401466)\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/a8166fe02f3af6dc1b2b888dcbb807155aad9509)\n",
+        "epssDetails": {
+          "percentile": "0.23014",
+          "probability": "0.00059",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-0868"
+          ],
+          "CWE": [
+            "CWE-601"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2022-03-06T15:48:53.671447Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-03-06T15:45:23Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-03-06T16:33:12.676215Z",
+        "modificationTime": "2022-03-12T04:10:59.989636Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.10"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-2440699",
+        "title": "Misinterpretation of Input",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:P",
+        "credit": [
+          "@zeyu2001"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.11"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.11"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 6.5,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/uri.js/commit/88805fd3da03bd7a5e60947adb49d182011f1277",
+            "title": "GitHub Commit"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.1,
+            "modificationTime": "2022-04-13T01:10:19.907163Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Misinterpretation of Input when parsing a URL without a scheme and with excessive slashes.\n## Remediation\nUpgrade `urijs` to version 1.19.11 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/88805fd3da03bd7a5e60947adb49d182011f1277)\n",
+        "epssDetails": {
+          "percentile": "0.18852",
+          "probability": "0.00053",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-1233"
+          ],
+          "CWE": [
+            "CWE-115"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2022-04-05T10:02:30.670419Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-04-05T09:51:39Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-04-05T12:30:50.413546Z",
+        "modificationTime": "2022-04-13T01:10:19.907163Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.11"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-URIJS-2441239",
+        "title": "Cross-site Scripting (XSS)",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N/E:P",
+        "credit": [
+          "haxatron"
+        ],
+        "semver": {
+          "vulnerable": [
+            "<1.19.11"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [
+          "1.19.11"
+        ],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.4,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "urijs",
+        "references": [
+          {
+            "url": "https://github.com/medialize/uri.js/commit/b0c9796aa1a95a85f40924fb18b1e5da3dc8ffae",
+            "title": "GitHub Commit"
+          },
+          {
+            "url": "https://github.com/medialize/URI.js/releases/tag/v1.19.11",
+            "title": "GitHub Release"
+          }
+        ],
+        "cvssDetails": [
+          {
+            "assigner": "NVD",
+            "severity": "medium",
+            "cvssV3Vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+            "cvssV3BaseScore": 6.1,
+            "modificationTime": "2022-04-14T01:10:56.841051Z"
+          }
+        ],
+        "description": "## Overview\n[urijs](https://www.npmjs.org/package/urijs) is a Javascript library for working with URLs.\nAffected versions of this package are vulnerable to Cross-site Scripting (XSS) due to improper sanitization in the `URI.parse()` function, which makes it possible to use `\\r`, `\\n\\`, and `\\t` characters.\r\n\r\n## PoC:\r\n```js\r\nconst parse = require('urijs')\r\nconst express = require('express')\r\nconst app = express()\r\nconst port = 3000\r\n\r\ninput = \"ja\\r\\nvascript:alert(1)\"\r\nurl = parse(input)\r\n\r\nconsole.log(url)\r\n\r\napp.get('/', (req, res) => {\r\n  if (url.protocol !== \"javascript:\") {res.send(\"<a href=\\'\" + input + \"\\'>CLICK ME!</a>\")}\r\n})\r\n\r\napp.listen(port, () => {\r\n  console.log(`Example app listening on port ${port}`)\r\n})\r\n```\n## Details\n\nA cross-site scripting attack occurs when the attacker tricks a legitimate web-based application or site to accept a request as originating from a trusted source.\n\nThis is done by escaping the context of the web application; the web application then delivers that data to its users along with other trusted dynamic content, without validating it. The browser unknowingly executes malicious script on the client side (through client-side languages; usually JavaScript or HTML)  in order to perform actions that are otherwise typically blocked by the browser’s Same Origin Policy.\n\nInjecting malicious code is the most prevalent manner by which XSS is exploited; for this reason, escaping characters in order to prevent this manipulation is the top method for securing code against this vulnerability.\n\nEscaping means that the application is coded to mark key characters, and particularly key characters included in user input, to prevent those characters from being interpreted in a dangerous context. For example, in HTML, `<` can be coded as  `&lt`; and `>` can be coded as `&gt`; in order to be interpreted and displayed as themselves in text, while within the code itself, they are used for HTML tags. If malicious content is injected into an application that escapes special characters and that malicious content uses `<` and `>` as HTML tags, those characters are nonetheless not interpreted as HTML tags by the browser if they’ve been correctly escaped in the application code and in this way the attempted attack is diverted.\n \nThe most prominent use of XSS is to steal cookies (source: OWASP HttpOnly) and hijack user sessions, but XSS exploits have been used to expose sensitive information, enable access to privileged services and functionality and deliver malware. \n\n### Types of attacks\nThere are a few methods by which XSS can be manipulated:\n\n|Type|Origin|Description|\n|--|--|--|\n|**Stored**|Server|The malicious code is inserted in the application (usually as a link) by the attacker. The code is activated every time a user clicks the link.|\n|**Reflected**|Server|The attacker delivers a malicious link externally from the vulnerable web site application to a user. When clicked, malicious code is sent to the vulnerable web site, which reflects the attack back to the user’s browser.| \n|**DOM-based**|Client|The attacker forces the user’s browser to render a malicious page. The data in the page itself delivers the cross-site scripting data.|\n|**Mutated**| |The attacker injects code that appears safe, but is then rewritten and modified by the browser, while parsing the markup. An example is rebalancing unclosed quotation marks or even adding quotation marks to unquoted parameters.|\n\n### Affected environments\nThe following environments are susceptible to an XSS attack:\n\n* Web servers\n* Application servers\n* Web application environments\n\n### How to prevent\nThis section describes the top best practices designed to specifically protect your code: \n\n* Sanitize data input in an HTTP request before reflecting it back, ensuring all data is validated, filtered or escaped before echoing anything back to the user, such as the values of query parameters during searches. \n* Convert special characters such as `?`, `&`, `/`, `<`, `>` and spaces to their respective HTML or URL encoded equivalents. \n* Give users the option to disable client-side scripts.\n* Redirect invalid requests.\n* Detect simultaneous logins, including those from two separate IP addresses, and invalidate those sessions.\n* Use and enforce a Content Security Policy (source: Wikipedia) to disable any features that might be manipulated for an XSS attack.\n* Read the documentation for any of the libraries referenced in your code to understand which elements allow for embedded HTML.\n\n## Remediation\nUpgrade `urijs` to version 1.19.11 or higher.\n## References\n- [GitHub Commit](https://github.com/medialize/uri.js/commit/b0c9796aa1a95a85f40924fb18b1e5da3dc8ffae)\n- [GitHub Release](https://github.com/medialize/URI.js/releases/tag/v1.19.11)\n",
+        "epssDetails": {
+          "percentile": "0.18524",
+          "probability": "0.00052",
+          "modelVersion": "v2023.03.01"
+        },
+        "identifiers": {
+          "CVE": [
+            "CVE-2022-1243"
+          ],
+          "CWE": [
+            "CWE-79"
+          ]
+        },
+        "packageName": "urijs",
+        "proprietary": false,
+        "creationTime": "2022-04-06T08:32:35.935458Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-04-06T08:23:25Z",
+        "packageManager": "npm",
+        "publicationTime": "2022-04-06T15:31:30.745073Z",
+        "modificationTime": "2022-04-14T01:10:56.841051Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "urijs@1.19.6"
+        ],
+        "upgradePath": [
+          false,
+          "quicktype-core@6.0.70",
+          "urijs@1.19.11"
+        ],
+        "isUpgradable": true,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "urijs",
+        "version": "1.19.6",
+        "severityWithCritical": "medium"
+      },
+      {
+        "id": "SNYK-JS-WORDWRAP-3149973",
+        "title": "Regular Expression Denial of Service (ReDoS)",
+        "CVSSv3": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:P",
+        "credit": [
+          "Carter Snook"
+        ],
+        "semver": {
+          "vulnerable": [
+            "*"
+          ]
+        },
+        "exploit": "Proof of Concept",
+        "fixedIn": [],
+        "patches": [],
+        "insights": {
+          "triageAdvice": null
+        },
+        "language": "js",
+        "severity": "medium",
+        "cvssScore": 5.3,
+        "functions": [],
+        "malicious": false,
+        "isDisputed": false,
+        "moduleName": "word-wrap",
+        "references": [
+          {
+            "url": "https://github.com/jonschlinkert/word-wrap/blob/master/index.js%23L39",
+            "title": "Vulnerable Code"
+          }
+        ],
+        "cvssDetails": [],
+        "description": "## Overview\nAffected versions of this package are vulnerable to Regular Expression Denial of Service (ReDoS) due to the usage of an insecure regular expression within the `result` variable.\r\n\r\n## PoC\r\n```js\r\nconst wrap = require(\"word-wrap\");\r\n\r\nfor (let i = 0; i <= 10; i++) {\r\nconst attack = \"a\" + \"t\".repeat(i * 10_00000);\r\nconst start = performance.now();\r\nwrap(\r\nattack,\r\n{ trim: true },\r\n);\r\nconsole.log(`${attack.length} characters: ${performance.now() - start}ms`);\r\n}\r\n```\n\n## Details\n\nDenial of Service (DoS) describes a family of attacks, all aimed at making a system inaccessible to its original and legitimate users. There are many types of DoS attacks, ranging from trying to clog the network pipes to the system by generating a large volume of traffic from many machines (a Distributed Denial of Service - DDoS - attack) to sending crafted requests that cause a system to crash or take a disproportional amount of time to process.\n\nThe Regular expression Denial of Service (ReDoS) is a type of Denial of Service attack. Regular expressions are incredibly powerful, but they aren't very intuitive and can ultimately end up making it easy for attackers to take your site down.\n\nLet’s take the following regular expression as an example:\n```js\nregex = /A(B|C+)+D/\n```\n\nThis regular expression accomplishes the following:\n- `A` The string must start with the letter 'A'\n- `(B|C+)+` The string must then follow the letter A with either the letter 'B' or some number of occurrences of the letter 'C' (the `+` matches one or more times). The `+` at the end of this section states that we can look for one or more matches of this section.\n- `D` Finally, we ensure this section of the string ends with a 'D'\n\nThe expression would match inputs such as `ABBD`, `ABCCCCD`, `ABCBCCCD` and `ACCCCCD`\n\nIt most cases, it doesn't take very long for a regex engine to find a match:\n\n```bash\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCD\")'\n0.04s user 0.01s system 95% cpu 0.052 total\n\n$ time node -e '/A(B|C+)+D/.test(\"ACCCCCCCCCCCCCCCCCCCCCCCCCCCCX\")'\n1.79s user 0.02s system 99% cpu 1.812 total\n```\n\nThe entire process of testing it against a 30 characters long string takes around ~52ms. But when given an invalid string, it takes nearly two seconds to complete the test, over ten times as long as it took to test a valid string. The dramatic difference is due to the way regular expressions get evaluated.\n\nMost Regex engines will work very similarly (with minor differences). The engine will match the first possible way to accept the current character and proceed to the next one. If it then fails to match the next one, it will backtrack and see if there was another way to digest the previous character. If it goes too far down the rabbit hole only to find out the string doesn’t match in the end, and if many characters have multiple valid regex paths, the number of backtracking steps can become very large, resulting in what is known as _catastrophic backtracking_.\n\nLet's look at how our expression runs into this problem, using a shorter string: \"ACCCX\". While it seems fairly straightforward, there are still four different ways that the engine could match those three C's:\n1. CCC\n2. CC+C\n3. C+CC\n4. C+C+C.\n\nThe engine has to try each of those combinations to see if any of them potentially match against the expression. When you combine that with the other steps the engine must take, we can use [RegEx 101 debugger](https://regex101.com/debugger) to see the engine has to take a total of 38 steps before it can determine the string doesn't match.\n\nFrom there, the number of steps the engine must use to validate a string just continues to grow.\n\n| String | Number of C's | Number of steps |\n| -------|-------------:| -----:|\n| ACCCX | 3 | 38\n| ACCCCX | 4 | 71\n| ACCCCCX | 5 | 136\n| ACCCCCCCCCCCCCCX | 14 | 65,553\n\n\nBy the time the string includes 14 C's, the engine has to take over 65,000 steps just to see if the string is valid. These extreme situations can cause them to work very slowly (exponentially related to input size, as shown above), allowing an attacker to exploit this and can cause the service to excessively consume CPU, resulting in a Denial of Service.\n\n## Remediation\nThere is no fixed version for `word-wrap`.\n## References\n- [Vulnerable Code](https://github.com/jonschlinkert/word-wrap/blob/master/index.js#L39)\n",
+        "epssDetails": null,
+        "identifiers": {
+          "CVE": [
+            "CVE-2023-26115"
+          ],
+          "CWE": [
+            "CWE-1333"
+          ]
+        },
+        "packageName": "word-wrap",
+        "proprietary": true,
+        "creationTime": "2022-11-28T14:29:41.016778Z",
+        "functions_new": [],
+        "alternativeIds": [],
+        "disclosureTime": "2022-11-28T13:29:26Z",
+        "packageManager": "npm",
+        "publicationTime": "2023-03-22T15:02:56.710165Z",
+        "modificationTime": "2023-04-02T13:51:16.738163Z",
+        "socialTrendAlert": false,
+        "from": [
+          "lazyswitch@0.1.3",
+          "quicktype-core@6.0.70",
+          "@mark.probst/unicode-properties@1.1.0",
+          "brfs@1.6.1",
+          "static-module@2.2.5",
+          "static-eval@2.1.0",
+          "escodegen@1.14.3",
+          "optionator@0.8.3",
+          "word-wrap@1.2.3"
+        ],
+        "upgradePath": [],
+        "isUpgradable": false,
+        "isPatchable": false,
+        "isPinnable": false,
+        "isRuntime": false,
+        "name": "word-wrap",
+        "version": "1.2.3",
+        "severityWithCritical": "medium"
+      }
+    ],
+    "upgrade": {
+      "quicktype-core@6.0.70": {
+        "upgradeTo": "quicktype-core@20.0.14",
+        "upgrades": [
+          "node-fetch@1.7.3",
+          "node-fetch@1.7.3"
+        ],
+        "vulns": [
+          "SNYK-JS-NODEFETCH-2342118",
+          "SNYK-JS-NODEFETCH-674311"
+        ]
+      }
+    },
+    "patch": {},
+    "ignore": {},
+    "pin": {}
+  },
+  "filesystemPolicy": false,
+  "filtered": {
+    "ignore": [],
+    "patch": []
+  },
+  "uniqueCount": 13,
+  "projectName": "lazyswitch",
+  "displayTargetFile": "extension/package.json",
+  "hasUnknownVersions": false,
+  "path": "/Users/zta/Docs/EC521/EC521/src/unzipped/kalifun-lazyswitch-0.1.3"
+}

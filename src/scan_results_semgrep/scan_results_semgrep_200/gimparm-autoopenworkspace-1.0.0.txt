@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<testsuites disabled="0" errors="0" failures="1" tests="1" time="0.0">
+	<testsuite disabled="0" errors="0" failures="1" name="semgrep results" skipped="0" tests="1" time="0">
+		<testcase name="javascript.lang.security.detect-child-process.detect-child-process" classname="/Users/zta/Docs/EC521/EC521/src/unzipped/gimparm-autoopenworkspace-1.0.0/extension/out/extension.js" file="/Users/zta/Docs/EC521/EC521/src/unzipped/gimparm-autoopenworkspace-1.0.0/extension/out/extension.js" line="20">
+			<failure type="ERROR" message="Detected calls to child_process from a function argument `uris`. This could lead to a command injection if the input is user controllable. Try to avoid calls to child_process, and if it is needed ensure user input is correctly sanitized or sandboxed. ">        child_process_1.exec(`${execPath} -r &quot;${uris[0].fsPath}&quot;`);
+</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+

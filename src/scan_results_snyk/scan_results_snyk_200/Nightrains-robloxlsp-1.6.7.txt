@@ -1,0 +1,53 @@
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7...
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/package.json
+Project name:      robloxlsp
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7
+Licenses:          enabled
+
+✔ Tested /Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7 for known issues, no vulnerable paths found.
+
+Next steps:
+- Run `snyk monitor` to be notified about new related vulnerabilities.
+- Run `snyk test` as part of your CI/test.
+
+-------------------------------------------------------
+
+Testing /Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7...
+
+Tested 62 dependencies for known issues, found 3 issues, 4 vulnerable paths.
+
+
+Issues to fix by upgrading:
+
+  Upgrade express@4.17.1 to express@4.17.3 to fix
+  ✗ Prototype Poisoning [High Severity][https://security.snyk.io/vuln/SNYK-JS-QS-3153490] in qs@6.7.0
+    introduced by express@4.17.1 > qs@6.7.0 and 1 other path(s)
+
+  Upgrade node-fetch@2.6.1 to node-fetch@2.6.7 to fix
+  ✗ Information Exposure [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-NODEFETCH-2342118] in node-fetch@2.6.1
+    introduced by node-fetch@2.6.1
+
+  Upgrade vscode-languageclient@8.0.0-next.4 to vscode-languageclient@8.0.0 to fix
+  ✗ Regular Expression Denial of Service (ReDoS) [Medium Severity][https://security.snyk.io/vuln/SNYK-JS-MINIMATCH-3050818] in minimatch@3.0.4
+    introduced by vscode-languageclient@8.0.0-next.4 > minimatch@3.0.4
+
+
+
+Organization:      zatimur
+Package manager:   npm
+Target file:       extension/client/package-lock.json
+Project name:      lsp-sample-client
+Open source:       no
+Project path:      /Users/zta/Docs/EC521/EC521/src/unzipped/Nightrains-robloxlsp-1.6.7
+Licenses:          enabled
+
+
+Tested 2 projects, 1 contained vulnerable paths.
+
+
+
