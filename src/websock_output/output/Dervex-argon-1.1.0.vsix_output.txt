@@ -1,0 +1,38 @@
+Keyword 'ws' found in file 'LICENSE.md' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/LICENSE.md) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/CHANGELOG.md) at line 139.
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/LogoName.png
+Keyword 'ws' found in file '.properties.schema.json' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/.properties.schema.json) at line 1944.
+Keyword 'ws' found in file '.properties.schema.json' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/.properties.schema.json) at line 3078.
+Keyword 'ws' found in file '.properties.schema.json' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/.properties.schema.json) at line 3449.
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/Demo.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/Logo.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/RobloxLock.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/SoundService.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/ModuleScript.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/MaterialService.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Properties.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Players.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Argon.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/TestService.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/LocalizationService.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Folder.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Script.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Lighting.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Workspace.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/ReplicatedStorage.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/ServerScriptService.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Root.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/StarterPack.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/StarterPlayer.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Roblox.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/StarterGui.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/ServerStorage.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/StarterPlayerScripts.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Chat.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/Teams.png
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/assets/icons/LocalScript.png
+Keyword 'ws' found in file 'apiDump.js' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/src/config/apiDump.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/src/utils/winuser.node
+Keyword 'ws' found in file 'winuser.cpp' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/src/utils/winuser.cpp) at line 1.
+Keyword 'ws' found in file 'jsonGenerator.js' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/src/utils/jsonGenerator.js) at line 6.
+Keyword 'ws' found in file 'jsonGenerator.js' (path: /Users/prateek/Downloads/extensions/Dervex-argon-1.1.0/extension/src/utils/jsonGenerator.js) at line 7.

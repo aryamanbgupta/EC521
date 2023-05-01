@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/Quark-quarkxpress-server-xslt-snippets-0.0.5/extension/Thumbs.db
+Could not read file: /Users/prateek/Downloads/extensions/Quark-quarkxpress-server-xslt-snippets-0.0.5/extension/icon.png
+Keyword 'ws' found in file 'snippets.json' (path: /Users/prateek/Downloads/extensions/Quark-quarkxpress-server-xslt-snippets-0.0.5/extension/snippets/snippets.json) at line 8397.
+Keyword 'ws' found in file 'snippets.json' (path: /Users/prateek/Downloads/extensions/Quark-quarkxpress-server-xslt-snippets-0.0.5/extension/snippets/snippets.json) at line 8467.

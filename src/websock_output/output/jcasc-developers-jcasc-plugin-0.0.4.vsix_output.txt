@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/jcasc-developers-jcasc-plugin-0.0.4/extension/LICENSE.txt) at line 83.
+Could not read file: /Users/prateek/Downloads/extensions/jcasc-developers-jcasc-plugin-0.0.4/extension/images/jcasc_icon.png

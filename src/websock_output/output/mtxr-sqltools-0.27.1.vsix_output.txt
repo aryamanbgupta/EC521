@@ -1,0 +1,16 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/package.json) at line 702.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/package.json) at line 926.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/package.json) at line 948.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/package.json) at line 964.
+Keyword 'ws' found in file 'languageserver.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/languageserver.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/extension.js) at line 1.
+Keyword 'ws' found in file 'commons.css' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/ui/commons.css) at line 1.
+Keyword 'ws' found in file 'vendor.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/ui/vendor.js) at line 2.
+Keyword 'ws' found in file 'commons.js' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/dist/ui/commons.js) at line 1.
+Keyword 'ws' found in file 'sql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/language/sql.tmLanguage.json) at line 31.
+Keyword 'ws' found in file 'sql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/language/sql.tmLanguage.json) at line 225.
+Keyword 'ws' found in file 'sql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/language/sql.tmLanguage.json) at line 245.
+Keyword 'ws' found in file 'sql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/language/sql.tmLanguage.json) at line 246.
+Keyword 'ws' found in file 'sql.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/language/sql.tmLanguage.json) at line 257.
+Could not read file: /Users/prateek/Downloads/extensions/mtxr-sqltools-0.27.1/extension/icons/icon-128.png

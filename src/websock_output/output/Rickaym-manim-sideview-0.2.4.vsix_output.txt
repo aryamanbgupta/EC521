@@ -1,0 +1,441 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/README.md) at line 67.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/README.md) at line 167.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/package.json) at line 5.
+Keyword 'ws' found in file 'globals.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/out/globals.js) at line 126.
+Keyword 'ws' found in file 'globals.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/out/globals.js) at line 158.
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/preview.png
+Keyword 'ws' found in file 'LICENSE' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/LICENSE) at line 94.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/README.md) at line 100.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/package.json) at line 12.
+Keyword 'ws' found in file 'SECURITY.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/SECURITY.md) at line 39.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 428.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 430.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 433.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 2164.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 2166.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 2169.
+Keyword 'ws' found in file 'codicon.html' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.html) at line 3590.
+Keyword 'ws' found in file 'codicon.svg' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.svg) at line 1.
+Keyword 'ws' found in file 'codicon.css' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.css) at line 214.
+Keyword 'ws' found in file 'codicon.css' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.css) at line 329.
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.ttf
+Keyword 'ws' found in file 'codicon.csv' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.csv) at line 36.
+Keyword 'ws' found in file 'codicon.csv' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/dist/codicon.csv) at line 252.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/.github/ISSUE_TEMPLATE/bug_report.md) at line 27.
+Keyword 'ws' found in file 'mapping.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/src/template/mapping.json) at line 156.
+Keyword 'ws' found in file 'mapping.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/src/template/mapping.json) at line 271.
+Keyword 'ws' found in file 'preview.hbs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/@vscode/codicons/src/template/preview.hbs) at line 232.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 33.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 343.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 344.
+Keyword 'wss' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 344.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 357.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 358.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 359.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 365.
+Keyword 'wss' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 365.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 366.
+Keyword 'wss' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 366.
+Keyword 'ws' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 367.
+Keyword 'wss' found in file 'test.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/test.js) at line 367.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/index.js) at line 10.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/index.js) at line 11.
+Keyword 'wss' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/index.js) at line 11.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/README.md) at line 22.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/README.md) at line 80.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/README.md) at line 103.
+Keyword 'wss' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/README.md) at line 103.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/proxy-from-env/README.md) at line 104.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/combined-stream/Readme.md) at line 19.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-types/README.md) at line 106.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/Readme.md) at line 11.
+Keyword 'ws' found in file 'README.md.bak' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/README.md.bak) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/package.json) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/package.json) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/package.json) at line 23.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/package.json) at line 47.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/package.json) at line 48.
+Keyword 'ws' found in file 'form_data.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/lib/form_data.js) at line 229.
+Keyword 'ws' found in file 'form_data.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/lib/form_data.js) at line 249.
+Keyword 'ws' found in file 'browser.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/form-data/lib/browser.js) at line 1.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/README.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/README.md) at line 139.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/README.md) at line 141.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/README.md) at line 142.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 15.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 22.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 23.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 24.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 25.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 30.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 35.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 39.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 40.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 49.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/package.json) at line 59.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 98.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 100.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 103.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 106.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 107.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 110.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 132.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 136.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/stringify/stringifyPair.js) at line 138.
+Keyword 'ws' found in file 'cst-visit.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/parse/cst-visit.js) at line 64.
+Keyword 'ws' found in file 'resolve-flow-scalar.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/compose/resolve-flow-scalar.js) at line 159.
+Keyword 'ws' found in file 'resolve-flow-scalar.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/compose/resolve-flow-scalar.js) at line 164.
+Keyword 'ws' found in file 'binary.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/schema/yaml-1.1/binary.js) at line 11.
+Keyword 'ws' found in file 'createNode.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/dist/doc/createNode.js) at line 38.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 96.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 98.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 101.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 104.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 105.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 108.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 130.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 134.
+Keyword 'ws' found in file 'stringifyPair.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/stringify/stringifyPair.js) at line 136.
+Keyword 'ws' found in file 'cst-visit.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/parse/cst-visit.js) at line 62.
+Keyword 'ws' found in file 'resolve-flow-scalar.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/compose/resolve-flow-scalar.js) at line 157.
+Keyword 'ws' found in file 'resolve-flow-scalar.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/compose/resolve-flow-scalar.js) at line 162.
+Keyword 'ws' found in file 'binary.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/schema/yaml-1.1/binary.js) at line 9.
+Keyword 'ws' found in file 'createNode.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/yaml/browser/dist/doc/createNode.js) at line 36.
+Keyword 'ws' found in file 'Readme.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/delayed-stream/Readme.md) at line 13.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/README.md) at line 7.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/package.json) at line 11.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/package.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/package.json) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/package.json) at line 48.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/asynckit/package.json) at line 49.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/follow-redirects/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/follow-redirects/README.md) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/follow-redirects/README.md) at line 115.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/follow-redirects/README.md) at line 117.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/follow-redirects/README.md) at line 118.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/CHANGELOG.md) at line 301.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/CHANGELOG.md) at line 353.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/CHANGELOG.md) at line 376.
+Keyword 'ws' found in file 'index.d.cts' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/index.d.cts) at line 345.
+Keyword 'ws' found in file 'index.d.cts' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/index.d.cts) at line 356.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 7.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 18.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 36.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 60.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 66.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 78.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 88.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 90.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 94.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 150.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 156.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 219.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 360.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 371.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 391.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 399.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 418.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 436.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 449.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 450.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 455.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 456.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 497.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 605.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 610.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 757.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 779.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 887.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 895.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 897.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 922.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 997.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 1015.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 1127.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/README.md) at line 1189.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/package.json) at line 4.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/package.json) at line 12.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/package.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/package.json) at line 128.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/package.json) at line 130.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1215.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1217.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1231.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1240.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1242.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1243.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1248.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1254.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1260.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1261.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1835.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1836.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1837.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1865.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1866.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1919.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1920.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1922.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1967.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 1968.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2057.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2058.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2112.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2123.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2136.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2158.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2160.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2193.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2270.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.js) at line 2717.
+Keyword 'ws' found in file 'axios.min.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/axios.min.js) at line 1.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1216.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1218.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1232.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1246.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1248.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1249.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1254.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1265.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1271.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1272.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1937.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1939.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1940.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1976.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 1977.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2030.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2032.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2034.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2086.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2087.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2197.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2198.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2260.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2271.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2285.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2311.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2313.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2348.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2440.
+Keyword 'ws' found in file 'axios.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.js) at line 2950.
+Keyword 'ws' found in file 'axios.min.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/esm/axios.min.js) at line 1.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1218.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1220.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1234.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1248.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1250.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1251.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1256.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1267.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1273.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1274.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1939.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1941.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1942.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1978.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 1979.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2032.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2034.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2036.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2088.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2089.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2199.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2200.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2262.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2273.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2287.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2313.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2315.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2350.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2442.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/browser/axios.cjs) at line 2952.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3036.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3038.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3039.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3075.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3076.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3084.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3086.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3088.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3140.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3141.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3194.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3195.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3257.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3268.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3282.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3308.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3310.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3345.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3437.
+Keyword 'ws' found in file 'axios.cjs' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/dist/node/axios.cjs) at line 3945.
+Keyword 'ws' found in file 'CancelToken.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/cancel/CancelToken.js) at line 66.
+Keyword 'ws' found in file 'dispatchRequest.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/core/dispatchRequest.js) at line 11.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 5.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 7.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 21.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 35.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 37.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 38.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 43.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 54.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 60.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/platform/browser/index.js) at line 61.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 64.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 65.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 127.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 138.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 152.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 178.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 180.
+Keyword 'ws' found in file 'xhr.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/adapters/xhr.js) at line 215.
+Keyword 'ws' found in file 'isURLSameOrigin.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/isURLSameOrigin.js) at line 6.
+Keyword 'ws' found in file 'isURLSameOrigin.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/isURLSameOrigin.js) at line 8.
+Keyword 'ws' found in file 'isURLSameOrigin.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/isURLSameOrigin.js) at line 10.
+Keyword 'ws' found in file 'isURLSameOrigin.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/isURLSameOrigin.js) at line 62.
+Keyword 'ws' found in file 'isURLSameOrigin.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/isURLSameOrigin.js) at line 63.
+Keyword 'ws' found in file 'cookies.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/cookies.js) at line 6.
+Keyword 'ws' found in file 'cookies.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/cookies.js) at line 8.
+Keyword 'ws' found in file 'cookies.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/cookies.js) at line 9.
+Keyword 'ws' found in file 'cookies.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/cookies.js) at line 45.
+Keyword 'ws' found in file 'cookies.js' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/cookies.js) at line 46.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/axios/lib/helpers/README.md) at line 5.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 1013.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 1017.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 1021.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 2419.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3347.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3351.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3622.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3834.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3837.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3840.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 3843.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 4180.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 4183.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 4186.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 4784.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5437.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5440.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5622.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5625.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5627.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5630.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 5815.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 7450.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 7477.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 7479.
+Keyword 'ws' found in file 'db.json' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/db.json) at line 7991.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/node_modules/mime-db/README.md) at line 26.
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/images/rotation.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/images/settings.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/images/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/images/dark_logo.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_004_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_003_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_008_FullScreenRectangle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_003_ZoomOUT.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_004_CameraLEFT.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_040_ParametricFunction.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_007_ArcBetweenPoints.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_007_MatchWIDTH.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_043_BraceLabel.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_004_Bold.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_008_Check.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_007_MathTex2.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_027_CutOut.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_002_Axes_zoom.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_014_RoundedRectangle1.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_007_ArrowVectorField.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_001_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_002_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_005_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_009_SurroundingRectangle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_023_RegularPolygram5.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_034_ArrowSquareTip.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_060_NumberPlane.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_033_Arrow.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_062_NumberLine_rotation.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_003_Annulus.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_061_NumberLine.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_041_CubicBezier.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_045_AnnotationDot.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_006_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_008_Line.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_031_TwoCirclesDifference.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_004_PolarPlane.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_001_Text1.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_018_Angledot.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_032_TwoCirclesUnion.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_050_ImageMobject.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_005_Graph_with_Number.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_010_Dot_set_color_by_gradient.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_028_TwoCircles.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_002_Circle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_047_ManimBanner.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_001_Background.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_038_DoubleArrow.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_057_Matrix_bracket.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_059_Code.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_003_ComplexPlane.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_006_MatchHEIGHT.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_048_HTMLBanner.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_013_Rectangle_grid.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_024_RegularPolygram6.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_016_Elbow.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_006_StreamLines.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_005_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_011_Polygon_set_color.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Plots_001_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_002_Text2.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_055_Matrix_SurroundingRectangle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_037_ArrowCircleFilledTip.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_054_Matrix.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_015_RoundedRectangle2.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_006_Arc.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_003_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_064_BarChart.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_051_ImageMobject_nearest.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_042_Brace.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_029_TwoCirclesIntersection.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_012_Rectangle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_011_Square.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_030_TwoCirclesExclusion.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_020_Triangle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_056_MobjectMatrix.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_019_Angle_get_value.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_005_CameraUP.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_036_ArrowCircleTip.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_010_DashedCircle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_004_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_052_ImageMobject_cubic.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_022_Star.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_021_Cross.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_049_FlyingFramesBanner.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_053_SVGMobject.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_063_NumberLine_decimal.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_017_RightAngle.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_035_ArrowSquareFilledTip.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_001_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_058_Table_add_highlighted_cell.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_002_Emoji.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/ManimEmoji_006_Axes_e_x.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_006_MathTex_stix2.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_039_CurvedArrow.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_009_DashedLine.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_003_Underline.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_001_Dot.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_025_RegularPolygon5.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_046_LabeledDot.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_004_Ellipse.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_026_RegularPolygon6.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Text_005_MathTex.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_065_Light_change_default.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Camera_and_Style_002_ZoomIN.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_005_Sector.png
+Could not read file: /Users/prateek/Downloads/extensions/Rickaym-manim-sideview-0.2.4/extension/assets/mobjects/gallery_assets/Basic_Shapes_044_ArcBrace.png

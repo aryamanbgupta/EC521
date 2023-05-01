@@ -1,0 +1,21 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/README.md) at line 26.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 8.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 10.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 16.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 226.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 228.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 231.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 234.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 247.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 248.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 252.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 255.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 266.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 277.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 325.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 335.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 337.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/dist/extension.js) at line 389.
+Could not read file: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/docs/logo.ai
+Could not read file: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/docs/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/thisismanta-third-eye-5.5.0/extension/docs/demo.gif

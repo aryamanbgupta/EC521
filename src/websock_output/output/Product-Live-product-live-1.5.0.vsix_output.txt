@@ -1,0 +1,21 @@
+Keyword 'ws' found in file 'TECHNICAL_CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/TECHNICAL_CHANGELOG.md) at line 12.
+Keyword 'ws' found in file 'TECHNICAL_CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/TECHNICAL_CHANGELOG.md) at line 117.
+Keyword 'ws' found in file 'bundle.js.map' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js.map) at line 1.
+Keyword 'wss' found in file 'bundle.js.map' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js.map) at line 1.
+Keyword 'openExternal' found in file 'bundle.js.map' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js.map) at line 1.
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js) at line 2.
+Keyword 'wss' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js) at line 2.
+Keyword 'openExternal' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/bundle.js) at line 2.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/package.json) at line 109.
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/xsd-wrapper.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/saxon-he-11.4.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/saxon9he.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/lib/jline-2.14.6.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/lib/icu4j-59.2.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/lib/xmlresolver-4.4.3-data.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/jars/lib/xmlresolver-4.4.3.jar
+Could not read file: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/template/export-items-excel/assets/template.xlsx
+Keyword 'ws' found in file 'transform.xslt' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/template/import-csv-from-ftp/assets/transform.xslt) at line 15.
+Keyword 'ws' found in file 'ouptut_from_csv_to_xml.xml' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/template/import-csv-from-ftp/assets/TESTS/ouptut_from_csv_to_xml.xml) at line 4.
+Keyword 'ws' found in file 'ouptut_from_csv_to_xml.xml' (path: /Users/prateek/Downloads/extensions/Product-Live-product-live-1.5.0/extension/assets/template/import-csv-from-ftp/assets/TESTS/ouptut_from_csv_to_xml.xml) at line 20.

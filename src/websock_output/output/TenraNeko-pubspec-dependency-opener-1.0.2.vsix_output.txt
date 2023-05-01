@@ -1,0 +1,6 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension/README.md) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension/package.json) at line 4.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension/out/extension.js) at line 20.
+Could not read file: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/TenraNeko-pubspec-dependency-opener-1.0.2/extension/images/feature-1-1.png

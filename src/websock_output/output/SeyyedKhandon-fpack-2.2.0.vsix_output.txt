@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/SeyyedKhandon-fpack-2.2.0/extension/README.md) at line 49.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/SeyyedKhandon-fpack-2.2.0/extension/README.md) at line 51.
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-fpack-2.2.0/extension/assets/fpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-fpack-2.2.0/extension/assets/zpack.jpg
+Could not read file: /Users/prateek/Downloads/extensions/SeyyedKhandon-fpack-2.2.0/extension/assets/fpack.psd

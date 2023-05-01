@@ -1,0 +1,50 @@
+Keyword 'ws' found in file 'README.zh.md' (path: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/README.zh.md) at line 30.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/README.md) at line 30.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/README.md) at line 58.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/extension.js) at line 295.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/extension.js) at line 299.
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/donate.jpg
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/players/mp3player.exe
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/live2dpackages/kesyoban/model.moc
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/live2dpackages/kesyoban/model.2048/texture_00.png
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/live2dpackages/rainbow/rainbow.moc3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/live2dpackages/rainbow/rainbow.2048/texture_00.png
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/await_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_morning_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_midnight_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/await_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_each_hour_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_each_hour_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/await_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/avatar-dark.jpg
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_each_hour_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_each_hour_05.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/v_html_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_each_hour_04.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/function_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_noon_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/function_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_evening_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/function_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/crash.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/import_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/import_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/catch_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/if_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/function.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/if_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/catch_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/avatar.jpg
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/fuck_pm_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/catch_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/arrow_function_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/if_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/fuck_pm_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/for_02.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/for_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/for_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_before_noon_04.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_before_noon_01.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_before_noon_03.mp3
+Could not read file: /Users/prateek/Downloads/extensions/ezshine-rainbow-fart-waifu-0.0.20/extension/resources/voicepackages/justkowalski/time_before_noon_02.mp3

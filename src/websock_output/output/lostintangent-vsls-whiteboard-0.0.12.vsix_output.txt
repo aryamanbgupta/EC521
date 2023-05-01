@@ -1,0 +1,44 @@
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/icon.png
+Keyword 'ws' found in file 'webpack.browser.config.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/webpack.browser.config.js) at line 22.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/README.md) at line 5.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/package.json) at line 73.
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/dist/bundle.js) at line 170.
+Keyword 'ws' found in file 'bundle.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/dist/bundle.js) at line 171.
+Keyword 'ws' found in file 'vscode.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/vscode.js) at line 62.
+Keyword 'ws' found in file 'vscode.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/vscode.js) at line 63.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/LICENSE.txt) at line 35.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/LICENSE.txt) at line 41.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/LICENSE.txt) at line 43.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/node_modules/vsls/LICENSE.txt) at line 57.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 1741.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 1803.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 3536.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4337.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4530.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4572.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4573.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4589.
+Keyword 'ws' found in file 'literallycanvas.js' (path: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/literallycanvas.js) at line 4633.
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/line-with-arrow.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/hue.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/eyedropper.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/ellipse.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/polygon-open.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/alpha.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/rectangle.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/dashed-line.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/polygon.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/eraser.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/checkerboard-8x8.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/polygon-closed.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/polygon-cancel.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/pan.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/undo.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/pencil.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/line.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/saturation.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/redo.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/zoom-out.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/text.png
+Could not read file: /Users/prateek/Downloads/extensions/lostintangent-vsls-whiteboard-0.0.12/extension/static/literallycanvas/images/zoom-in.png

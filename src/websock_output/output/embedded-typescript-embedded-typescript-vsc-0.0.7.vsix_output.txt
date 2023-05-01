@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/server.js) at line 6721.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/server.js) at line 6801.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/server.js) at line 6821.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/server.js) at line 6840.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/extension.js) at line 11628.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/extension.js) at line 14092.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/embedded-typescript-embedded-typescript-vsc-0.0.7/extension/dist/extension.js) at line 14096.

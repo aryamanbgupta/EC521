@@ -1,0 +1,24 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/CHANGELOG.md) at line 136.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/package.json) at line 243.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/package.json) at line 252.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/out/index.js) at line 2.
+Keyword 'ws' found in file 'CobolAnalysisVisitor.nls.metadata.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/out/vms_cobol/context/CobolAnalysisVisitor.nls.metadata.json) at line 122.
+Keyword 'ws' found in file 'CobolAnalysisVisitor.nls.metadata.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/out/vms_cobol/context/CobolAnalysisVisitor.nls.metadata.json) at line 126.
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/images/vms_128x128_v2.png
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/images/mock-debug-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/images/vms_logo.png
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/resources/build_1.png
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/resources/package-explorer.png
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/resources/build_28x28.png
+Keyword 'ws' found in file 'fortran.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/fortran.tmLanguage.json) at line 3311.
+Keyword 'ws' found in file 'fortran.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/fortran.tmLanguage.json) at line 3372.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 143.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 168.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 173.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 174.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 255.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 493.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 673.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 695.
+Keyword 'ws' found in file 'cld.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/syntaxes/cld.tmLanguage.json) at line 968.
+Could not read file: /Users/prateek/Downloads/extensions/VMSSoftwareInc-vms-ide-1.5.55/extension/media/dep.png

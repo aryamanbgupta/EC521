@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/Davidev-opencartsnippet-1.0.2/extension/icon.jpg

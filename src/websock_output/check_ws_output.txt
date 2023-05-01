@@ -1,0 +1,887 @@
+[PROGRESS] Processed 309/887 .vsix files: itn3000-open-nuget-site-0.0.1.vsix
+[PROGRESS] Processed 376/887 .vsix files: rad-mehrad-0.0.1.vsix
+[PROGRESS] Processed 548/887 .vsix files: walkme-HAML-extension-pack-1.0.0.vsix
+[PROGRESS] Processed 654/887 .vsix files: walkme-devops-extension-pack-1.0.0.vsix
+[PROGRESS] Processed 754/887 .vsix files: walkme-frontend-developers-pack-1.0.0.vsix
+[PROGRESS] Processed 873/887 .vsix files: devjev-pro-code-0.0.4.vsix
+[PROGRESS] Processed 680/887 .vsix files: SunSpot-evening-sky-theme-1.1.0.vsix
+[PROGRESS] Processed 731/887 .vsix files: jasonroger-vscode-auto-open--markdown-preview-0.0.1.vsix
+[PROGRESS] Processed 196/887 .vsix files: AlanZhang-open-symlink-source-0.0.1.vsix
+[PROGRESS] Processed 255/887 .vsix files: live-wintail-0.0.1.vsix
+[PROGRESS] Processed 178/887 .vsix files: kevinjp-cf-filefinder-0.0.2.vsix
+[PROGRESS] Processed 276/887 .vsix files: defntvdm-fzf-vscode-0.0.1.vsix
+[PROGRESS] Processed 282/887 .vsix files: I2k21205209-opengl-0.0.2.vsix
+[PROGRESS] Processed 416/887 .vsix files: Klaviyo-live-share-klaviyo-vscode-extension-0.5.0.vsix
+[PROGRESS] Processed 500/887 .vsix files: pselibas-livescript-0.1.1.vsix
+[PROGRESS] Processed 482/887 .vsix files: zcs-md-ppt-0.0.2.vsix
+[PROGRESS] Processed 522/887 .vsix files: tgreen7-open-file-command-0.0.1.vsix
+[PROGRESS] Processed 599/887 .vsix files: gennad-open-random-file-0.1.0.vsix
+[PROGRESS] Processed 792/887 .vsix files: zihong-zihong-hello-0.0.1.vsix
+[PROGRESS] Processed 797/887 .vsix files: omagerio-tabsort-1.1.5.vsix
+[PROGRESS] Processed 106/887 .vsix files: Artsy-artsy-studio-extension-pack-1.3.1.vsix
+[PROGRESS] Processed 141/887 .vsix files: juninhosilva-package-plus-plus-0.0.1.vsix
+[PROGRESS] Processed 349/887 .vsix files: synesthesia-synesthesia-snippets-0.1.1.vsix
+[PROGRESS] Processed 551/887 .vsix files: PranaySingh-phabview-1.0.1.vsix
+[PROGRESS] Processed 559/887 .vsix files: hnw-vscode-auto-open-markdown-preview-0.0.4.vsix
+[PROGRESS] Processed 644/887 .vsix files: betterthantomorrow-calva-spritz-1.0.4.vsix
+[PROGRESS] Processed 609/887 .vsix files: beeinger-ts-live-checks-1.0.0.vsix
+[PROGRESS] Processed 646/887 .vsix files: timgreen-vscode-auto-open-markdown-preview-enhanced-0.0.5.vsix
+[PROGRESS] Processed 47/887 .vsix files: Toradex-torizon-qt-designer-support-1.0.0.vsix
+[PROGRESS] Processed 292/887 .vsix files: entexa-tall-stack-1.0.9.vsix
+[PROGRESS] Processed 503/887 .vsix files: fission-fission-live-0.0.1.vsix
+[PROGRESS] Processed 502/887 .vsix files: kutear-search-compare-0.0.3.vsix
+[PROGRESS] Processed 241/887 .vsix files: markspring01-OpenUrlDemo-0.0.2.vsix
+[PROGRESS] Processed 410/887 .vsix files: evirbek-evirbektheme-0.0.1.vsix
+[PROGRESS] Processed 496/887 .vsix files: ConfirmedVellas-quickclone-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 327/887 .vsix files: UtsavVaria-goog-search-0.0.2.vsix
+[PROGRESS] Processed 15/887 .vsix files: CameronEckman-jsontoelixir-0.2.0.vsix
+[PROGRESS] Processed 75/887 .vsix files: csullivan-angular-internationalizer-0.0.1.vsix
+[PROGRESS] Processed 140/887 .vsix files: ezrafree-markdown-preview-0.1.2.vsix
+[PROGRESS] Processed 239/887 .vsix files: jimcooper-live-auto-type-0.9.0.vsix
+[PROGRESS] Processed 375/887 .vsix files: EuroCent82-vsc-oafid-0.0.2.vsix
+[PROGRESS] Processed 417/887 .vsix files: soburi-mdpreview-non-space-character-count-0.0.1.vsix
+[PROGRESS] Processed 613/887 .vsix files: atalent-markdown-command-assist-1.1.5.vsix
+[PROGRESS] Processed 700/887 .vsix files: rbuckton-tsserver-live-reload-1.0.1.vsix
+[PROGRESS] Processed 870/887 .vsix files: IsaacConDosA-react-svg-preview-0.0.1.vsix
+[PROGRESS] Processed 104/887 .vsix files: MartinsZeltins-vue-alias-chaser-1.1.0.vsix
+[PROGRESS] Processed 57/887 .vsix files: musikele-create-link-to-git-server-1.0.3.vsix
+[PROGRESS] Processed 145/887 .vsix files: lextudio-restructuredtext-pack-1.0.1.vsix
+[PROGRESS] Processed 152/887 .vsix files: Krypton24-exass-1.0.0.vsix
+[PROGRESS] Processed 237/887 .vsix files: TechieCouch-git-essentials-0.0.1.vsix
+[PROGRESS] Processed 557/887 .vsix files: Gydunhn-vsc-essentials-themes-0.2.2.vsix
+[PROGRESS] Processed 725/887 .vsix files: AdrienTecher-ultimate-base-pack-0.0.1.vsix
+[PROGRESS] Processed 687/887 .vsix files: Gydunhn-web-design-essentials-0.6.0.vsix
+[PROGRESS] Processed 760/887 .vsix files: TeodoroVIllanueva-php-live-server-0.0.1.vsix
+[PROGRESS] Processed 3/887 .vsix files: SubhashChandraSharma26-googleit-0.0.1.vsix
+[PROGRESS] Processed 210/887 .vsix files: jcasc-developers-jcasc-plugin-0.0.4.vsix
+[PROGRESS] Processed 286/887 .vsix files: HookyQR-CreateModule-0.0.5.vsix
+[PROGRESS] Processed 388/887 .vsix files: AdrienTecher-enhance-me-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 73/887 .vsix files: njaldea-liquid-live-preview-0.0.3.vsix
+[PROGRESS] Processed 449/887 .vsix files: tonyliu-opennewwindow-0.0.1.vsix
+[PROGRESS] Processed 591/887 .vsix files: s3-lang-tools-s3-lang-server-0.2.1.vsix
+[PROGRESS] Processed 629/887 .vsix files: RoyalDevsTheme-royal-devs-theme-0.1.0.vsix
+[PROGRESS] Processed 260/887 .vsix files: TheEclaOpenSourcetestOrganization-ecla-lang-0.0.1.vsix
+[PROGRESS] Processed 328/887 .vsix files: sangamcse-theme-shadow-vscode-0.0.3.vsix
+[PROGRESS] Processed 684/887 .vsix files: SanjayVerma-angular-live-editor-0.0.7.vsix
+[PROGRESS] Processed 833/887 .vsix files: ms-vscode-vscode-node-azure-pack-1.1.1.vsix
+[PROGRESS] Processed 879/887 .vsix files: jjoel1630-animeext-1.0.1.vsix
+[PROGRESS] Processed 45/887 .vsix files: MNick-express-snippet-1.0.0.vsix
+[PROGRESS] Processed 96/887 .vsix files: lively-dark-lively-dark-0.0.5.vsix
+[PROGRESS] Processed 225/887 .vsix files: Yish-php-snippets-for-vscode-1.1.1.vsix
+[PROGRESS] Processed 341/887 .vsix files: DNEK-auto-region-folder-1.0.1.vsix
+[PROGRESS] Processed 335/887 .vsix files: filiptronicek-open-in-gitpod-1.0.1.vsix
+[PROGRESS] Processed 561/887 .vsix files: chenyang-cargo-doc-open-0.0.1.vsix
+[PROGRESS] Processed 657/887 .vsix files: IaraDigital-jovo-utility-1.0.2.vsix
+[PROGRESS] Processed 688/887 .vsix files: chsh-chsh-0.0.1.vsix
+[PROGRESS] Processed 697/887 .vsix files: MuTsunTsai-jsdoc-link-0.2.1.vsix
+[PROGRESS] Processed 734/887 .vsix files: andrewbranch-vscode-tsserver-debug-1.3.0.vsix
+[PROGRESS] Processed 748/887 .vsix files: hupeng-jce-0.0.1.vsix
+[PROGRESS] Processed 6/887 .vsix files: bryanthomaschen-open-related-file-1.2.0.vsix
+[PROGRESS] Processed 169/887 .vsix files: vvzen-vscode-foxdot-darktheme-0.0.2.vsix
+[PROGRESS] Processed 176/887 .vsix files: AaronCarneiro-recommended-frontend-extensions-0.1.0.vsix
+[PROGRESS] Processed 170/887 .vsix files: jabacchetta-vscode-essentials-1.6.0.vsix
+[PROGRESS] Processed 708/887 .vsix files: hejmsdz-search-file-under-cursor-1.0.0.vsix
+[PROGRESS] Processed 799/887 .vsix files: adrianwilczynski-open-folder-in-explorer-1.2.0.vsix
+[PROGRESS] Processed 636/887 .vsix files: mfr966-otcs-webreport-0.0.1.vsix
+[PROGRESS] Processed 871/887 .vsix files: amsyari-parse-server-flutter-snippet-0.1.5.vsix
+[PROGRESS] Processed 246/887 .vsix files: Bobj2018-status-1.0.2.vsix
+[PROGRESS] Processed 274/887 .vsix files: davidalejandroaguilar-delete-file-and-keep-open-1.0.1.vsix
+[PROGRESS] Processed 344/887 .vsix files: chifilly-angular-split-1.1.0.vsix
+[PROGRESS] Processed 587/887 .vsix files: JamieCansdale-ghvs-0.0.1.vsix
+[PROGRESS] Processed 446/887 .vsix files: thisisroi-lumin-1.0.3.vsix
+[PROGRESS] Processed 789/887 .vsix files: Mukundan-nodejs-docs-0.2.2.vsix
+[PROGRESS] Processed 866/887 .vsix files: Kr4is-cpptools-extension-pack-1.3.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 867/887 .vsix files: CopperSpice-csdesigner-plugin-0.0.4.vsix
+[PROGRESS] Processed 20/887 .vsix files: dNk-fileopener-0.1.0.vsix
+[PROGRESS] Processed 422/887 .vsix files: gregghz-tab-switcher-0.0.2.vsix
+[PROGRESS] Processed 724/887 .vsix files: RootzJS-rootzjs-snippets-1.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 722/887 .vsix files: tejanium-blame-pr-1.0.5.vsix
+[PROGRESS] Processed 735/887 .vsix files: sei5dom-diffwithdialog-0.0.3.vsix
+[PROGRESS] Processed 36/887 .vsix files: nemesv-copy-file-name-1.2.0.vsix
+[PROGRESS] Processed 51/887 .vsix files: hosseinagha-vscode-livescript-snippets-0.1.0.vsix
+[PROGRESS] Processed 66/887 .vsix files: liveyou-junitgenerator-0.0.2.vsix
+[PROGRESS] Processed 55/887 .vsix files: elltg-open-current-file-in-new-window-1.0.0.vsix
+[PROGRESS] Processed 171/887 .vsix files: flindahl-vscode-anyfx-0.2.0.vsix
+[PROGRESS] Processed 168/887 .vsix files: alexdima-open-in-github-0.3.0.vsix
+[PROGRESS] Processed 671/887 .vsix files: okwang-restart-language-server-0.0.3.vsix
+[PROGRESS] Processed 26/887 .vsix files: LiveLucky-snippet-retyper-0.0.5.vsix
+[PROGRESS] Processed 184/887 .vsix files: salkuadrat-fluttercolour-0.0.3.vsix
+[PROGRESS] Processed 400/887 .vsix files: JatekPet76-thymeleaf-peek-0.0.4.vsix
+[PROGRESS] Processed 406/887 .vsix files: CodeJunkie-python-live-coding-1.1.6.vsix
+[PROGRESS] Processed 787/887 .vsix files: suryanshmak-advanced-file-1.0.4.vsix
+[PROGRESS] Processed 9/887 .vsix files: udayankumar-cryptoticker-0.1.1.vsix
+[PROGRESS] Processed 185/887 .vsix files: qcz-restart-ts-server-button-1.0.1.vsix
+[PROGRESS] Processed 305/887 .vsix files: austenc-livewire-docs-2.2.0.vsix
+[PROGRESS] Processed 275/887 .vsix files: ltaoo-vscode-plugin-image-hover-preview-0.5.0.vsix
+[PROGRESS] Processed 367/887 .vsix files: SummerSun-vscode-java-server-pack-0.0.4.vsix
+[PROGRESS] Processed 560/887 .vsix files: ZaderRox1111-white-oak-chillhop-1.0.3.vsix
+[PROGRESS] Processed 667/887 .vsix files: voilalex-open-in-ipython-1.0.1.vsix
+[PROGRESS] Processed 672/887 .vsix files: dinusv-liveelements-0.1.1.vsix
+[PROGRESS] Processed 634/887 .vsix files: d-exclaimation-liveride-color-theme-0.1.4.vsix
+[PROGRESS] Processed 665/887 .vsix files: kingwl-restart-your-ts-server-0.0.3.vsix
+[PROGRESS] Processed 136/887 .vsix files: MihailUrakov-php-server-vars-snippets-0.0.3.vsix
+[PROGRESS] Processed 233/887 .vsix files: tqdv-overpassql-syntax-2.1.0.vsix
+[PROGRESS] Processed 182/887 .vsix files: Theboys619-webenv-client-0.0.2.vsix
+[PROGRESS] Processed 369/887 .vsix files: LukeNewcomb-kasm-kerbal-os-0.3.1.vsix
+[PROGRESS] Processed 488/887 .vsix files: dbaumeis-literal-preview-1.0.2.vsix
+[PROGRESS] Processed 549/887 .vsix files: Quark-quarkxpress-server-xslt-snippets-0.0.5.vsix
+[PROGRESS] Processed 76/887 .vsix files: did1335-opencv-intellisense-0.0.4.vsix
+[PROGRESS] Processed 108/887 .vsix files: Kxnrl-fys-configs-highlighting-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 93/887 .vsix files: neandertech-langoustine-vscode-0.0.2.vsix
+[PROGRESS] Processed 229/887 .vsix files: mute-mips-0.0.2.vsix
+[PROGRESS] Processed 350/887 .vsix files: dw1284-git-push-preview-0.7.0.vsix
+[PROGRESS] Processed 434/887 .vsix files: lucaslabs-show-settings-vscode-1.0.0.vsix
+[PROGRESS] Processed 717/887 .vsix files: demystifying-javascript-python-extensions-pack-1.0.2.vsix
+[PROGRESS] Processed 830/887 .vsix files: gs-spago-imsserverv3-0.0.8.vsix
+[PROGRESS] Processed 844/887 .vsix files: project-mu-open-in-webview-web-extension-0.0.4.vsix
+[PROGRESS] Processed 157/887 .vsix files: adi-projects-crypto-0.0.1.vsix
+[PROGRESS] Processed 125/887 .vsix files: manhen-extension-settings-opener-0.0.5.vsix
+[PROGRESS] Processed 190/887 .vsix files: lochbrunner-vscode-generic-binary-preview-0.0.2.vsix
+[PROGRESS] Processed 264/887 .vsix files: Alessandrio-syncing-cloud-1.0.5.vsix
+[PROGRESS] Processed 438/887 .vsix files: asurance-binary-preview-0.0.2.vsix
+[PROGRESS] Processed 588/887 .vsix files: FairfieldProgramming-cherry-cake-0.1.1.vsix
+[PROGRESS] Processed 622/887 .vsix files: LovelyA72-openutau-yaml-0.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 257/887 .vsix files: FractalBoy-pls-0.0.17.vsix
+[PROGRESS] Processed 883/887 .vsix files: Davidev-opencartsnippet-1.0.2.vsix
+[PROGRESS] Processed 144/887 .vsix files: rioj7-FileGroup-1.1.0.vsix
+[PROGRESS] Processed 230/887 .vsix files: dansilver-typewriter-1.0.1.vsix
+[PROGRESS] Processed 156/887 .vsix files: lennartlence-chadcommit-0.2.3.vsix
+[PROGRESS] Processed 248/887 .vsix files: TheDavidDelta-openerp-code-snippets-1.1.3.vsix
+[PROGRESS] Processed 386/887 .vsix files: phiter-phpstorm-snippets-1.1.2.vsix
+[PROGRESS] Processed 494/887 .vsix files: trevorNgo-loco-developer-preview-0.0.2.vsix
+[PROGRESS] Processed 523/887 .vsix files: RomainMenke-css-gradients-preview-1.1.0.vsix
+[PROGRESS] Processed 753/887 .vsix files: bebo925-livewire-switcher-0.0.2.vsix
+[PROGRESS] Processed 640/887 .vsix files: pxgamer-hgwo-1.1.2.vsix
+[PROGRESS] Processed 770/887 .vsix files: CodeChimp-lmsslim-snippets-1.0.0.vsix
+[PROGRESS] Processed 791/887 .vsix files: zigapeda-open-project-folder-1.0.0.vsix
+[PROGRESS] Processed 112/887 .vsix files: liveColor-dark-0.0.1.vsix
+[PROGRESS] Processed 95/887 .vsix files: rhenium-neos-live-editor-0.0.1.vsix
+[PROGRESS] Processed 247/887 .vsix files: kevin-felichko-open-under-0.3.1.vsix
+[PROGRESS] Processed 399/887 .vsix files: AlfredoLopez-chatgpt-theme-1.0.3.vsix
+[PROGRESS] Processed 542/887 .vsix files: timmoverlaan-uri-open-recent-0.1.1.vsix
+[PROGRESS] Processed 571/887 .vsix files: mvp-angular-angular-component-editor-0.1.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 837/887 .vsix files: lMagickl-open-doc-in-web-0.2.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 516/887 .vsix files: caradhras-uvls-code-0.0.11.vsix
+[PROGRESS] Processed 645/887 .vsix files: momo-live-fes-tools-0.0.1.vsix
+[PROGRESS] Processed 61/887 .vsix files: ctf0-file-shortcut-0.2.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 881/887 .vsix files: nwolverson-ide-purescript-0.26.1.vsix
+[PROGRESS] Processed 338/887 .vsix files: dzhavat-git-cheatsheet-1.4.4.vsix
+[PROGRESS] Processed 381/887 .vsix files: remirobichet-open-single-sibling-1.0.2.vsix
+[PROGRESS] Processed 387/887 .vsix files: allergan-bt-auto-collapse-blocks-0.0.1.vsix
+[PROGRESS] Processed 433/887 .vsix files: holazz-vsc-reveal-0.0.4.vsix
+[PROGRESS] Processed 469/887 .vsix files: fmoronzirfas-open-in-marked-1.0.9.vsix
+[PROGRESS] Processed 607/887 .vsix files: JohnChabot-laythe-0.0.17.vsix
+[PROGRESS] Processed 705/887 .vsix files: Abunuo-open-iterm2-root-1.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 352/887 .vsix files: zenclabs-reactpreview-0.7.4.vsix
+[PROGRESS] Processed 565/887 .vsix files: adrolli-tallui-laravel-livewire-tailwind-1.0.7.vsix
+[PROGRESS] Processed 702/887 .vsix files: kraml-vscode-everything-search-and-open-0.2.0.vsix
+[PROGRESS] Processed 676/887 .vsix files: hosseinagha-vscode-open-react-component-style-0.3.0.vsix
+[PROGRESS] Processed 836/887 .vsix files: gj-server-gj-build-0.4.10.vsix
+[PROGRESS] Processed 877/887 .vsix files: algon-320-integrated-terminal-filedir-0.0.1.vsix
+[PROGRESS] Processed 348/887 .vsix files: adolfdaniel-vscode-chromium-vector-icons-1.0.2.vsix
+[PROGRESS] Processed 343/887 .vsix files: OpenTemplateHub-oth-theme-0.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 364/887 .vsix files: robole-file-bunny-1.5.0.vsix
+[PROGRESS] Processed 567/887 .vsix files: imgss-json-in-log-0.1.2.vsix
+[PROGRESS] Processed 796/887 .vsix files: RobertDani-open-terminal-and-rename-to-folder-name-0.0.2.vsix
+[PROGRESS] Processed 788/887 .vsix files: xpol-extra-markdown-plugins-0.3.0.vsix
+[PROGRESS] Processed 42/887 .vsix files: keiran-oleary-ask-vscode-sever-0.0.1.vsix
+[PROGRESS] Processed 365/887 .vsix files: panzerstadt-light-dark-toggle-0.2.0.vsix
+[PROGRESS] Processed 648/887 .vsix files: TastyKiwi-pewpew-snippets-1.2.4.vsix
+[PROGRESS] Processed 673/887 .vsix files: madeline-rwxml-language-server-insider-0.9.2.vsix
+[PROGRESS] Processed 409/887 .vsix files: bsc-comp214p-team22-mastermind-update-0.1.0.vsix
+[PROGRESS] Processed 663/887 .vsix files: Cyrus-windows-terminal-opener-1.1.0.vsix
+[PROGRESS] Processed 514/887 .vsix files: CalebJStevens-connect-to-openai-1.0.3.vsix
+[PROGRESS] Processed 63/887 .vsix files: AndenetAlexander-vim-cheatsheet-0.0.1.vsix
+[PROGRESS] Processed 279/887 .vsix files: trganda-jq-live-0.1.2.vsix
+[PROGRESS] Processed 477/887 .vsix files: tars0x9752-monorepo-terminal-starter-1.0.3.vsix
+[PROGRESS] Processed 771/887 .vsix files: pthorsson-vscode-jsp-0.0.3.vsix
+[PROGRESS] Processed 187/887 .vsix files: pardeike-remote-log-server-1.0.2.vsix
+[PROGRESS] Processed 378/887 .vsix files: gimparm-autoopenworkspace-1.0.0.vsix
+[PROGRESS] Processed 711/887 .vsix files: nate-scarlet-base64-image-preview-0.0.4.vsix
+[PROGRESS] Processed 89/887 .vsix files: rda-run-chef-server-file-upload-0.0.2.vsix
+[PROGRESS] Processed 110/887 .vsix files: HomyeeKing-hover-helper-0.6.1.vsix
+[PROGRESS] Processed 116/887 .vsix files: chaliy-handlebars-preview-1.3.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 265/887 .vsix files: TOPSoftware-clean-vs-code-0.1.1.vsix
+[PROGRESS] Processed 337/887 .vsix files: kuone-open-by-clipboard-1.0.2.vsix
+[PROGRESS] Processed 331/887 .vsix files: quinn-rc-front-end-test-snippets-0.2.0.vsix
+[PROGRESS] Processed 520/887 .vsix files: Keeqler-vscode-bible-passages-1.2.0.vsix
+[PROGRESS] Processed 723/887 .vsix files: web-solid-copy-to-open-0.0.4.vsix
+[PROGRESS] Processed 798/887 .vsix files: ybin64-aesophia-vscode-0.1.1.vsix
+[PROGRESS] Processed 8/887 .vsix files: TabNine-tabnine-vscode-self-hosted-updater-0.2.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 174/887 .vsix files: niudai-remote-github-0.3.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 250/887 .vsix files: aswinkumar863-sort-editors-2.0.1.vsix
+[PROGRESS] Processed 226/887 .vsix files: Artelin-favorite-folders-1.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 395/887 .vsix files: KevinRose-line-link-0.0.1.vsix
+[PROGRESS] Processed 732/887 .vsix files: lennardv-livewire-goto-updated-1.1.0.vsix
+[PROGRESS] Processed 678/887 .vsix files: celeryliu94-openai-code-0.0.9.vsix
+[PROGRESS] Processed 159/887 .vsix files: SeyyedKhandon-fpack-2.2.0.vsix
+[PROGRESS] Processed 117/887 .vsix files: CGMXDentRizzaSalvatore-cgm-xdent-vscode-tools-0.0.1.vsix
+[PROGRESS] Processed 213/887 .vsix files: WeinanShi-unicodepreview-1.0.1.vsix
+[PROGRESS] Processed 315/887 .vsix files: jspolancor-presentationmode-1.1.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 882/887 .vsix files: bytewright-ripgen-0.0.5.vsix
+[PROGRESS] Processed 499/887 .vsix files: BretDoyle-javascript-extensions-pack---js-essentials-0.0.2.vsix
+[PROGRESS] Processed 619/887 .vsix files: cdyson37-extensionswitcher-0.0.2.vsix
+[PROGRESS] Processed 689/887 .vsix files: baladreams-markdown-readermode-0.0.1.vsix
+[PROGRESS] Processed 802/887 .vsix files: TristanMuller-ableton-live-theme-1.1.0.vsix
+[PROGRESS] Processed 179/887 .vsix files: local-smart-xvba-ribbon-1.0.4.vsix
+[PROGRESS] Processed 457/887 .vsix files: reidkersey-terminalRunner-0.0.1.vsix
+[PROGRESS] Processed 498/887 .vsix files: will-wow-vscode-open-buffers-0.0.1.vsix
+[PROGRESS] Processed 698/887 .vsix files: proohit-openapi-snippets-0.0.9.vsix
+[PROGRESS] Processed 238/887 .vsix files: axetroy-vscode-static-server-0.3.1.vsix
+[PROGRESS] Processed 151/887 .vsix files: kazukitash-esa-1.0.1.vsix
+[PROGRESS] Processed 130/887 .vsix files: qubedev-code-server-npm-0.0.2.vsix
+[PROGRESS] Processed 721/887 .vsix files: remyhunt-tophat-1.0.0.vsix
+[PROGRESS] Processed 780/887 .vsix files: rodrigobdz-goto-react-0.1.0.vsix
+[PROGRESS] Processed 805/887 .vsix files: maxevilmind-caffeine-0.0.6.vsix
+[PROGRESS] Processed 521/887 .vsix files: TapPayments-govscode-flutter-dart-0.0.4.vsix
+[PROGRESS] Processed 563/887 .vsix files: ZachManson-status-messenger-1.0.5.vsix
+[PROGRESS] Processed 37/887 .vsix files: apluslms-aplus-tools-official-0.1.3.vsix
+[PROGRESS] Processed 135/887 .vsix files: stakiran-open-scb-0.0.1.vsix
+[PROGRESS] Processed 256/887 .vsix files: miguel-savignano-middleman-partial-trasporter-0.0.3.vsix
+[PROGRESS] Processed 763/887 .vsix files: derekdavenport-vscode-plonefs-0.4.8.vsix
+[PROGRESS] Processed 80/887 .vsix files: thisislooca-quickopen-ts-0.0.1.vsix
+[PROGRESS] Processed 41/887 .vsix files: jar-jar-doors-0.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 293/887 .vsix files: TenraNeko-pubspec-dependency-opener-1.0.2.vsix
+[PROGRESS] Processed 857/887 .vsix files: alexandre-couret-auto-term-1.1.1.vsix
+[PROGRESS] Processed 555/887 .vsix files: TakumiI-markdown-previewstyle-0.0.1.vsix
+[PROGRESS] Processed 643/887 .vsix files: grigor-iliev-ardour-lua-api-0.0.1.vsix
+[PROGRESS] Processed 432/887 .vsix files: jjuanramos-dbt-bigquery-preview-0.0.22.vsix
+[PROGRESS] Processed 835/887 .vsix files: xupeng6530-nc-start-project-0.0.2.vsix
+[PROGRESS] Processed 40/887 .vsix files: jevakallio-vscode-live-frame-0.1.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 103/887 .vsix files: lextudio-iis-1.0.8.vsix
+[PROGRESS] Processed 515/887 .vsix files: WhizeCo-whize-code-0.5.3.vsix
+[PROGRESS] Processed 736/887 .vsix files: axetroy-vscode-http-proxy-0.1.3.vsix
+[PROGRESS] Processed 845/887 .vsix files: itscap-apk-locator-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 861/887 .vsix files: colaholicu-opengrok-vscode-1.1.0.vsix
+[PROGRESS] Processed 105/887 .vsix files: k5hh-pdf-4.2.3.vsix
+[PROGRESS] Processed 231/887 .vsix files: Guanngxu-guanngxu-lyric-markdown-preview-1.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 321/887 .vsix files: hargettp-pure-prolog-language-support-0.0.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 456/887 .vsix files: glenn2223-live-sass-6.0.4.vsix
+[PROGRESS] Processed 831/887 .vsix files: alexishevia-mdo-extension-code-0.0.1.vsix
+[PROGRESS] Processed 872/887 .vsix files: n0ct3ri4-get-html-preview-1.0.3.vsix
+[PROGRESS] Processed 860/887 .vsix files: hugonteifeh-rosebox-language-server-extension-0.0.5.vsix
+[PROGRESS] Processed 463/887 .vsix files: ldd-vs-code-jq-preview-0.4.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 69/887 .vsix files: LorettaDevs-loretta-lua-0.0.7.vsix
+[PROGRESS] Processed 90/887 .vsix files: opensumi-opensumi-default-themes-2.5.8.vsix
+[PROGRESS] Processed 177/887 .vsix files: Splitbitio-fifa-0.0.3.vsix
+[PROGRESS] Processed 267/887 .vsix files: gabrielgrinberg-auto-run-command-1.6.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 690/887 .vsix files: Discreater-bilibili-live-danmaku-1.0.2.vsix
+[PROGRESS] Processed 661/887 .vsix files: thisismanta-third-eye-5.5.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 718/887 .vsix files: embedded-typescript-embedded-typescript-vsc-0.0.7.vsix
+[PROGRESS] Processed 163/887 .vsix files: B0sh-asl-extension-1.1.0.vsix
+[PROGRESS] Processed 148/887 .vsix files: Orta-vscode-ts-markdown-to-playground-1.1.0.vsix
+[PROGRESS] Processed 245/887 .vsix files: williamthome-eel-0.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 172/887 .vsix files: JohnnyMorganz-luau-lsp-1.18.1.vsix
+[PROGRESS] Processed 19/887 .vsix files: SDTTTTT-bangumiopen-2.2.8.vsix
+[PROGRESS] Processed 111/887 .vsix files: thekarel-open-spec-file-0.0.6.vsix
+[PROGRESS] Processed 270/887 .vsix files: Atlue-leonruncai-td-open-api-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 454/887 .vsix files: bbannier-zeek-language-server-0.27.0.vsix
+[PROGRESS] Processed 703/887 .vsix files: chagptsdz-chatgpt-GPT-4-1.0.4.vsix
+[PROGRESS] Processed 7/887 .vsix files: architect-architect-1.0.1.vsix
+[PROGRESS] Processed 808/887 .vsix files: OpenText-ot2-vscode-cms-modeler-23.1.5.vsix
+[PROGRESS] Processed 441/887 .vsix files: shanehofstetter-rails-open-partial-0.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 50/887 .vsix files: manhen-github-linker-0.0.11.vsix
+[PROGRESS] Processed 138/887 .vsix files: Andreabbondanza-iis-express-executer-1.2.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 829/887 .vsix files: Libroworks-vfmdbp-vscode-0.1.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 380/887 .vsix files: nvarner-typst-lsp-0.3.2.vsix
+[PROGRESS] Processed 728/887 .vsix files: espresso3389-vcterminal-1.0.34.vsix
+[PROGRESS] [Interesting File] ********* Processed 201/887 .vsix files: alanz-vscode-hie-server-0.2.1.vsix
+[PROGRESS] Processed 786/887 .vsix files: lovemo-swift-perfect-0.0.6.vsix
+[PROGRESS] Processed 278/887 .vsix files: uahnbu-lively-reload-0.1.2.vsix
+[PROGRESS] Processed 691/887 .vsix files: pingxiaofen-open-git-sh-prompt-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 29/887 .vsix files: IMCTradingBV-svlangserver-0.4.1.vsix
+[PROGRESS] Processed 674/887 .vsix files: EugeneBB-DevAlert-1.0.5.vsix
+[PROGRESS] Processed 790/887 .vsix files: blairyue-open-git-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 782/887 .vsix files: zuhanit-eps-server-1.2.10.vsix
+[PROGRESS] Processed 729/887 .vsix files: auriou-webbrowse-0.0.1.vsix
+[PROGRESS] Processed 342/887 .vsix files: DurableFunctionsMonitor-az-func-as-a-graph-1.1.0.vsix
+[PROGRESS] Processed 134/887 .vsix files: suhay-vscode-editor-group-minimizer-1.3.2.vsix
+[PROGRESS] Processed 310/887 .vsix files: lochbrunner-vscode-hdf5-viewer-highfive-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 768/887 .vsix files: arr-marksman-0.3.3.vsix
+[PROGRESS] Processed 203/887 .vsix files: adrianwilczynski-switcher-1.0.4.vsix
+[PROGRESS] Processed 483/887 .vsix files: mtxr-sqltools-driver-mssql-0.4.1.vsix
+[PROGRESS] Processed 701/887 .vsix files: fe92star-yapi-mock-server-0.0.2.vsix
+[PROGRESS] Processed 668/887 .vsix files: revilowaldow-5etools-language-server-0.1.6.vsix
+[PROGRESS] Processed 118/887 .vsix files: chinyip-braze-liquid-preview-0.1.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 633/887 .vsix files: apexlang-apexlang-0.0.7.vsix
+[PROGRESS] Processed 362/887 .vsix files: qualc-http-server-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 91/887 .vsix files: msedge-dev-gnls-0.1.3.vsix
+[PROGRESS] Processed 465/887 .vsix files: OpenText-ot2-vscode-decision-modeler-23.1.5.vsix
+[PROGRESS] Processed 475/887 .vsix files: jjjjkkkk-preview-server-0.0.13.vsix
+[PROGRESS] Processed 472/887 .vsix files: jyee721-babel-ast-explorer-0.4.0.vsix
+[PROGRESS] Processed 31/887 .vsix files: pwwang-gptcommit-0.3.0.vsix
+[PROGRESS] Processed 74/887 .vsix files: didisls-vscode-sma-light-plugin-1.5.9.vsix
+[PROGRESS] Processed 822/887 .vsix files: didisls-serverless-sma-light-1.1.22.vsix
+[PROGRESS] Processed 577/887 .vsix files: satiromarra-vscode-php-test-explorer-docker-1.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 466/887 .vsix files: ligolang-publish-ligo-vscode-0.5.0.vsix
+[PROGRESS] Processed 455/887 .vsix files: leadzen-vscweb-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 884/887 .vsix files: NedapHealthcare-appia-vscode-1.17.2.vsix
+[PROGRESS] Processed 847/887 .vsix files: lucasnorgaard-live-server-qr-0.0.2.vsix
+[PROGRESS] Processed 161/887 .vsix files: broadcomMFD-jcl-language-support-1.0.1.vsix
+[PROGRESS] Processed 207/887 .vsix files: live-hybrid-toolkit-latch-0.5.3.vsix
+[PROGRESS] Processed 626/887 .vsix files: TabbyML-vscode-tabby-0.0.4.vsix
+[PROGRESS] Processed 211/887 .vsix files: ynohat-akamai-papi-preview-0.3.2.vsix
+[PROGRESS] Processed 744/887 .vsix files: pieterjongsma-swift-playgrounds-0.1.1.vsix
+[PROGRESS] Processed 291/887 .vsix files: neotan-vscode-auto-restart-typescript-eslint-servers-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 132/887 .vsix files: speedwapp-speedwapp-0.9.7.vsix
+[PROGRESS] Processed 462/887 .vsix files: gplane-vscode-beefweb-0.5.0.vsix
+[PROGRESS] Processed 692/887 .vsix files: marlon407-code-groovy-0.1.2.vsix
+[PROGRESS] Processed 10/887 .vsix files: adamiBs-terraform-live-graph-0.0.5.vsix
+[PROGRESS] Processed 70/887 .vsix files: analytic-signal-preview-mp4-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 12/887 .vsix files: JabedHossain-web-preview-0.1.11.vsix
+[PROGRESS] Processed 302/887 .vsix files: SeyyedKhandon-zpack-2.1.1.vsix
+[PROGRESS] Processed 450/887 .vsix files: zcxiaobao-vscode-cats-0.1.1.vsix
+[PROGRESS] Processed 476/887 .vsix files: tsutsu3-markdown-named-codeblocks-1.0.0.vsix
+[PROGRESS] Processed 741/887 .vsix files: jit-y-vscode-ghq-open-0.0.2.vsix
+[PROGRESS] Processed 48/887 .vsix files: AlistairChristie-open-reusables-1.7.1.vsix
+[PROGRESS] Processed 98/887 .vsix files: zzyrand-live-redux-template-0.0.23.vsix
+[PROGRESS] Processed 67/887 .vsix files: SimonSiefke-svg-preview-2.8.3.vsix
+[PROGRESS] Processed 795/887 .vsix files: AlexanderBelokon-mapbox-preview-0.7.0.vsix
+[PROGRESS] Processed 102/887 .vsix files: spmeesseman-vscode-vslauncher-1.0.8.vsix
+[PROGRESS] Processed 385/887 .vsix files: apartner-top-prestashop-snippets-0.4.0.vsix
+[PROGRESS] Processed 600/887 .vsix files: vincaslt-highlight-matching-tag-0.11.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 285/887 .vsix files: dataopslive-dataops-0.3.1.vsix
+[PROGRESS] Processed 693/887 .vsix files: florianjosefreheis-open-my-calendar-1.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 65/887 .vsix files: denoland-vscode-deno-3.17.0.vsix
+[PROGRESS] Processed 236/887 .vsix files: SwifWeb-webber-1.0.3.vsix
+[PROGRESS] Processed 372/887 .vsix files: decker-edu-decker-server-0.1.4.vsix
+[PROGRESS] Processed 545/887 .vsix files: chjshen-lanteach-server-0.0.1.vsix
+[PROGRESS] Processed 28/887 .vsix files: eliostruyf-vscode-spfx-task-runner-1.2.4.vsix
+[PROGRESS] Processed 77/887 .vsix files: tejasvi-markless-1.0.7.vsix
+[PROGRESS] Processed 333/887 .vsix files: magicus-openjdk-devel-1.1.0.vsix
+[PROGRESS] Processed 313/887 .vsix files: lukaschneider-crumbs-0.1.6.vsix
+[PROGRESS] Processed 468/887 .vsix files: generalov-vscode-tfs-2.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 785/887 .vsix files: hugoclrd-lsp-web-extension-sample-1.0.0.vsix
+[PROGRESS] Processed 124/887 .vsix files: Shopify-vscode-shadowenv-0.1.1.vsix
+[PROGRESS] Processed 518/887 .vsix files: fragcys-asp-net-core-switcher-2.0.2.vsix
+[PROGRESS] Processed 427/887 .vsix files: xuzn-pikchr-markdown-preview-0.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 538/887 .vsix files: intersystems-language-server-2.3.2.vsix
+[PROGRESS] Processed 486/887 .vsix files: distinction-dev-sls-snippets-1.3.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 84/887 .vsix files: sprkldev-sprkl-vscode-0.0.70.vsix
+[PROGRESS] Processed 710/887 .vsix files: Vibhanshu03-LQD3-0.5.0.vsix
+[PROGRESS] Processed 628/887 .vsix files: apartner-top-all-in-one-snippets-0.0.6.vsix
+[PROGRESS] Processed 638/887 .vsix files: holazz-vsc-open-in-browser-0.0.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 27/887 .vsix files: haskell-haskell-2.2.2.vsix
+[PROGRESS] Processed 266/887 .vsix files: peterfh-search-the-web-0.3.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 206/887 .vsix files: jeremyrajan-browsersync-2.2.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 527/887 .vsix files: anka-213-gf-vscode-1.0.4.vsix
+[PROGRESS] Processed 402/887 .vsix files: AykutSarac-jsoncrack-vscode-1.0.8.vsix
+[PROGRESS] Processed 186/887 .vsix files: lochbrunner-vscode-hdf5-viewer-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 418/887 .vsix files: GoCodeo-gocodeo-0.1.7.vsix
+[PROGRESS] Processed 497/887 .vsix files: liubailin-bl-chat-0.0.6.vsix
+[PROGRESS] Processed 775/887 .vsix files: letmaik-git-tree-compare-1.14.0.vsix
+[PROGRESS] Processed 800/887 .vsix files: BCRSoftware-open-file-family-0.1.1.vsix
+[PROGRESS] Processed 85/887 .vsix files: maziac-asm-code-lens-2.4.1.vsix
+[PROGRESS] Processed 295/887 .vsix files: lfurzewaddock-vscode-opn-1.1.2.vsix
+[PROGRESS] Processed 18/887 .vsix files: purocean-drawio-preview-0.2.0.vsix
+[PROGRESS] Processed 758/887 .vsix files: carlduncan-affirmations-0.0.3.vsix
+[PROGRESS] Processed 129/887 .vsix files: axetroy-vscode-open-in-browser-1.0.0.vsix
+[PROGRESS] Processed 251/887 .vsix files: karyfoundation-idf-3.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 290/887 .vsix files: flix-flix-0.99.0.vsix
+[PROGRESS] Processed 885/887 .vsix files: intel-corporation-intel-software-development-tools-1.0.1.vsix
+[PROGRESS] Processed 420/887 .vsix files: GerritGrunwald-discovsc-1.0.5.vsix
+[PROGRESS] Processed 355/887 .vsix files: ZikunFan-vscode-opsconfig-editor-0.0.1.vsix
+[PROGRESS] Processed 34/887 .vsix files: popstas-ansible-server-sites-0.5.1.vsix
+[PROGRESS] Processed 623/887 .vsix files: hugehardzhang-blp-preview-0.2.2.vsix
+[PROGRESS] Processed 751/887 .vsix files: AngeloPerera-vscode-open-in-fork-0.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 714/887 .vsix files: PollywogGames-pico8-ls-0.4.10.vsix
+[PROGRESS] Processed 851/887 .vsix files: cierra-livewire-vscode-0.2.8.vsix
+[PROGRESS] Processed 411/887 .vsix files: JamieSmith-open-salesforce-0.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 200/887 .vsix files: yuwh-searchInOpenGrok-1.0.0.vsix
+[PROGRESS] Processed 447/887 .vsix files: trudan-ionic-preview-0.1.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 566/887 .vsix files: wraith13-open-in-github-desktop-1.4.3.vsix
+[PROGRESS] Processed 408/887 .vsix files: stateful-stable-0.9.1680793676.vsix
+[PROGRESS] Processed 277/887 .vsix files: wycliffePepela-import-size-1.0.0.vsix
+[PROGRESS] Processed 32/887 .vsix files: HansUXdev-javascript-first-snippets-0.0.7.vsix
+[PROGRESS] Processed 614/887 .vsix files: calexander3-rethinkdbexplorer-1.0.7.vsix
+[PROGRESS] Processed 669/887 .vsix files: johnreemar-vscode-qwik-snippets-0.4.0.vsix
+[PROGRESS] Processed 297/887 .vsix files: roboceo-vscode-rjsx-1.0.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 666/887 .vsix files: dzylikecode-docsify-preview-1.7.0.vsix
+[PROGRESS] Processed 442/887 .vsix files: with-one-vision-livecoder-1.0.1.vsix
+[PROGRESS] Processed 706/887 .vsix files: keshan-markdown-live-1.2.1.vsix
+[PROGRESS] Processed 694/887 .vsix files: felvin-codechat-felvin-1.6.7.vsix
+[PROGRESS] Processed 38/887 .vsix files: giscafer-roothub-1.1.13.vsix
+[PROGRESS] Processed 553/887 .vsix files: systemctl603-system-viewer-1.1.0.vsix
+[PROGRESS] Processed 234/887 .vsix files: CodeAdamCa-livecode-1.0.1.vsix
+[PROGRESS] Processed 590/887 .vsix files: zbecknell-asp-classic-support-0.6.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 300/887 .vsix files: VLARAORT-opencoverage-0.0.6.vsix
+[PROGRESS] Processed 322/887 .vsix files: cgtoolbox-guillaume-jobst-houdinivexhelp-0.0.4.vsix
+[PROGRESS] Processed 686/887 .vsix files: hbenl-vscode-test-explorer-liveshare-1.0.5.vsix
+[PROGRESS] Processed 421/887 .vsix files: chuckjonas-apex-debug-1.0.3.vsix
+[PROGRESS] Processed 53/887 .vsix files: tialki-tex-preview-0.0.4.vsix
+[PROGRESS] Processed 562/887 .vsix files: Feliks-ncpreview-0.0.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 46/887 .vsix files: fortran-lang-linter-gfortran-3.4.2023032901.vsix
+[PROGRESS] Processed 752/887 .vsix files: Liangqin-quick-browse-1.10.0.vsix
+[PROGRESS] Processed 484/887 .vsix files: transnano-markdown-jira-preview-0.0.1.vsix
+[PROGRESS] Processed 764/887 .vsix files: bcanzanella-openmatchingfiles-0.5.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 473/887 .vsix files: EDJX-edjx-vscode-1.2.1.vsix
+[PROGRESS] Processed 160/887 .vsix files: michaelnewton-textile-preview-1.0.2.vsix
+[PROGRESS] Processed 35/887 .vsix files: carlosorozcojimenez-ui5-tools-2.2.1.vsix
+[PROGRESS] Processed 254/887 .vsix files: AlexEaton-openscad-format-1.0.1.vsix
+[PROGRESS] Processed 839/887 .vsix files: georgesg-open-related-files-0.0.4.vsix
+[PROGRESS] Processed 425/887 .vsix files: mcgrealife-stoicquote-0.0.4.vsix
+[PROGRESS] Processed 641/887 .vsix files: zavrakv-vscode-hacker-typer-fixed-0.1.1.vsix
+[PROGRESS] Processed 720/887 .vsix files: drewbarrett-vscode-coffeescript-preview-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 737/887 .vsix files: SimonSiefke-html-preview-2.0.6.vsix
+[PROGRESS] Processed 832/887 .vsix files: brano-b-theme-0.4.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 696/887 .vsix files: ucodkr-tiff-preview-0.0.1.vsix
+[PROGRESS] Processed 451/887 .vsix files: Codedungeon-open-in-macdown-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 511/887 .vsix files: alibaba-nodejs-midway-vscode-plugin-0.8.0.vsix
+[PROGRESS] Processed 606/887 .vsix files: lishengqiu-lina-language-server-1.5.21.vsix
+[PROGRESS] [Interesting File] ********* Processed 595/887 .vsix files: derw-derw-language-server-0.0.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 850/887 .vsix files: contentdriver-comrade-0.0.2.vsix
+[PROGRESS] Processed 188/887 .vsix files: gogocrow-file-save-uploader-0.0.12.vsix
+[PROGRESS] Processed 249/887 .vsix files: crysislinux-openjscad-0.0.3.vsix
+[PROGRESS] Processed 842/887 .vsix files: aiartgenerator-ai-video-creator-6.0.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 429/887 .vsix files: Product-Live-product-live-1.5.0.vsix
+[PROGRESS] Processed 650/887 .vsix files: jevakallio-vscode-hacker-typer-0.1.1.vsix
+[PROGRESS] Processed 886/887 .vsix files: lostintangent-vsls-whiteboard-0.0.12.vsix
+[PROGRESS] Processed 54/887 .vsix files: Hai-AlwaysOpenWorkspace-0.10.0.vsix
+[PROGRESS] Processed 216/887 .vsix files: joeandaverde-vscode-pegjs-live-0.0.2.vsix
+[PROGRESS] Processed 740/887 .vsix files: group-server-minecraft-tools-1.1.2.vsix
+[PROGRESS] Processed 854/887 .vsix files: emanuel-braz-deeplink-0.0.6.vsix
+[PROGRESS] Processed 212/887 .vsix files: dzhavat-css-flexbox-cheatsheet-3.3.2.vsix
+[PROGRESS] Processed 272/887 .vsix files: jayongg-open-in-vs-0.0.19.vsix
+[PROGRESS] Processed 726/887 .vsix files: noterpopo-vscode-live2d-0.1.11.vsix
+[PROGRESS] Processed 219/887 .vsix files: prantlf-fold-on-open-1.1.0.vsix
+[PROGRESS] Processed 585/887 .vsix files: subtixx-opencomputerslua-0.1.1.vsix
+[PROGRESS] Processed 83/887 .vsix files: ysemeniuk-emmet-live-1.0.0.vsix
+[PROGRESS] Processed 143/887 .vsix files: SmartBearSoftware-vscode-swaggerhub-1.0.5.vsix
+[PROGRESS] Processed 407/887 .vsix files: RomanPeshkov-go-test-outline-0.2.0.vsix
+[PROGRESS] Processed 868/887 .vsix files: madeline-rwxml-lang-serv-0.42.0.vsix
+[PROGRESS] Processed 224/887 .vsix files: flaaaps-misterbeam-1.2.4.vsix
+[PROGRESS] Processed 513/887 .vsix files: BradyDowling-auto-coder-0.8.0.vsix
+[PROGRESS] Processed 424/887 .vsix files: renoirtan-liver-0.4.4.vsix
+[PROGRESS] Processed 205/887 .vsix files: BadBoy17G-clara-copilot-0.0.4.vsix
+[PROGRESS] Processed 419/887 .vsix files: zhangxiaoqian-emoji-intellisense-0.1.3.vsix
+[PROGRESS] Processed 679/887 .vsix files: spencerwoo-vscode-sspai-markdown-helper-0.3.2.vsix
+[PROGRESS] Processed 288/887 .vsix files: CodePro-codepro-gpt-1.0.1.vsix
+[PROGRESS] Processed 519/887 .vsix files: bierner-markdown-image-size-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 864/887 .vsix files: murbani-vscode-abap-remote-fs-1.6.3.vsix
+[PROGRESS] Processed 677/887 .vsix files: hbrok-markdown-preview-bitbucket-1.0.0.vsix
+[PROGRESS] Processed 517/887 .vsix files: stevensona-shader-toy-0.10.15.vsix
+[PROGRESS] Processed 356/887 .vsix files: smartytomato-smartopen-1.6.7.vsix
+[PROGRESS] Processed 597/887 .vsix files: dayunet2009-vscode-chatgpt-ai-3.9.10.vsix
+[PROGRESS] [Interesting File] ********* Processed 507/887 .vsix files: broadcomMFD-easytrieve-0.1.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 443/887 .vsix files: mtxr-sqltools-0.27.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 281/887 .vsix files: gitduck-code-streaming-0.4.11.vsix
+[PROGRESS] Processed 361/887 .vsix files: LamTran-vscode-innogpt-1.0.1.vsix
+[PROGRESS] Processed 86/887 .vsix files: ambar-live-code-0.0.7.vsix
+[PROGRESS] Processed 301/887 .vsix files: fmilke-openclonk-extension-0.2.0.vsix
+[PROGRESS] Processed 616/887 .vsix files: Sidekick-sidekick-debugger-0.0.19.vsix
+[PROGRESS] Processed 431/887 .vsix files: yiri-taibai-pr-0.0.1.vsix
+[PROGRESS] Processed 78/887 .vsix files: ansenhuang-vscode-view-readme-1.0.0.vsix
+[PROGRESS] Processed 602/887 .vsix files: pawijs-vscode-pawi-1.1.0.vsix
+[PROGRESS] Processed 127/887 .vsix files: killsen-openresty-vsce-1.11.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 812/887 .vsix files: ezshine-rainbow-fart-waifu-0.0.20.vsix
+[PROGRESS] Processed 390/887 .vsix files: DevBert1n1-ask-gpt-0.0.4.vsix
+[PROGRESS] Processed 263/887 .vsix files: Dervex-argon-1.1.0.vsix
+[PROGRESS] Processed 128/887 .vsix files: liuyang-mock-0.0.1.vsix
+[PROGRESS] Processed 620/887 .vsix files: jomeinaster-bracket-peek-1.4.4.vsix
+[PROGRESS] Processed 298/887 .vsix files: liuyang-mock-gen-0.0.9.vsix
+[PROGRESS] Processed 166/887 .vsix files: idma88-omp-pragma-1.0.3.vsix
+[PROGRESS] Processed 223/887 .vsix files: lostintangent-vsls-pomodoro-0.1.0.vsix
+[PROGRESS] Processed 56/887 .vsix files: LuxHackers-can-openr-1.0.2.vsix
+[PROGRESS] Processed 259/887 .vsix files: hakua-doxygen-previewer-0.2.3.vsix
+[PROGRESS] Processed 336/887 .vsix files: local-smart-excel-live-server-4.0.26.vsix
+[PROGRESS] Processed 22/887 .vsix files: paintparty-repl-repl-1.1.2.vsix
+[PROGRESS] Processed 756/887 .vsix files: karigari-chat-0.35.0.vsix
+[PROGRESS] Processed 712/887 .vsix files: rahulmutt-hsinspect-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 440/887 .vsix files: cweijan-vscode-myssql-client2-4.3.1.vsix
+[PROGRESS] Processed 24/887 .vsix files: benqy-bifrost-0.0.14.vsix
+[PROGRESS] [Interesting File] ********* Processed 618/887 .vsix files: MetaConcProject-effortless-language-servers-0.8.1.vsix
+[PROGRESS] Processed 162/887 .vsix files: mkvoya-eps-preview-0.4.0.vsix
+[PROGRESS] Processed 222/887 .vsix files: maxedmands-vscode-zettel-markdown-notes-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 397/887 .vsix files: Micro-Focus-AMC-mfcobol-1.0.45.vsix
+[PROGRESS] Processed 759/887 .vsix files: wsds-OpenSwift-Debugger-0.1.8.vsix
+[PROGRESS] Processed 546/887 .vsix files: CKGrafico-icomoon-viewer-0.6.2.vsix
+[PROGRESS] Processed 865/887 .vsix files: lowfront-vscode-windows-lnk-0.0.2.vsix
+[PROGRESS] Processed 501/887 .vsix files: kirchner-trevor-shopify-liquid-preview-2.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 778/887 .vsix files: ahnafnafee-postscript-preview-0.4.2.vsix
+[PROGRESS] Processed 2/887 .vsix files: JunseokAhn-vs-linker-1.1.6.vsix
+[PROGRESS] Processed 119/887 .vsix files: pokey-command-server-0.8.2.vsix
+[PROGRESS] Processed 11/887 .vsix files: JPTarquino-postgresql-0.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 859/887 .vsix files: jerrygoyal-shortcut-menu-bar-3.0.4.vsix
+[PROGRESS] Processed 824/887 .vsix files: livecover-vscode-livecover-0.0.1.vsix
+[PROGRESS] Processed 325/887 .vsix files: lablup-live-code-runner-4.5.0.vsix
+[PROGRESS] Processed 52/887 .vsix files: aliasadidev-nugetpackagemanagergui-2.0.6.vsix
+[PROGRESS] Processed 193/887 .vsix files: swift-lsp-dev-swift-lsp-dev-0.0.1.vsix
+[PROGRESS] Processed 253/887 .vsix files: wewecode-WeWeCode-0.9.0.vsix
+[PROGRESS] Processed 339/887 .vsix files: ms-azuretools-azure-video-analyzer-0.2.4.vsix
+[PROGRESS] Processed 878/887 .vsix files: dragos-scala-lsp-0.2.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 821/887 .vsix files: circleci-circleci-1.10.3.vsix
+[PROGRESS] Processed 23/887 .vsix files: seatalk-seatalk-open-platform-development-tool-1.0.4.vsix
+[PROGRESS] Processed 508/887 .vsix files: PNDA-nml-language-1.2.3.vsix
+[PROGRESS] Processed 81/887 .vsix files: MartinBilansky-iteria-json-editor-1.0.28.vsix
+[PROGRESS] [Interesting File] ********* Processed 715/887 .vsix files: horihiro-vscode-denofunc-0.1.0.vsix
+[PROGRESS] Processed 794/887 .vsix files: avei2evvvtrybuorhjjp4s3voldpdboq6vppugulxa6fv73q55cq-diana-coding-1.2.1.vsix
+[PROGRESS] Processed 240/887 .vsix files: chogath-nest-server-tools-0.3.5.vsix
+[PROGRESS] Processed 39/887 .vsix files: rust-lang-rust-0.7.9.vsix
+[PROGRESS] Processed 284/887 .vsix files: hansec-fortran-ls-0.6.2.vsix
+[PROGRESS] Processed 681/887 .vsix files: herdingbits-file-focus-1.5.4.vsix
+[PROGRESS] Processed 880/887 .vsix files: NicholasHsiang-vscode-opened-editors-1.0.0.vsix
+[PROGRESS] Processed 541/887 .vsix files: MaurizioMacr-glassfish3-connector-1.0.3.vsix
+[PROGRESS] Processed 773/887 .vsix files: lizhaoming-vscode-ast-preview-0.0.1.vsix
+[PROGRESS] Processed 133/887 .vsix files: v8-torque-vscode-torque-1.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 848/887 .vsix files: lifeart-vscode-ember-unstable-3.0.48.vsix
+[PROGRESS] Processed 658/887 .vsix files: hbohlin-vhdl-ls-0.5.0.vsix
+[PROGRESS] Processed 840/887 .vsix files: CloudStudio-live-server-pro-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 495/887 .vsix files: msjsdiag-vscode-react-native-preview-2023.4.421.vsix
+[PROGRESS] Processed 173/887 .vsix files: eheitherd-vscode-livescript-preview-1.1.0.vsix
+[PROGRESS] Processed 730/887 .vsix files: eheitherd-vscode-livescript-eval-1.1.0.vsix
+[PROGRESS] Processed 683/887 .vsix files: profimedica-live-preview-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 727/887 .vsix files: MarkMba-wlsp-0.0.54.vsix
+[PROGRESS] Processed 412/887 .vsix files: Rudi-leibilanguageserver-1.26.0.vsix
+[PROGRESS] Processed 194/887 .vsix files: dhall-vscode-dhall-lsp-server-0.0.4.vsix
+[PROGRESS] Processed 165/887 .vsix files: metafacture-flux-0.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 564/887 .vsix files: nikhil-patil-auto-tfs-1.3.5.vsix
+[PROGRESS] Processed 330/887 .vsix files: fagnercarvalho-redis-lsp-1.0.2.vsix
+[PROGRESS] Processed 120/887 .vsix files: torokati44-glspc-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 532/887 .vsix files: mask-man-test-man-2.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 304/887 .vsix files: ms-vscode-remote-remote-containers-0.289.0.vsix
+[PROGRESS] Processed 719/887 .vsix files: slevesque-vscode-link-1.0.0.vsix
+[PROGRESS] Processed 699/887 .vsix files: taxi-lang-taxi-language-server-1.36.2.vsix
+[PROGRESS] Processed 801/887 .vsix files: ant4g0nist-chinstrap-0.1.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 464/887 .vsix files: max-beckenbauer-oh-alignment-tool-2.1.6.vsix
+[PROGRESS] Processed 525/887 .vsix files: juliencroain-markdown-viewer-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 675/887 .vsix files: jacek-wozniczak-vscode-ui5-api-reference-1.4.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 373/887 .vsix files: avast-threatlabs-yara-vscode-yls-1.3.3.vsix
+[PROGRESS] Processed 582/887 .vsix files: haringsbe-haringsrob-laravel-blade-livewire-lsp-1.2.1.vsix
+[PROGRESS] Processed 828/887 .vsix files: QualityClouds-qualitycloudsforservicenow-1.1.0.vsix
+[PROGRESS] Processed 471/887 .vsix files: jacek-wozniczak-vscode-ui5-odata-mock-generator-1.1.1.vsix
+[PROGRESS] Processed 377/887 .vsix files: w-sanches-open-hexdoc-0.0.5.vsix
+[PROGRESS] Processed 311/887 .vsix files: qiu-graphviz-language-support-and-preivew-1.1.14.vsix
+[PROGRESS] Processed 489/887 .vsix files: inferrinizzard-prettier-sql-vscode-1.6.0.vsix
+[PROGRESS] Processed 543/887 .vsix files: bogdanaks-devgpt-1.0.0.vsix
+[PROGRESS] Processed 660/887 .vsix files: minim-tools-maravel-ls-0.0.1.vsix
+[PROGRESS] Processed 742/887 .vsix files: lian1925-lsp-1.0.0.vsix
+[PROGRESS] Processed 749/887 .vsix files: Documentator-documentator-1.1.0.vsix
+[PROGRESS] Processed 122/887 .vsix files: lherman-cs-vs-live-share-mdns-0.0.11.vsix
+[PROGRESS] Processed 574/887 .vsix files: cloudcli-askgpt-0.1.17.vsix
+[PROGRESS] Processed 439/887 .vsix files: Vans-haskero-1.3.1.vsix
+[PROGRESS] Processed 608/887 .vsix files: twopoint-cnv-lsp-cnv-0.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 746/887 .vsix files: Shopify-rubocop-lsp-0.1.2.vsix
+[PROGRESS] Processed 598/887 .vsix files: GodlyPlateoftheWhale-poe-filter-code-complete-0.1.0.vsix
+[PROGRESS] Processed 493/887 .vsix files: brapifra-phpserver-3.0.2.vsix
+[PROGRESS] Processed 444/887 .vsix files: securisec-serverless-completer-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 153/887 .vsix files: alipay-appx-axml-language-1.0.0.vsix
+[PROGRESS] Processed 862/887 .vsix files: Shinworks-pvtextmgr-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 60/887 .vsix files: febean-type-script-preview-0.0.1.vsix
+[PROGRESS] Processed 401/887 .vsix files: eliostruyf-screendown-0.0.19.vsix
+[PROGRESS] Processed 642/887 .vsix files: williamdasilva-lottie-viewer-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 655/887 .vsix files: intersystems-community-servermanager-3.2.2.vsix
+[PROGRESS] Processed 452/887 .vsix files: killsen-openresty-nginx-conf-0.3.2.vsix
+[PROGRESS] Processed 232/887 .vsix files: VMSSoftwareInc-vms-ide-1.5.55.vsix
+[PROGRESS] Processed 804/887 .vsix files: yechunan-json-color-token-1.3.2.vsix
+[PROGRESS] Processed 784/887 .vsix files: smhc-vscode-epmlsp-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 807/887 .vsix files: thebearingedge-livereload-server-0.2.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 273/887 .vsix files: DanielX-civet-0.3.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 767/887 .vsix files: MELT-silverlsp-0.0.2.vsix
+[PROGRESS] Processed 101/887 .vsix files: takagimeow-chatgpt-editor-1.0.4.vsix
+[PROGRESS] Processed 389/887 .vsix files: kzvi-pandoc-markdown-preview-0.4.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 121/887 .vsix files: TeamHub-teamhub-16.2.0.vsix
+[PROGRESS] Processed 467/887 .vsix files: squaredup-scaffold-serverless-service-vscode-1.0.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 611/887 .vsix files: minim-tools-m-ls-0.11.8.vsix
+[PROGRESS] [Interesting File] ********* Processed 242/887 .vsix files: nanikamado-cotton-language-server-0.1.2.vsix
+[PROGRESS] Processed 426/887 .vsix files: EmbarcaderoTechnologies-delphilsp-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 271/887 .vsix files: genuitecllc-codetogether-2023.1.0.vsix
+[PROGRESS] Processed 544/887 .vsix files: ESDD-sh-lp-preview-1.11.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 319/887 .vsix files: ViliamVadocz-volpe-ls-0.0.4.vsix
+[PROGRESS] Processed 49/887 .vsix files: zentrip-deep-mod-dev-server-0.2.0.vsix
+[PROGRESS] Processed 220/887 .vsix files: appmat-fptl-extension-0.0.12.vsix
+[PROGRESS] [Interesting File] ********* Processed 459/887 .vsix files: arshiyasolei-vrl-lsp-0.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 139/887 .vsix files: kgtkr-processing-language-server-vscode-0.2.0.vsix
+[PROGRESS] Processed 843/887 .vsix files: batistebieler-blop-linter-1.0.34.vsix
+[PROGRESS] [Interesting File] ********* Processed 1/887 .vsix files: Siris-calc-calc-lsp-0.0.4.vsix
+[PROGRESS] Processed 158/887 .vsix files: 0xorial-webpack-dev-server-1.0.2.vsix
+[PROGRESS] Processed 445/887 .vsix files: hideyuki-hori-open-or-create-0.0.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 142/887 .vsix files: prosser-json-schema-2020-validation-0.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 4/887 .vsix files: erlang-ls-erlang-ls-0.0.39.vsix
+[PROGRESS] Processed 584/887 .vsix files: davnn-assistant-gpt3-0.2.0.vsix
+[PROGRESS] Processed 774/887 .vsix files: EmanueleMeazzo-sql-server-diagnostic-book-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 354/887 .vsix files: ms-vscode-live-server-0.5.2023040601.vsix
+[PROGRESS] Processed 816/887 .vsix files: TalBerenstein-documentation-openai-extension-0.1.1.vsix
+[PROGRESS] Processed 827/887 .vsix files: jamesblasco-flutter-preview-0.0.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 834/887 .vsix files: natessilva-ts-prop-dag-1.0.9.vsix
+[PROGRESS] Processed 97/887 .vsix files: OpenSpace-openspace-icons-1.0.7.vsix
+[PROGRESS] Processed 863/887 .vsix files: ATheCoder-livescript-languageserver-1.0.0.vsix
+[PROGRESS] Processed 458/887 .vsix files: zhangjiangqige-checkerframework-language-server-0.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 370/887 .vsix files: sfodje-perlcritic-1.3.8.vsix
+[PROGRESS] Processed 326/887 .vsix files: mbehr1-vsc-lfs-1.4.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 492/887 .vsix files: jeffreymanzione-jeff-vm-language-server-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 869/887 .vsix files: beaglefoot-awk-ide-vscode-0.9.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 858/887 .vsix files: namespacelabs-namespace-vscode-0.1.6.vsix
+[PROGRESS] Processed 208/887 .vsix files: coderfee-open-html-in-browser-0.1.21.vsix
+[PROGRESS] Processed 307/887 .vsix files: IvanGrigorov-openaicodehelper-0.1.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 189/887 .vsix files: clls-dev-clls-vscode-1.0.7.vsix
+[PROGRESS] Processed 59/887 .vsix files: oldMa-yw-api-server-1.0.3.vsix
+[PROGRESS] Processed 570/887 .vsix files: anonimitoraf-handlebars-preview-with-function-support-2.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 849/887 .vsix files: kirkslota-karate-runner-1.2.3.vsix
+[PROGRESS] Processed 180/887 .vsix files: MuazOthman-aws-viz-vscode-ext-0.0.10.vsix
+[PROGRESS] [Interesting File] ********* Processed 396/887 .vsix files: phileagleson-poweron-vscode-0.6.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 783/887 .vsix files: petems-mit-license-adder-0.3.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 79/887 .vsix files: SAPSE-sap-ux-annotation-modeler-extension-1.9.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 534/887 .vsix files: TkUrshr-hoge-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 813/887 .vsix files: minnu1031-serverpod-0.2.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 823/887 .vsix files: StevenBrons-spl-language-server-1.0.0.vsix
+[PROGRESS] Processed 306/887 .vsix files: m4dm0nk3y-checkoutheader-1.1.13.vsix
+[PROGRESS] [Interesting File] ********* Processed 817/887 .vsix files: NixStudio-zgraph-language-server-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 621/887 .vsix files: wildsheepstudio-lsp-pesto-1.8.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 374/887 .vsix files: q-vscode-refactor-by-js-0.0.16.vsix
+[PROGRESS] [Interesting File] ********* Processed 384/887 .vsix files: AugusteRame-zls-vscode-1.1.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 825/887 .vsix files: Timuchen-ton-solidity-language-server-bundle-1.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 21/887 .vsix files: extremebasic-ts-dev-server-0.0.15.vsix
+[PROGRESS] Processed 550/887 .vsix files: Janne252-fontawesome-autocomplete-1.3.1.vsix
+[PROGRESS] Processed 662/887 .vsix files: Pinegrow-pinegrow-vscode-0.0.8.vsix
+[PROGRESS] [Interesting File] ********* Processed 92/887 .vsix files: parsaur-parsaurlanguageserver-0.1.8.vsix
+[PROGRESS] Processed 704/887 .vsix files: tiibun-vscode-docker-ws-0.5.0.vsix
+[PROGRESS] Processed 524/887 .vsix files: stardog-union-vscode-langserver-trig-0.2.0.vsix
+[PROGRESS] Processed 592/887 .vsix files: mattn-OpenVim-0.0.8.vsix
+[PROGRESS] Processed 358/887 .vsix files: bar9-codiff-0.1.0.vsix
+[PROGRESS] Processed 838/887 .vsix files: ugosan-vscode-openpgp-0.0.9.vsix
+[PROGRESS] Processed 340/887 .vsix files: SQF-VM-sqf-vm-language-server-0.1.20.vsix
+[PROGRESS] Processed 841/887 .vsix files: BBDSoftware-si-language-support-1.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 217/887 .vsix files: Grafana-vscode-jsonnet-0.3.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 123/887 .vsix files: Yseop-vscode-yseopml-1.16.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 453/887 .vsix files: Fireblossom-sparql-auto-completion-0.1.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 512/887 .vsix files: Vurv78-e2-ls-1.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 803/887 .vsix files: anwar-papyrus-pdf-0.0.7.vsix
+[PROGRESS] Processed 656/887 .vsix files: fox20431-pdf-preview-0.0.2.vsix
+[PROGRESS] Processed 569/887 .vsix files: shashanksirmour-logfetcher-0.0.6.vsix
+[PROGRESS] Processed 624/887 .vsix files: ethan-ou-vscode-gift-preview-0.0.12.vsix
+[PROGRESS] [Interesting File] ********* Processed 198/887 .vsix files: filipesabella-live-p5-1.4.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 461/887 .vsix files: OpaccSoftwareAG-webapplicationservices-language-server-6.15.0.vsix
+[PROGRESS] Processed 695/887 .vsix files: AmadeusITGroup-ssh-key-generator-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 147/887 .vsix files: incmix-ts-runtime-lsp-0.0.6.vsix
+[PROGRESS] Processed 739/887 .vsix files: kiran-mock-api-serve-0.0.5.vsix
+[PROGRESS] Processed 164/887 .vsix files: wycliffePepela-MySQL-tool-1.0.2.vsix
+[PROGRESS] Processed 109/887 .vsix files: m4dm0nk3y-Live-Workspace-0.1.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 391/887 .vsix files: mtnguyen97-static-server-0.0.1.vsix
+[PROGRESS] Processed 604/887 .vsix files: DimaCrafter-vs-collab-0.1.3.vsix
+[PROGRESS] Processed 312/887 .vsix files: MutualofEnumclaw-serverless-vs-code-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 371/887 .vsix files: sifive-wake-32.0.0.vsix
+[PROGRESS] Processed 479/887 .vsix files: bierner-markdown-prism-0.0.5.vsix
+[PROGRESS] Processed 815/887 .vsix files: jeswr-shaclc-language-server-0.0.1.vsix
+[PROGRESS] Processed 530/887 .vsix files: NoThlnG-vscode-open-wsl-0.2.2.vsix
+[PROGRESS] Processed 491/887 .vsix files: Sol-One-sol-language-server-win-5.12.1.vsix
+[PROGRESS] Processed 228/887 .vsix files: Readtt-vscodestream-0.0.2.vsix
+[PROGRESS] Processed 647/887 .vsix files: Mingming-mock-myself-0.0.10.vsix
+[PROGRESS] [Interesting File] ********* Processed 819/887 .vsix files: yy0931-gitconfig-lsp-0.9.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 303/887 .vsix files: LiaScript-liascript-preview-web-0.2.10.vsix
+[PROGRESS] [Interesting File] ********* Processed 811/887 .vsix files: hhhapz-csc-lsp-presentation-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 150/887 .vsix files: redhat-vscode-extension-serverless-workflow-editor-0.27.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 283/887 .vsix files: btwiuse-vscode-remote-server-0.0.5.vsix
+[PROGRESS] Processed 359/887 .vsix files: HaikelFazzani-servino-1.0.4.vsix
+[PROGRESS] Processed 403/887 .vsix files: DanielSanMedium-dscodegpt-2.1.3.vsix
+[PROGRESS] Processed 653/887 .vsix files: Deukhoofd-angelscript-languageserver-1.2.1.vsix
+[PROGRESS] Processed 605/887 .vsix files: PrimaFuture-vscode-professor-mode-0.0.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 509/887 .vsix files: msazurermtools-azurerm-vscode-tools-0.15.10.vsix
+[PROGRESS] Processed 299/887 .vsix files: sndst00m-vscode-native-svg-preview-1.72.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 363/887 .vsix files: openmp-pawn-development-1.1.5.vsix
+[PROGRESS] Processed 195/887 .vsix files: QualityClouds-livecheckqualityforsalesforce-1.5.0.vsix
+[PROGRESS] Processed 25/887 .vsix files: janjoerke-jenkins-pipeline-linter-connector-1.2.0.vsix
+[PROGRESS] Processed 221/887 .vsix files: omkarmoghe-nba-ticker-0.5.2.vsix
+[PROGRESS] Processed 625/887 .vsix files: pugduddly-vexcode-tux-0.1.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 846/887 .vsix files: Lightrun-lightrunplugin-saas-1.11.3.vsix
+[PROGRESS] Processed 107/887 .vsix files: Tack2-maya-quick-document-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 115/887 .vsix files: KennyWu-rdl-server-0.0.95.vsix
+[PROGRESS] [Interesting File] ********* Processed 44/887 .vsix files: stacky-aimware-language-server-1.0.8.vsix
+[PROGRESS] Processed 747/887 .vsix files: chipcode-nl-picoprobe-mac-1.0.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 651/887 .vsix files: diogofpbarros-freest-lsp-1.0.1.vsix
+[PROGRESS] Processed 154/887 .vsix files: LucaCode-zation-1.0.0.vsix
+[PROGRESS] Processed 317/887 .vsix files: whatwewant-eunomia-code-gpt-1.0.0.vsix
+[PROGRESS] Processed 617/887 .vsix files: whatwewant-thinking-gpt-1.2.1.vsix
+[PROGRESS] Processed 404/887 .vsix files: FlomoN-chartjs-markdown-preview-0.0.2.vsix
+[PROGRESS] Processed 414/887 .vsix files: cheaty-sheet-pcheaty-0.3.2.vsix
+[PROGRESS] Processed 192/887 .vsix files: x2openEuler-x2openEuler-2.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 876/887 .vsix files: ASPLanguageTools-asp-language-server-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 478/887 .vsix files: calcoph-hexpat-language-server-0.2.0.vsix
+[PROGRESS] Processed 126/887 .vsix files: stardog-union-vscode-langserver-turtle-0.2.1.vsix
+[PROGRESS] Processed 215/887 .vsix files: bencoleman-armview-0.4.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 583/887 .vsix files: wycliffePepela-vscode-live-postgres-1.0.0.vsix
+[PROGRESS] Processed 360/887 .vsix files: Ghosts-open-the-doc-1.2.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 856/887 .vsix files: sickag-appspace-lua-language-server-1.3.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 593/887 .vsix files: benj2468-parsley-lsp-1.0.0.vsix
+[PROGRESS] Processed 392/887 .vsix files: Rickaym-manim-sideview-0.2.4.vsix
+[PROGRESS] Processed 480/887 .vsix files: Mend-mend-advise-22.12.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 528/887 .vsix files: Nightrains-robloxlsp-1.6.7.vsix
+[PROGRESS] Processed 308/887 .vsix files: litleleprikon-socket-io-vscode-1.0.0.vsix
+[PROGRESS] Processed 853/887 .vsix files: EmberTooling-vscode-ember-0.2.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 30/887 .vsix files: FrederoxDev-cc-cosmic-1.6.0.vsix
+[PROGRESS] Processed 875/887 .vsix files: ms-azuretools-vscode-health-fhir-converter-1.4.2.vsix
+[PROGRESS] Processed 765/887 .vsix files: k--kato-vscode-backlog-wiki-preview-0.0.6.vsix
+[PROGRESS] Processed 757/887 .vsix files: junv-recent-files-1.1.10.vsix
+[PROGRESS] Processed 547/887 .vsix files: mimarec-swagger-doc-viewer-1.0.4.vsix
+[PROGRESS] Processed 379/887 .vsix files: fabiospampinato-vscode-open-in-terminal-1.3.7.vsix
+[PROGRESS] [Interesting File] ********* Processed 289/887 .vsix files: codevoid-inner-loop-buddy-1.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 558/887 .vsix files: GuanceCloud-platypus-vscode-0.0.4.vsix
+[PROGRESS] Processed 755/887 .vsix files: varomix-mixliveserver-0.0.1.vsix
+[PROGRESS] Processed 781/887 .vsix files: igress-har-to-api-doc-0.0.1.vsix
+[PROGRESS] Processed 505/887 .vsix files: dbankier-vscode-gist-1.0.0.vsix
+[PROGRESS] Processed 405/887 .vsix files: fabiospampinato-vscode-open-in-ship-1.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 573/887 .vsix files: philosowaffle-openapi-designer-0.3.0.vsix
+[PROGRESS] Processed 14/887 .vsix files: chausner-opensmile-config-files-1.4.0.vsix
+[PROGRESS] Processed 149/887 .vsix files: phoenix-liveview-snippets-phoenix-liveview-snippets-2.4.2.vsix
+[PROGRESS] Processed 809/887 .vsix files: mrdziuban-good-enough-scala-lsp-1.4.0.vsix
+[PROGRESS] Processed 652/887 .vsix files: June07-nims-0.1.2.vsix
+[PROGRESS] Processed 346/887 .vsix files: Phu1237-live-reload-1.1.1.vsix
+[PROGRESS] Processed 17/887 .vsix files: platformio-aceinna-ide-0.1.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 204/887 .vsix files: PhilippeChab-nwscript-ee-language-server-2.0.1.vsix
+[PROGRESS] Processed 197/887 .vsix files: deanlee-vscode-just-start-server-0.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 630/887 .vsix files: castwide-solargraph-0.24.0.vsix
+[PROGRESS] Processed 262/887 .vsix files: pluralsight-live-share-mob-timer-0.1.5.vsix
+[PROGRESS] Processed 855/887 .vsix files: kumar-harsh-graphql-for-vscode-1.15.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 13/887 .vsix files: polarmutex-beancount-langserver-1.2.5.vsix
+[PROGRESS] Processed 199/887 .vsix files: keshan-semantic-live-1.0.1.vsix
+[PROGRESS] Processed 294/887 .vsix files: redhat-vscode-rsp-ui-0.23.20.vsix
+[PROGRESS] Processed 779/887 .vsix files: phoihos-markdown-markmap-1.4.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 72/887 .vsix files: CliCli-Games-clicli-lua-lsp-1.0.0.vsix
+[PROGRESS] Processed 578/887 .vsix files: live-hybrid-toolkit-livehybridtoolkit-0.0.8.vsix
+[PROGRESS] Processed 146/887 .vsix files: iann0036-live-share-for-aws-cloud9-0.11.4.vsix
+[PROGRESS] Processed 631/887 .vsix files: xahon-vscode-paper-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 155/887 .vsix files: sorbet-sorbet-vscode-extension-0.3.19.vsix
+[PROGRESS] [Interesting File] ********* Processed 345/887 .vsix files: AndreiStebakov-sailpoint-iiq-dev-accelerator-1.0.44.vsix
+[PROGRESS] Processed 536/887 .vsix files: garrit-p5canvas-1.7.0.vsix
+[PROGRESS] Processed 738/887 .vsix files: EasyMock-easymock-1.0.14.vsix
+[PROGRESS] Processed 470/887 .vsix files: wycliffePepela-Live-Postman-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 670/887 .vsix files: AndrewRazumovsky-vscode-styled-jsx-languageserver-1.0.1.vsix
+[PROGRESS] Processed 659/887 .vsix files: live-stylus-pub-live-stylus-compiler-0.0.4.vsix
+[PROGRESS] Processed 579/887 .vsix files: mtsmfm-ruby-lsc-0.1.1.vsix
+[PROGRESS] Processed 64/887 .vsix files: mtsmfm-graphql-lsc-0.1.0.vsix
+[PROGRESS] Processed 383/887 .vsix files: codemooseus-vscode-devtools-for-chrome-0.0.7.vsix
+[PROGRESS] Processed 227/887 .vsix files: mabenan-herp-server-0.0.1.vsix
+[PROGRESS] Processed 761/887 .vsix files: OkGameStudios-open-html-files-in-the-default-browser-1.3.5.vsix
+[PROGRESS] Processed 191/887 .vsix files: zhouzhipeng-LiveServerPP-5.7.1.vsix
+[PROGRESS] Processed 94/887 .vsix files: yandeu-five-server-0.1.12.vsix
+[PROGRESS] Processed 576/887 .vsix files: KazukiIsogai-FS-Live-Viewer-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 529/887 .vsix files: cancerberosgx-vscode-typescript-ast-outline-0.0.5.vsix
+[PROGRESS] Processed 318/887 .vsix files: hpi-swa-polyglot-live-programming-0.0.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 393/887 .vsix files: ssigwart-vscode-smarty-1.0.14.vsix
+[PROGRESS] [Interesting File] ********* Processed 167/887 .vsix files: MS-vsliveshare-vsliveshare-1.0.5834.vsix
+[PROGRESS] Processed 510/887 .vsix files: hediet-vscode-rpc-server-0.13.3.vsix
+[PROGRESS] Processed 594/887 .vsix files: Compulim-vscode-express-0.0.5.vsix
+[PROGRESS] Processed 114/887 .vsix files: GlysisSoftware-GSLiveCoder-1.1.0.vsix
+[PROGRESS] Processed 368/887 .vsix files: lzp-svg-preview-in-code-0.0.8.vsix
+[PROGRESS] [Interesting File] ********* Processed 394/887 .vsix files: panzhihao-protobuf-language-server-0.0.5.vsix
+[PROGRESS] Processed 568/887 .vsix files: naveenvignesh5nv-html-live-server-0.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 487/887 .vsix files: RafaelSantos-kind-language-server-1.0.12.vsix
+[PROGRESS] Processed 852/887 .vsix files: atmanos-umd-submit-server-manager-0.5.1.vsix
+[PROGRESS] Processed 685/887 .vsix files: Brainiac-NBARealTimeScore-1.0.3.vsix
+[PROGRESS] Processed 506/887 .vsix files: xamm-filepath-0.8.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 481/887 .vsix files: James-Yu-latex-workshop-9.8.2.vsix
+[PROGRESS] Processed 448/887 .vsix files: tigersoldier-javacomp-vscode-1.1.0.vsix
+[PROGRESS] Processed 214/887 .vsix files: Davide-La-Piano-BAP-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 580/887 .vsix files: apiel-isomor-vscode-0.0.7.vsix
+[PROGRESS] Processed 353/887 .vsix files: riyadh144-openas-0.5.0.vsix
+[PROGRESS] Processed 43/887 .vsix files: notaus-lively-0.1.0.vsix
+[PROGRESS] Processed 635/887 .vsix files: fraser-live-coder-1.0.2.vsix
+[PROGRESS] Processed 175/887 .vsix files: saekiraku.rainbow-fart-1.4.1.vsix
+[PROGRESS] Processed 137/887 .vsix files: negokaz-live-server-preview-0.1.4.vsix
+[PROGRESS] Processed 716/887 .vsix files: matt-rudge-auto-open-preview-panel-0.0.6.vsix
+[PROGRESS] [Interesting File] ********* Processed 131/887 .vsix files: robocorp-robotframework-lsp-1.9.2.vsix
+[PROGRESS] Processed 437/887 .vsix files: shuwantech-vscode-openapi-3.10.0.vsix
+[PROGRESS] Processed 586/887 .vsix files: tberman-json-schema-validator-0.1.0.vsix
+[PROGRESS] Processed 776/887 .vsix files: SyncfusionInc-ASPNETCore-VSCode-Extensions-21.1.35.vsix
+[PROGRESS] Processed 766/887 .vsix files: maurinator-soy-fun-0.0.2.vsix
+[PROGRESS] Processed 649/887 .vsix files: kyoshidajp-vscode-tosa-1.1.1.vsix
+[PROGRESS] Processed 537/887 .vsix files: MS-vsliveshare-vsliveshare-audio-0.1.93.vsix
+[PROGRESS] Processed 323/887 .vsix files: fabiospampinato-vscode-open-multiple-files-1.4.0.vsix
+[PROGRESS] Processed 332/887 .vsix files: ThreadHeap-serverless-ide-vscode-0.6.1.vsix
+[PROGRESS] Processed 531/887 .vsix files: derek-nextty-openapi-viewer-0.1.9.vsix
+[PROGRESS] Processed 100/887 .vsix files: ihuke-devServer-0.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 769/887 .vsix files: Bridgecrew-checkov-1.0.94.vsix
+[PROGRESS] Processed 428/887 .vsix files: Perkovec-jsdoc-live-preview-2.0.0.vsix
+[PROGRESS] Processed 627/887 .vsix files: david-reis-dockerlive-1.0.21.vsix
+[PROGRESS] [Interesting File] ********* Processed 82/887 .vsix files: LiamStrand-105-vscode-0.0.4.vsix
+[PROGRESS] Processed 314/887 .vsix files: ziishaned-livereload-0.2.5.vsix
+[PROGRESS] Processed 430/887 .vsix files: tsandall-opa-0.12.1.vsix
+[PROGRESS] Processed 632/887 .vsix files: tomoyukim-vscode-mermaid-editor-0.18.1.vsix
+[PROGRESS] Processed 709/887 .vsix files: SimonSiefke-vue-preview-1.7.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 485/887 .vsix files: tremorproject-tremor-language-features-0.12.0.vsix
+[PROGRESS] Processed 366/887 .vsix files: Thinker-mock-server-19.1.0.vsix
+[PROGRESS] Processed 664/887 .vsix files: KaramAlhamoud-vscode-ngrok-client-http-1.0.3.vsix
+[PROGRESS] Processed 887/887 .vsix files: DeepGenX-codegenx-0.1.8.vsix
+[PROGRESS] Processed 71/887 .vsix files: msospo-1es-oss-assistant-0.2.0.vsix
+[PROGRESS] Processed 615/887 .vsix files: marcfreiheit-gs-topaz-0.1.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 357/887 .vsix files: koraiviktor-opentest-language-support-0.0.2.vsix
+[PROGRESS] Processed 713/887 .vsix files: auchenberg-vscode-browser-preview-0.7.2.vsix
+[PROGRESS] Processed 58/887 .vsix files: mertcertel-jsx-to-svg-0.0.4.vsix
+[PROGRESS] Processed 398/887 .vsix files: KurtWerle-ruby-language-server-0.1.2.vsix
+[PROGRESS] Processed 258/887 .vsix files: hoskinson-ml-lean-chat-vscode-0.0.3.vsix
+[PROGRESS] Processed 612/887 .vsix files: nodename-vscode-hacker-typer-fork-0.2.4.vsix
+[PROGRESS] Processed 382/887 .vsix files: ludorival-preview-jsdoc-2.0.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 814/887 .vsix files: sumneko-lua-3.6.18.vsix
+[PROGRESS] Processed 87/887 .vsix files: traBpUkciP-wolf-0.4.3.vsix
+[PROGRESS] Processed 490/887 .vsix files: hoonoh-vscode-slonik-live-server-1.0.14.vsix
+[PROGRESS] Processed 639/887 .vsix files: HoracioGutierrez-rest-api-server-0.5.0.vsix
+[PROGRESS] Processed 810/887 .vsix files: blzjns-vscode-raml-3.0.1.vsix
+[PROGRESS] Processed 280/887 .vsix files: villematti-vscode-rjsx-client-0.0.37.vsix
+[PROGRESS] Processed 218/887 .vsix files: FerrusLogic-livecodescript-1.3.1.vsix
+[PROGRESS] Processed 88/887 .vsix files: JSCharting-JavaScript-Charts-vscode-jscharting-0.0.3.vsix
+[PROGRESS] Processed 539/887 .vsix files: AndyHsu-vscode-babel-transform-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 351/887 .vsix files: XertroV-openplanet-angelscript-0.2.24.vsix
+[PROGRESS] Processed 474/887 .vsix files: ljacobsson-eventbridge-assistant-0.0.18.vsix
+[PROGRESS] Processed 554/887 .vsix files: smalike-proxy-0.1.0.vsix
+[PROGRESS] Processed 793/887 .vsix files: ongroup-mvon-tcl-0.6.0.vsix
+[PROGRESS] Processed 596/887 .vsix files: jaheenafsarsyed-live-pug-compiler-1.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 601/887 .vsix files: zhoumingjie-LiveHost-1.0.4.vsix
+[PROGRESS] Processed 324/887 .vsix files: lukasz-wronski-ftp-sync-0.3.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 244/887 .vsix files: OliverKovacs-word-count-0.0.1.vsix
+[PROGRESS] Processed 707/887 .vsix files: dbankier-vscode-instant-markdown-1.4.7.vsix
+[PROGRESS] Processed 504/887 .vsix files: speks-flowmaker-1.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 436/887 .vsix files: argutec-argutec-azure-repos-1.2007.15.vsix
+[PROGRESS] [Interesting File] ********* Processed 316/887 .vsix files: jeffalo-lived-0.4.5.vsix
+[PROGRESS] Processed 209/887 .vsix files: redhat-vscode-community-server-connector-0.26.6.vsix
+[PROGRESS] Processed 806/887 .vsix files: wycliffePepela-fake-data-1.0.0.vsix
+[PROGRESS] Processed 99/887 .vsix files: samghelms-vscode-jupyterfs-0.0.4.vsix
+[PROGRESS] Processed 610/887 .vsix files: RuiGe24601-Vite-0.0.4.vsix
+[PROGRESS] Processed 526/887 .vsix files: zhoulv-opencodeview-0.0.5.vsix
+[PROGRESS] Processed 334/887 .vsix files: kostasx-live-html-previewer-v2-0.1.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 269/887 .vsix files: snyk-security-snyk-vulnerability-scanner-preview-2023.3.2703.vsix
+[PROGRESS] [Interesting File] ********* Processed 535/887 .vsix files: snyk-security-snyk-vulnerability-scanner-1.18.1.vsix
+[PROGRESS] Processed 268/887 .vsix files: mermade-openapi-lint-1.2.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 533/887 .vsix files: wya-lsp-wls-1.0.10.vsix
+[PROGRESS] Processed 320/887 .vsix files: DevPandey-collection-to-openapi-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 252/887 .vsix files: dts-publisher-dts-vsc-1.0.17.vsix
+[PROGRESS] Processed 572/887 .vsix files: omurakazuaki-path2github-0.0.3.vsix
+[PROGRESS] Processed 415/887 .vsix files: jasonlhy-vscode-browser-sync-1.3.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 296/887 .vsix files: picolabs-krl-vs-code-1.1.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 243/887 .vsix files: vicerust-snes-asm-0.1.5.vsix
+[PROGRESS] Processed 16/887 .vsix files: ritwickdey-LiveServer-5.7.9.vsix
+[PROGRESS] Processed 540/887 .vsix files: jithurjacob-nbpreviewer-1.2.2.vsix
+[PROGRESS] [Interesting File] ********* Processed 183/887 .vsix files: RafaelMartinez-svelte-preview-2.6.1.vsix
+[PROGRESS] Processed 772/887 .vsix files: osteele-p5-server-1.10.0.vsix
+[PROGRESS] Processed 575/887 .vsix files: tickithealth-tickit-preview-1.2.0.vsix
+[PROGRESS] Processed 733/887 .vsix files: treinaweb-tw-dev-server-1.0.1.vsix
+[PROGRESS] Processed 745/887 .vsix files: PicassoTeam-picassotools-1.0.4.vsix
+[PROGRESS] [Interesting File] ********* Processed 5/887 .vsix files: ms-python-vscode-pylance-2023.4.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 743/887 .vsix files: Fortellis-fortellis-spec-tools-0.0.2.vsix
+[PROGRESS] Processed 460/887 .vsix files: salesforce-salesforce-docs-markdown-preview-1.3.3.vsix
+[PROGRESS] Processed 552/887 .vsix files: jawei-autopreviewer-0.6.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 181/887 .vsix files: redhat-vscode-server-connector-0.26.2.vsix
+[PROGRESS] Processed 818/887 .vsix files: LiveLucky-livelucky-0.3.9.vsix
+[PROGRESS] [Interesting File] ********* Processed 202/887 .vsix files: ms-mssql-mssql-1.18.0.vsix
+[PROGRESS] Processed 874/887 .vsix files: jbachhardie-flow-ls-0.2.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 820/887 .vsix files: yuichinukiyama-vscode-preview-server-1.3.0.vsix
+[PROGRESS] Processed 750/887 .vsix files: sGeeK-python-live-testing-0.0.1.vsix
+[PROGRESS] [Interesting File] ********* Processed 235/887 .vsix files: chatton-evergreen-ci-0.0.3.vsix
+[PROGRESS] [Interesting File] ********* Processed 777/887 .vsix files: iShirkhan-shirkhan-markdown-preview-enhanced-1.1.0.vsix
+[PROGRESS] Processed 329/887 .vsix files: boneskull-vscode-appium-0.0.6.vsix
+[PROGRESS] Processed 113/887 .vsix files: colinfang-my-nbpreviewer-1.2.2.vsix
+[PROGRESS] Processed 261/887 .vsix files: apollographql-vscode-apollo-1.19.11.vsix
+[PROGRESS] [Interesting File] ********* Processed 68/887 .vsix files: GryffindorIT-gryffin-server-1.0.0.vsix
+[PROGRESS] Processed 581/887 .vsix files: Topcoder-topcoder-workflow-1.0.6.vsix
+[PROGRESS] Processed 637/887 .vsix files: SeoJunYoo-react-component-preview-1.0.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 62/887 .vsix files: KEBA-kestudio-code-iec-9.0.23.vsix
+[PROGRESS] Processed 423/887 .vsix files: circledev-glsl-canvas-0.2.15.vsix
+[PROGRESS] [Interesting File] ********* Processed 347/887 .vsix files: suchitadoshi1987-vscode-ember-experimental-1.2.0.vsix
+[PROGRESS] Processed 826/887 .vsix files: milkmidi-easeserver-0.1.5.vsix
+[PROGRESS] [Interesting File] ********* Processed 762/887 .vsix files: joe-re-sql-language-server-1.4.0.vsix
+[PROGRESS] Processed 556/887 .vsix files: jotanarciso-azion-edge-functions-0.4.0.vsix
+[PROGRESS] Processed 33/887 .vsix files: rosshamish-kuskus-kusto-language-server-1.0.31.vsix
+[PROGRESS] [Interesting File] ********* Processed 589/887 .vsix files: wycliffePepela-Docker-Live-1.0.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 603/887 .vsix files: Liveecommerce-vscode-remote-workspace-0.45.0.vsix
+[PROGRESS] [Interesting File] ********* Processed 435/887 .vsix files: AdvantiSScompany-projectx-0.1.38.vsix
+[PROGRESS] [Interesting File] ********* Processed 682/887 .vsix files: veracity-vscode-custom-ui-plugins-live-preview-0.0.14.vsix
+[PROGRESS] [Interesting File] ********* Processed 413/887 .vsix files: CloudStudio-deploykit-0.0.23.vsix
+[PROGRESS] Processed 287/887 .vsix files: hqjs-hq-live-server-0.0.11.vsix

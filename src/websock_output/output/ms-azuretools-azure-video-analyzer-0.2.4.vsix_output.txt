@@ -1,0 +1,45 @@
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 58.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 140.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 225.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 1249.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 1295.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 1695.
+Keyword 'ws' found in file 'patch.diff' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/patch.diff) at line 1743.
+Could not read file: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/lva-icon.png
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 152.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 156.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 161.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 165.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 325.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.json) at line 397.
+Keyword 'ws' found in file 'package.nls.json' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/package.nls.json) at line 54.
+Keyword 'ws' found in file 'SECURITY.md' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/SECURITY.md) at line 39.
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js.map) at line 1.
+Keyword 'wss' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 15.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 37.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 43.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 43.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 193.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 193.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 208.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 208.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 250.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/dist/extension.js) at line 251.
+Could not read file: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/resources/gifs/CreateAndActivate.gif
+Could not read file: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/resources/gifs/AddToplogy.gif
+Could not read file: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/resources/gifs/EnterConnectionString.gif
+Keyword 'ws' found in file 'main.css.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/css/main.css.map) at line 1.
+Keyword 'ws' found in file '23.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/23.chunk.js) at line 1.
+Keyword 'ws' found in file '16.chunk.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/16.chunk.js.map) at line 1.
+Keyword 'ws' found in file '16.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/16.chunk.js) at line 1.
+Keyword 'ws' found in file 'main.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/main.js.map) at line 1.
+Keyword 'ws' found in file '24.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/24.chunk.js) at line 1.
+Keyword 'ws' found in file '25.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/25.chunk.js) at line 1.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/main.js) at line 2.
+Keyword 'ws' found in file '15.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/15.chunk.js) at line 1.
+Keyword 'ws' found in file '15.chunk.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/15.chunk.js.map) at line 1.
+Keyword 'ws' found in file '27.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/27.chunk.js) at line 1.
+Keyword 'ws' found in file '26.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/26.chunk.js) at line 1.
+Keyword 'ws' found in file '0.chunk.js' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/0.chunk.js) at line 1.
+Keyword 'ws' found in file '0.chunk.js.map' (path: /Users/prateek/Downloads/extensions/ms-azuretools-azure-video-analyzer-0.2.4/extension/build/static/js/0.chunk.js.map) at line 1.

@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/gf-logo.png
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/out/main.js) at line 1.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/out/main.js) at line 36.
+Keyword 'ws' found in file 'gf.cson' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/grammars/gf.cson) at line 17.
+Keyword 'ws' found in file 'gf.tmLanguage.jsonc' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/grammars/gf.tmLanguage.jsonc) at line 21.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/client/out/extension.js) at line 105.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/client/out/extension.js) at line 106.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/client/out/extension.js) at line 108.
+Keyword 'ws' found in file 'diagnostics.txt' (path: /Users/prateek/Downloads/extensions/anka-213-gf-vscode-1.0.4/extension/client/testFixture/diagnostics.txt) at line 1.

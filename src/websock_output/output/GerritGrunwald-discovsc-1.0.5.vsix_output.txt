@@ -1,0 +1,27 @@
+Could not read file: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/Detailed.png
+Could not read file: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/discoduke.png
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/LICENSE.txt) at line 84.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/CHANGELOG.md) at line 44.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/CHANGELOG.md) at line 66.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/CHANGELOG.md) at line 96.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/CHANGELOG.md) at line 181.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/CHANGELOG.md) at line 182.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 54.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 56.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 217.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 356.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 418.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 441.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/README.md) at line 460.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/package.json) at line 29.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/package.json) at line 70.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.js) at line 312.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.js) at line 1581.
+Keyword 'ws' found in file 'index.es.js' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.es.js) at line 308.
+Keyword 'ws' found in file 'index.es.js' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.es.js) at line 1577.
+Keyword 'ws' found in file 'index.mjs' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.mjs) at line 306.
+Keyword 'ws' found in file 'index.mjs' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/node-fetch/lib/index.mjs) at line 1575.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/vscode-express/README.md) at line 116.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/node_modules/vscode-express/README.md) at line 126.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/GerritGrunwald-discovsc-1.0.5/extension/view/index.html) at line 786.

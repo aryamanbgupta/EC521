@@ -1,0 +1,21 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/package.json) at line 141.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/package.json) at line 157.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js.LICENSE.txt) at line 3.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js.LICENSE.txt) at line 6.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js.LICENSE.txt) at line 8.
+Keyword 'ws' found in file 'widgets.js' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/widgets.js) at line 2.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js) at line 2.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js) at line 163.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/dist/extension.js) at line 163.
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/stable.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/edge.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/robot_icon_light.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/stateful_touchbar.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/activecove.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/stateful_icon_dark.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/osmosis.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/robot.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/robot_touchbar.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/stateful.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/stateful_icon_light.png
+Could not read file: /Users/prateek/Downloads/extensions/stateful-stable-0.9.1680793676/extension/assets/robot_icon_dark.png

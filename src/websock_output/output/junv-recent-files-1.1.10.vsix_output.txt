@@ -1,0 +1,38 @@
+Could not read file: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/update.png
+Could not read file: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/screenshot.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/README.md) at line 15.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/README.md) at line 24.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/README.md) at line 37.
+Could not read file: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/demo.gif
+Keyword 'ws' found in file 'range.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/range.js) at line 9.
+Keyword 'ws' found in file '_lazyValue.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/_lazyValue.js) at line 26.
+Keyword 'ws' found in file '_LazyWrapper.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/_LazyWrapper.js) at line 21.
+Keyword 'ws' found in file 'random.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/random.js) at line 18.
+Keyword 'ws' found in file '_lazyClone.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/_lazyClone.js) at line 19.
+Keyword 'ws' found in file 'core.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/core.js) at line 248.
+Keyword 'ws' found in file 'core.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/core.js) at line 2204.
+Keyword 'ws' found in file 'before.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/before.js) at line 21.
+Keyword 'ws' found in file 'wrapperLodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/wrapperLodash.js) at line 28.
+Keyword 'ws' found in file 'lodash.min.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.min.js) at line 21.
+Keyword 'ws' found in file 'lodash.min.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.min.js) at line 127.
+Keyword 'ws' found in file 'lodash.min.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.min.js) at line 132.
+Keyword 'ws' found in file 'lodash.min.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.min.js) at line 133.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/README.md) at line 39.
+Keyword 'ws' found in file 'orderBy.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/orderBy.js) at line 5.
+Keyword 'ws' found in file '_getTag.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/_getTag.js) at line 34.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 1566.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 1813.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 1831.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 1869.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 6085.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 9575.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 10057.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 14031.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 15895.
+Keyword 'ws' found in file 'lodash.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/lodash.js) at line 16853.
+Keyword 'ws' found in file '_convertBrowser.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/fp/_convertBrowser.js) at line 11.
+Keyword 'ws' found in file '_convertBrowser.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/fp/_convertBrowser.js) at line 16.
+Keyword 'ws' found in file '_convertBrowser.js' (path: /Users/prateek/Downloads/extensions/junv-recent-files-1.1.10/extension/node_modules/lodash/fp/_convertBrowser.js) at line 18.

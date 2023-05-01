@@ -1,0 +1,148 @@
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/Shinworks128.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/screenshot.PNG
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/README.md) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/README.md) at line 12.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 280.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 282.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 286.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 288.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 390.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 392.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 454.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 1178.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 1536.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 1961.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 2624.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 3154.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 3157.
+Keyword 'ws' found in file 'package-lock.json' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/package-lock.json) at line 3158.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/extension.js) at line 218.
+Keyword 'ws' found in file 'DESIGN.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/design/DESIGN.md) at line 66.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/index.html) at line 103.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/index.html) at line 104.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/index.html) at line 106.
+Keyword 'ws' found in file 'quicksearch.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/quicksearch.html) at line 10.
+Keyword 'ws' found in file 'tutorial-DESIGN.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/tutorial-DESIGN.html) at line 128.
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/img/shinworks.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/img/ShinworksBW.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/img/glyphicons-halflings.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/img/glyphicons-halflings-white.png
+Keyword 'ws' found in file 'site.readable.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.readable.css) at line 228.
+Keyword 'ws' found in file 'site.cyborg.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.cyborg.css) at line 228.
+Keyword 'ws' found in file 'site.dibs-bootstrap.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.dibs-bootstrap.css) at line 594.
+Keyword 'ws' found in file 'site.cosmo.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.cosmo.css) at line 228.
+Keyword 'ws' found in file 'site.slate.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.slate.css) at line 227.
+Keyword 'ws' found in file 'site.darkstrap.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.darkstrap.css) at line 200.
+Keyword 'ws' found in file 'site.sandstone.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.sandstone.css) at line 228.
+Keyword 'ws' found in file 'site.lumen.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.lumen.css) at line 228.
+Keyword 'ws' found in file 'site.darkly.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.darkly.css) at line 228.
+Keyword 'ws' found in file 'site.yeti.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.yeti.css) at line 228.
+Keyword 'ws' found in file 'site.superhero.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.superhero.css) at line 228.
+Keyword 'ws' found in file 'site.simplex.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.simplex.css) at line 228.
+Keyword 'ws' found in file 'site.paper.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.paper.css) at line 228.
+Keyword 'ws' found in file 'font-awesome.min.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/font-awesome.min.css) at line 4.
+Keyword 'ws' found in file 'site.spacelab.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.spacelab.css) at line 228.
+Keyword 'ws' found in file 'site.cerulean.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.cerulean.css) at line 227.
+Keyword 'ws' found in file 'site.flatly.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.flatly.css) at line 228.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.journal.css) at line 7.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.journal.css) at line 228.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.journal.css) at line 1177.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.journal.css) at line 6730.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.journal.css) at line 6808.
+Keyword 'ws' found in file 'site.united.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/styles/site.united.css) at line 228.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/sunlight.js) at line 13.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/sunlight.js) at line 83.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/sunlight.js) at line 882.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 1.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 2.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 3.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 4.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 5.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 6.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 7.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 8.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/docstrap.lib.js) at line 9.
+Keyword 'ws' found in file 'toc.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/toc.js) at line 46.
+Keyword 'ws' found in file 'prettify.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/prettify/prettify.js) at line 319.
+Keyword 'ws' found in file 'Apache-License-2.0.txt' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/prettify/Apache-License-2.0.txt) at line 84.
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/prettify/jquery.min.js) at line 5.
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/scripts/prettify/jquery.min.js) at line 6.
+Keyword 'ws' found in file 'fontawesome-webfont.svg' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/fontawesome-webfont.svg) at line 1222.
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/FontAwesome.otf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/glyphicons-halflings-regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/glyphicons-halflings-regular.eot
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/glyphicons-halflings-regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/glyphicons-halflings-regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/fontawesome-webfont.woff2
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/fontawesome-webfont.ttf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/fontawesome-webfont.woff
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/internaldocs/fonts/fontawesome-webfont.eot
+Keyword 'ws' found in file 'semver.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/semver.js) at line 120.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 209.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 210.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 226.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 227.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 237.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/node_modules/semver/README.md) at line 341.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/index.html) at line 89.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/index.html) at line 91.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/index.html) at line 93.
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/screenshot.PNG
+Keyword 'ws' found in file 'extension.js.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/extension.js.html) at line 277.
+Keyword 'ws' found in file 'quicksearch.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/quicksearch.html) at line 10.
+Keyword 'ws' found in file 'tutorial-DESIGN.html' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/tutorial-DESIGN.html) at line 128.
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/img/shinworks.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/img/ShinworksBW.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/img/glyphicons-halflings.png
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/img/glyphicons-halflings-white.png
+Keyword 'ws' found in file 'site.readable.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.readable.css) at line 228.
+Keyword 'ws' found in file 'site.cyborg.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.cyborg.css) at line 228.
+Keyword 'ws' found in file 'site.dibs-bootstrap.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.dibs-bootstrap.css) at line 594.
+Keyword 'ws' found in file 'site.cosmo.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.cosmo.css) at line 228.
+Keyword 'ws' found in file 'site.slate.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.slate.css) at line 227.
+Keyword 'ws' found in file 'site.darkstrap.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.darkstrap.css) at line 200.
+Keyword 'ws' found in file 'site.sandstone.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.sandstone.css) at line 228.
+Keyword 'ws' found in file 'site.lumen.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.lumen.css) at line 228.
+Keyword 'ws' found in file 'site.darkly.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.darkly.css) at line 228.
+Keyword 'ws' found in file 'site.yeti.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.yeti.css) at line 228.
+Keyword 'ws' found in file 'site.superhero.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.superhero.css) at line 228.
+Keyword 'ws' found in file 'site.simplex.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.simplex.css) at line 228.
+Keyword 'ws' found in file 'site.paper.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.paper.css) at line 228.
+Keyword 'ws' found in file 'font-awesome.min.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/font-awesome.min.css) at line 4.
+Keyword 'ws' found in file 'site.spacelab.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.spacelab.css) at line 228.
+Keyword 'ws' found in file 'site.cerulean.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.cerulean.css) at line 227.
+Keyword 'ws' found in file 'site.flatly.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.flatly.css) at line 228.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.journal.css) at line 7.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.journal.css) at line 228.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.journal.css) at line 1177.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.journal.css) at line 6730.
+Keyword 'ws' found in file 'site.journal.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.journal.css) at line 6808.
+Keyword 'ws' found in file 'site.united.css' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/styles/site.united.css) at line 228.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/sunlight.js) at line 13.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/sunlight.js) at line 83.
+Keyword 'ws' found in file 'sunlight.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/sunlight.js) at line 882.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 1.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 2.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 3.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 4.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 5.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 6.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 7.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 8.
+Keyword 'ws' found in file 'docstrap.lib.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/docstrap.lib.js) at line 9.
+Keyword 'ws' found in file 'toc.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/toc.js) at line 46.
+Keyword 'ws' found in file 'prettify.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/prettify/prettify.js) at line 319.
+Keyword 'ws' found in file 'Apache-License-2.0.txt' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/prettify/Apache-License-2.0.txt) at line 84.
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/prettify/jquery.min.js) at line 5.
+Keyword 'ws' found in file 'jquery.min.js' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/scripts/prettify/jquery.min.js) at line 6.
+Keyword 'ws' found in file 'fontawesome-webfont.svg' (path: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/fontawesome-webfont.svg) at line 1222.
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/FontAwesome.otf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/glyphicons-halflings-regular.woff
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/glyphicons-halflings-regular.eot
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/glyphicons-halflings-regular.woff2
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/glyphicons-halflings-regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/fontawesome-webfont.woff2
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/fontawesome-webfont.ttf
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/fontawesome-webfont.woff
+Could not read file: /Users/prateek/Downloads/extensions/Shinworks-pvtextmgr-0.0.4/extension/docs/fonts/fontawesome-webfont.eot

@@ -1,0 +1,17 @@
+Keyword 'ws' found in file 'Main.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/out/Main.js) at line 11.
+Keyword 'ws' found in file 'Dom.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/out/Dom.js) at line 23.
+Keyword 'ws' found in file 'uninstall.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/out/uninstall.js) at line 8.
+Keyword 'ws' found in file 'uninstall.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/out/uninstall.js) at line 19.
+Keyword 'ws' found in file 'uninstall.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/out/uninstall.js) at line 20.
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/exm.png
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/logo.png
+Keyword 'ws' found in file 'L2Dwidget.common.js.map' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.common.js.map) at line 1.
+Keyword 'ws' found in file 'L2Dwidget.min.js.map' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.min.js.map) at line 1.
+Keyword 'ws' found in file 'L2Dwidget.0.min.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.0.min.js) at line 2.
+Keyword 'ws' found in file 'L2Dwidget.0.min.js.map' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.0.min.js.map) at line 1.
+Keyword 'ws' found in file 'L2Dwidget.min.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.min.js) at line 2.
+Keyword 'ws' found in file 'L2Dwidget.common.js' (path: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/js/L2Dwidget.common.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/models/koharu/moc/koharu.moc
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/models/koharu/moc/koharu.2048/texture_00.png
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/models/haruto/moc/haruto.moc
+Could not read file: /Users/prateek/Downloads/extensions/noterpopo-vscode-live2d-0.1.11/extension/resources/assets/models/haruto/moc/haruto.2048/texture_00.png

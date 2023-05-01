@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/CodeJunkie-python-live-coding-1.1.6/extension/icon.png
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/CodeJunkie-python-live-coding-1.1.6/extension/dist/extension.js) at line 9.

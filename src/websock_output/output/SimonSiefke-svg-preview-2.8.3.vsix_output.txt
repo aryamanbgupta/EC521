@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/CHANGELOG.md) at line 34.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/CHANGELOG.md) at line 39.
+Could not read file: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/images/icon.png
+Keyword 'ws' found in file 'loadInlineStyles.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/packages/extension/dist/loadInlineStyles.js) at line 1.
+Keyword 'ws' found in file 'previewWebSocketServer-f4cf08fb.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/packages/extension/dist/previewWebSocketServer-f4cf08fb.js) at line 1.
+Keyword 'wss' found in file 'previewWebSocketServer-f4cf08fb.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/packages/extension/dist/previewWebSocketServer-f4cf08fb.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/packages/extension/dist/extension.js) at line 1.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/SimonSiefke-svg-preview-2.8.3/extension/packages/preview/dist/index.js) at line 1.

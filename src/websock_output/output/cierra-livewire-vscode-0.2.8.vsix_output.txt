@@ -1,0 +1,20 @@
+Keyword 'ws' found in file 'util.js' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/dist/util/util.js) at line 143.
+Could not read file: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/images/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/images/logo.psd
+Keyword 'ws' found in file 'util.ts' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/util/util.ts) at line 141.
+Keyword 'ws' found in file 'html.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/html.tmLanguage.json) at line 48.
+Keyword 'ws' found in file 'html.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/html.tmLanguage.json) at line 544.
+Keyword 'ws' found in file 'html.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/html.tmLanguage.json) at line 644.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 2689.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 2710.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3196.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3336.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3384.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3416.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3440.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3460.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3464.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3532.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3536.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3552.
+Keyword 'ws' found in file 'blade.tmLanguage.json' (path: /Users/prateek/Downloads/extensions/cierra-livewire-vscode-0.2.8/extension/src/syntaxes/blade.tmLanguage.json) at line 3568.

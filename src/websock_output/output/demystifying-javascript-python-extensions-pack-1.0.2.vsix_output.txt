@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/demystifying-javascript-python-extensions-pack-1.0.2/extension/README.md) at line 18.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/demystifying-javascript-python-extensions-pack-1.0.2/extension/README.md) at line 29.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/demystifying-javascript-python-extensions-pack-1.0.2/extension/README.md) at line 32.
+Could not read file: /Users/prateek/Downloads/extensions/demystifying-javascript-python-extensions-pack-1.0.2/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/demystifying-javascript-python-extensions-pack-1.0.2/extension/images/gpay.jpeg

@@ -1,0 +1,37 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/CHANGELOG.md) at line 10.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/README.md) at line 12.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/README.md) at line 31.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/package.json) at line 219.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/main.js) at line 33.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/main.js) at line 36.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/main.js) at line 36.
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/som.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/guava-19.0.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/gson-2.8.6.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/affinity.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/slf4j-api.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/som-language-server.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/truffle-api.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/org.eclipse.xtend.lib.macro-2.24.0.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/org.eclipse.xtend.lib-2.24.0.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/org.eclipse.xtext.xbase.lib-2.24.0.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-deps.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/slf4j-simple.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/antlr4-runtime-4.9.2.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/black-diamonds.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/jna.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/graal-sdk.jar
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/jna-platform.jar
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/som-core-lib/README.md) at line 58.
+Keyword 'ws' found in file 'Kernel.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Kernel.ns) at line 59.
+Keyword 'ws' found in file 'Kernel.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Kernel.ns) at line 433.
+Keyword 'ws' found in file 'Streams.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Streams.ns) at line 4.
+Keyword 'ws' found in file 'Streams.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Streams.ns) at line 5.
+Keyword 'ws' found in file 'Streams.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Streams.ns) at line 6.
+Keyword 'ws' found in file 'Files.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Files.ns) at line 2.
+Keyword 'ws' found in file 'Files.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Files.ns) at line 3.
+Keyword 'ws' found in file 'Files.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Files.ns) at line 4.
+Keyword 'ws' found in file 'Files.ns' (path: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/out/server/somns-core-lib/Files.ns) at line 5.
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/resources/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/MetaConcProject-effortless-language-servers-0.8.1/extension/resources/SomHighlighting.PNG

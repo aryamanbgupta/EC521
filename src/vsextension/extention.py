@@ -9,16 +9,36 @@ import aiofiles
 from httpx import AsyncClient
 
 from src.utils.utils import get_random_user_agents
+from src.vsextension.Command import Command
+from src.vsextension.editor_context import EditorContext
+from src.vsextension.keybinding import KeyBinding
+from src.vsextension.palette import CommandPalette
 from src.vsextension.publisher import Publisher
 from src.vsextension.versions import Version
 from src.utils.logman import logger
+from src import KEY
+
+
+EXTENSION = {
+    "path_traversal_attack": {
+        "downloads": "downloads",
+        "unzipped": "unzipped",
+    },
+    "zip_slip_attack": {
+        "downloads": "downloads_zip",
+        "unzipped": "unzipped_zip",
+    },
+}
+
+DOWNLOADS = EXTENSION[KEY]["downloads"]
+UNZIPPED = EXTENSION[KEY]["unzipped"]
 
 
 class Extension:
     """Represents an extension"""
 
-    DOWNLOAD_LOCATION = Path(__file__).parent.parent.joinpath("downloads")
-    UNZIP_LOCATION = Path(__file__).parent.parent.joinpath("unzipped")
+    DOWNLOAD_LOCATION = Path(__file__).parent.parent.joinpath(DOWNLOADS)
+    UNZIP_LOCATION = Path(__file__).parent.parent.joinpath(UNZIPPED)
     TIMEOUT = 160
     client = AsyncClient()
 
@@ -43,7 +63,9 @@ class Extension:
             for version in versions
         ]
         self.downloaded = False
-        self.all_commands = list()
+        self._all_commands = dict()
+        self._activation_events = list()
+        self.tested = False
 
     @property
     def version(self):
@@ -62,7 +84,11 @@ class Extension:
 
     @property
     def commands(self):
-        return self.all_commands
+        return self._all_commands
+
+    @property
+    def activation_events(self):
+        return self._activation_events
 
     def get_vsix_download_url(self):
         """Returns the download url for the vsix file"""
@@ -128,6 +154,78 @@ class Extension:
             logger.error("Failed to download %s", self.extension_name)
         return self
 
+    @staticmethod
+    async def _insert_nls_data(nls_data, package_data):
+        """Replace values in package.json with nls data"""
+
+        logger.info("Compiling package.json with nls data")
+
+        for key, value in nls_data.items():
+            new_key = "%" + key + "%"
+            package_data_str = json.dumps(package_data)
+            package_data_str = package_data_str.replace(new_key, value)
+            package_data = json.loads(package_data_str)
+
+        return package_data
+
+    async def pull_activation_events(self, package_data):
+        """Pull activation events from package.json"""
+
+        logger.info("Pulling activation events from package.json")
+        if "activationEvents" in package_data:
+            self._activation_events = package_data["activationEvents"]
+        logger.info("Activation events: %s", self._activation_events)
+
+    async def _parse_package_json(self, package_data: dict):
+        """Parse package json and fill _all_commands dictionary"""
+
+        await self.pull_activation_events(package_data)
+
+        if "contributes" not in package_data:
+            logger.warn("No contributes found in package.json, skipping...")
+            return
+
+        logger.info("Parsing package.json for commands")
+        contributes = package_data["contributes"]
+
+        if "commands" in contributes:
+            for command in contributes["commands"]:
+                if "command" in command:
+                    self._all_commands[command["command"]] = Command(
+                        command["command"], command["title"], "" if "category" not in command else command["category"])
+
+        if "menus" in contributes:
+            if "editor/context" in contributes["menus"]:
+                for context in contributes["menus"]["editor/context"]:
+                    self._all_commands.get(context["command"]).all_type_commands["editorContext"].append(
+                        EditorContext(context["command"], self._all_commands.get(context["command"]).title)
+                    )
+
+            if "commandPalette" in contributes["menus"]:
+                for command in contributes["menus"]["commandPalette"]:
+                    self._all_commands.get(command["command"]).all_type_commands["commandPalette"].append(
+                        CommandPalette(command["command"], "" if "when" not in command else command["when"])
+                    )
+
+        if "keybindings" in contributes:
+            for keybinding in contributes["keybindings"]:
+                self._all_commands.get(keybinding["command"]).all_type_commands["keyBinding"].append(
+                    KeyBinding(keybinding["command"], keybinding["key"], keybinding["when"], keybinding.get("mac", None))
+                )
+
+        logger.info("Finished parsing package.json for commands")
+        logger.info("All commands: %s", self._all_commands)
+
+        ####################################
+        # Just for previewing the commands #
+        ####################################
+
+        # for key, command in self._all_commands.items():
+        #     for cmd, value in command.all_type_commands.items():
+        #         if len(value) > 0:
+        #             logger.info("Type: %s", cmd)
+        #             logger.info("Commands: %s", ", ".join([str(cc) for cc in value]))
+
     async def pull_commands(self):
         """Pulls the commands from the extension package.json"""
         logger.info("Pulling commands for %s", self.extension_name)
@@ -136,20 +234,34 @@ class Extension:
             f"{self.publisher.publisher_name}-{self.extension_name}-{self.version}",
         )
         package_json = Path.joinpath(extension_dir, "extension", "package.json")
+        package_nls_json = Path.joinpath(extension_dir, "extension", "package.nls.json")
+
         if not package_json.exists():
             logger.warn(
                 f"Package.json does not exist for {self.extension_name}, skipping..."
             )
             return self
 
+        if not package_nls_json.exists():
+            logger.info(
+                f"Package.nls.json does not exist for {self.extension_name}, interesting..."
+            )
+
         async with aiofiles.open(package_json, "r") as file:
+            nls_data = None
+            if package_nls_json.exists():
+                logger.info(
+                    f"Package.nls.json exist for {self.extension_name}, interesting..."
+                )
+                async with aiofiles.open(package_nls_json, "r") as nls_file:
+                    nls_data = json.loads(await nls_file.read())
+
             data = json.loads(await file.read())
-            if "contributes" in data:
-                contributes = data["contributes"]
-                if "commands" in contributes:
-                    commands = contributes["commands"]
-                    for command in commands:
-                        self.all_commands.append(command)
+
+            if nls_data is not None:
+                data = await self._insert_nls_data(nls_data, data)
+
+        await self._parse_package_json(data)
 
     async def install(self):
         """Installs the extension"""
@@ -253,6 +365,7 @@ class Extension:
             "shortDescription": self.short_description,
             "versions": [version.to_json() for version in self.versions],
             "downloaded": self.downloaded,
+            "tested": self.tested,
         }
 
     @classmethod
@@ -268,4 +381,6 @@ class Extension:
             data["versions"]
         )
         new_object.downloaded = data["downloaded"]
+        if "tested" in data:
+            new_object.tested = data["tested"]
         return new_object

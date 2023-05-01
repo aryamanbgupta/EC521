@@ -1,0 +1,281 @@
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/logo.png
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chartjs-color-string/CHANGELOG.md) at line 6.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 1385.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 1386.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 2390.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 3023.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 4390.
+Keyword 'ws' found in file 'moment.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/moment.js) at line 4402.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/CHANGELOG.md) at line 380.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/CHANGELOG.md) at line 547.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/CHANGELOG.md) at line 720.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/CHANGELOG.md) at line 796.
+Keyword 'ws' found in file 'cy.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/locale/cy.js) at line 12.
+Keyword 'ws' found in file 'cy.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/locale/cy.js) at line 13.
+Keyword 'ws' found in file 'locales.min.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/locales.min.js) at line 1.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 1383.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 1384.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 2388.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 3021.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 4388.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 4400.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 6249.
+Keyword 'ws' found in file 'moment-with-locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.js) at line 6250.
+Keyword 'ws' found in file 'locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/locales.js) at line 1658.
+Keyword 'ws' found in file 'locales.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/locales.js) at line 1659.
+Keyword 'ws' found in file 'moment.min.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment.min.js) at line 1.
+Keyword 'ws' found in file 'moment-with-locales.min.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/min/moment-with-locales.min.js) at line 1.
+Keyword 'ws' found in file 'cy.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/locale/cy.js) at line 9.
+Keyword 'ws' found in file 'cy.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/locale/cy.js) at line 10.
+Keyword 'ws' found in file 'day-of-week.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/units/day-of-week.js) at line 99.
+Keyword 'ws' found in file 'day-of-week.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/units/day-of-week.js) at line 100.
+Keyword 'ws' found in file 'from-string.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/create/from-string.js) at line 224.
+Keyword 'ws' found in file 'humanize.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/duration/humanize.js) at line 45.
+Keyword 'ws' found in file 'humanize.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/duration/humanize.js) at line 57.
+Keyword 'ws' found in file 'create.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/moment/src/lib/duration/create.js) at line 15.
+Keyword 'ws' found in file '.eslintrc.yml' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/.eslintrc.yml) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/README.md) at line 52.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/package.json) at line 37.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/package.json) at line 38.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/package.json) at line 62.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 6.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 8.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 29.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 30.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 33.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 37.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 40.
+Keyword 'ws' found in file 'karma.conf.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/karma.conf.js) at line 50.
+Keyword 'ws' found in file 'gulpfile.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/gulpfile.js) at line 15.
+Keyword 'ws' found in file 'gulpfile.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/gulpfile.js) at line 96.
+Keyword 'ws' found in file 'gulpfile.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/gulpfile.js) at line 98.
+Keyword 'ws' found in file 'gulpfile.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/gulpfile.js) at line 109.
+Keyword 'ws' found in file 'gulpfile.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/gulpfile.js) at line 123.
+Keyword 'ws' found in file 'jasmine.index.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/jasmine.index.js) at line 34.
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.radar/point-style.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/core.scale/label-offset-vertical-axes.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/core.scale/tick-drawing.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.polarArea/angle-array.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.polarArea/angle-undefined.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.line/point-style.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bubble/point-style.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-cross.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-rect.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-dash.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-triangle.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-cross-rot.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-line.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-star.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-circle.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-rect-rot.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/element.point/point-style-rect-rounded.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-stacked.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-max.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-single-xy.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-flex.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-multiple.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-offset.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-flex-offset.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-min-interval.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-absolute.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-no-overlap.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/controller.bar/bar-thickness-single.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin-spline.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-radar-boundary-origin.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-spline-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-stepped.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-end.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-start-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin-span.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-boundary-origin.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/test/fixtures/plugin.filler/fill-line-dataset-spline.png
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 564.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 4040.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 4673.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 5962.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 5974.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 7179.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 8485.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 8941.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 8963.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 8986.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 10210.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 12532.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15068.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15468.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15485.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15584.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15585.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15586.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15587.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 15588.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.js) at line 18691.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 566.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 2673.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 3979.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 4435.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 4457.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 4480.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 5704.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 8026.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 10562.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 10962.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 10979.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 11078.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 11079.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 11080.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 11081.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 11082.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.js) at line 14185.
+Keyword 'ws' found in file 'Chart.bundle.min.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/Chart.bundle.min.js) at line 10.
+Keyword 'ws' found in file 'search_plus_index.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/search_plus_index.json) at line 1.
+Keyword 'ws' found in file 'legend.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/configuration/legend.html) at line 1006.
+Keyword 'ws' found in file 'tooltip.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/configuration/tooltip.html) at line 1148.
+Keyword 'ws' found in file 'tooltip.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/configuration/tooltip.html) at line 1150.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1034.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1046.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1096.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1108.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1140.
+Keyword 'ws' found in file 'styling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/styling.html) at line 1152.
+Keyword 'ws' found in file 'labelling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/labelling.html) at line 936.
+Keyword 'ws' found in file 'labelling.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/labelling.html) at line 948.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/axes/cartesian/index.html) at line 918.
+Keyword 'ws' found in file 'accessibility.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/general/accessibility.html) at line 895.
+Keyword 'ws' found in file 'accessibility.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/general/accessibility.html) at line 913.
+Keyword 'ws' found in file 'fonts.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/general/fonts.html) at line 948.
+Keyword 'ws' found in file 'events.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/general/interactions/events.html) at line 910.
+Keyword 'ws' found in file 'radar.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/radar.html) at line 906.
+Keyword 'ws' found in file 'bubble.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/bubble.html) at line 906.
+Keyword 'ws' found in file 'bar.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/bar.html) at line 905.
+Keyword 'ws' found in file 'bar.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/bar.html) at line 1041.
+Keyword 'ws' found in file 'doughnut.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/doughnut.html) at line 895.
+Keyword 'ws' found in file 'doughnut.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/doughnut.html) at line 916.
+Keyword 'ws' found in file 'line.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/charts/line.html) at line 905.
+Keyword 'ws' found in file 'extensions.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/notes/extensions.html) at line 906.
+Keyword 'ws' found in file 'extensions.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/notes/extensions.html) at line 910.
+Keyword 'ws' found in file 'comparison.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/notes/comparison.html) at line 950.
+Keyword 'ws' found in file 'theme.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/theme.js) at line 1.
+Keyword 'ws' found in file 'theme.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/theme.js) at line 2.
+Keyword 'ws' found in file 'theme.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/theme.js) at line 3.
+Keyword 'ws' found in file 'gitbook.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook.js) at line 1.
+Keyword 'ws' found in file 'gitbook.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook.js) at line 2.
+Keyword 'ws' found in file 'gitbook.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook.js) at line 3.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/style.css) at line 4.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/style.css) at line 9.
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/images/favicon.ico
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/images/apple-touch-icon-precomposed-152.png
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/FontAwesome.otf
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 564.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 3748.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 4484.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 5785.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 5797.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 6946.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 8246.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 8591.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 10054.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 12639.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14590.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14832.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14849.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14869.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14917.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14918.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14919.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14920.
+Keyword 'ws' found in file 'Chart.bundle.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js) at line 14921.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 566.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 2645.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 3945.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 4290.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 5753.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 8338.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10289.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10531.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10548.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10568.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10616.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10617.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10618.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10619.
+Keyword 'ws' found in file 'Chart.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.js) at line 10620.
+Keyword 'ws' found in file 'Chart.bundle.min.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js) at line 12.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/index.html) at line 912.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/index.html) at line 913.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/index.html) at line 921.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/index.html) at line 922.
+Keyword 'ws' found in file 'axes.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/axes.html) at line 987.
+Keyword 'ws' found in file 'contributing.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/contributing.html) at line 934.
+Keyword 'ws' found in file 'api.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/dist/docs/developers/api.html) at line 952.
+Keyword 'ws' found in file 'legend.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/configuration/legend.md) at line 36.
+Keyword 'ws' found in file 'tooltip.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/configuration/tooltip.md) at line 78.
+Keyword 'ws' found in file 'tooltip.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/configuration/tooltip.md) at line 82.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 35.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 37.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 49.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 51.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 60.
+Keyword 'ws' found in file 'styling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/styling.md) at line 62.
+Keyword 'ws' found in file 'labelling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/labelling.md) at line 15.
+Keyword 'ws' found in file 'labelling.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/labelling.md) at line 17.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/axes/cartesian/README.md) at line 16.
+Keyword 'ws' found in file 'accessibility.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/general/accessibility.md) at line 3.
+Keyword 'ws' found in file 'accessibility.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/general/accessibility.md) at line 38.
+Keyword 'ws' found in file 'fonts.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/general/fonts.md) at line 32.
+Keyword 'ws' found in file 'events.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/general/interactions/events.md) at line 6.
+Keyword 'ws' found in file 'bubble.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/bubble.md) at line 39.
+Keyword 'ws' found in file 'bar.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/bar.md) at line 64.
+Keyword 'ws' found in file 'bar.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/bar.md) at line 132.
+Keyword 'ws' found in file 'doughnut.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/doughnut.md) at line 2.
+Keyword 'ws' found in file 'doughnut.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/doughnut.md) at line 54.
+Keyword 'ws' found in file 'radar.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/radar.md) at line 65.
+Keyword 'ws' found in file 'line.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/charts/line.md) at line 42.
+Keyword 'ws' found in file 'extensions.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/notes/extensions.md) at line 16.
+Keyword 'ws' found in file 'extensions.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/notes/extensions.md) at line 20.
+Keyword 'ws' found in file 'comparison.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/notes/comparison.md) at line 13.
+Keyword 'ws' found in file 'api.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/api.md) at line 89.
+Keyword 'ws' found in file 'axes.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/axes.md) at line 113.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/README.md) at line 23.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/README.md) at line 25.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/README.md) at line 32.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/README.md) at line 34.
+Keyword 'ws' found in file 'contributing.md' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/docs/developers/contributing.md) at line 57.
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/favicon.ico
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/scatter/multi-axis.html) at line 104.
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/scatter/multi-axis.html) at line 109.
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/line/multi-axis.html) at line 72.
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/line/multi-axis.html) at line 77.
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/bar/multi-axis.html) at line 79.
+Keyword 'ws' found in file 'multi-axis.html' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/samples/charts/bar/multi-axis.html) at line 84.
+Keyword 'ws' found in file 'platform.dom.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.dom.js) at line 2.
+Keyword 'ws' found in file 'platform.dom.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.dom.js) at line 402.
+Keyword 'ws' found in file 'platform.dom.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.dom.js) at line 419.
+Keyword 'ws' found in file 'platform.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.js) at line 59.
+Keyword 'ws' found in file 'platform.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.js) at line 60.
+Keyword 'ws' found in file 'platform.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.js) at line 61.
+Keyword 'ws' found in file 'platform.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.js) at line 62.
+Keyword 'ws' found in file 'platform.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/platforms/platform.js) at line 63.
+Keyword 'ws' found in file 'core.helpers.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.helpers.js) at line 450.
+Keyword 'ws' found in file 'core.scaleService.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.scaleService.js) at line 12.
+Keyword 'ws' found in file 'core.controller.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.controller.js) at line 149.
+Keyword 'ws' found in file 'core.controller.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.controller.js) at line 605.
+Keyword 'ws' found in file 'core.controller.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.controller.js) at line 627.
+Keyword 'ws' found in file 'core.controller.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/core/core.controller.js) at line 650.
+Keyword 'ws' found in file 'scale.time.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/scales/scale.time.js) at line 517.
+Keyword 'ws' found in file 'controller.doughnut.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chart.js/src/controllers/controller.doughnut.js) at line 134.
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chartjs-color/index.js) at line 331.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chartjs-color/package.json) at line 41.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/node_modules/chartjs-color/package.json) at line 74.
+Could not read file: /Users/prateek/Downloads/extensions/FlomoN-chartjs-markdown-preview-0.0.2/extension/docs/preview.PNG

@@ -1,0 +1,18 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/README.md) at line 18.
+Keyword 'openExternal' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/README.md) at line 18.
+Keyword 'openExternal' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/README.md) at line 19.
+Keyword 'openExternal' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/package.json) at line 58.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/package.json) at line 61.
+Keyword 'openExternal' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/package.json) at line 66.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 12.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 13.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 38.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 62.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 71.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 76.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 93.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 102.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 107.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 135.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/out/extension.js) at line 144.
+Could not read file: /Users/prateek/Downloads/extensions/colaholicu-opengrok-vscode-1.1.0/extension/images/OpenGrok_Logo.png

@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/itscap-apk-locator-1.0.1/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/itscap-apk-locator-1.0.1/extension/images/apk_locator_sample_direct.gif
+Could not read file: /Users/prateek/Downloads/extensions/itscap-apk-locator-1.0.1/extension/images/apk_locator_sample_select.gif

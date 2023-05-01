@@ -1,0 +1,423 @@
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/vscode-pdf.png
+Keyword 'ws' found in file 'pdfPreview.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/out/src/pdfPreview.js) at line 86.
+Keyword 'ws' found in file 'pdfProvider.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/out/src/pdfProvider.js) at line 16.
+Keyword 'ws' found in file 'pdfProvider.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/out/src/pdfProvider.js) at line 24.
+Keyword 'ws' found in file 'pdfProvider.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/out/src/pdfProvider.js) at line 27.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1122.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1179.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1187.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1303.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1305.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1349.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1578.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1636.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1702.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1709.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 1751.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 2153.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 2543.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 3077.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 4391.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 4680.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 4773.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 5261.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 5840.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 5849.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6047.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6382.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6428.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6437.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6445.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6446.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6447.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6456.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6466.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6467.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6468.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6469.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6478.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6479.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6489.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6490.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6491.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6492.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6503.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6504.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6505.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6506.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6513.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6635.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6642.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6662.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6677.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6678.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6689.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6704.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6706.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6814.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6824.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6859.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6876.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 6899.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7119.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7170.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7234.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7281.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7300.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7307.
+Keyword 'openExternal' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7317.
+Keyword 'openExternal' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7334.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7338.
+Keyword 'openExternal' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7338.
+Keyword 'openExternal' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7359.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7762.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7772.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7782.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7792.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7802.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7811.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7820.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7963.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7964.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7988.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7993.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 7999.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8000.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8008.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8065.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8068.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8366.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8385.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8410.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8447.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8453.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8462.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8476.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8477.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8537.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8540.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8562.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 8564.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9079.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9101.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9125.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9145.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9180.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9200.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9235.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9255.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9328.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9329.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 9554.
+Keyword 'ws' found in file 'index.d.ts' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/node_modules/@types/vscode/index.d.ts) at line 10559.
+Keyword 'ws' found in file 'LICENSE' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/LICENSE) at line 84.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 1816.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3438.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3443.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3447.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3452.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3466.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3490.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3491.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3493.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3494.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3499.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3500.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 3554.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4252.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4253.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4254.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4261.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4271.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4272.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4277.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 4278.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 9041.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 9065.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 9075.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 9920.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10092.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10627.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10685.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10700.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10707.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 10724.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 11040.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 11049.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 11136.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 11144.
+Keyword 'ws' found in file 'viewer.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.js) at line 11378.
+Keyword 'ws' found in file 'viewer.html' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.html) at line 23.
+Keyword 'ws' found in file 'viewer.css' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.css) at line 2498.
+Keyword 'ws' found in file 'viewer.css' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/viewer.css) at line 2538.
+Keyword 'ws' found in file 'debugger.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/debugger.js) at line 439.
+Keyword 'ws' found in file 'debugger.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/debugger.js) at line 440.
+Keyword 'ws' found in file 'debugger.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/debugger.js) at line 441.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/szl/viewer.properties) at line 143.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/szl/viewer.properties) at line 147.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/szl/viewer.properties) at line 174.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/fy-NL/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 50.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 51.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 52.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 56.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 57.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 58.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 59.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 60.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 61.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 143.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 147.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 177.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/pl/viewer.properties) at line 188.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/da/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/it/viewer.properties) at line 197.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/tl/viewer.properties) at line 251.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/en-GB/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/ro/viewer.properties) at line 247.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/en-CA/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/bo/viewer.properties) at line 243.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/bs/viewer.properties) at line 199.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/nl/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/de/viewer.properties) at line 257.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 75.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 76.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 77.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 78.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 79.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/cy/viewer.properties) at line 80.
+Keyword 'ws' found in file 'viewer.properties' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/locale/en-US/viewer.properties) at line 246.
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/images/grab.cur
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/images/loading-icon.gif
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/images/grabbing.cur
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/images/shadow.png
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitDingbats.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/LiberationSans-Bold.ttf
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSymbol.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/LiberationSans-BoldItalic.ttf
+Keyword 'ws' found in file 'LICENSE_LIBERATION' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/LICENSE_LIBERATION) at line 20.
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitFixedBoldItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitFixedItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSerifItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSerifBoldItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSerifBold.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitFixed.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSansItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSansBold.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSansBoldItalic.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/LiberationSans-Italic.ttf
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSerif.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitSans.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/LiberationSans-Regular.ttf
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/standard_fonts/FoxitFixedBold.pfb
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBKp-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Katakana.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCpc-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-UCS2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-5.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-6.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-4.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-UCS2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKscs-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISX0213-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKdla-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETenms-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Korea1-UCS2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/WP-Symbol.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Add-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-0.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-3.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKm314-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETHK-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-Johab-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-1.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UCS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISPro-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Add-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UCS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKm471-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKgccs-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF8-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKm314-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-5.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-6.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Add-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF8-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISPro-UCS2-HW-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKgccs-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKm471-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UCS2-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Add-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-4.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UCS2-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-Johab-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETHK-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-0.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-3.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCpc-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBKp-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Roman.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETenms-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKdla-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISX0213-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKscs-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Japan1-1.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-CNS1-2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90msp-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/B5pc-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-1.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF16-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF16-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Hankaku.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90ms-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF16-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF8-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBTpc-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBT-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78ms-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKdlb-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/83pv-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBT-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBpc-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Korea1-1.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETen-B5-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCms-UHC-HW-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS1-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBK-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Ext-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-3.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UCS2-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS2-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF16-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/NWP-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCms-UHC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GB-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UCS2-HW-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UCS2-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISX02132004-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF8-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GB-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF16-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-5.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF8-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90pv-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBK2K-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Ext-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UCS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UCS2-HW-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GB-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCms-UHC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/NWP-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF16-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Hiragana.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UCS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Korea1-0.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBK2K-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90pv-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Ext-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-Korea1-2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniKS-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-0.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS-UTF16-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISPro-UCS2-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GB-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJISX02132004-UTF32-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBTpc-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-UCS2.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF16-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF8-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90ms-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF16-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF16-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/B5pc-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/90msp-RKSJ-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Adobe-GB1-4.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/Ext-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBK-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/CNS1-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/ETen-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/KSCms-UHC-HW-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniJIS2004-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBpc-EUC-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBT-EUC-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/HKdlb-B5-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78ms-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/78-RKSJ-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/GBT-V.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniGB-UTF32-H.bcmap
+Could not read file: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/web/cmaps/UniCNS-UTF32-V.bcmap
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 1469.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 5996.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 5999.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 6001.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 6004.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 6005.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 7179.
+Keyword 'ws' found in file 'pdf.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.js) at line 7182.
+Keyword 'ws' found in file 'pdf.sandbox.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.sandbox.js) at line 40.
+Keyword 'ws' found in file 'pdf.sandbox.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.sandbox.js) at line 245.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 145.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 1639.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15273.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15340.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15358.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15387.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15617.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15618.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 15645.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 18524.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 22380.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 22381.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 22391.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 22403.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 22404.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 32825.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 33281.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 33289.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 33339.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 33573.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 34159.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 36029.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 36429.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 36431.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 63039.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 63040.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69061.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69149.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69160.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69168.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69235.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69239.
+Keyword 'ws' found in file 'pdf.worker.js' (path: /Users/prateek/Downloads/extensions/anwar-papyrus-pdf-0.0.7/extension/lib/build/pdf.worker.js) at line 69817.

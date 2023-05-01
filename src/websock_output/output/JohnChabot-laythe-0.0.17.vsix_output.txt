@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/JohnChabot-laythe-0.0.17/extension/images/laythe_icon.png

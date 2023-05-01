@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/neandertech-langoustine-vscode-0.0.2/extension/LICENSE.txt) at line 83.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/neandertech-langoustine-vscode-0.0.2/extension/out/main.js) at line 11675.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/neandertech-langoustine-vscode-0.0.2/extension/out/main.js) at line 13315.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/neandertech-langoustine-vscode-0.0.2/extension/out/main.js) at line 14161.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/neandertech-langoustine-vscode-0.0.2/extension/out/main.js) at line 14165.

@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/nemesv-copy-file-name-1.2.0/extension/images/copy-file-name-commands.png

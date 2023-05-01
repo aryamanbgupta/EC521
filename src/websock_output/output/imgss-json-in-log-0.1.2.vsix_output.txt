@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 5.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 308.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 325.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 327.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 380.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 702.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 735.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 1052.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 1301.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 1437.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/yarn-error.log) at line 1521.
+Could not read file: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/img/example.gif
+Could not read file: /Users/prateek/Downloads/extensions/imgss-json-in-log-0.1.2/extension/img/logo.png

@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/LiveLucky-snippet-retyper-0.0.5/extension/images/snippets-retype.png
+Could not read file: /Users/prateek/Downloads/extensions/LiveLucky-snippet-retyper-0.0.5/extension/images/feature-x.png

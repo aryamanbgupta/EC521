@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/CalebJStevens-connect-to-openai-1.0.3/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/CalebJStevens-connect-to-openai-1.0.3/extension/README.md) at line 3.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/CalebJStevens-connect-to-openai-1.0.3/extension/package.json) at line 4.
+Could not read file: /Users/prateek/Downloads/extensions/CalebJStevens-connect-to-openai-1.0.3/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/CalebJStevens-connect-to-openai-1.0.3/extension/images/connecttoopenai1.gif

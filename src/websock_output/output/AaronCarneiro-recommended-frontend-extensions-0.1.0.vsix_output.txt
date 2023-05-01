@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'main.yml' (path: /Users/prateek/Downloads/extensions/AaronCarneiro-recommended-frontend-extensions-0.1.0/extension/.github/workflows/main.yml) at line 13.
+Could not read file: /Users/prateek/Downloads/extensions/AaronCarneiro-recommended-frontend-extensions-0.1.0/extension/assets/icon.png

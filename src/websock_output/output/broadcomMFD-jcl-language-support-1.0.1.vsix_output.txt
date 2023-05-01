@@ -1,0 +1,19 @@
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 1.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 12.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 22.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 57.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 192.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 199.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 205.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js) at line 218.
+Keyword 'ws' found in file 'server.js.map' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/server/out/server.js.map) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/docs/images/icon.png
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 12.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 22.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 57.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 192.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 199.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 205.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/broadcomMFD-jcl-language-support-1.0.1/extension/client/out/extension.js) at line 218.

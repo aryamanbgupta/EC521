@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/README.md) at line 31.
+Keyword 'ws' found in file 'rollup.config.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/rollup.config.js) at line 14.
+Keyword 'ws' found in file 'rollup.config.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/rollup.config.js) at line 18.
+Keyword 'ws' found in file 'rollup.config.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/rollup.config.js) at line 50.
+Keyword 'ws' found in file 'rollup.config.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/rollup.config.js) at line 55.
+Keyword 'ws' found in file 'rollup.config.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/rollup.config.js) at line 65.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/package.json) at line 49.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/package.json) at line 75.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/package.json) at line 416.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/package.json) at line 451.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/icon/sidekick-icon-128x128.png
+Could not read file: /Users/prateek/Downloads/extensions/Sidekick-sidekick-debugger-0.0.19/extension/icon/sidekick-icon-256x256.png

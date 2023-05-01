@@ -1,0 +1,18 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension.vsixmanifest) at line 7.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/CHANGELOG.md) at line 16.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/CHANGELOG.md) at line 36.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/README.md) at line 42.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/README.md) at line 45.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 13.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 55.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 58.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 63.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 110.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/package.json) at line 132.
+Could not read file: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/1463a26331df3b0b4d694b076097b2dd.node
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/extension.js) at line 1.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'lively_script.js' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/static/lively_script.js) at line 1.
+Keyword 'wss' found in file 'lively_script.js' (path: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/static/lively_script.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/out/static/lively_assets/fontawesome.woff
+Could not read file: /Users/prateek/Downloads/extensions/uahnbu-lively-reload-0.1.2/extension/resources/icon.png

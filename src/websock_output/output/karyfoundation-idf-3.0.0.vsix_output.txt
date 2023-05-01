@@ -1,0 +1,5 @@
+Could not read file: /Users/prateek/Downloads/extensions/karyfoundation-idf-3.0.0/extension/icon.png
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/karyfoundation-idf-3.0.0/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/karyfoundation-idf-3.0.0/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/karyfoundation-idf-3.0.0/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'LICENCE' (path: /Users/prateek/Downloads/extensions/karyfoundation-idf-3.0.0/extension/node_modules/idf-formatter/LICENCE) at line 308.

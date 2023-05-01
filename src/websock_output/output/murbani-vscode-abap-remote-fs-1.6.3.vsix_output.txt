@@ -1,0 +1,21 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/CHANGELOG.md) at line 243.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/CHANGELOG.md) at line 547.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/CHANGELOG.md) at line 548.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/CHANGELOG.md) at line 742.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/README.md) at line 5.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/README.md) at line 31.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 137.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 153.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 157.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 944.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 949.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 1258.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 1262.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/package.json) at line 1265.
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/server/dist/server.js) at line 2.
+Keyword 'ws' found in file 'extension.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/dist/extension.js.LICENSE.txt) at line 14.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/dist/extension.js) at line 2.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/images/abapfs_icon.png
+Could not read file: /Users/prateek/Downloads/extensions/murbani-vscode-abap-remote-fs-1.6.3/extension/client/images/abapfs_logo.png

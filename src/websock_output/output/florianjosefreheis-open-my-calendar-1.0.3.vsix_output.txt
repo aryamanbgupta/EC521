@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/florianjosefreheis-open-my-calendar-1.0.3/extension/README.md) at line 9.
+Could not read file: /Users/prateek/Downloads/extensions/florianjosefreheis-open-my-calendar-1.0.3/extension/images/open-my-calendar.gif
+Could not read file: /Users/prateek/Downloads/extensions/florianjosefreheis-open-my-calendar-1.0.3/extension/images/open-my-calendar.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/florianjosefreheis-open-my-calendar-1.0.3/extension/node_modules/valid-url/README.md) at line 48.
+Keyword 'ws' found in file 'is_uri.js' (path: /Users/prateek/Downloads/extensions/florianjosefreheis-open-my-calendar-1.0.3/extension/node_modules/valid-url/test/is_uri.js) at line 15.

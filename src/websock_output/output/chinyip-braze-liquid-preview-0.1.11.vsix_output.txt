@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/icon.png
+Keyword 'ws' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js.map) at line 1.
+Keyword 'wss' found in file 'extension.js.map' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js.map) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 157.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 157.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 187.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 203.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 209.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chinyip-braze-liquid-preview-0.1.11/extension/dist/extension.js) at line 211.

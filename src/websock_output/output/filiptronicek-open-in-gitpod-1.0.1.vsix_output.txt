@@ -1,0 +1,1 @@
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/filiptronicek-open-in-gitpod-1.0.1/extension/dist/extension.js) at line 1.

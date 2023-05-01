@@ -1,0 +1,37 @@
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 312.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 314.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 316.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 318.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 359.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 361.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 1158.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 1386.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn-error.log) at line 1387.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/README.md) at line 7.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/README.md) at line 17.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 159.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 161.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 163.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 165.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 206.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 208.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 1005.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 1233.
+Keyword 'ws' found in file 'yarn.lock' (path: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/yarn.lock) at line 1234.
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/vscode-open-related-file-demo.gif
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/facebook_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/logo_transparent.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/pinterest_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/twitter_header_photo_1.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/twitter_header_photo_2.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/youtube_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/linkedin_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/favicon.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/pinterest_board_photo.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/instagram_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/linkedin_banner_image_2.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/facebook_cover_photo_2.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/twitter_profile_image.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/linkedin_banner_image_1.png
+Could not read file: /Users/prateek/Downloads/extensions/georgesg-open-related-files-0.0.4/extension/images/logo/facebook_cover_photo_1.png

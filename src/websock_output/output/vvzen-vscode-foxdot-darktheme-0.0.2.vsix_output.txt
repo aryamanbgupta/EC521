@@ -1,0 +1,2 @@
+Could not read file: /Users/prateek/Downloads/extensions/vvzen-vscode-foxdot-darktheme-0.0.2/extension/images/foxdot_darktheme_logo.png
+Could not read file: /Users/prateek/Downloads/extensions/vvzen-vscode-foxdot-darktheme-0.0.2/extension/images/foxdot_darktheme_logo.afdesign

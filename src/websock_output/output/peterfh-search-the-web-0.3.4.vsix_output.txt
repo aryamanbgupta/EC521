@@ -1,0 +1,12 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/README.md) at line 19.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/package.json) at line 5.
+Keyword 'ws' found in file 'extension.nls.json' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/extension.nls.json) at line 4.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/extension.js) at line 68.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/extension.js) at line 95.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/extension.js) at line 149.
+Could not read file: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/img/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/img/usage-ctrl-f1.gif
+Could not read file: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/img/icon2.CDR
+Could not read file: /Users/prateek/Downloads/extensions/peterfh-search-the-web-0.3.4/extension/img/icon.CDR

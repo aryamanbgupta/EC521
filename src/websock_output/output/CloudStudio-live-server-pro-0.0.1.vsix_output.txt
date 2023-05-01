@@ -1,0 +1,101 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/package.json) at line 4.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/extension.js) at line 1.
+Keyword 'ws' found in file 'live-server.js' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/live-server.js) at line 2.
+Keyword 'wss' found in file 'live-server.js' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/live-server.js) at line 2.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/injected.html) at line 20.
+Keyword 'wss' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/injected.html) at line 20.
+Keyword 'ws' found in file 'injected.html' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/injected.html) at line 21.
+Keyword 'ws' found in file 'live-server.js.LICENSE.txt' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/live-server.js.LICENSE.txt) at line 332.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/style.css) at line 130.
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_ruby.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_link.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_world.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_link.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_paintbrush.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_width.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_paintbrush.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_c.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_go.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/controller.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_red.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_gear.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_put.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_code.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_flash.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_gear.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_world.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_code.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_freehand.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_add.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_refresh.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_actionscript.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_dvd.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/map.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_cd.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_compressed.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_vector.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_visualstudio.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/application_xp.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_go.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_swoosh.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_key.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_get.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_paint.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_zip.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_lightning.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_cplusplus.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/font.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/film.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/folder.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_delete.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_magnify.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_green.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_excel.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_error.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_code_red.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_php.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_medal.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_stack.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/application_xp_terminal.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_picture.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_csharp.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_coldfusion.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_excel.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_find.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_error.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_office.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_database.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/drive.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_find.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_horizontal.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_attach.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_text.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_h.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_word.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_copy.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_key.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_camera.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_delete.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/cd.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_save.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_paste.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_cup.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_word.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_text_width.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_copy.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_wrench.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_star.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_paste.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_add.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/box.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_powerpoint.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_edit.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_lightning.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_tux.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_acrobat.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/image.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/dist/bin/public/icons/page_white_edit.png
+Could not read file: /Users/prateek/Downloads/extensions/CloudStudio-live-server-pro-0.0.1/extension/assets/logo.png

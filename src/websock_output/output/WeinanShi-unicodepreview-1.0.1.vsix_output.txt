@@ -1,0 +1,5 @@
+Could not read file: /Users/prateek/Downloads/extensions/WeinanShi-unicodepreview-1.0.1/extension/images/icon.jpg
+Could not read file: /Users/prateek/Downloads/extensions/WeinanShi-unicodepreview-1.0.1/extension/images/select.gif
+Could not read file: /Users/prateek/Downloads/extensions/WeinanShi-unicodepreview-1.0.1/extension/images/line.gif
+Could not read file: /Users/prateek/Downloads/extensions/WeinanShi-unicodepreview-1.0.1/extension/images/enable.gif
+Could not read file: /Users/prateek/Downloads/extensions/WeinanShi-unicodepreview-1.0.1/extension/images/disable.gif

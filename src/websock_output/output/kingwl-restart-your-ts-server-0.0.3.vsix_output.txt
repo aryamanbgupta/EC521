@@ -1,0 +1,3 @@
+Keyword 'ws' found in file '.gitignore' (path: /Users/prateek/Downloads/extensions/kingwl-restart-your-ts-server-0.0.3/extension/.gitignore) at line 35.
+Could not read file: /Users/prateek/Downloads/extensions/kingwl-restart-your-ts-server-0.0.3/extension/logo.png
+Keyword 'ws' found in file 'publish.yml' (path: /Users/prateek/Downloads/extensions/kingwl-restart-your-ts-server-0.0.3/extension/.github/workflows/publish.yml) at line 9.

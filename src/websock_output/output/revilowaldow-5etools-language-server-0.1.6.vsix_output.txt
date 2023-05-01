@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'entries.json' (path: /Users/prateek/Downloads/extensions/revilowaldow-5etools-language-server-0.1.6/extension/snippets/entries.json) at line 134.
+Keyword 'ws' found in file 'tags.json' (path: /Users/prateek/Downloads/extensions/revilowaldow-5etools-language-server-0.1.6/extension/snippets/tags.json) at line 63.
+Could not read file: /Users/prateek/Downloads/extensions/revilowaldow-5etools-language-server-0.1.6/extension/images/5eUA.png
+Could not read file: /Users/prateek/Downloads/extensions/revilowaldow-5etools-language-server-0.1.6/extension/images/Autofill.mp4

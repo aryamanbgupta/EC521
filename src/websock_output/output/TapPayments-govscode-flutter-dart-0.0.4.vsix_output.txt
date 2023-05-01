@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/TapPayments-govscode-flutter-dart-0.0.4/extension/package.json) at line 20.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/TapPayments-govscode-flutter-dart-0.0.4/extension/package.json) at line 29.
+Could not read file: /Users/prateek/Downloads/extensions/TapPayments-govscode-flutter-dart-0.0.4/extension/images/tap.png
+Could not read file: /Users/prateek/Downloads/extensions/TapPayments-govscode-flutter-dart-0.0.4/extension/images/contributors/hansom_Khaled.png

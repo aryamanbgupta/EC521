@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 447.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 452.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 613.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 615.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 618.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 620.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 812.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 1621.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 2299.
+Keyword 'ws' found in file 'yarn-error.log' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/yarn-error.log) at line 2349.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/dist/extension.js) at line 2.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/dist/extension.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/WhizeCo-whize-code-0.5.3/extension/images/producthunt.png

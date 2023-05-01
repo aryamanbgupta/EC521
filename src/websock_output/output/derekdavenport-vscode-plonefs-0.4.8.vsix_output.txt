@@ -1,0 +1,10 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/CHANGELOG.md) at line 66.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/CHANGELOG.md) at line 93.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/README.md) at line 64.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/extension.js) at line 31.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/extension.js) at line 31.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/extension.js) at line 151.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/extension.js) at line 193.
+Keyword 'ws' found in file 'GlobalSignRootCA-R3.cer' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/ssl/GlobalSignRootCA-R3.cer) at line 18.
+Keyword 'ws' found in file 'GlobalSignExtendedValidationCA-SHA256-G3.cer' (path: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/out/ssl/GlobalSignExtendedValidationCA-SHA256-G3.cer) at line 12.
+Could not read file: /Users/prateek/Downloads/extensions/derekdavenport-vscode-plonefs-0.4.8/extension/images/PloneFS.png

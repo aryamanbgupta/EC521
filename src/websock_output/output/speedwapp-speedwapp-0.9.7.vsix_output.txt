@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/README.md) at line 11.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/README.md) at line 26.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/dist/extension.js) at line 1.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/dist/extension.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/ajax-loader.gif
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/screenshot-2.gif
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/screenshot-1.gif
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/screenshot-3.jpeg
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/logo-speedwapp.png
+Could not read file: /Users/prateek/Downloads/extensions/speedwapp-speedwapp-0.9.7/extension/assets/images/home_banner.jpg

@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/voilalex-open-in-ipython-1.0.1/extension/data/open-context-menu.gif
+Could not read file: /Users/prateek/Downloads/extensions/voilalex-open-in-ipython-1.0.1/extension/data/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/voilalex-open-in-ipython-1.0.1/extension/data/open-command-pallet.gif

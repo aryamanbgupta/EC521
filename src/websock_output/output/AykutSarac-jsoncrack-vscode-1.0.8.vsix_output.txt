@@ -1,0 +1,4 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/AykutSarac-jsoncrack-vscode-1.0.8/extension/package.json) at line 110.
+Keyword 'ws' found in file 'bug_report.yml' (path: /Users/prateek/Downloads/extensions/AykutSarac-jsoncrack-vscode-1.0.8/extension/.github/ISSUE_TEMPLATE/bug_report.yml) at line 36.
+Keyword 'ws' found in file 'main.1d26bca5.js' (path: /Users/prateek/Downloads/extensions/AykutSarac-jsoncrack-vscode-1.0.8/extension/build/static/js/main.1d26bca5.js) at line 2.
+Could not read file: /Users/prateek/Downloads/extensions/AykutSarac-jsoncrack-vscode-1.0.8/extension/assets/jsoncrack.png

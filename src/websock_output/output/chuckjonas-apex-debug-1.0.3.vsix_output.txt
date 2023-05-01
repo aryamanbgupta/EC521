@@ -1,0 +1,11 @@
+Keyword 'ws' found in file 'changelog.md' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/changelog.md) at line 4.
+Keyword 'ws' found in file 'programState.js' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/out/lib/programState.js) at line 80.
+Keyword 'ws' found in file 'logInstructions.js' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/out/lib/logInstructions.js) at line 302.
+Keyword 'ws' found in file 'frameProcessor.js' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/out/lib/frameProcessor.js) at line 64.
+Could not read file: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/images/apex-debug-icon.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugprotocol/README.md) at line 22.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugprotocol/README.md) at line 52.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugprotocol/README.md) at line 79.
+Keyword 'ws' found in file 'debugProtocol.d.ts' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugprotocol/lib/debugProtocol.d.ts) at line 42.
+Keyword 'ws' found in file 'logger.js' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugadapter/lib/logger.js) at line 153.
+Keyword 'ws' found in file 'debugSession.js' (path: /Users/prateek/Downloads/extensions/chuckjonas-apex-debug-1.0.3/extension/node_modules/vscode-debugadapter/lib/debugSession.js) at line 651.

@@ -1,0 +1,5 @@
+Keyword 'ws' found in file 'preview.js' (path: /Users/prateek/Downloads/extensions/analytic-signal-preview-mp4-0.0.1/extension/out/preview.js) at line 25.
+Keyword 'ws' found in file 'preview.js' (path: /Users/prateek/Downloads/extensions/analytic-signal-preview-mp4-0.0.1/extension/out/preview.js) at line 35.
+Keyword 'ws' found in file 'preview.js' (path: /Users/prateek/Downloads/extensions/analytic-signal-preview-mp4-0.0.1/extension/out/preview.js) at line 37.
+Could not read file: /Users/prateek/Downloads/extensions/analytic-signal-preview-mp4-0.0.1/extension/images/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/analytic-signal-preview-mp4-0.0.1/extension/images/vscode-mp4-preview.gif

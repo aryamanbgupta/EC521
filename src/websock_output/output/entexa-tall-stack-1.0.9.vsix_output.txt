@@ -1,0 +1,2 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/entexa-tall-stack-1.0.9/extension/README.md) at line 43.
+Could not read file: /Users/prateek/Downloads/extensions/entexa-tall-stack-1.0.9/extension/tall-stack-logo.png

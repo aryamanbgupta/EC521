@@ -1,0 +1,10 @@
+Could not read file: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/win32-x64.node
+Could not read file: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/darwin-arm64.node
+Keyword 'ws' found in file 'server.js' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/server.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/darwin-x64.node
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/index.js) at line 1.
+Keyword 'openExternal' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/index.js) at line 1.
+Could not read file: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/linux-x64.node
+Keyword 'ws' found in file 'server.js.map' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/server.js.map) at line 1.
+Keyword 'ws' found in file 'index.js.map' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/index.js.map) at line 1.
+Keyword 'openExternal' found in file 'index.js.map' (path: /Users/prateek/Downloads/extensions/msedge-dev-gnls-0.1.3/extension/build/index.js.map) at line 1.

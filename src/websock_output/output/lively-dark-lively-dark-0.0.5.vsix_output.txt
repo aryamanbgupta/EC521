@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/lively-dark-lively-dark-0.0.5/extension/icon.png

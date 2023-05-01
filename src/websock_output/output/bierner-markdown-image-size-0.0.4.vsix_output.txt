@@ -1,0 +1,41 @@
+Keyword 'ws' found in file '.eslintrc' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/.eslintrc) at line 3.
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/img/lena.jpg
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/img/lena.png
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/img/lena.gif
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/img/lena.bmp
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/img/lena.tiff
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 1122.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 1776.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 2342.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 3507.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 3553.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 3715.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 3718.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 4492.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 4512.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 4521.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6035.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6037.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6038.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6853.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6857.
+Keyword 'wss' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 6857.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 7378.
+Keyword 'ws' found in file 'spec.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/spec.txt) at line 7458.
+Keyword 'ws' found in file 'good.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/good.txt) at line 3027.
+Keyword 'ws' found in file 'good.txt' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/test/fixtures/commonmark/good.txt) at line 3030.
+Keyword 'ws' found in file 'markdown-it-imsize.min.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.min.js) at line 2.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 321.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 727.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 764.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 787.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 801.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 1850.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 1864.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 1946.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 2579.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 2610.
+Keyword 'ws' found in file 'markdown-it-imsize.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/dist/markdown-it-imsize.js) at line 2611.
+Keyword 'ws' found in file 'parse_image_size.js' (path: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/node_modules/markdown-it-imsize/lib/helpers/parse_image_size.js) at line 44.
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/docs/example.png
+Could not read file: /Users/prateek/Downloads/extensions/bierner-markdown-image-size-0.0.4/extension/logo/logo.png

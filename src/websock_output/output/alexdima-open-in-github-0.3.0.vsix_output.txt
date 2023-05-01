@@ -1,0 +1,1 @@
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/alexdima-open-in-github-0.3.0/extension/out/extension.js) at line 59.

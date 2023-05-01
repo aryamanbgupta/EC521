@@ -1,0 +1,17 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/README.md) at line 3.
+Could not read file: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/logo.png
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 147.
+Keyword 'wss' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 147.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 151.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 165.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 166.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 168.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 169.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 190.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 199.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 201.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 203.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 204.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 215.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/out/main.js) at line 253.
+Could not read file: /Users/prateek/Downloads/extensions/jjuanramos-dbt-bigquery-preview-0.0.22/extension/media/preview.gif

@@ -1,0 +1,13 @@
+Keyword 'ws' found in file 'yaml.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/yaml.json) at line 18.
+Keyword 'ws' found in file 'javascript.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript.json) at line 7.
+Keyword 'ws' found in file 'javascript.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript.json) at line 8.
+Keyword 'ws' found in file 'javascript.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript.json) at line 19.
+Keyword 'ws' found in file 'stepFunctions.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/yaml/stepFunctions.json) at line 6.
+Keyword 'ws' found in file 'functions.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript/functions.json) at line 7.
+Keyword 'ws' found in file 'functions.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript/functions.json) at line 8.
+Keyword 'ws' found in file 'functions.json' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/snippets/javascript/functions.json) at line 19.
+Could not read file: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/images/icon.png
+Keyword 'ws' found in file 'yaml.json.code-snippets' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/.vscode/yaml.json.code-snippets) at line 18.
+Keyword 'ws' found in file 'javascript.json.code-snippets' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/.vscode/javascript.json.code-snippets) at line 7.
+Keyword 'ws' found in file 'javascript.json.code-snippets' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/.vscode/javascript.json.code-snippets) at line 8.
+Keyword 'ws' found in file 'javascript.json.code-snippets' (path: /Users/prateek/Downloads/extensions/distinction-dev-sls-snippets-1.3.1/extension/.vscode/javascript.json.code-snippets) at line 19.

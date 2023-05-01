@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/ZachManson-status-messenger-1.0.5/extension/assets/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/ZachManson-status-messenger-1.0.5/extension/assets/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/ZachManson-status-messenger-1.0.5/extension/assets/commands.png
+Could not read file: /Users/prateek/Downloads/extensions/ZachManson-status-messenger-1.0.5/extension/assets/screenshot2.png

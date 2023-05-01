@@ -1,0 +1,3 @@
+Could not read file: /Users/prateek/Downloads/extensions/phiter-phpstorm-snippets-1.1.2/extension/images/phpstorm-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/phiter-phpstorm-snippets-1.1.2/extension/images/demo.gif
+Could not read file: /Users/prateek/Downloads/extensions/phiter-phpstorm-snippets-1.1.2/extension/images/autocompletion-issue.gif

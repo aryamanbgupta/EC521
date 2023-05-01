@@ -1,0 +1,26 @@
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/package.json) at line 298.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/package.json) at line 307.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/package.json) at line 329.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/package.json) at line 504.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 3.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 4.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 10.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 11.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 12.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 13.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 19.
+Keyword 'wss' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 19.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 30.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 43.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 114.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 174.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/extension.js) at line 206.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 2.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 3.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 4.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 15.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 16.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 48.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/out/web/main.js) at line 50.
+Could not read file: /Users/prateek/Downloads/extensions/chagptsdz-chatgpt-GPT-4-1.0.4/extension/images/ai-logo.png

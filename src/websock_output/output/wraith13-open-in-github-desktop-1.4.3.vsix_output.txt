@@ -1,0 +1,14 @@
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/README.md) at line 22.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/README.md) at line 26.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/README.md) at line 40.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/README.md) at line 61.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 34.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 43.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 125.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 126.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 130.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 141.
+Keyword 'openExternal' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/out/source/extension.js) at line 170.
+Could not read file: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/images/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/images/open-in-github-desktop.128.png
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/wraith13-open-in-github-desktop-1.4.3/extension/node_modules/@wraith13/vscel/README.md) at line 30.

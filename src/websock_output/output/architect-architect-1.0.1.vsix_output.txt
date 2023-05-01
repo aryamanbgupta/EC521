@@ -1,0 +1,7 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension.vsixmanifest) at line 7.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/package.json) at line 74.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 30.
+Keyword 'ws' found in file 'bug_report.md' (path: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/.github/ISSUE_TEMPLATE/bug_report.md) at line 38.
+Could not read file: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/assets/architect-logo-black-white-outline-transparent.png
+Could not read file: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/assets/architect-icon-white-transparent.png
+Could not read file: /Users/prateek/Downloads/extensions/architect-architect-1.0.1/extension/assets/architect-icon-black-transparent.png

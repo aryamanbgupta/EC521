@@ -1,0 +1,17 @@
+Could not read file: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/images/redis.png
+Keyword 'ws' found in file 'build.yml' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/.github/workflows/build.yml) at line 13.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageserver-types/lib/esm/main.d.ts) at line 1574.
+Keyword 'ws' found in file 'main.d.ts' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageserver-types/lib/umd/main.d.ts) at line 1574.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageclient/README.md) at line 7.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageclient/lib/main.js) at line 143.
+Keyword 'ws' found in file 'client.d.ts' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageclient/lib/client.d.ts) at line 78.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageclient/lib/utils/processes.js) at line 9.
+Keyword 'ws' found in file 'processes.js' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/vscode-languageclient/lib/utils/processes.js) at line 13.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/CHANGELOG.md) at line 68.
+Keyword 'ws' found in file 'semver.js' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/semver.js) at line 124.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 223.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 224.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 240.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 241.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 251.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/fagnercarvalho-redis-lsp-1.0.2/extension/client/node_modules/semver/README.md) at line 357.

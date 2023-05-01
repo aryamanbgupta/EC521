@@ -1,0 +1,4 @@
+Could not read file: /Users/prateek/Downloads/extensions/Guanngxu-guanngxu-lyric-markdown-preview-1.0.4/extension/imgs/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/Guanngxu-guanngxu-lyric-markdown-preview-1.0.4/extension/imgs/preview1.png
+Could not read file: /Users/prateek/Downloads/extensions/Guanngxu-guanngxu-lyric-markdown-preview-1.0.4/extension/imgs/preview3.png
+Could not read file: /Users/prateek/Downloads/extensions/Guanngxu-guanngxu-lyric-markdown-preview-1.0.4/extension/imgs/preview2.png

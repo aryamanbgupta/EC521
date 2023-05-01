@@ -1,0 +1,8 @@
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/CHANGELOG.md) at line 14.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/CHANGELOG.md) at line 15.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/CHANGELOG.md) at line 16.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/README.md) at line 4.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/README.md) at line 8.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/README.md) at line 10.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/out/extension.js) at line 103.
+Could not read file: /Users/prateek/Downloads/extensions/web-solid-copy-to-open-0.0.4/extension/resources/open_256.png

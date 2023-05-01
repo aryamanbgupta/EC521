@@ -1,0 +1,43 @@
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/extension.js) at line 73.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/extension.js) at line 82.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/extension.js) at line 83.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/extension.js) at line 92.
+Could not read file: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/favicon.ico
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 21.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 23.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 24.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 26.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 29.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 30.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 33.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 35.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 37.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 68.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 71.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 77.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 107.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 112.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 113.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 115.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 116.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 127.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 129.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 130.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 131.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 133.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 134.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 155.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 157.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 158.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 176.
+Keyword 'ws' found in file 'index.html' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/index.html) at line 183.
+Could not read file: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/webber-dark.png
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 88.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 96.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 100.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 104.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 107.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 110.
+Keyword 'ws' found in file 'style.css' (path: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/style.css) at line 113.
+Could not read file: /Users/prateek/Downloads/extensions/SwifWeb-webber-1.0.3/extension/media/webber-light.png

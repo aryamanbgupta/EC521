@@ -1,0 +1,9 @@
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-coal-lively.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-warm-serene.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-plum-lively.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-moss-lively.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-icon.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-coal-serene.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-moss-serene.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-warm-lively.png
+Could not read file: /Users/prateek/Downloads/extensions/brano-b-theme-0.4.0/extension/assets/b-theme-dark-plum-serene.png

@@ -1,0 +1,8 @@
+Could not read file: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/logo.png
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/out/main.js) at line 33.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/out/main.js) at line 34.
+Keyword 'ws' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/out/main.js) at line 37.
+Keyword 'openExternal' found in file 'main.js' (path: /Users/prateek/Downloads/extensions/TOPSoftware-clean-vs-code-0.1.1/extension/out/main.js) at line 39.

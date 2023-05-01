@@ -1,0 +1,18 @@
+Could not read file: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/images/screenshot.png
+Could not read file: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/images/textile-preview.png
+Could not read file: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/images/textile-mark_logo.png
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 541.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 542.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 543.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 545.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 1296.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 1398.
+Keyword 'ws' found in file 'textile.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.js) at line 1818.
+Keyword 'ws' found in file 'textile.min.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/lib/textile.min.js) at line 1.
+Keyword 'ws' found in file 'ribbon.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/ribbon.js) at line 29.
+Keyword 'ws' found in file 'ribbon.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/ribbon.js) at line 30.
+Keyword 'ws' found in file 'ribbon.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/ribbon.js) at line 31.
+Keyword 'ws' found in file 'ribbon.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/ribbon.js) at line 33.
+Keyword 'ws' found in file 'table.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/textile/table.js) at line 115.
+Keyword 'ws' found in file 'attr.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/textile/attr.js) at line 55.
+Keyword 'ws' found in file 'attr.js' (path: /Users/prateek/Downloads/extensions/michaelnewton-textile-preview-1.0.2/extension/node_modules/textile-js/src/textile/attr.js) at line 158.

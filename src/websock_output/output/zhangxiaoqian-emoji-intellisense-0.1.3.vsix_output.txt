@@ -1,0 +1,27 @@
+Keyword 'ws' found in file 'index.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/index.js) at line 114.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/README.md) at line 17.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/package.json) at line 36.
+Keyword 'ws' found in file 'shared.cjs.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.cjs.js) at line 152.
+Keyword 'ws' found in file 'shared.cjs.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.cjs.js) at line 173.
+Keyword 'ws' found in file 'shared.esm-bundler.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.esm-bundler.js) at line 148.
+Keyword 'ws' found in file 'shared.esm-bundler.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.esm-bundler.js) at line 169.
+Keyword 'ws' found in file 'shared.cjs.prod.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.cjs.prod.js) at line 152.
+Keyword 'ws' found in file 'shared.cjs.prod.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/shared/dist/shared.cjs.prod.js) at line 173.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/reactivity/README.md) at line 5.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/@vue/reactivity/package.json) at line 36.
+Keyword 'ws' found in file 'LICENSE' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/LICENSE) at line 83.
+Keyword 'ws' found in file 'CHANGELOG.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/CHANGELOG.md) at line 150.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/README.md) at line 3.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/README.md) at line 41.
+Keyword 'ws' found in file 'README.md' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/README.md) at line 43.
+Keyword 'ws' found in file 'fuse.basic.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.basic.js) at line 756.
+Keyword 'ws' found in file 'fuse.common.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.common.js) at line 835.
+Keyword 'ws' found in file 'fuse.basic.common.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.basic.common.js) at line 752.
+Keyword 'ws' found in file 'fuse.esm.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.esm.js) at line 605.
+Keyword 'ws' found in file 'fuse.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.js) at line 839.
+Keyword 'ws' found in file 'fuse.basic.esm.js' (path: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/node_modules/fuse.js/dist/fuse.basic.esm.js) at line 607.
+Could not read file: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/resource/info.png
+Could not read file: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/resource/completion.gif
+Could not read file: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/resource/explore.gif
+Could not read file: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/resource/logo.png
+Could not read file: /Users/prateek/Downloads/extensions/zhangxiaoqian-emoji-intellisense-0.1.3/extension/resource/search.gif

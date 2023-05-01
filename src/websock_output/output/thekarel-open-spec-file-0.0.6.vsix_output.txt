@@ -1,0 +1,1 @@
+Could not read file: /Users/prateek/Downloads/extensions/thekarel-open-spec-file-0.0.6/extension/icon.png

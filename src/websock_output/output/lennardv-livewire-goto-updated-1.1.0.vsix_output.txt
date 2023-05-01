@@ -1,0 +1,9 @@
+Keyword 'ws' found in file 'documentLinkProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/documentLinkProvider.js) at line 9.
+Keyword 'ws' found in file 'documentLinkProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/documentLinkProvider.js) at line 10.
+Keyword 'ws' found in file 'documentLinkProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/documentLinkProvider.js) at line 12.
+Keyword 'ws' found in file 'hoverProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/hoverProvider.js) at line 11.
+Keyword 'ws' found in file 'hoverProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/hoverProvider.js) at line 12.
+Keyword 'ws' found in file 'hoverProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/hoverProvider.js) at line 14.
+Keyword 'ws' found in file 'hoverProvider.js' (path: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/out/providers/hoverProvider.js) at line 20.
+Could not read file: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/img/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/lennardv-livewire-goto-updated-1.1.0/extension/img/preview.gif

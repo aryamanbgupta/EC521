@@ -1,0 +1,17 @@
+Keyword 'ws' found in file 'extension.vsixmanifest' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension.vsixmanifest) at line 6.
+Keyword 'ws' found in file 'package.json' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/package.json) at line 4.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/LICENSE.txt) at line 77.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/LICENSE.txt) at line 184.
+Keyword 'ws' found in file 'LICENSE.txt' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/LICENSE.txt) at line 467.
+Keyword 'ws' found in file 'playground.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/playground.js) at line 18.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 206.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 491.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 516.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 520.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 525.
+Keyword 'ws' found in file 'test_playgrounds.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/test_playgrounds.js) at line 535.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/extension.js) at line 1.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/extension.js) at line 18.
+Keyword 'ws' found in file 'extension.js' (path: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/build/extension.js) at line 46.
+Could not read file: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/media/icon.png
+Could not read file: /Users/prateek/Downloads/extensions/pieterjongsma-swift-playgrounds-0.1.1/extension/media/icon_128.png

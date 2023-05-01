@@ -1,0 +1,1124 @@
+{
+    "vscode-zipexplorer": {
+        "extensionId": "95081bc3-2540-4424-bf89-775d1118862f",
+        "extensionName": "vscode-zipexplorer",
+        "publisherName": "slevesque",
+        "publisherId": "30cbfd41-b05d-4739-9271-f782deb68b9e",
+        "publishedDate": "2017-06-13T14:35:11.533+00:00",
+        "lastUpdated": "2018-03-03T02:13:30.767+00:00",
+        "shortDescription": "Display the content of a Zip file in a Tree Explorer",
+        "versions": [
+            {
+                "version": "0.3.1",
+                "lastUpdated": "2018-03-03T02:13:39.023Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": false
+    },
+    "vscode-zipfs": {
+        "extensionId": "b14d47f6-5230-4a65-9366-82edc70d5dfd",
+        "extensionName": "vscode-zipfs",
+        "publisherName": "arcanis",
+        "publisherId": "659f24e1-7f98-4a8d-9904-b5f9064a1343",
+        "publishedDate": "2020-04-03T16:31:50.68+00:00",
+        "lastUpdated": "2022-04-07T22:05:31.3+00:00",
+        "shortDescription": "Allows to easily inspect and modify files stored within zip archives.",
+        "versions": [
+            {
+                "version": "3.0.0",
+                "lastUpdated": "2022-04-07T22:05:31.3Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zip-file-system": {
+        "extensionId": "5bbf61f0-a646-40b9-8f5e-6cf98fdd0fe6",
+        "extensionName": "zip-file-system",
+        "publisherName": "TomasHubelbauer",
+        "publisherId": "870701d7-9211-4b5e-91fa-cc3687754393",
+        "publishedDate": "2018-08-19T18:46:08.893+00:00",
+        "lastUpdated": "2020-05-31T19:47:23.737+00:00",
+        "shortDescription": "Mounts a virtual file system directory in your workspace allowing browsing a ZIP file",
+        "versions": [
+            {
+                "version": "2.0.0",
+                "lastUpdated": "2020-05-31T19:49:41.553Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zip-viewer": {
+        "extensionId": "51bca40f-a124-4202-9612-cb459f8c9690",
+        "extensionName": "zip-viewer",
+        "publisherName": "AdamRaichu",
+        "publisherId": "451f1210-8a66-4203-a2a3-ccfbdac28d0d",
+        "publishedDate": "2022-11-13T01:01:29.26+00:00",
+        "lastUpdated": "2023-04-06T00:10:36.447+00:00",
+        "shortDescription": "An extension which allows for the manipulation of zip (jar, vsix, etc.) files. Now with GZip!",
+        "versions": [
+            {
+                "version": "3.9.2",
+                "lastUpdated": "2023-04-06T00:10:36.447Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zip-preview": {
+        "extensionId": "9b84ea83-49be-48fc-a803-d3b77980cf80",
+        "extensionName": "zip-preview",
+        "publisherName": "jackpanyj",
+        "publisherId": "59a7fbd7-bdd1-444a-827e-ea092b13f4ca",
+        "publishedDate": "2019-05-09T02:49:22.98+00:00",
+        "lastUpdated": "2019-05-09T10:56:23.183+00:00",
+        "shortDescription": "Display the file name of a Zip file",
+        "versions": [
+            {
+                "version": "0.0.4",
+                "lastUpdated": "2019-05-09T10:58:49.953Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zip-extract-all": {
+        "extensionId": "60791adf-b1c4-4b95-b4d5-cc199b75ec0b",
+        "extensionName": "zip-extract-all",
+        "publisherName": "AnchovyStudios",
+        "publisherId": "7e7b8026-b906-48a8-98cb-114158b5ed90",
+        "publishedDate": "2020-04-17T05:13:07.06+00:00",
+        "lastUpdated": "2020-04-17T07:18:29.133+00:00",
+        "shortDescription": "Extract all zip files inside a folder",
+        "versions": [
+            {
+                "version": "1.2.0",
+                "lastUpdated": "2020-04-17T07:20:49.493Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zip-archive-type": {
+        "extensionId": "f15d8fb1-c9bd-45a7-ad8b-85beac4fa3fb",
+        "extensionName": "zip-archive-type",
+        "publisherName": "pdamianik",
+        "publisherId": "e02e3005-58fe-406f-b974-0679f989118c",
+        "publishedDate": "2020-05-17T12:41:27.563+00:00",
+        "lastUpdated": "2021-11-01T16:11:48.89+00:00",
+        "shortDescription": "Adds a zip archive type to the Folder-Archiver",
+        "versions": [
+            {
+                "version": "1.0.3",
+                "lastUpdated": "2021-11-01T16:11:48.887Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "yarn-pnp-extension": {
+        "extensionId": "e6721902-800c-4a04-956a-cf55f27fb4ef",
+        "extensionName": "yarn-pnp-extension",
+        "publisherName": "goloveychuk",
+        "publisherId": "5685aa47-ecb1-481c-abde-b9f712d05880",
+        "publishedDate": "2022-07-25T15:54:17.747+00:00",
+        "lastUpdated": "2022-07-26T15:14:29.407+00:00",
+        "shortDescription": "No Description",
+        "versions": [
+            {
+                "version": "0.1.3",
+                "lastUpdated": "2022-07-26T15:14:29.407Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zippy-lang": {
+        "extensionId": "f78cd165-5fc3-49e9-b8b2-f03ef3d22589",
+        "extensionName": "zippy-lang",
+        "publisherName": "indiealistic",
+        "publisherId": "129878a0-efb1-47ca-a593-fb552ef552ab",
+        "publishedDate": "2021-02-25T04:50:29.26+00:00",
+        "lastUpdated": "2021-02-25T04:59:20.89+00:00",
+        "shortDescription": "The Zippy Programming Language",
+        "versions": [
+            {
+                "version": "0.5.0",
+                "lastUpdated": "2021-02-25T04:59:20.89Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "chocolatey-vscode": {
+        "extensionId": "bd004245-2c8f-473d-a80b-7df434334890",
+        "extensionName": "chocolatey-vscode",
+        "publisherName": "gep13",
+        "publisherId": "40910674-fb6a-4fac-a625-2c979be78a81",
+        "publishedDate": "2016-01-09T22:45:27.823+00:00",
+        "lastUpdated": "2020-08-12T20:33:18.467+00:00",
+        "shortDescription": "Set of snippets and commands for helping with creating packages for Chocolatey.",
+        "versions": [
+            {
+                "version": "0.7.2",
+                "lastUpdated": "2020-08-12T20:35:35.727Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "newest-gomod": {
+        "extensionId": "d23c6c7c-eb7f-4164-80d0-4a9d09902d03",
+        "extensionName": "newest-gomod",
+        "publisherName": "Zip",
+        "publisherId": "63de962f-bb5a-4160-81fa-57ec883f672a",
+        "publishedDate": "2022-08-31T10:56:34.527+00:00",
+        "lastUpdated": "2022-11-08T12:37:10.08+00:00",
+        "shortDescription": "Get newest go mod in go.mod&go.sum when git conflict.",
+        "versions": [
+            {
+                "version": "0.0.6",
+                "lastUpdated": "2022-11-08T12:37:10.08Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vszip": {
+        "extensionId": "916595e0-63e5-4501-91df-51718078c524",
+        "extensionName": "vszip",
+        "publisherName": "shudun",
+        "publisherId": "06dc3651-152f-4298-9bf3-088d01680275",
+        "publishedDate": "2021-10-13T10:37:23.213+00:00",
+        "lastUpdated": "2021-10-15T09:21:09.72+00:00",
+        "shortDescription": "zip toolkit",
+        "versions": [
+            {
+                "version": "1.2.1",
+                "lastUpdated": "2021-10-15T09:21:09.717Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-archiver": {
+        "extensionId": "975ba8b4-8e5a-42f6-9a3d-22c410cfb6be",
+        "extensionName": "vscode-archiver",
+        "publisherName": "ecmel",
+        "publisherId": "7aa35068-d7c4-4220-b9c1-10360795fd5f",
+        "publishedDate": "2016-07-11T19:17:26.387+00:00",
+        "lastUpdated": "2017-05-10T08:18:12.24+00:00",
+        "shortDescription": "Workspace folder archiver",
+        "versions": [
+            {
+                "version": "0.0.27",
+                "lastUpdated": "2017-05-10T08:18:11.867Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "folder-archiver": {
+        "extensionId": "7569d2ee-2327-4f3a-990a-e31ed1488a1d",
+        "extensionName": "folder-archiver",
+        "publisherName": "pdamianik",
+        "publisherId": "e02e3005-58fe-406f-b974-0679f989118c",
+        "publishedDate": "2020-05-17T12:33:39.127+00:00",
+        "lastUpdated": "2021-11-01T15:22:12.893+00:00",
+        "shortDescription": "Archives any folder in the workspace",
+        "versions": [
+            {
+                "version": "0.0.5",
+                "lastUpdated": "2021-11-01T15:22:12.893Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-dragonbones-preview": {
+        "extensionId": "d46252b9-1c70-4e24-9757-a3593800e6de",
+        "extensionName": "vscode-dragonbones-preview",
+        "publisherName": "gnoijli",
+        "publisherId": "8de86ea7-3264-45b4-b604-6d30122b66fa",
+        "publishedDate": "2021-05-25T07:29:52.433+00:00",
+        "lastUpdated": "2021-05-25T07:36:58.163+00:00",
+        "shortDescription": "preview dragonboens zip file",
+        "versions": [
+            {
+                "version": "0.4.0",
+                "lastUpdated": "2021-05-25T07:36:58.16Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "fast-zip": {
+        "extensionId": "7eff3391-3ca6-4f85-b2cc-674f12def5be",
+        "extensionName": "fast-zip",
+        "publisherName": "atomliu",
+        "publisherId": "8999e3e0-457c-48d2-aa10-49df4014172f",
+        "publishedDate": "2021-02-04T03:49:04.467+00:00",
+        "lastUpdated": "2021-02-04T03:56:56.887+00:00",
+        "shortDescription": "Zip  your project's  directory without .gitignore files ",
+        "versions": [
+            {
+                "version": "1.0.1",
+                "lastUpdated": "2021-02-04T03:56:56.887Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "dcs-miz-file-system": {
+        "extensionId": "f98d481e-47af-428e-835e-f5060a7f9088",
+        "extensionName": "dcs-miz-file-system",
+        "publisherName": "bobmoretti",
+        "publisherId": "04680f0d-6f1f-4dba-ad0f-0791a471eabf",
+        "publishedDate": "2022-05-07T15:58:05.24+00:00",
+        "lastUpdated": "2022-05-07T16:00:25.193+00:00",
+        "shortDescription": "Mounts a virtual file system directory in your workspace allowing browsing a DCS mission file",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2022-05-07T16:00:25.19Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "workspace-archive": {
+        "extensionId": "08806ea0-96c4-4ff7-879e-43a13b58476e",
+        "extensionName": "workspace-archive",
+        "publisherName": "Coders",
+        "publisherId": "3855347c-580e-478f-9d0d-95b9c0a30e58",
+        "publishedDate": "2019-04-07T14:10:35.48+00:00",
+        "lastUpdated": "2020-12-11T21:13:08.343+00:00",
+        "shortDescription": "Archive your project to zip file",
+        "versions": [
+            {
+                "version": "1.0.24",
+                "lastUpdated": "2020-12-11T21:13:08.343Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "selectmeta": {
+        "extensionId": "2b855b2e-1c62-4b77-80e2-4b9a4add6f22",
+        "extensionName": "selectmeta",
+        "publisherName": "SelectivaInc",
+        "publisherId": "ecf79634-4b34-46e1-b460-512babdd060f",
+        "publishedDate": "2019-10-23T06:33:22.543+00:00",
+        "lastUpdated": "2019-10-23T06:33:22.543+00:00",
+        "shortDescription": "Pull your Metadata In a Zip Format",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2019-10-23T06:38:06.33Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "settings-repository": {
+        "extensionId": "dc0c1188-c7d7-4267-bf2e-5052430a62a7",
+        "extensionName": "settings-repository",
+        "publisherName": "Katsute",
+        "publisherId": "d418866a-7ee1-458e-a7d9-cff30cd8b2df",
+        "publishedDate": "2022-08-04T15:39:21.887+00:00",
+        "lastUpdated": "2023-04-19T01:42:29.383+00:00",
+        "shortDescription": "Sync VSCode settings to a repository",
+        "versions": [
+            {
+                "version": "1.0.4",
+                "lastUpdated": "2023-04-19T01:42:29.383Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-multipane-explorer": {
+        "extensionId": "8eefa8a3-29ca-4d9c-8a21-4f72cbf56d19",
+        "extensionName": "vscode-multipane-explorer",
+        "publisherName": "sandipchitale",
+        "publisherId": "44f51dc2-0ce0-4d20-a8b3-7328964f7a61",
+        "publishedDate": "2023-01-03T04:38:04.193+00:00",
+        "lastUpdated": "2023-01-18T07:46:39.86+00:00",
+        "shortDescription": "A multipane explorer that supports File System, Kubernetes Container (Pod) File System, Zip File System, (S)FTP File System.",
+        "versions": [
+            {
+                "version": "0.0.15",
+                "lastUpdated": "2023-01-18T07:46:39.86Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-archive": {
+        "extensionId": "29dad39d-46c6-45af-870f-7c9da1a1aace",
+        "extensionName": "vscode-archive",
+        "publisherName": "YuTengjing",
+        "publisherId": "05f2f040-a2c0-4aae-a680-d6b707520bdd",
+        "publishedDate": "2022-01-23T12:51:01.933+00:00",
+        "lastUpdated": "2023-04-18T19:44:22.4+00:00",
+        "shortDescription": "compress/decompress .zip/.vsix/.crx/.asar/.tgz/.gzip/.tar",
+        "versions": [
+            {
+                "version": "0.3.2",
+                "lastUpdated": "2023-04-18T19:44:22.4Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "zenml": {
+        "extensionId": "f7863868-f433-4c0b-934e-b21436d1b0a1",
+        "extensionName": "zenml",
+        "publisherName": "Ziphil",
+        "publisherId": "cb16ecd8-423c-4ac0-8e43-c6f400d54d3e",
+        "publishedDate": "2023-02-09T15:25:58.88+00:00",
+        "lastUpdated": "2023-02-09T15:58:27.86+00:00",
+        "shortDescription": "Provides language support for ZenML",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2023-02-09T15:58:27.857Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "compress-image": {
+        "extensionId": "9f6fd780-911d-4b72-a157-9bb083afb1fd",
+        "extensionName": "compress-image",
+        "publisherName": "hliujie",
+        "publisherId": "8020382b-b5ad-4480-9f36-9f71dee6a816",
+        "publishedDate": "2020-11-10T14:54:24.81+00:00",
+        "lastUpdated": "2021-09-24T12:13:15.89+00:00",
+        "shortDescription": "compress image by tinify",
+        "versions": [
+            {
+                "version": "0.0.9",
+                "lastUpdated": "2021-09-24T12:13:15.89Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "usmart-vscode-compress": {
+        "extensionId": "f7afdd4f-d082-45c0-88b0-5d8bd1b54066",
+        "extensionName": "usmart-vscode-compress",
+        "publisherName": "estelleyyp",
+        "publisherId": "5eb9a591-4852-451d-a854-20031029a761",
+        "publishedDate": "2021-12-10T03:19:28.637+00:00",
+        "lastUpdated": "2021-12-10T03:21:47.74+00:00",
+        "shortDescription": "compress image",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2021-12-10T03:21:47.737Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "pit-picture-compress": {
+        "extensionId": "3e348274-8dac-46c0-aad6-7c85319aef6c",
+        "extensionName": "pit-picture-compress",
+        "publisherName": "heqiang",
+        "publisherId": "79356576-afe3-4d9e-8adf-91b0b2e4d3bf",
+        "publishedDate": "2022-09-02T08:30:07.553+00:00",
+        "lastUpdated": "2022-09-02T09:54:41.337+00:00",
+        "shortDescription": "pit-picture-compress",
+        "versions": [
+            {
+                "version": "1.0.1",
+                "lastUpdated": "2022-09-02T09:54:41.337Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "dd-tinify-compress": {
+        "extensionId": "c5c70889-92c1-48ab-9430-4060f16a9412",
+        "extensionName": "dd-tinify-compress",
+        "publisherName": "dongdongli",
+        "publisherId": "4d111d91-ce7a-4b9c-9f41-314d8b24f916",
+        "publishedDate": "2023-04-07T02:57:15.653+00:00",
+        "lastUpdated": "2023-04-18T09:52:34.043+00:00",
+        "shortDescription": "A plugin that compresses pictures",
+        "versions": [
+            {
+                "version": "1.2.0",
+                "lastUpdated": "2023-04-18T09:52:34.043Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "compress-my-css": {
+        "extensionId": "4597d524-71de-4236-a88f-2cd91f54f95f",
+        "extensionName": "compress-my-css",
+        "publisherName": "guasam",
+        "publisherId": "363a6db9-1bc3-498e-86c2-8b208c50c798",
+        "publishedDate": "2022-07-19T17:07:00.473+00:00",
+        "lastUpdated": "2022-07-19T17:39:33.32+00:00",
+        "shortDescription": "Stylesheet formatter with single-line (stacked) rules format.",
+        "versions": [
+            {
+                "version": "0.2.1",
+                "lastUpdated": "2022-07-19T17:39:33.32Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "css-compressor": {
+        "extensionId": "fbc665b2-ea7f-4570-a851-a7b2a4fecdf1",
+        "extensionName": "css-compressor",
+        "publisherName": "bestvow",
+        "publisherId": "7c26c96f-6b2a-48c8-8218-922044c49e89",
+        "publishedDate": "2018-01-14T11:53:33.233+00:00",
+        "lastUpdated": "2018-01-14T12:06:25.847+00:00",
+        "shortDescription": "Minify or Compact your CSS files",
+        "versions": [
+            {
+                "version": "0.0.2",
+                "lastUpdated": "2018-01-14T12:07:18.497Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "compressimage": {
+        "extensionId": "cf7512c6-ef6a-40f2-921c-41d34f1fd0cd",
+        "extensionName": "compressimage",
+        "publisherName": "lilu1814",
+        "publisherId": "21faebe4-5a09-45db-911a-fa07a61e50b1",
+        "publishedDate": "2021-10-19T07:19:14.003+00:00",
+        "lastUpdated": "2021-10-21T08:41:31.737+00:00",
+        "shortDescription": "No Description",
+        "versions": [
+            {
+                "version": "0.0.3",
+                "lastUpdated": "2021-10-21T08:41:31.733Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "docs-images": {
+        "extensionId": "531c9642-a2f9-4dae-a784-67d25324502e",
+        "extensionName": "docs-images",
+        "publisherName": "docsmsft",
+        "publisherId": "983a9d74-aa98-4a51-97df-0407d7f1a024",
+        "publishedDate": "2019-12-20T21:09:17.737+00:00",
+        "lastUpdated": "2023-03-17T21:07:57.457+00:00",
+        "shortDescription": "Learn Images Extension",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "lastUpdated": "2023-03-17T21:07:57.453Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "compressed-upload": {
+        "extensionId": "baac05ac-9f8f-4a17-b06a-05129588474d",
+        "extensionName": "compressed-upload",
+        "publisherName": "xxicao",
+        "publisherId": "c16ef9bf-4dd0-4493-a9c6-2f89a2e62454",
+        "publishedDate": "2021-10-26T12:39:38.4+00:00",
+        "lastUpdated": "2021-11-05T02:42:28.96+00:00",
+        "shortDescription": "A plugin for automatically compressing and uploading images based on TinyPNG to COS.",
+        "versions": [
+            {
+                "version": "1.2.0",
+                "lastUpdated": "2021-11-05T02:42:28.96Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "tinypng": {
+        "extensionId": "7d0f7566-e4ad-4ee0-bf73-dc851eb3913d",
+        "extensionName": "tinypng",
+        "publisherName": "weijialiu",
+        "publisherId": "1aa237f4-e5b9-4390-a452-609ca23830c0",
+        "publishedDate": "2019-05-30T06:45:28.387+00:00",
+        "lastUpdated": "2019-05-30T08:27:58.647+00:00",
+        "shortDescription": "\u4f7f\u7528tinypng\u538b\u7f29\u56fe\u7247",
+        "versions": [
+            {
+                "version": "0.0.7",
+                "lastUpdated": "2019-05-30T08:30:16.113Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-style-compressor": {
+        "extensionId": "4b6ee87b-9695-459b-9f15-b6ea18739a9c",
+        "extensionName": "vscode-style-compressor",
+        "publisherName": "edp1096",
+        "publisherId": "33df3cb2-4a00-458c-87e5-315de5f6e763",
+        "publishedDate": "2022-08-21T14:55:21.33+00:00",
+        "lastUpdated": "2022-08-21T14:57:43.34+00:00",
+        "shortDescription": "Minify CSS",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2022-08-21T14:57:43.34Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "minifyall": {
+        "extensionId": "0be0c393-8fd2-4ff8-9c13-e2789b45fc59",
+        "extensionName": "minifyall",
+        "publisherName": "josee9988",
+        "publisherId": "d1fe0d24-e662-4aad-941f-67589011e6f3",
+        "publishedDate": "2019-07-17T11:38:52.8+00:00",
+        "lastUpdated": "2021-10-21T14:24:56.75+00:00",
+        "shortDescription": "Minifier for JSON, CSS, HTML, XML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing). Compressor of files and folders. You will love its simplicity!",
+        "versions": [
+            {
+                "version": "2.10.0",
+                "lastUpdated": "2021-10-21T14:24:56.747Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-lua-minify": {
+        "extensionId": "347cd257-7133-4462-bdc4-89508c44d281",
+        "extensionName": "vscode-lua-minify",
+        "publisherName": "informagico",
+        "publisherId": "7dfcf212-c078-40cf-82a9-f76a655210fe",
+        "publishedDate": "2019-11-26T21:51:18.257+00:00",
+        "lastUpdated": "2023-02-28T21:57:13.387+00:00",
+        "shortDescription": "Minify Lua source code",
+        "versions": [
+            {
+                "version": "1.3.1",
+                "lastUpdated": "2023-02-28T21:55:21.733Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "tinypngminimifyandcrop": {
+        "extensionId": "a181c034-84d4-42bb-a1a8-8b37b854a728",
+        "extensionName": "tinypngminimifyandcrop",
+        "publisherName": "Pierrick",
+        "publisherId": "ee370ee1-4d4e-4e3a-81d9-40018ef8b87e",
+        "publishedDate": "2021-10-15T20:49:03.127+00:00",
+        "lastUpdated": "2021-10-16T12:33:04.017+00:00",
+        "shortDescription": "Minimify and crop images with tinyPNG API (https://tinypng.com/)",
+        "versions": [
+            {
+                "version": "0.0.4",
+                "lastUpdated": "2021-10-16T12:33:04.013Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-tinypng": {
+        "extensionId": "6b487222-9634-4164-87e4-a737702625ac",
+        "extensionName": "vscode-tinypng",
+        "publisherName": "zenonux",
+        "publisherId": "a8b943b2-a1e1-4bea-92f3-df5f4f083cd3",
+        "publishedDate": "2021-11-06T12:57:16.067+00:00",
+        "lastUpdated": "2023-04-10T10:31:58.72+00:00",
+        "shortDescription": "Use TinyPNG to compress images",
+        "versions": [
+            {
+                "version": "0.2.8",
+                "lastUpdated": "2023-04-10T10:31:58.72Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-tinypng-pro": {
+        "extensionId": "b3ac06fe-8345-4310-8a89-90d8dc4b97cc",
+        "extensionName": "vscode-tinypng-pro",
+        "publisherName": "zhukunpeng",
+        "publisherId": "2a52c23d-a806-4d71-b229-9ef1b0ea9b2d",
+        "publishedDate": "2021-01-07T17:05:39.517+00:00",
+        "lastUpdated": "2021-01-07T17:10:12.77+00:00",
+        "shortDescription": "\ud83d\udc4d vscode \u538b\u7f29\u56fe\u7247\u7684\u6700\u4f73\u5b9e\u8df5\u65b9\u5f0f\uff08\u6b22\u8fcestar\uff09",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2021-01-07T17:10:12.767Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "md-paste-enhanced": {
+        "extensionId": "8476f9bb-b0d6-4491-856a-1b47aa752e5f",
+        "extensionName": "md-paste-enhanced",
+        "publisherName": "dzylikecode",
+        "publisherId": "7a3e6cc7-c1aa-4e1b-8155-05a389809491",
+        "publishedDate": "2022-10-04T04:20:56.827+00:00",
+        "lastUpdated": "2023-02-20T01:24:49.153+00:00",
+        "shortDescription": "use ctrl+v to paste image directly in markdown",
+        "versions": [
+            {
+                "version": "2.6.0",
+                "lastUpdated": "2023-02-20T01:24:49.153Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "md-paste-image": {
+        "extensionId": "9ac93233-50fc-4743-ab7e-340e8d50923f",
+        "extensionName": "md-paste-image",
+        "publisherName": "shinyypig",
+        "publisherId": "f4232bb1-9661-4400-a746-128581db8d57",
+        "publishedDate": "2023-03-19T10:28:46.483+00:00",
+        "lastUpdated": "2023-03-22T11:43:15.85+00:00",
+        "shortDescription": "use ctrl+v/command+v to paste image directly in markdown",
+        "versions": [
+            {
+                "version": "2.7.5",
+                "lastUpdated": "2023-03-22T11:43:15.85Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "lazyswitch": {
+        "extensionId": "20c438d5-bacb-4d93-a77e-c6e35cf00335",
+        "extensionName": "lazyswitch",
+        "publisherName": "kalifun",
+        "publisherId": "b16df4d2-0d9e-4799-afa8-6db7c0c85441",
+        "publishedDate": "2021-05-24T12:03:52.373+00:00",
+        "lastUpdated": "2021-05-26T11:32:47.813+00:00",
+        "shortDescription": "I don't want to write too many structs",
+        "versions": [
+            {
+                "version": "0.1.3",
+                "lastUpdated": "2021-05-26T11:32:47.81Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "adesignminificador": {
+        "extensionId": "ae01a746-662d-4967-9e04-507be272d7b4",
+        "extensionName": "adesignminificador",
+        "publisherName": "andygotfridt",
+        "publisherId": "e8597b17-4f3f-4681-a941-363dc812a93f",
+        "publishedDate": "2021-04-26T22:49:52.403+00:00",
+        "lastUpdated": "2021-05-17T00:22:08.67+00:00",
+        "shortDescription": "[BETA] Minifier for JSON, CSS, HTML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing).",
+        "versions": [
+            {
+                "version": "2.5.31",
+                "lastUpdated": "2021-05-17T00:22:08.67Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "image-compression": {
+        "extensionId": "40057737-d9b4-4ff9-abcb-d596344eb0f0",
+        "extensionName": "image-compression",
+        "publisherName": "yanqc",
+        "publisherId": "ee71709c-9f39-40f0-8369-20b55a369d47",
+        "publishedDate": "2021-02-25T07:59:02.11+00:00",
+        "lastUpdated": "2021-03-03T07:27:15.203+00:00",
+        "shortDescription": "\u57fa\u4e8eTinyPng vscode\u56fe\u7247\u538b\u7f29,\u5e76\u4e0a\u4f20oss\u670d\u52a1\u5668\u64cd\u4f5c",
+        "versions": [
+            {
+                "version": "0.0.3",
+                "lastUpdated": "2021-03-03T07:27:15.2Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "aura-helper": {
+        "extensionId": "1427ebde-729e-4ac3-a912-6e4cb8c8619e",
+        "extensionName": "aura-helper",
+        "publisherName": "kanko",
+        "publisherId": "6a5b29aa-fdea-40ef-b1fb-ceb69113762b",
+        "publishedDate": "2019-09-02T13:24:53.67+00:00",
+        "lastUpdated": "2022-11-30T11:34:31.75+00:00",
+        "shortDescription": "Extension to work with Salesforce, Apex and Lightning. It contains several tools to increase productivity and facilitate code creation. Aura Helper is the most complete extensions to work with salesforce and is one of the necessary applications for Salaesforce developers.",
+        "versions": [
+            {
+                "version": "4.4.3",
+                "lastUpdated": "2022-11-30T11:34:31.75Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "png2webp": {
+        "extensionId": "172462c8-3c32-465b-a1db-d5a76a1eab09",
+        "extensionName": "png2webp",
+        "publisherName": "LCS",
+        "publisherId": "f6d7c54e-d29b-4aee-86dd-5e3a89d8a26f",
+        "publishedDate": "2021-09-07T09:04:07.457+00:00",
+        "lastUpdated": "2022-01-13T03:02:26.807+00:00",
+        "shortDescription": "Tools for compressing and turning WEBP",
+        "versions": [
+            {
+                "version": "0.1.25",
+                "lastUpdated": "2022-01-13T03:02:26.803Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "bbimg": {
+        "extensionId": "34d41a7f-1de4-4095-85f7-54a0e8ddb02a",
+        "extensionName": "bbimg",
+        "publisherName": "xiaxia",
+        "publisherId": "5bf439f0-0ec9-44eb-9c0f-46f1d0c78a88",
+        "publishedDate": "2019-07-06T08:39:26.977+00:00",
+        "lastUpdated": "2019-08-01T15:23:25.723+00:00",
+        "shortDescription": "beibei code https and compression",
+        "versions": [
+            {
+                "version": "0.3.1",
+                "lastUpdated": "2019-08-01T15:25:42.877Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "tinypng2cos": {
+        "extensionId": "135948c8-063c-40f3-aecf-ca067f268bd9",
+        "extensionName": "tinypng2cos",
+        "publisherName": "zhenfan0753",
+        "publisherId": "3729de02-7556-4bee-aede-ae663f1a9e20",
+        "publishedDate": "2022-01-19T10:24:27.44+00:00",
+        "lastUpdated": "2022-01-19T12:06:37.32+00:00",
+        "shortDescription": "A plugin for automatically compressing and uploading images based on TinyPNG to COS.",
+        "versions": [
+            {
+                "version": "0.0.3",
+                "lastUpdated": "2022-01-19T12:06:37.32Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "csscomb-formatter": {
+        "extensionId": "9c2e7769-708b-4122-a724-3a640dd623a8",
+        "extensionName": "csscomb-formatter",
+        "publisherName": "benedly",
+        "publisherId": "5899c30c-69b5-4f3b-ab39-4834b4b566ea",
+        "publishedDate": "2023-04-15T19:10:49.677+00:00",
+        "lastUpdated": "2023-04-15T19:49:25.85+00:00",
+        "shortDescription": "Coding style formatter(compress,compact,expand) for CSS, LESS, SCSS, SASS Using csscomb",
+        "versions": [
+            {
+                "version": "0.1.1",
+                "lastUpdated": "2023-04-15T19:49:25.847Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "css-format-st3": {
+        "extensionId": "2bfa3a01-d13c-407c-8933-3b1cca62dfd3",
+        "extensionName": "css-format-st3",
+        "publisherName": "idreamsoft",
+        "publisherId": "6c45efc5-b30c-42c5-977e-b2aceca264e7",
+        "publishedDate": "2023-03-15T03:09:55.763+00:00",
+        "lastUpdated": "2023-03-16T08:07:35.23+00:00",
+        "shortDescription": "CSS Format is a CSS formatting plugin for Sublime Text, you can convert CSS/SASS/SCSS/LESS code to Expanded, Compact or Compressed format. CSS Format is just only a formatter, do not supports grammar check and auto correct feature.",
+        "versions": [
+            {
+                "version": "0.0.2",
+                "lastUpdated": "2023-03-16T08:07:35.23Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "neural-coder-ext-vscode": {
+        "extensionId": "2542a9c6-4d21-447d-85a3-32d2f6356141",
+        "extensionName": "neural-coder-ext-vscode",
+        "publisherName": "IntelNeuralCompressor",
+        "publisherId": "30afe15e-35f3-4801-b252-6e422505fc48",
+        "publishedDate": "2022-11-17T01:23:38.603+00:00",
+        "lastUpdated": "2022-12-09T06:00:36.48+00:00",
+        "shortDescription": "Enable and benchmark quantization on Deep Learning models in one-click",
+        "versions": [
+            {
+                "version": "0.0.10",
+                "lastUpdated": "2022-12-09T06:00:36.48Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "gzip-unzip-text": {
+        "extensionId": "b7ed622b-6f15-43a3-aa7a-95afd4bfe022",
+        "extensionName": "gzip-unzip-text",
+        "publisherName": "xballoy",
+        "publisherId": "026933f6-907c-46f6-95d1-ea221eb5b000",
+        "publishedDate": "2022-04-19T21:28:51.31+00:00",
+        "lastUpdated": "2022-04-20T15:21:50.267+00:00",
+        "shortDescription": "Gzip text and encode it to Base64 and unzip Base64 encoded text.",
+        "versions": [
+            {
+                "version": "0.3.0",
+                "lastUpdated": "2022-04-20T15:21:50.263Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-nupkg": {
+        "extensionId": "d2e343d2-c012-4761-91e0-e7814499351e",
+        "extensionName": "vscode-nupkg",
+        "publisherName": "eridem",
+        "publisherId": "a3494a3b-f66b-4196-8b34-ddbddac6a98b",
+        "publishedDate": "2016-11-04T21:18:12.64+00:00",
+        "lastUpdated": "2019-06-15T08:55:47.697+00:00",
+        "shortDescription": "Display all information from a NuPkg file",
+        "versions": [
+            {
+                "version": "1.0.1",
+                "lastUpdated": "2019-06-15T08:58:06.747Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "archive-browser": {
+        "extensionId": "48453a6c-9605-4e02-ab03-0d63828f3dda",
+        "extensionName": "archive-browser",
+        "publisherName": "minifigone",
+        "publisherId": "d702c049-310e-4b56-a001-520f38146dce",
+        "publishedDate": "2020-07-15T15:00:17.1+00:00",
+        "lastUpdated": "2021-05-12T01:19:31.197+00:00",
+        "shortDescription": "Browser archive files in VS Code",
+        "versions": [
+            {
+                "version": "0.3.2",
+                "lastUpdated": "2021-05-12T01:19:31.197Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "archive-viewer": {
+        "extensionId": "71f60fcd-3fb3-4544-9b62-329fc407a48f",
+        "extensionName": "archive-viewer",
+        "publisherName": "avive",
+        "publisherId": "2a42f855-35d7-4007-b271-dd5448078bb6",
+        "publishedDate": "2021-08-12T20:57:58.22+00:00",
+        "lastUpdated": "2021-08-12T21:00:15.053+00:00",
+        "shortDescription": "List content of archive files",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2021-08-12T21:00:15.05Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "blue-archive": {
+        "extensionId": "29f0d0ff-b2b1-446e-b361-71baf50b08dc",
+        "extensionName": "blue-archive",
+        "publisherName": "Bluetheme",
+        "publisherId": "b8cb2314-2a79-4a8f-8f68-54a3e4458c99",
+        "publishedDate": "2022-07-28T11:10:54.33+00:00",
+        "lastUpdated": "2022-07-28T11:15:17.54+00:00",
+        "shortDescription": "Blue archive",
+        "versions": [
+            {
+                "version": "0.0.1",
+                "lastUpdated": "2022-07-28T11:15:17.54Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "hrx-syntax": {
+        "extensionId": "6bebbdde-3373-4dfe-a9c8-e586fa8ca610",
+        "extensionName": "hrx-syntax",
+        "publisherName": "monasticpanic",
+        "publisherId": "a9f3be81-fd1e-49e3-a45b-26e155815fe1",
+        "publishedDate": "2020-07-31T19:21:04.963+00:00",
+        "lastUpdated": "2020-07-31T19:50:18.96+00:00",
+        "shortDescription": "A syntax grammar for HRX files, with support for embedded languages",
+        "versions": [
+            {
+                "version": "1.0.1",
+                "lastUpdated": "2020-07-31T19:52:36.957Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "har-viewer": {
+        "extensionId": "bdadd580-e4c4-48df-bdc8-701f5255b5f0",
+        "extensionName": "har-viewer",
+        "publisherName": "unclebeast",
+        "publisherId": "73719beb-d2b2-4114-bc64-e892e6381fc2",
+        "publishedDate": "2020-10-24T21:34:35.323+00:00",
+        "lastUpdated": "2022-09-18T05:29:34.477+00:00",
+        "shortDescription": "HTTP Archive Viewer",
+        "versions": [
+            {
+                "version": "0.0.2",
+                "lastUpdated": "2022-09-18T05:29:34.477Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "bevara-code-editor": {
+        "extensionId": "b313678d-1db2-4727-92ae-fc8ab5705238",
+        "extensionName": "bevara-code-editor",
+        "publisherName": "Bevara",
+        "publisherId": "37483141-c278-4bab-b3dc-2da79f3e927a",
+        "publishedDate": "2022-12-13T15:36:36.86+00:00",
+        "lastUpdated": "2023-03-26T19:20:05.107+00:00",
+        "shortDescription": "This is a helper plugins for designing and debugging web assembly decoders.",
+        "versions": [
+            {
+                "version": "0.0.8",
+                "lastUpdated": "2023-03-26T19:20:05.103Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "vscode-linux-binary-preview": {
+        "extensionId": "bd46533a-86bf-4c9c-b9ef-c44eb2121220",
+        "extensionName": "vscode-linux-binary-preview",
+        "publisherName": "betwo",
+        "publisherId": "236930de-62bd-4755-85ad-d4c801851085",
+        "publishedDate": "2020-01-05T16:55:37.24+00:00",
+        "lastUpdated": "2022-07-23T08:52:28.683+00:00",
+        "shortDescription": "Display information about Linux binaries such as shared objects and archive files",
+        "versions": [
+            {
+                "version": "2.4.0",
+                "lastUpdated": "2022-07-23T08:52:28.683Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "play-djmax": {
+        "extensionId": "648cfc44-5c2c-482f-94a0-8541f54b5ccd",
+        "extensionName": "play-djmax",
+        "publisherName": "minwook-shin",
+        "publisherId": "a0c1ddf2-afc0-49d5-8024-3dcfaaaa84ba",
+        "publishedDate": "2022-05-05T13:26:52.073+00:00",
+        "lastUpdated": "2022-05-08T08:35:53.73+00:00",
+        "shortDescription": "Play the music from DJMAX archive",
+        "versions": [
+            {
+                "version": "1.1.0",
+                "lastUpdated": "2022-05-08T08:35:53.73Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "bmgvscodepowertools": {
+        "extensionId": "49e5c30c-06a5-41fd-9138-da80d8bce90b",
+        "extensionName": "bmgvscodepowertools",
+        "publisherName": "badre429",
+        "publisherId": "9da86a80-d6cd-4ca6-a099-d10030d25013",
+        "publishedDate": "2017-11-12T18:52:51.8+00:00",
+        "lastUpdated": "2023-01-29T08:15:29.31+00:00",
+        "shortDescription": "A set of tools (archive /export folder , encode string , hash string , sort lines , abp.io transalte keys ,abp.io list permission keys , i18n )",
+        "versions": [
+            {
+                "version": "1.6.10",
+                "lastUpdated": "2023-01-29T08:15:29.307Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "gkd": {
+        "extensionId": "42e0106b-0dfe-4cc2-80a2-51e600ed7ec7",
+        "extensionName": "gkd",
+        "publisherName": "HotQ",
+        "publisherId": "87ef9539-eefb-4613-85a0-1bc3e07656d6",
+        "publishedDate": "2020-05-19T07:29:21.463+00:00",
+        "lastUpdated": "2023-03-30T06:43:33.107+00:00",
+        "shortDescription": "xlog\u89e3\u538b + \u65e5\u5fd7\u6587\u4ef6\u5904\u7406 = \u641e\u5feb\u70b9\uff01",
+        "versions": [
+            {
+                "version": "0.2.34",
+                "lastUpdated": "2023-03-30T06:43:33.107Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "coderunr-vscode": {
+        "extensionId": "8ae8523a-860e-4cad-9601-73f0a37a9e23",
+        "extensionName": "coderunr-vscode",
+        "publisherName": "InternetArchive",
+        "publisherId": "28fd1f6a-f4ec-410e-8ac3-6d88a026638b",
+        "publishedDate": "2023-02-08T06:57:52.517+00:00",
+        "lastUpdated": "2023-02-15T07:57:46.4+00:00",
+        "shortDescription": "Runs configured CI/CD commands when a file is saved in vscode, and output configured messages on status bar.",
+        "versions": [
+            {
+                "version": "1.6.5",
+                "lastUpdated": "2023-02-15T07:57:46.4Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "jar-viewer": {
+        "extensionId": "7a2def81-611a-412e-bee1-aa9b088384c3",
+        "extensionName": "jar-viewer",
+        "publisherName": "wmanth",
+        "publisherId": "40ffce0d-3eda-40e8-86a6-2327cf7f5087",
+        "publishedDate": "2021-06-27T11:08:43.827+00:00",
+        "lastUpdated": "2022-11-04T16:36:07.23+00:00",
+        "shortDescription": "Lists classes and files inside JAR archives.",
+        "versions": [
+            {
+                "version": "1.2.0",
+                "lastUpdated": "2022-11-04T16:36:07.23Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    },
+    "typescript-auto-compiler": {
+        "extensionId": "700ec70f-0599-47f6-a3d6-579229206c7f",
+        "extensionName": "typescript-auto-compiler",
+        "publisherName": "morissonmaciel",
+        "publisherId": "548cef94-0f85-4870-8f2f-17543480327a",
+        "publishedDate": "2018-03-15T20:22:27.107+00:00",
+        "lastUpdated": "2018-12-06T20:08:56.703+00:00",
+        "shortDescription": "TypeScript auto compiler plugin. Watch for changes in .ts and tsconfig.json files and run tsc command to build them. Can use tsconfig.json files for batch build or build single .ts archives.",
+        "versions": [
+            {
+                "version": "0.7.0",
+                "lastUpdated": "2018-12-06T20:11:17.65Z"
+            }
+        ],
+        "downloaded": true,
+        "tested": true
+    }
+}
